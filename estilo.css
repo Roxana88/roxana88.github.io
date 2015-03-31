@@ -37,3 +37,14 @@ p#titulo{
     color:#f2a0f8;
     text-align: left;
 }
+table, th, th {table-layout: auto;
+    background-color: #fce1fb;
+    border: 1px solid black ; color: #f2a0f8; width:100px;
+    border-collapse: collapse;
+    font-size: large;
+    color: #000;
+    font-family: MoolBoran;  
+    padding: 5px;
+    border-spacing: 10px;
+     
+}
