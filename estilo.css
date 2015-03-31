@@ -30,7 +30,7 @@ h3 {
     text-align: center;
     background-color: #f1caf5;
 }
-p.titulo{
+p#titulo{
     background-color:white;
     font-family: MoolBoran;
     font-size: xx-large;
