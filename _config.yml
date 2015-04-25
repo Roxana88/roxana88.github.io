@@ -1,2 +1,16 @@
 gems:
   - jekyll-sitemap
+
+paginate: 6
+
+url: http://www.tamalesconpasaporte.com
+
+authors:
+  geo:
+    name: Geo Perez
+    image: http://www.tamalesconpasaporte.com/content/images/2014/12/2014-05-20-18-04-37-2.jpg
+    bio: Desarrollador de software, amante de la cerveza (vivo en el pecado con ella), y deseoso de brincar de avión en avión.
+  rox:
+    name: Roxana Evans
+    image:
+    bio:
