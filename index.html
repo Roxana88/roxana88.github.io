@@ -1,0 +1,50 @@
+---
+layout: default
+title: Geovanni Perez @geoperez
+---
+<div class="col-xs-6">
+    <p>
+        My name is <b>Geovanni Perez</b> and this is my web site. I live in Guadalajara, Mexico and
+        I'm software developer. I love C# and Javascript, and I refuse to code JAVA again. I work at
+        <a href="http://www.unosquare.com">unosquare</a>.
+    </p>
+    <p>
+        You can check my
+        <a href="https://mx.linkedin.com/in/geovanniperez">LinkedIn profile</a>. BTW People call me <i>Simio</i>.
+    </p>
+    <hr />
+    <div class="panel panel-default">
+        <div class="panel-heading">My current projects</div>
+        <div class="list-group">
+            <a class="list-group-item" href="https://github.com/unosquare/tubular">
+                <strong>Tubular</strong> - AngularJS project
+            </a>
+            <a class="list-group-item" href="http://www.tamalesconpasaporte.com/">
+                <strong>Tamales con Pasaporte</strong> - Personal travel blog
+            </a>
+            <a class="list-group-item" href="https://github.com/geoperez/ghost_tools">
+                <strong>ghost_tools</strong> - Some handy commands to work with Ghost API
+            </a>
+            <a class="list-group-item" href="https://github.com/geoperez/futurewiz">
+                <strong>FutureWiz</strong> - Little decision-making webapp
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-6">
+    <div class="well well-sm">
+        <h3>Blog entries</h3>
+        <div class="list-group">
+            {% for post in site.posts %}
+            <a class="list-group-item" href="{{ post.url }}">
+                <strong>{{ post.title }}</strong> - {{ post.date | date: '%B %d, %Y' }}
+            </a>
+            {% endfor %}
+        </div>
+        <hr />
+        <p>
+            I have another blog <a href="http://simiogeek.blogspot.mx/">Simio Geek</a>, more random and more spanish.
+        </p>
+    </div>
+</div>
