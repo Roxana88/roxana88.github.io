@@ -3,6 +3,7 @@ layout: post
 title: "Amsterdam"
 tags: 
 author: rox
+image: /content/images/2015/04/DSC06751.JPG
 ---
 ¿Que sabía de Amsterdam antes de conocerlo? Sabía que se encuentra en [Holanda](/tag/holanda), que el idioma hablado es el holandés, los temas que más se pueden apreciar, y por los que mucha gente decide conocer este lugar, es por el contenido sexual y la libertad de fumar ciertas hierba verde que en muchos países es *ilegal*. Un lugar donde nació una cerveza estilo pilsner de botella verde, la famosa **cerveza Heineken**. ¡Suena interesante! Era un hecho visitaríamos Amsterdam.
 

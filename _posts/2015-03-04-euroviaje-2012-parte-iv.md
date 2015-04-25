@@ -3,6 +3,7 @@ layout: post
 title: "Euroviaje 2012 - Parte IV"
 tags: 
 author: geo
+image: /content/images/2015/03/DSC07803-1.JPG
 ---
 ###Febrero 6, Hotel de Barcelona, 18:54
 Pasamos un gran día en **Barcelona**, y falta la cena. Me falta de comentar varios días pero he estado ya  ocupado descansando, ya no rindo lo mismo.

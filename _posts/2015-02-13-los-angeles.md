@@ -3,6 +3,7 @@ layout: post
 title: "Diario de Los Angeles - Parte I"
 tags: 
 author: geo
+image: /content/images/2015/02/2014-09-15-11-24-38.jpg
 ---
 ##Viernes 12 de Septiembre 2014
 Una proeza llegar al trabajo de Rox porque comenzo a llover muy fuerte y me empape todo. Tuve que cambiarme de ropa en el trabajo de Rox. Por fin cuando salio tomamos un *Uber*, por primera vez, y nos fuimos directo al aeropuerto. Tomamos una cena malisima de *Johnny Rocket* y esperamos el vuelo de *Volaris* no tardara tanto. 

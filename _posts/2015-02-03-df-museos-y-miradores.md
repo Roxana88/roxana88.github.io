@@ -3,6 +3,7 @@ layout: post
 title: "DF: museos y miradores"
 tags: 
 author: rox
+image: /content/images/2015/02/IMG_20141005_132720.jpg
 ---
 ¿Alguna vez se han sentido con ganas de comer una torta de tamal en esos días nublados? ¿Alguna vez han sido juzgados por pedir una quesadilla con queso? ¿Alguna vez preguntaron donde tomar la pecera? ¿Alguna vez llegaron a pedir un pambazo de papas con chorizo y fueron ignorados? No se preocupen les hablare de un lugar donde encontraran una respuesta a todas estas preguntas, ese lugar es conocido como [Ciudad de México](/tag/ciudad-de-mexico) o mejor conocido como *chilangolandia*. Chilangolandia es la capital política, económica, cultural, académica, financiera y de la torta de tamal en México.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Un lugar llamado Brujas"
 tags: 
 author: rox
+image: /content/images/2015/02/DSC06897-1.JPG
 ---
 Esta vez los hablare de un lugar maravilloso que me ofreció dos de los mejores placeres que esta vida me ha dado, *cerveza estilo belga y chocolates lo cual resumo en “felicidad verdadera”*. Cuando pensaba en [Brujas](/tag/brujas) me imagina un lugar lleno de misticismo y cosas mágicas no me podía quitar de la cabeza el significado que en [México](/tag/mexico) le damos a la palabra *bruja*. Aunque realmente en la lengua nativa significa "puentes" por lo que recibe su nombre gracias a la cantidad de puentes y canales que tiene “a menos eso es lo que el internet dice”. Por si las dudas tendría que comprar chocolates para evitar cualquier contacto con lo sobre natural.
 

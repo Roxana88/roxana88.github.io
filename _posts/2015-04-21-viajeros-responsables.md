@@ -3,6 +3,7 @@ layout: post
 title: "Viajeros responsables"
 tags: 
 author: geo
+image: /content/images/2015/04/2014-12-29-13-54-09.jpg
 ---
 Este es un tema que considero muy importante, y que he tenido la oportunidad de leer en otros blogs. La responsabilidad de un viajero al llegar a un nuevo lugar no solo radica en el cumplimiento de las leyes locales, sino en cierto comportamiento que se deben observar para no alterar el ecosistema. No solamente hablo de alteraciones ecológicas que son bastante claras como evitar la contaminación o el uso desmedido de recurso. Por ejemplo el agua que aunque estés pagando en el hotel por ella, no significa que puedes desperdiciarla.
 

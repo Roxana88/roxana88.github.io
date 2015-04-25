@@ -3,6 +3,7 @@ layout: post
 title: "Kebap, o comida turca"
 tags: 
 author: geo
+image: /content/images/2014/12/IMG_20141220_183732744.jpg
 ---
 La gastronomía turca es basta, no tan compleja como podría imaginar al principio pero muy rica en esencia. Kebab o kebap, no se como definirlo porque desde el durum (burrito o wrap) al tasti (cazuela de barro) era llamado kebab. 
 

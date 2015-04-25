@@ -3,6 +3,7 @@ layout: post
 title: "Londres en dos días"
 tags: 
 author: rox
+image: /content/images/2015/04/2014-12-27-10-52-38.jpg
 ---
 En mi artículo anterior de [Londres](/londres/) les comentaba que llegamos el día 24 de diciembre en la noche, empezando nuestras actividades de turistas el día de navidad, que esta totalmente muerto para los locales pero *gracias a dios siempre hay turistas en busca de cosas de turistas.* El día 26 aún es un poco festivo es el famoso **“Boxing Day”**. Los londinenses tienen la tradición de hacer un pequeño regalos a las personas que están necesitadas y ese regalo recibe el nombre de la *caja de navidad* al menos eso es lo que *Wikipedia* cuenta. 
 

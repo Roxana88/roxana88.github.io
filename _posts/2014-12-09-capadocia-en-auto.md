@@ -3,6 +3,7 @@ layout: post
 title: "Capadocia en auto"
 tags: 
 author: geo
+image: null
 ---
 Para explorar la región de **Capadocia**, decidimos rentar un auto (de hecho ya lo apartamos en línea en [economycarrentals.com](http://www.economycarrentals.com)) porque las distancias son algo lejanas y rurales. Es temporada de **posible nieve**, así que el reto será doble. Conducir con nieve o hielo (espero que no) y aparte tener que conducir en un país lejano con idioma que desconozco. Esto solo huele a aventura y exito.
 

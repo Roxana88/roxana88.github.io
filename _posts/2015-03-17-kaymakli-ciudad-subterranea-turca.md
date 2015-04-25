@@ -3,6 +3,7 @@ layout: post
 title: "Kaymakli: ciudad subterranea turca"
 tags: 
 author: geo
+image: /content/images/2015/03/2014-12-24-10-09-48-1.jpg
 ---
 En la región de [Capadocia](/tag/capadocia/), en [Turquía](/tag/turquia/), existen ciudades que por mucho tiempo se mantuvieron ocultas bajo la superficie, del desarrollo que sucedía arriba.  Dos de ellas son **Kaymakli y Derinkuyu**, aunque se presume que hay nuevos descubrimientos de ciudades aún más grandes por la zona. En nuestro viaje a Turquía fuimos a Kaymakli a conocer como luce una de estas ciudades.
 

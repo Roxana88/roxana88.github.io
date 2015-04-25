@@ -3,6 +3,7 @@ layout: post
 title: "Planeación de Viaje 101"
 tags: 
 author: geo
+image: /content/images/2015/03/Ejemplo-1.png
 ---
 Cuando platico de nuestros planes de viaje, suelen preguntarme si compramos paquetes o nos asesoramos en alguna agencia de viaje. Siempre explico que no, que nosotros mismos realizamos la planeación de los vuelos, hoteles e itinerarios diarios. Porque la **flexibilidad** es de los más importante a mi parecer cuando se esta de viaje.
 

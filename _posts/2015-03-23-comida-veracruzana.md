@@ -3,6 +3,7 @@ layout: post
 title: "Comida veracruzana"
 tags: 
 author: rox
+image: /content/images/2015/03/image_20150320124708622-1.jpg
 ---
 Ya les platique un poco de los lugares que pueden visitar en [Veracruz](/tag/veracruz) pero es claro que en este estado al igual que muchos otros en la [Republica Mexicana](/tag/mexico) se caracteriza por sus comida.
 

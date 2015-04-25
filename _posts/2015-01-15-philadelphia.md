@@ -3,6 +3,7 @@ layout: post
 title: "Philadelphia"
 tags: 
 author: geo
+image: /content/images/2015/01/IMG_20150112_094908324_HDR.jpg
 ---
 Vamos saliendo de **Philadelphia** rumbo a [Washington](/tag/washington), después de dos días en esta ciudad que me gusto. Llegamos un domingo temprano desde [Nueva York](/tag/new-york), tomamos un autobus de dos horas, y veíamos una tranquila y ejemplar ciudad, con edificios y amplias avenidas. Salimos de la pequeña central de camiones Greyhound y lo primero que vimos fue el clásico arco de la amistad de un barrio chino, regresariamos más tarde primero había que dejar las maletas y comprarme medicina. Estaba muriendo un poco de gripa. El hotel **Rodeway Inn** esta en el centro de la ciudad a pocas cuadras del **City Hall** y las atracciones turísticas. Bastante conveniente y muy agradable. Estaba un poco frío el día pero nada trágico como Boston, y comenzamos nuestro itinerario por el City Hall que es un edificio gubernamental muy bonito, por dentro de él pasan dos avenidas (solo como peatonal) y tiene su torre de reloj, y esculturas decorando en el interior. Vale la pena tomarse un momento y ver los cuatro pórticos. Al parecer había un mercado de navidad días atrás, pero ya no nos toco. 
 

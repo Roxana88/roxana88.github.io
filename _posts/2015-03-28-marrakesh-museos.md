@@ -3,6 +3,7 @@ layout: post
 title: "Marrakesh: Museos"
 tags: 
 author: geo
+image: /content/images/2015/03/2015-01-01-09-49-19-1.jpg
 ---
 Dentro de la Medina de [Marrakesh](/tag/marrakesh) existen una pequeña area donde a unos pasos se encuentran dos museos y dos edificios historicos, uno que es la **Qubba Almorávide (Cúpula Almorávide)** que no se encuentra abierto al público y representa un edificio de casi un siglo de antiguedad. Fue una edificación monumental de la dinastía Almorávide que llego hasta las costas españolas. Según algún sitios el lugar si esta abierto pero nosotros solo vimos unos oxidados candados y letreros de lo que pudo a ver si una buena experiencia para ver la cúpula por dentro.
 

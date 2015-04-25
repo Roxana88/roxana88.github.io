@@ -3,6 +3,7 @@ layout: post
 title: "Conduciendo en Turquía"
 tags: 
 author: geo
+image: /content/images/2014/12/IMG_20141224_073251867.jpg
 ---
 Como había [comentado previamente](/capadocia-en-auto/) sería valiente y conduciría por las carreteras del centro de [Turquía](/tag/turquia). En resumen me fue bien, no hubo accidentes ni cosas raras, la historia larga es la siguiente. 
 

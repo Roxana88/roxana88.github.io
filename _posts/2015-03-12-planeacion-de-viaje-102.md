@@ -3,6 +3,7 @@ layout: post
 title: "Planeación de Viaje 102"
 tags: 
 author: geo
+image: /content/images/2015/03/rome2rio-1.png
 ---
 En el artículo anterior, [Planeación 101](/planeacion-de-viaje-101/), explica como iniciar la generación de nuestro itinerario para facilitar la planeación de un viaje, sobre todo cuando queremos visitiar diversas ciudades y podemos perdernos un poco. Continuemos con la explicación del llenado de este itinerario.
 

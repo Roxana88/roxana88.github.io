@@ -3,6 +3,7 @@ layout: post
 title: "Euroviaje 2012 - Parte II"
 tags: 
 author: geo
+image: /content/images/2015/02/DSC05860-1.JPG
 ---
 
 ###Enero 21, Cuarto en Roma, 21:08

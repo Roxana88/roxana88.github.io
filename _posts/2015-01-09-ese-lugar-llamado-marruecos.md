@@ -3,6 +3,7 @@ layout: post
 title: "Ese lugar llamado Marruecos"
 tags: 
 author: geo
+image: /content/images/2015/01/IMG_20150101_175911619_HDR.jpg
 ---
 *El siguiente post lo escribi antes del incidente con Air France, y no representa cambios a mi forma de ver el país.*
 

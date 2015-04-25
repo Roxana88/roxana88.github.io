@@ -3,6 +3,7 @@ layout: post
 title: "Conociendo Estambul"
 tags: 
 author: rox
+image: /content/images/2015/01/IMG-20150108-WA0005.jpg
 ---
 Dentro de **Turquía** visitaría tres lugares **Estambul**, [Pamukkale](http://www.tamalesconpasaporte.com/un-lugar-llamado-pamukkale/) y **Capadocia**, tres lugares con vistas muy diferentes pero con una misma cultura y en su mayoría una misma religión, la musulmana.
 

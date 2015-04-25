@@ -3,6 +3,7 @@ layout: post
 title: "Vuelos baratos"
 tags: 
 author: geo
+image: /content/images/2015/04/10988582504_9eef7bb993.jpg
 ---
 Revisando un poco las palabras claves de como la gente llega a este sitio, me doy cuenta que gran parte buscan "vuelos baratos", tal cual. El segundo conjunto es "DF a Roma". Lo que se me hace bastante curioso que la gente quiera encontrar vuelos en un blog. Por eso el siguiente artículo es para explicar un poco más a fondo como buscar vuelos baratos. 
 

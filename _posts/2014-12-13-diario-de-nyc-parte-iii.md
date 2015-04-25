@@ -3,6 +3,7 @@ layout: post
 title: "Diario de NYC - Parte III"
 tags: 
 author: geo
+image: /content/images/2014/12/2012-12-28-12-31-25-1.jpg
 ---
 ##Jueves 27 de Enero 2012
 Salimos muy temprano al **Museo de Arte Moderno, mejor conocido como MoMA**, y digo muy temprano, porque al parecer aún no abrían, asi que pasamos a un *deli* por la zona a comer un sandwich de huevo, hecho por latinos como de costumbre, bastante malo, pero era lo economico. Buscamos sin fortuna la tienda *Apple* de la Quinta Avenida, al parecer caminamos al lado contrario, pero no importó mucho porque terminamos en el MoMA a buena hora, antes de que comenzaran las cantidad brutales de gente a llegar.

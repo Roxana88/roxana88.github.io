@@ -3,6 +3,7 @@ layout: post
 title: "Cosas que debes incluir en tu maleta"
 tags: 
 author: rox
+image: /content/images/2015/01/IMG_20141223_211750.jpg
 ---
 #Medicinas
 Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la importancia al que nos vamos a poner olvidandonos de pequeños detalles como *¿Que tal si me enfermo?*, es cierto que los medicamentos los encontraras en cualquier lugar pero es más práctico y barato llevar lo siguiente solo por si las dudas:

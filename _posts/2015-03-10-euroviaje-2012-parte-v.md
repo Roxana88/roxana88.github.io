@@ -3,6 +3,7 @@ layout: post
 title: "Euroviaje 2012 - Parte V"
 tags: 
 author: geo
+image: /content/images/2015/03/DSC08115-1.JPG
 ---
 ###Barcelona
 Mi relato continua en las calles de Barcelona saliendo del mercado de la Boquería. Caminamos por La Tabla hasta llegar a la **Rambla Marina** en el centro comercial con una linda vista al mar, y la marina. 

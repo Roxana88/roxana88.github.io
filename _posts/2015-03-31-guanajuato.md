@@ -3,6 +3,7 @@ layout: post
 title: "León y Guanajuato"
 tags: 
 author: rox
+image: /content/images/2015/03/2012-12-01-14-35-15-2.jpg
 ---
 ##Festival del globo
 Que mejor manera de pasar un fin de semana de puente  que visitar el **Festival del Globo en León** esa fue la idea que tuve el mes de Noviembre del año [2013](/tag/2013). ¿Buena o mala idea? Creo que en general buena. Para mi desgracia no fui la unica que penso que ir al festival era una buena idea, suena coqueta la idea de iniciar el día viendo varios globos aerostáticos en el cielo mientras disfrutas de un café y dejas que los minutos pasen disfrutando de la vista ¿a quien no le gustan los globos? 

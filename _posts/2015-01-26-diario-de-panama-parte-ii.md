@@ -3,6 +3,7 @@ layout: post
 title: "Diario de Panamá - Parte II"
 tags: 
 author: geo
+image: /content/images/2015/01/2014-05-18-12-26-10.jpg
 ---
 ##Domingo 18 de Mayo 2014
 

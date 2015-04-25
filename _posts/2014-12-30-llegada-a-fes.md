@@ -3,6 +3,7 @@ layout: post
 title: "Llegada a Fes"
 tags: 
 author: rox
+image: /content/images/2014/12/IMG-20141229-WA0000.jpg
 ---
 Fes es un lugar muy peculiar algo muy diferente a lo que hasta en ese momento conocía, una ciudad llena de pequeños callejones según el guía 2554 o algo así le entendí. Llegamos al pequeño aeropuerto de Fes y no tuvimos otra opción que tomar un taxi para llegar al [Riad Doha](/riad-doha) que se encontraba dentro de la **medina**, la parte vieja de la ciudad.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Conociendo Florencia"
 tags: 
 author: rox
+image: /content/images/2015/04/DSC06315.JPG
 ---
 Italia, Italia hermosa Italia llena de vinos, pasta, gelatos e italianos, solo he tenido la fortuna de conocer dos ciudades. La buena [Roma](/roma/), en una ocasión que tuve tiempo de visitar las principales atracciones y comer el mayor número de **gelatos** posibles, y otra de manera express esperando un vuelo de conexión a [Grecia](/tag/grecia/). Y las dos me encantaron, por una parte el saber que tienes poco tiempo te obliga a ser más rápido, más organizado y a aprovechar el tiempo al máximo, ahora entiendo la famosa expresión *"El tiempo vale oro"*.
 

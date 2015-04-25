@@ -3,6 +3,7 @@ layout: post
 title: "Tower of London"
 tags: 
 author: geo
+image: /content/images/2015/04/2014-12-27-11-21-55.jpg
 ---
 La **Torre de Londres**, o realmente no conocida como **Her Majesty's Royal Palace and Fortress**, es una gran fortaleza londesa al lado del río Támesis. La parte que no entendí es porque se llama la Torre, cuando en realidad es un montón de torres. Al entrar lo primero que te daras cuenta es la gran zanja que se encuentra antes de cruzar el puente hacia el interior. En otras epocas funcionaba como protección porque estaba inundada y no permitía el acceso de ejercitos más que por el puente.
 

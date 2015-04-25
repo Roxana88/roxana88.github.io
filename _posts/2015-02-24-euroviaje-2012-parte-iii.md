@@ -3,6 +3,7 @@ layout: post
 title: "Euroviaje 2012 - Parte III"
 tags: 
 author: geo
+image: /content/images/2015/02/DSC06823-1.JPG
 ---
 ###Enero 31, Tren a Lille, 11:30
 Se acaba este mes, con nuestra salida de territorio belga hacia la ciudad de París, en digamos unas dos horas. **Brujas**, singular ciudad medieval reconstruida con fidelidad, que alberga misterio, frio y muchos puentes. Es un pueblito, la verdad que en menos nada de tiempo lo recorres de punta a punta, pero muy bien conservado en sus calles se siente un aire viejo y húmedo como de costa, estamos relativamente a corta distancia del Mar del Norte.

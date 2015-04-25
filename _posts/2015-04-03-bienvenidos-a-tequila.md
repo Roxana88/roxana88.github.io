@@ -3,6 +3,7 @@ layout: post
 title: "Bienvenidos a Tequila"
 tags: 
 author: rox
+image: /content/images/2015/04/2013-11-02-15-15-52.jpg
 ---
 ##Vamos a Tequila ¡oh oh oh!
 

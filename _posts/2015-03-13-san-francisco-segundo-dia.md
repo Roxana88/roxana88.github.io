@@ -3,6 +3,7 @@ layout: post
 title: "San Francisco: segundo día"
 tags: 
 author: rox
+image: /content/images/2015/03/2013-12-21-11-33-48.jpg
 ---
 ##Chinatown
 

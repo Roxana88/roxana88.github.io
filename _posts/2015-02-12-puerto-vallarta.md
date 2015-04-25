@@ -3,6 +3,7 @@ layout: post
 title: "¿Qué hay en Puerto Vallarta o qué?"
 tags: 
 author: rox
+image: /content/images/2015/02/unnamed.jpg
 ---
 Si le preguntas a un extranjero que parte de [México](/tag/mexico) le gustaría conocer es muy probable que las respuesta sea alguna de las *playas mexicanas*, la más famosa [Cancún](/tag/cancun) y si no me equivoco **Vallarta** debe ser la segunda.  ¿Qué hay en Puerto Vallarta o qué? Bueno a mí lo que más me gusta de es dar un paseo por el malecón, disfrutar de una rica y  refrescante **cerveza Corona** mientras contemplo el atardecer. *Esa sensación de dedicarte unos minutos para apreciar la simpleza de la vida y no tener prisa de nada,* desafortunadamente solo lo aprecio cuando estoy de vacaciones y con unas cuantas cervezas encima ¡bah! . 
 

@@ -3,6 +3,7 @@ layout: post
 title: "Segundo día en Fes"
 tags: 
 author: rox
+image: /content/images/2015/01/IMG_20141229_135411.jpg
 ---
 El hotel [Riad Nassim](/riad-nassim) incluía desayuno que básicamente era té o café, como cuatro estilos de pan: uno de maíz grueso llenon, otro que era como de harina un poco dorado con mantequilla  y por último el típico baguette. Como acompañante del pan había miel, mermelada, queso y mantequilla.
 

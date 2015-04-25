@@ -3,6 +3,7 @@ layout: post
 title: "Diario de NYC - Parte I"
 tags: 
 author: geo
+image: null
 ---
 ##Sabado 22 de Diciembre 2012
 Iniciamos el relato de los hechos en el *aeropuerto de GDL*, donde sin novedades ni contratiempos pasamos a la sala de espera con solo una maleta registrada. Después de horas, quizás dos o menos, abordamos un pequeño avión de **United**, realmente era muy pequeño.

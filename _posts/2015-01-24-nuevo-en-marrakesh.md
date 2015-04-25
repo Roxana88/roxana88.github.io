@@ -3,6 +3,7 @@ layout: post
 title: "Año nuevo en Marrakesh"
 tags: 
 author: rox
+image: /content/images/2015/01/2014-12-31-15-19-32-2-1.jpg
 ---
 >Había escuchado historias de gente que lograba pasar el año nuevo sin tomar una gota de alcohol o apenas haciendo el brindis, ¡sí! *ya había escuchado esas historias pero jamás pensé que me pasaría.*
 

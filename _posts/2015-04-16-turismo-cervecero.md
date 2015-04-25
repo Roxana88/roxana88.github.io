@@ -3,6 +3,7 @@ layout: post
 title: "Turismo Cervecero"
 tags: 
 author: geo
+image: /content/images/2015/04/DSC09245.JPG
 ---
 Podríamos pensar que el turismo es como la música, tenemos muchos géneros. Algunos más clásicos y populares que otros, como el eco-turismo o el turismo deportivo, pero lo divertido de esta diversidad son las versiones raras que podemos encontrar. El *turismo cervercero* es una de ellas.
 

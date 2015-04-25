@@ -3,6 +3,7 @@ layout: post
 title: "Universal Studios Orlando"
 tags: 
 author: rox
+image: /content/images/2015/02/2015-01-15-11-42-25.jpg
 ---
 Cuando viajamos a [Los Angeles](/tag/los-angeles) por un momento consideramos asistir a *Universal Studios*, pero como no somos exactamente valientes hablando de juegos mecánicos pensamos que sería mejor idea gastar los $99 dólares en comida y bebida. Posteriormente platicando con un amigo nos abrió los ojos y nos dijo *“los simuladores están padres y cero peligro”* ¡interesante! háblame más de eso, fue así como decidimos que en nuestro próximo viaje visitaríamos Universal Studios pero en [Orlando](/tag/orlando).
 

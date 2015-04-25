@@ -3,6 +3,7 @@ layout: post
 title: "Cartagena: Un paseo por las islas"
 tags: 
 author: rox
+image: /content/images/2015/04/2014-05-22-11-13-48-1.jpg
 ---
 Disfrutando de estos días que cada vez se tornan más calurosos se me ocurrió que seria buena idea hablar de nuestra visita a [Cartagena, Colombia](/cartagena-ciudad-amurallada/), en especial de nuestra visita a las islas. Dicen que “recordar es vivir” así que espero cerrar los ojos y cuando los abra despertar en una hermosa isla rodea de agua cristalina y de una azul intenso acompañada de una cerveza ¡oh si! Esperemos que al terminar el artículo funcione.
 

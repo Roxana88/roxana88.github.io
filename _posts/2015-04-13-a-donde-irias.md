@@ -3,6 +3,7 @@ layout: post
 title: "¿A donde irías?"
 tags: 
 author: geo
+image: /content/images/2015/04/Pho_in_Ho_Chi_Minh_City_by_joshua.jpg
 ---
 Si pudieras planear tu siguiente viaje, con un presupuesto imaginario no tan ilimitado, ¿a donde irías? Yo tengo en mente algunas ideas, que quisiera hacer realidad en un futuro no tan lejano.
 

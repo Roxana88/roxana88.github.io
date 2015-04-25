@@ -3,6 +3,7 @@ layout: post
 title: "Ahorrar para viajar"
 tags: 
 author: geo
+image: /content/images/2015/03/ahorrar-1.jpg
 ---
 Repasando los apuntes anteriores para [planifiación de viajes](/planeacion-de-viaje-101/) me di cuenta que estaba pasando por alto un punto importante de la planeación, que es el **ahorro**, y a menos de que seas rico y puedas disponer de la fortuna familiar para salir a [Europa](/tag/europa), debes considerar. Tenemos que aprender a ahorrar dinero, y si realmente lo deseamos también debemos aprender a sacrificar cosas innecesarias de nuestras vidas.
 

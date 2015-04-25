@@ -3,6 +3,7 @@ layout: post
 title: "Roma, revisita 24 horas"
 tags: 
 author: geo
+image: /content/images/2014/12/IMG_20141215_105905089_HDR-1.jpg
 ---
 Dos años después, y [Roma](/tag/roma) lucia mas atractiva la primera vez. No es que no me guste, pero estaba más descuidada. La sociedad y el mal olor en las calles era muy notable tan pronto salimos de **Roma Termini**. Solo teníamos un día y tomamos los mejores recuerdos para revivirlos y tomar nuevas experiencias. 
 

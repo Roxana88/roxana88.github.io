@@ -3,6 +3,7 @@ layout: post
 title: "Diario de Chicago - Parte II"
 tags: 
 author: geo
+image: /content/images/2014/12/2013-09-15-13-03-04-1.jpg
 ---
 ##Domingo 15 de Septiembre 2013
 

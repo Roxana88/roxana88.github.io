@@ -3,6 +3,7 @@ layout: post
 title: "Hagia Sophia"
 tags: 
 author: geo
+image: /content/images/2015/04/2014-12-20-09-11-54.jpg
 ---
 Mucho tiempo atrás en la capital de Constantinopla, la ciudad de [Estambul](/tag/estambul), fue construida una catedral con el nombre **Hagia Sophia** o **Ayasofya** como le dicen los turcos. Esta enorme catedral, que fue la tercera tras varias revueltas previas que destruyeron las dos primeras, fue convertida en una mezquita tras la conquista otomana. Finalmente fue entregada por el gobierno turco para crear un museo. 
 

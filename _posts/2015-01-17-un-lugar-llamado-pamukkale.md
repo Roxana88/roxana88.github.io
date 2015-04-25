@@ -3,6 +3,7 @@ layout: post
 title: "Un lugar llamado Pamukkale"
 tags: 
 author: rox
+image: /content/images/2015/01/IMG_20141222_101803-2.jpg
 ---
 Sabíamos que visitaríamos Turquía pero aún no teníamos bien definido todo el itinerario, [Estambul](/tag/estambul) y [Capadocia](/tag/capadocia), era un hecho pero nos sobraba un día que podíamos aprovechar en conocer otro lugar, Geo me dijo:
 

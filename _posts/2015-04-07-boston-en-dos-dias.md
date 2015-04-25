@@ -3,6 +3,7 @@ layout: post
 title: "Boston en dos días"
 tags: 
 author: rox
+image: /content/images/2015/04/2015-01-08-11-03-40.jpg
 ---
 Inicialmente habíamos planeado una visita de tres días a Boston pero no sabíamos lo que el destino nos deparaba. Geo ya tuvo la delicadeza de escribir un artículo donde *habla de nuestro enojo y frustración* cuando la aerolínea **Air Frances** penso que seria buena idea no dejarnos abordar un vuelo internacional. Nos quedamos en atrapados en el hermoso aeropuerto de **Casa Blanca**, la capital financiera de **Marruecos** donde no hay **nada que hacer**. Si quieren leer el [drama completo](/air-france-y-sus-giros).
 

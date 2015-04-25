@@ -3,6 +3,7 @@ layout: post
 title: "Guachimontones: zona arqueológica de Teuchitlán"
 tags: 
 author: geo
+image: /content/images/2015/02/2014-08-24-11-29-54-1.jpg
 ---
 Cerca de la ciudad de [Guadalajara](/tag/guadalajara), [México](/tag/mexico), existen diversas zonas arqueológicas, un poco olvidadas de las guías de viajes, que esperan un poco de atención. Uno de estos lugares es llamado Guachimontones, en el poblado de **Teuchitlán**, Jalisco. Es un buen pretexto para salir de la ciudad y conocer un poco la **Región Valles**, que incluye el pueblo de [Tequila](/tag/tequila).
 

@@ -3,6 +3,7 @@ layout: post
 title: "MoMA, Museo de Arte Moderno"
 tags: 
 author: geo
+image: /content/images/2015/04/DSC09516.JPG
 ---
 Cuando te encuentras en la ciudad de [Nueva York](/tag/new-york), una visita que considero imperdonable, así como el **Empire State Building** es el Museum of Modern Art (MoMA). Las dos veces que he ido a NYC, he ido al museo, porque me encanta. Este museo viene incluido en el [CityPASS](/citypass), así que si usan la cuponera, es un *MUST*.
 

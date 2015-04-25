@@ -3,6 +3,7 @@ layout: post
 title: "San Francisco"
 tags: 
 author: geo
+image: /content/images/2015/03/2013-12-21-10-40-30.jpg
 ---
 Viajamos a San Francisco en Diciembre del 2013. Hacía frío pero era bastante soportable, si se pregunta porque siempre viajamos en invierno, en lo personal es por mi piel no soporto estar en el sol por mucho tiempo. En el caso de Geo es porque le abruma hacer filas enorme, así que como es temporada baja ¡el invierno es perfecto para los dos! 
 

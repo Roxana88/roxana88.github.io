@@ -3,6 +3,7 @@ layout: post
 title: "Smithsonian: Museo Nacional del Aire y el Espacio"
 tags: 
 author: geo
+image: /content/images/2015/03/2015-01-14-11-57-49.jpg
 ---
 Este sorprendente museo, conocido como *National Air and Space Museum*, se localiza en [Washington](/tag/washington), [Estados Unidos](/tag/estados-unidos) en un gran complejo de diversos museos llamados **The National Mall**, que pertenecen al **Instituto Smithsoniano**. 
 

@@ -3,6 +3,7 @@ layout: post
 title: "El autobus a Pamukkale"
 tags: 
 author: geo
+image: /content/images/2014/12/IMG_20141222_074350.jpg
 ---
 Son las ocho de la mañana de un lunes, no veo mucha actividad en los pueblos y carreteras que vamos dejando atrás. El escenario me recuerda a Creel, montañas verdes y un espesa nube sobre ellas.  A la distancia más y más montañas. Hace frío afuera, bajando del avión la vista era hermosa. Las montañas de nuevo, pero estas cubiertas de nieve. 
 
