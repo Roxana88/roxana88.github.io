@@ -8,14 +8,14 @@ function initialize() {
   $('div.post-content').css('height', '500px');
 
   var lats = [
-    {'nombre': 'Guadalajara, MÈxico', link: '/tag/guadalajara', 'lat': new google.maps.LatLng(20.707413, -103.373011) },
+    {'nombre': 'Guadalajara, M√©xico', link: '/tag/guadalajara', 'lat': new google.maps.LatLng(20.707413, -103.373011) },
     {'nombre': 'New York, EUA', link: '/tag/new-york', 'lat': new google.maps.LatLng(40.773288, -73.971785) },
     {'nombre': 'Philadelphia, EUA', link: '/tag/philadelphia', 'lat': new google.maps.LatLng(39.944766, -75.156485) },
     {'nombre': 'Los Angeles, EUA', link: '/tag/los-angeles', 'lat': new google.maps.LatLng(34.036433, -118.254491) },
     {'nombre': 'Roma, Italia', link: '/tag/roma', 'lat': new google.maps.LatLng(41.896017, 12.474886) },
-    {'nombre': 'Estambul, TurquÌa', link: '/tag/estambul', 'lat': new google.maps.LatLng(41.010989, 28.970895) },
-    {'nombre': 'Pamukkale, TurquÌa', link: '/tag/pamukkale', 'lat': new google.maps.LatLng(37.920903, 29.124504) },
-    {'nombre': 'Ciudad de Panam·, Panam·', link: '/tag/panama', 'lat': new google.maps.LatLng(8.967140, -79.535158) },
+    {'nombre': 'Estambul, Turqu√≠a', link: '/tag/estambul', 'lat': new google.maps.LatLng(41.010989, 28.970895) },
+    {'nombre': 'Pamukkale, Turqu√≠a', link: '/tag/pamukkale', 'lat': new google.maps.LatLng(37.920903, 29.124504) },
+    {'nombre': 'Ciudad de Panam√°, Panam√°', link: '/tag/panama', 'lat': new google.maps.LatLng(8.967140, -79.535158) },
     {'nombre': 'Cartagena, Colombia', link: '/tag/cartagena', 'lat': new google.maps.LatLng(10.424797, -75.550203) },
     {'nombre': 'Chicago, EUA', link: '/tag/chicago', 'lat': new google.maps.LatLng(41.877331, -87.622437) },
     {'nombre': 'Fes, Marruecos', link: '/tag/fes', 'lat': new google.maps.LatLng(34.066990, -4.978352) },
@@ -23,7 +23,7 @@ function initialize() {
     {'nombre': 'Casablanca, Marruecos', link: '/tag/casablanca', 'lat': new google.maps.LatLng(33.592211, -7.592862) },
     {'nombre': 'Marrakesh, Marruecos', link: '/tag/marrakesh', 'lat': new google.maps.LatLng(31.633060, -7.998038) },
     {'nombre': 'Atenas, Grecia', link: '/tag/atenas', 'lat': new google.maps.LatLng(37.966820, 23.724435) },
-    {'nombre': 'Capadocia (Goreme), TurquÌa', link: '/tag/capadocia', 'lat': new google.maps.LatLng(38.663684, 34.857077) },
+    {'nombre': 'Capadocia (Goreme), Turqu√≠a', link: '/tag/capadocia', 'lat': new google.maps.LatLng(38.663684, 34.857077) },
     {'nombre': 'Praga, Republica Checa', link: '/tag/praga', 'lat': new google.maps.LatLng(50.083103, 14.419108) },
     {'nombre': 'Munich, Alemania', link: '/tag/munich', 'lat': new google.maps.LatLng(48.136642, 11.578142) },
     {'nombre': 'Viena, Austria', link: '/tag/viena', 'lat': new google.maps.LatLng(48.206844, 16.367614) },
@@ -31,23 +31,23 @@ function initialize() {
     {'nombre': 'Amsterdam, Holanda', link: '/tag/amsterdam', 'lat': new google.maps.LatLng(52.373563, 4.895524) },
     {'nombre': 'Zurich, Suiza', link: '/tag/zurich', 'lat': new google.maps.LatLng(47.370712, 8.533282) },
     {'nombre': 'Zagora, Marruecos', link: '/tag/zagora', 'lat': new google.maps.LatLng(30.325440, -5.837999) },
-	{'nombre': 'Ciudad de MÈxico, MÈxico', link: '/tag/ciudad-de-mexico', 'lat': new google.maps.LatLng(19.422771, -99.161798) },
-	{'nombre': 'Puerto Vallarta, MÈxico', link: '/tag/pto-vallarta', 'lat': new google.maps.LatLng(20.612202, -105.233692) },
-    {'nombre': 'Brujas, BÈlgica', link: '/tag/brujas', 'lat': new google.maps.LatLng(51.208323, 3.226608) },
+	{'nombre': 'Ciudad de M√©xico, M√©xico', link: '/tag/ciudad-de-mexico', 'lat': new google.maps.LatLng(19.422771, -99.161798) },
+	{'nombre': 'Puerto Vallarta, M√©xico', link: '/tag/pto-vallarta', 'lat': new google.maps.LatLng(20.612202, -105.233692) },
+    {'nombre': 'Brujas, B√©lgica', link: '/tag/brujas', 'lat': new google.maps.LatLng(51.208323, 3.226608) },
     {'nombre': 'Orlando, EUA', link: '/tag/orlando', 'lat': new google.maps.LatLng(28.537585, -81.392783) },
     {'nombre': 'Paris, Francia', link: '/tag/paris', 'lat': new google.maps.LatLng(48.854849, 2.346545) },
     {'nombre': 'Londres, Reino Unido', link: '/tag/londres', 'lat': new google.maps.LatLng(51.497233, -0.131124) },
-    {'nombre': 'Barcelona, EspaÒa', link: '/tag/barcelona', 'lat': new google.maps.LatLng(41.401100, 2.183787) },
-    {'nombre': 'Madrid, EspaÒa', link: '/tag/madrid', 'lat': new google.maps.LatLng(40.411561, -3.705973) },
+    {'nombre': 'Barcelona, Espa√±a', link: '/tag/barcelona', 'lat': new google.maps.LatLng(41.401100, 2.183787) },
+    {'nombre': 'Madrid, Espa√±a', link: '/tag/madrid', 'lat': new google.maps.LatLng(40.411561, -3.705973) },
     {'nombre': 'Carcasona, Francia', link: '/tag/carcasona', 'lat': new google.maps.LatLng(43.208114, 2.362470) },
 	{'nombre': 'San Francisco, EUA', link: '/tag/san-francisco', 'lat': new google.maps.LatLng(37.794199, -122.403611) },
 	{'nombre': 'Las Vegas, EUA', link: '/tag/las-vegas', 'lat': new google.maps.LatLng(36.129714, -115.167447) },
-    {'nombre': 'Veracruz, MÈxico', link: '/tag/veracruz', 'lat': new google.maps.LatLng(19.197207, -96.132025) },
+    {'nombre': 'Veracruz, M√©xico', link: '/tag/veracruz', 'lat': new google.maps.LatLng(19.197207, -96.132025) },
     {'nombre': 'Washington, EUA', link: '/tag/washington', 'lat': new google.maps.LatLng(38.894806, -77.046152) },
-    {'nombre': 'Tequila, MÈxico', link: '/tag/tequila', 'lat': new google.maps.LatLng(20.876503, -103.826402) },
+    {'nombre': 'Tequila, M√©xico', link: '/tag/tequila', 'lat': new google.maps.LatLng(20.876503, -103.826402) },
     {'nombre': 'Miami, EUA', link: '/tag/miami', 'lat': new google.maps.LatLng(25.777532, -80.195375) },
-    {'nombre': 'Creel, MÈxico', link: '/tag/creel', 'lat': new google.maps.LatLng(27.749592, -107.635172) },
-    {'nombre': 'Guanajuato, MÈxico', link: '/tag/guanajuato', 'lat': new google.maps.LatLng(21.016189, -101.252577) },
+    {'nombre': 'Creel, M√©xico', link: '/tag/creel', 'lat': new google.maps.LatLng(27.749592, -107.635172) },
+    {'nombre': 'Guanajuato, M√©xico', link: '/tag/guanajuato', 'lat': new google.maps.LatLng(21.016189, -101.252577) },
   ];
   var mapOptions = {
     zoom: 2,
@@ -75,7 +75,7 @@ function initialize() {
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 
-Usa el mapa para navegar por las ciudades y abrir los artÌculos relacionados. TambiÈn esta disponible [listado por paÌses](/paises/).
+Usa el mapa para navegar por las ciudades y abrir los art√≠culos relacionados. Tambi√©n esta disponible [listado por pa√≠ses](/paises/).
 
 <div id="map-canvas" style="height: 100%; margin: 0px; padding: 0px"></div>
 
