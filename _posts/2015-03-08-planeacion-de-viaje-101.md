@@ -3,7 +3,7 @@ layout: post
 title: "Planeación de Viaje 101"
 tags: 
 author: geo
-image: /content/images/2015/03/Ejemplo-1.png
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/Ejemplo-1.png
 ---
 Cuando platico de nuestros planes de viaje, suelen preguntarme si compramos paquetes o nos asesoramos en alguna agencia de viaje. Siempre explico que no, que nosotros mismos realizamos la planeación de los vuelos, hoteles e itinerarios diarios. Porque la **flexibilidad** es de los más importante a mi parecer cuando se esta de viaje.
 
@@ -15,7 +15,7 @@ Lo primero, es saber a donde y cuando. Aquí surgen preguntas importantes como �
 
 Entre miles de dudas, que aunque no es una ciencia exacta, se intenta hacer lo mejor para minimizar el riesgo. Nosotros procuramos apartar los boletos de avión con unos 3 meses de anticipación, hay quienes afirman que se necesita más o menos tiempo, la verdad que es dificil saber el comportamiento de los precios de boletos de avión. Se puede usar [Google Flights](http://flights.google.com) o [Kayak](http://www.kayak.com.mx) para mantener tracking de los costos de vuelos y conseguir algún cambio inesperado a nuestro favor.
 
-![Google Flights mostrando incremento en precios](/content/images/2015/03/Google.png)
+![Google Flights mostrando incremento en precios](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/Google.png)
 
 Cuando son viajes largos como el último que tuvimos, la forma de planearlo que me gusta es pensar cuanto tiempo disponemos (este sería otro artículo más) y cual es el ciudad/país a conocer. En nuestro caso decidimos que teníamos 4 semanas y queríamos dos países [Turquía](/tag/turquia) y [Marruecos](/tag/marruecos), que si siguen este blog sabran que no fue lo unico que hicimos.
 
@@ -39,7 +39,7 @@ Digamos que por fin tienes ya un vuelo de llegada y un vuelo de salida que fue u
 
 Ahora bien, ¿por qué esto tan detallado? Muy fácil, por que por ejemplo con Google Drive puedes tener este itinerario en modo *offline* y poder consultarlo en el celular en cualquier momento. Imprimirlo se me hace demasiado, pero hay gente que ama cargar con miles de hojas por el mundo.
 
-![Ejemplo de hoja de calculo](/content/images/2015/03/Ejemplo.png)
+![Ejemplo de hoja de calculo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/Ejemplo.png)
 
 Adicionalmente puedes poner una columna de costo, que te ayudara a hacer un estimado rápido de todo lo que gastaras. Por ejemplo puedes ir cotizando hoteles e ir agregando cada hotel en el día necesario con el costo y tener rápido una suma de lo necesario para hoteles. En el siguiente artículo detallare más esto de los presupuestos.
 

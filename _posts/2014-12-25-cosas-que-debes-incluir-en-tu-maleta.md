@@ -3,7 +3,7 @@ layout: post
 title: "Cosas que debes incluir en tu maleta"
 tags: 
 author: rox
-image: /content/images/2015/01/IMG_20141223_211750.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141223_211750.jpg
 ---
 #Medicinas
 Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la importancia al que nos vamos a poner olvidandonos de pequeños detalles como *¿Que tal si me enfermo?*, es cierto que los medicamentos los encontraras en cualquier lugar pero es más práctico y barato llevar lo siguiente solo por si las dudas:
@@ -15,7 +15,7 @@ Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la import
 * Algo para las *alergias*, nunca me había dado una alergia hasta hace unos días y no traía nada, como la alergia se empezó a presentar en madrugada tuve que esperar hasta que abrieran la farmacia.
 
 Creo que con eso sobrevivirán. En mi caso padezco de colitis por lo cual siempre agregó omeoprazol, lactobacilos y pastillas de hojas de guayaba.
-![El medicamento que siempre llevo en la maleta.](/content/images/2014/12/IMG_20141223_211646.jpg)
+![El medicamento que siempre llevo en la maleta.](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141223_211646.jpg)
 
 #Belleza
 A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos normalmente, para este viaje *conseguí botes pequeños 120 ml.* aproximadamente donde agregue lo siguiente:
@@ -27,7 +27,7 @@ A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos
 * Pasta de dientes.
 * Toallas desmaquillantes con aceité, normalmente uso un desmaquillante para los ojos y otro para la cara pero en este caso los sustituí por las toallitas.
 * Mi crema sana sana, una crema que uso para casi cualquier incomodidad en la piel.
-![Los recipientes pequeños para llevar mis productos de belleza.](/content/images/2014/12/IMG_20141223_211750.jpg)
+![Los recipientes pequeños para llevar mis productos de belleza.](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141223_211750.jpg)
 
 #ArtÍculos varios
 Estas cosas en su momento no las tome en cuenta y después por necesidad termine comprandolas.

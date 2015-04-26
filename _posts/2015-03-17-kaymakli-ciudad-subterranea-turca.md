@@ -3,25 +3,25 @@ layout: post
 title: "Kaymakli: ciudad subterranea turca"
 tags: 
 author: geo
-image: /content/images/2015/03/2014-12-24-10-09-48-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-10-09-48-1.jpg
 ---
 En la región de [Capadocia](/tag/capadocia/), en [Turquía](/tag/turquia/), existen ciudades que por mucho tiempo se mantuvieron ocultas bajo la superficie, del desarrollo que sucedía arriba.  Dos de ellas son **Kaymakli y Derinkuyu**, aunque se presume que hay nuevos descubrimientos de ciudades aún más grandes por la zona. En nuestro viaje a Turquía fuimos a Kaymakli a conocer como luce una de estas ciudades.
 
 Llegando al pueblo de Kaymakli, se encuentra sobre la carretera la entrada al museo de mismo nombre. Hay un buen número de guías que intentaran ayudarte, incluso en español. Como siempre negociar el precio antes del servicio es la mejor idea. Nosotros no tomamos guía, y no hizo falta porque como el lugar es tan pequeño, puedes escuchar perfectamente a los otros guías explicando
 
-![Entrada al museo](/content/images/2015/03/2014-12-24-09-52-16.jpg)
+![Entrada al museo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-09-52-16.jpg)
 
 La historía del lugar es un poco ambigua, cada guía daba explicaciones distintas, pero lo que si era claro que la gente que hicieron un complejo sistema de tuneles y camaras para vivir bajo tierra cubriendo todo lo necesario. Diversas camaras servían para almacenaje de granos, cocinas, area de preparación de vinos, cuartos familiares y hasta una iglesia cristiana, tumbas y capillas.
 
-![Rox encontro un techo a su altura](/content/images/2015/03/2014-12-24-09-59-09.jpg)
+![Rox encontro un techo a su altura](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-09-59-09.jpg)
 
 La ciudad esta comprendida de 8 niveles, pero solo los primeros cuatro estan disponibles en el museo para los visitantes. Supongo que por cuestiones de seguridad. Aunque no sentía miedo de estar tan adentro en esos pequeños pasillos, no me sentía bien del todo. Si llegas a sentirte extraño caminando agachado entre pequeños tuneles como si fueras un hobbit o algo así. 
 
-![Rueda que era una puerta](/content/images/2015/03/2014-12-24-10-09-48.jpg)
+![Rueda que era una puerta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-10-09-48.jpg)
 
 La ventilación del lugar se lleva por medio de un gran pozo que recorre todos los niveles y ayuda a circular el aire. La profundidad del pozo es de 80 metros, y se puede sacar la cabeza por uno de los agujeros para verlo. Con preocupación claro esta.
 
-![Piedra para metalurgía](/content/images/2015/03/2014-12-24-10-29-51.jpg)
+![Piedra para metalurgía](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-10-29-51.jpg)
 
 De la imagén anterior, la piedra se utilizaba para poner piedras cargadas de metales que eran golpeadas para su extracción. Se supone que es una metarlugía en frio, a diferencia de fundir el metal. Pero no entendi muy bien la explicación.
 

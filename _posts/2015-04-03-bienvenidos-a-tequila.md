@@ -3,7 +3,7 @@ layout: post
 title: "Bienvenidos a Tequila"
 tags: 
 author: rox
-image: /content/images/2015/04/2013-11-02-15-15-52.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-11-02-15-15-52.jpg
 ---
 ##Vamos a Tequila ¡oh oh oh!
 
@@ -13,7 +13,7 @@ Extrañamente casi siempre que tenemos eso idea visitamos el mismo lugar, Tequil
 
 En mi caso siempre se me antoja ir por las deliciosas margaritas que preparan en **Mundo Jose Cuervo** y las cuales extrañamente siempre están al 2x1 ¡que sospechoso! Para los que no ubiquen bien Tequila, permítanme hacerles una breve presentación, el nombre de Tequila proviene de la palabra náhuatl Tekilan según mi fuente confiable **wikipedia** y la principal actividad comercial es la elaboración y comercialización del tequila y eso ¡es todo lo que necesitan saber!
 
-![De artista sacandole fotos a los agaves](/content/images/2015/04/1426411_10201895789251476_576043260_n.jpg)
+![De artista sacandole fotos a los agaves](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/1426411_10201895789251476_576043260_n.jpg)
 
 Para llegar a Tequila desde Guadalajara tienes tres opciones, bueno en realidad son más pero hablaremos de las principales:
 
@@ -31,7 +31,7 @@ Tequila es considerado un *pueblo mágico*. Según la leyenda después de unos c
 ###Centro histórico
 Aquí se puede apreciar una pequeña iglesia y al lado de la iglesia una plaza con banquitas, como la mayoría de las plazas de los centros históricos encontrarán un pequeño kiosco. El centro histórico al ser un punto de reunión para turistas también se convierte en un punto estratégico para ofrecer *tours*, la mayoría de los tours son a fábricas de tequila que te ofrecen ver el proceso de elaboración del tequila y un poco de la historia. Cerca del centro histórico tambiém encontrar restaurantes, cafés y bares.
 
-![Si le ponen mucha atención a la foto podrán apreciar la iglesia de fondo](/content/images/2015/04/2013-04-14-11-19-36.jpg)
+![Si le ponen mucha atención a la foto podrán apreciar la iglesia de fondo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-04-14-11-19-36.jpg)
 
 ###Mercado de Tequila.
 *Si quieres comer rico y barato dirijite a los mercados*, los mercados siempre son la respuesta para conseguir comida local sin *caer en trampas de turistas*. En cuanto entras al mercado el olor a comida se apodera de tus sentidos, todas esas creencias que sueles tener acerca de las dietas y contar calorías (me estoy proyectando) simplemente desaparecerá y solo verás el menú y la única palabra que estarás buscando será **tequila**, en algunos platillos el tequila forma parte de los ingredientes. 
@@ -39,15 +39,15 @@ Aquí se puede apreciar una pequeña iglesia y al lado de la iglesia una plaza c
 ###Mundo José Cuervo
 A partir de este momento hago público *mi amor a las deliciosas margaritas de Jose Cuervo*. La primera vez que lo visite no tome el tour solo me dedique a degustar las margaritas. El tour tienen un costo aproximado de $150 pesos y sale cada hora, si llegas y acaba de salir no te preocupes te podrás entretener con los cantaritos. Este es una bebida prepara con tequila con un sabor cítrico que se caracteriza por ser servida en el cantarito o jarro de barro. En la entrada de Mundo Cuervo podrás disfrutar de algunos. También pueden visitar la tienda del lugar ¡aburrido!.
 
-![Cantarito en Mundo Cuervo](/content/images/2015/04/543704_10200609730380808_1882024544_n.jpg)
+![Cantarito en Mundo Cuervo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/543704_10200609730380808_1882024544_n.jpg)
 
 El recorrido es corto pero la explicación es buena e inicia con una película, continuando con la fábrica y explicando el proceso de elaboración, los tipos de tequila y el tiempo de añejamiento de cada uno. El recorrido termina con una exposición de automoviles de antaño.
 
-![Carros clásicos Mundo Cuervo](/content/images/2015/04/2013-04-14-14-04-03.jpg)
+![Carros clásicos Mundo Cuervo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-04-14-14-04-03.jpg)
 
 Si te sientes con ganas de beber, en el jardín te podrás quedar a disfrutar de las deliciosas margaritas, la ultima vez que fue la única  restricción para la promoción del 2x1 es que tienen que ser del mismo sabor.
 
-![Margaritas de Mundo Cuervo](/content/images/2015/04/10514680_10204044338523865_8537669251492785490_n.jpg)
+![Margaritas de Mundo Cuervo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/10514680_10204044338523865_8537669251492785490_n.jpg)
 
 Al salir podrás despedirte de la mascota del lugar ¿adivinen que es? Los que respondieron un cuervo tienen estrellita. Así son más o menos nuestras visitas a *Tequila es igual a visita mundo cuervo* una de las visitas que no me canso de hacer y que para mi fortuna me queda cerca.
 

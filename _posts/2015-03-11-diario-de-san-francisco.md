@@ -3,7 +3,7 @@ layout: post
 title: "San Francisco"
 tags: 
 author: geo
-image: /content/images/2015/03/2013-12-21-10-40-30.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-10-40-30.jpg
 ---
 Viajamos a San Francisco en Diciembre del 2013. Hacía frío pero era bastante soportable, si se pregunta porque siempre viajamos en invierno, en lo personal es por mi piel no soporto estar en el sol por mucho tiempo. En el caso de Geo es porque le abruma hacer filas enorme, así que como es temporada baja ¡el invierno es perfecto para los dos! 
 
@@ -16,9 +16,9 @@ Mientras caminamos sacamos unas cuantas fotos y de repente al otro lado de la ca
 
 Nos encontrábamos enfrente del **Ferry Building** . Dentro de este edificio se encuentra un mercado  que en su mayoría son productos artesanales, recuerdo una panadería, un deli con una amplia variedad de cervezas, un lugar de sandwiches y embutidos gourmet. Bastante coqueto, lo recorrimos para ver que sería lo que desayunaríamos y ¿oh sorpresa! Había un mercado afuera, él cual solo se pone ciertos días de la semana y para nuestra suerte ese día estaba. Nuestro desayuno fue un delicioso sandwich de **Porchetta con Arugula**. Nuestro día no pudo empezar mejor ¡simplemente delicioso y grasoso!
 
-![Geo en Ferry Building, San Francisco](/content/images/2015/03/2013-12-21-09-50-10.jpg)
+![Geo en Ferry Building, San Francisco](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-09-50-10.jpg)
 
-![Rox devorando un sandwich de porchetta](/content/images/2015/03/2013-12-21-10-13-31.jpg)
+![Rox devorando un sandwich de porchetta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-10-13-31.jpg)
 
 ##Pier 39 o el lugar de las focas
 
@@ -30,11 +30,11 @@ Seguimos caminando y de repente *se escuchaba un ruido que definiré como raro  
 
 Hacía calor y teníamos sed, *extrañamente era como sed de cerveza no de agua*. Subimos al segundo piso del pier y encontramos un bar con una amplia variedad de cerveza artesanal local recuerdo **Lagunitas y Anchor**, pedimos un *flight* porque queríamos probar varias.
 
-![Con nuestras amigas las focas](/content/images/2015/03/2013-12-21-11-38-37.jpg)
+![Con nuestras amigas las focas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-38-37.jpg)
 
-![Rox en Pier 39](/content/images/2015/03/2013-12-21-11-40-28.jpg)
+![Rox en Pier 39](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-40-28.jpg)
 
-![Geo feliz después de tomar cervaza](/content/images/2015/03/2013-12-21-11-59-06.jpg)
+![Geo feliz después de tomar cervaza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-59-06.jpg)
 
 ##Bar Rogue
 Si han leído algunos de mi *artículos*, se habrán dado cuenta que durante nuestros viajes caminamos hasta que los pies nos explotan. Sé que no suena creíble lo que estoy a punto de contarles, pero *sin planearlo llegamos a este bar*. Ibamos pasando por afuera cuando Geo me dijo “mira es de la cervecería Rogue”. Lo que hace a estas cervezas especiales son sus locos sabores como *chipotle, dona, almendra, etc.* y que mejor que probarlas de barril. Eso día mi cuerpo me pedí calorías y es de sabios escuchar al cuerpo por lo que me decidí por las siguientes:
@@ -46,7 +46,7 @@ Si han leído algunos de mi *artículos*, se habrán dado cuenta que durante nue
 
 Las cuales acompañe con un *wrap de pollo*, en la comida dejan mucho que desear pero las cervezas valen la pena.
 
-![Lista para empezar la cata](/content/images/2015/03/2013-12-21-13-02-13.jpg)
+![Lista para empezar la cata](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-13-02-13.jpg)
 
 A Geo no le gustan las cervezas tan dulces, prueba de todas pero me atrevo a decir que sus favoritas son las de estilo IPA. Lo bueno del lugar es que encontrabas varios estilos, la lista que degusto Geo fue la siguientes:
 
@@ -59,7 +59,7 @@ Sus cervezas las acompaño con una hamburguesa que se veía más sexy que mi wra
 
 Dirección. 673 Union St (casi equina con Powell St), San Francisco.
 
-![Geo también queria su foto](/content/images/2015/03/2013-12-21-13-03-05-1.jpg)
+![Geo también queria su foto](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-13-03-05-1.jpg)
 
 Regresamos a descansar al hotel. Nunca había estado en un lugar donde tuvieran las calles tan en pendiente como las tienen en San Francisco. No entiendo cómo le hace la gente de edad avanzada para no cansarse o caerse. 
 
@@ -71,7 +71,7 @@ Nos habíamos quedado con ganas de ver más adornos navideños así que fuimos a
 
 Nos sacamos algunas fotos con el enorme árbol de navidad que se encontraba al centro de la plaza con el fondo de los aparadores de **Macy’s**. Cuando voy a Estados Unidos, normalmente compro en tiendas como **Burlington o Rossy**, no son outlets como tal pero si consigues la ropa a buen precio. Trate pero no pude evitar la tentación cuando entre a la tienda de **Victoria Secret**. La cual también tenía promociones “I regret nothing”.
 
-![En Union Square](/content/images/2015/03/2013-12-23-08-36-18.jpg)
+![En Union Square](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-23-08-36-18.jpg)
 
 ##Bar Mikkeller
 
@@ -82,5 +82,5 @@ Algo que me encanto en este lugar es que desde que te dan la primera cerveza la 
 Si les gusta la cerveza de barril y visitan este lugar sentirán algo similar a lo que deben sentir los niños cuando visitan **Disneyland**. Geo había pedido una cerveza con sabor a dátiles estilo belga (Slaapmutske Christmas) y me pregunto si quería probarla ¡error ya no la volvió a ver!. Esa cerveza marco mi vida, era como un delicioso postre, increíble la forma en que podías apreciar el sabor y el cuerpo (en realidad solo repito palabras elegantes que he escuchado). En conclusión si un día visitan San Francisco vayan a Mikkeller y tómense una cerveza a mi salud.
 
 Dirección del bar Mikkeller es 34 Mason St, San Francisco.
-![Geo en Mikkeller](/content/images/2015/03/2013-12-22-18-33-14.jpg)
-![La deliciosa comida del bar](/content/images/2015/03/2013-12-23-13-17-08.jpg)
+![Geo en Mikkeller](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-22-18-33-14.jpg)
+![La deliciosa comida del bar](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-23-13-17-08.jpg)

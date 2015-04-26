@@ -3,37 +3,37 @@ layout: post
 title: "Marrakesh: Museos"
 tags: 
 author: geo
-image: /content/images/2015/03/2015-01-01-09-49-19-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-09-49-19-1.jpg
 ---
 Dentro de la Medina de [Marrakesh](/tag/marrakesh) existen una pequeña area donde a unos pasos se encuentran dos museos y dos edificios historicos, uno que es la **Qubba Almorávide (Cúpula Almorávide)** que no se encuentra abierto al público y representa un edificio de casi un siglo de antiguedad. Fue una edificación monumental de la dinastía Almorávide que llego hasta las costas españolas. Según algún sitios el lugar si esta abierto pero nosotros solo vimos unos oxidados candados y letreros de lo que pudo a ver si una buena experiencia para ver la cúpula por dentro.
 
-![Qubba Almorávide](/content/images/2015/03/2015-01-01-09-42-39.jpg)
+![Qubba Almorávide](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-09-42-39.jpg)
 
 Justo enfrente de la Cúpula se encuentra el **Museo de Marrakesh**. Este lugar solía ser un palacio (el palacio Mnebhi) que por iniciativa del sector privado fue restaurado para alojar una pequeña colección de artefactos berbere y musulmanes, así como exposiciones de arte moderno de artistas locales. Aunque la colección es pequeña, y bien vale la pena, lo más increible del lugar es la arquitectura del salón principal.
 
-![Museo de Marrakesh](/content/images/2015/03/2015-01-01-09-49-19.jpg)
+![Museo de Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-09-49-19.jpg)
 
 Un enorme candelabro cubre gran parte del techo de esta construcción tipo **ryad** donde galerías en cada lado se abren con complejos diseños en las columnas y una serie de tres fuentes dan un ambiente amplio y calmado al lugar. Es bueno tomarse un momento, ignorando las exposiciones, y contemplar la tranquilidad de las fuentes.
 
-![Hammam restaurado](/content/images/2015/03/2015-01-01-10-02-07.jpg)
+![Hammam restaurado](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-02-07.jpg)
 
 El lugar contaba con *hammam* (baños de vapor) los cuales se pueden visitar y en algunos ver los vestigios de las paredes intactas. En la entrada hay un café y un pequeño jardín con algunas placas explicando sobre el lugar. Por cierto la mayoría de la información en el museo esta en marroquí o francés si tienes suerte. No esta de más, aprender un poco de francés cuando se viaja a [Marruecos](/tag/marruecos) como ya habíamos comentado previamente, *d'accord?*.
 
-![Entrada a la Madraza](/content/images/2015/03/2015-01-01-10-41-31.jpg)
+![Entrada a la Madraza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-41-31.jpg)
 
 Entrando por un pequeño callejon se llega a la **Medersa Ben Youssef (Madraza Ben Youssef)** que es un edificio histórico. Una medersa representa una escuela islamica, donde los niños aprende a recitar y memorizar el *Coran*. Razón por la que dentro de esta mederza hay una mezquita, la cual se lleva los creditos porque el resto de la madraza es un poco aburrido porque solo son un montón de pequeñas habitaciones para los estudiantes.
 
-![Rox en el patio](/content/images/2015/03/2015-01-01-10-43-12.jpg)
+![Rox en el patio](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-43-12.jpg)
 
 Cuando había visto fotos de este lugar, lucía un poco más coqueto. Simplemente por la fuente, que cuando fuimos no tenía agua y lucía bastante descuidada. Pero una vez en la mezquita, se te olvida la fuente porque la cantidad de detalle que hay en sus paredes es increible.
 
-![Detalle en Medersa](/content/images/2015/03/2015-01-01-10-45-11.jpg)
+![Detalle en Medersa](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-45-11.jpg)
 
-![Rox jugando en las multiples ventanas de la Medersa](/content/images/2015/03/2015-01-01-10-56-24.jpg)
+![Rox jugando en las multiples ventanas de la Medersa](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-56-24.jpg)
 
 Hay una opción de un boleto doble (que te reduce el precio) para ver el Museo y la Madraza. No es increible el ahorro, pero vale la pena si se quiere ver ambos lugares. Para el museo de la fotografía no vimos ninguna oferta. 
 
-![Detalle de las habitaciones](/content/images/2015/03/2015-01-01-10-50-23.jpg)
+![Detalle de las habitaciones](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-10-50-23.jpg)
 
 Finalmente esta la **Maison de la Photographie (Casa de la Fotografía)** a escasos minutos de distancia, y siendo sinceros no me intereso entrar. Supone una serie de fotografías que terminan en una terraza, con una buena vista y demás romance. Pero tomamos camino hacia otro lado. A continuación un mapa de donde se encuentra el Museo y de ahí el resto de lugares.
 

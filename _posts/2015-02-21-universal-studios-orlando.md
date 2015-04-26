@@ -3,11 +3,11 @@ layout: post
 title: "Universal Studios Orlando"
 tags: 
 author: rox
-image: /content/images/2015/02/2015-01-15-11-42-25.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-11-42-25.jpg
 ---
 Cuando viajamos a [Los Angeles](/tag/los-angeles) por un momento consideramos asistir a *Universal Studios*, pero como no somos exactamente valientes hablando de juegos mecánicos pensamos que sería mejor idea gastar los $99 dólares en comida y bebida. Posteriormente platicando con un amigo nos abrió los ojos y nos dijo *“los simuladores están padres y cero peligro”* ¡interesante! háblame más de eso, fue así como decidimos que en nuestro próximo viaje visitaríamos Universal Studios pero en [Orlando](/tag/orlando).
 
-![Geo en Universal Orlando](/content/images/2015/02/2015-01-15-10-49-25.jpg)
+![Geo en Universal Orlando](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-10-49-25.jpg)
 
 Llegamos a Orlando alrededor de las 9:30 am y pensábamos llegar al hotel utilizando el transporte público ¡fracasamos!. Según la información que habíamos visto una ruta en *Google Maps* nos dejaría cerca del hotel (Google me mintió), la realidad es que salimos del aeropuerto y  nos dimos cuenta que no había camión. Pensamos utilizar **Super Shuttle** que nos cobraría $38 dólares pero tendríamos que esperar por el servicio y solo teníamos alrededor de 7 horas para disfrutar de Universal, decidimos pagar por un taxi que fueron $50 dólares más propina.
 
@@ -19,9 +19,9 @@ Por fin llegamos al parque y solo queríamos el ticket más sencillo un parque u
 
 Teníamos que empezar con las atracciones nuevas y tratar de entrar a todas las atracciones. Entrando al parque ves algunos personajes con los que niños y no tan niños se toman fotos. Habíamos escuchado que le espera para las atracciones principales en temporada alta es hasta de 2 horas pero como nosotros fuimos en temporada baja solo teníamos que esperan 4 minutos. Antes de visitar el parque pensaba que la espera era porque el personal del parque era lenta para los abordajes en las atracciones, mi sorpresa es que la fila nunca para de moverse realmente tienen bien coordinados los abordajes, cada atracción dura alrededor de 5 minutos y en termina empiezan a subir más gente ¡increíble!. 
 
-![Geo explotando de felicidad en Universal Studios](/content/images/2015/02/2015-01-15-10-50-40.jpg)
+![Geo explotando de felicidad en Universal Studios](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-10-50-40.jpg)
 
-![Rox y su cerveza Universal Studios](/content/images/2015/02/2015-01-15-12-26-41.jpg)
+![Rox y su cerveza Universal Studios](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-12-26-41.jpg)
 
 ##Simuladores
 
@@ -30,25 +30,25 @@ Habíamos planeado que nuestra primera parada seria el simulador de los Simpson,
 
 ###Los Simpsons 
 
-![Simpsons Ride Universal Florida](/content/images/2015/02/2015-01-15-18-29-20.jpg)
+![Simpsons Ride Universal Florida](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-18-29-20.jpg)
 
 Era momento de llegar a ver el simulador de **Los Simpsons** el tiempo de espera era de 30 minutos pero es ameno ya que mientras vas avanzando hay pantallas con cortos de la serie y ya cuando estas por subir al simulador en las pantallas te explican la trama de el mismo. Así como instrucciones de lo que no debes de hacer durante la simulación. La calidad de este simulados es demasiado buena, realmente logran hacerte sentir esa sensación de *cosquillas en el estomago*. La experiencia es muy divertida y dura alrededor de 5 minutos, para que se den una idea de lo mucho que me gusto esta experiencia me subí dos veces y tengo que admitir que en la primera vez hubo una parte donde cerré los ojos. Aun no sé si realmente soy muy *”gallina como diríamos en México”* o el simulador era extremadamente bueno.
 
 Saliendo del simulador encuentras las botargas de los personajes de los Simpson con los que puedes sacarte la foto del recuerdo. Saliendo del simulador encontraras una recreación de **Springfield**, puedes entrar a la *taberna de Moe* donde en realidad podrás compras *cerveza Duff*, si te da hambre no hay de qué preocuparse ya que también encontraras las famosas *krusty burger*. Sin duda alguna una exacta recreación de las principales atracciones y personajes de Springfield.
 
-![Estatua de Springfield](/content/images/2015/02/2015-01-15-12-23-34.jpg)
-![Geo en Krusty burger](/content/images/2015/02/2015-01-15-11-46-43.jpg)
-![La famosa cerveza Duff](/content/images/2015/02/2015-01-15-11-48-32.jpg)
+![Estatua de Springfield](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-12-23-34.jpg)
+![Geo en Krusty burger](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-11-46-43.jpg)
+![La famosa cerveza Duff](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-11-48-32.jpg)
 
 ### Transformers 
 
-![Eso que ven detrás de Geo es un Transformer](/content/images/2015/02/2015-01-15-12-27-00.jpg)
+![Eso que ven detrás de Geo es un Transformer](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-12-27-00.jpg)
 
 En este simulador *vives la experiencia en 3D* y el tiempo de espera también era de 30 minutos, lo bonito del tiempo de espera es que mientras vas avanzando podrás ir apreciando la decoración que hace referencia a las películas. En cuanto llegues a la parte donde están los lentes 3D es un hecho ya estas demasiado cerca. Ves nuevamente el video de advertencias de lo que no tienes que hacer y listo ¡a disfrutar de la acción!. El recorrido del simulador lo hacer en carros que tienen cupo para 8 personas. Seguramente si leen este articulo pensarán “ah, no dejan de ser simuladores” pero les prometo que son muy buenos te dan la sensación de velocidad, subidas, bajadas, etc. Lo increíble es que el movimiento real de los carros no es mucho. A este simulador también nos subimos dos veces, la primera nos fue de maravilla todo bien mientras que la segunda vez hubo una falla mecánica y nos quedamos parados como 10 minutos hasta que de reversa llegamos nuevamente a la entrada se disculparon por los inconvenientes y nos dijeron que podríamos subirnos más tarde. Lo gracioso del asunto es que nos subimos por segunda vez ya que faltaban 15 minutos para el show que hacen a las 7:00pm  y el tiempo de espera era de 10 minutos, si no hubiera sido por esa falla mecánica habríamos salido como héroes y con tiempos perfectos.
 
-![Bumblebee](/content/images/2015/02/2015-01-15-17-28-16.jpg)
+![Bumblebee](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-17-28-16.jpg)
 
-![Entrada al simulador de Transformers](/content/images/2015/02/2015-01-15-12-47-18.jpg)
+![Entrada al simulador de Transformers](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-12-47-18.jpg)
 
 ###Disaster
 Después de la comida era momento de continuar con las aventuras y se suponía que la próxima parada seria el mundo mágico de **Harry Potter** y sus amigos. Pero nos encontramos con *Disaster*, no sabíamos de que se trataba pero la fila de espera era nada así que decidimos entrar y apenas y los logramos porque en cuanto entramos cerraron las puertas. Salió un animador y pidió a cinco personas que fueran voluntarios aunque especificaba como los quería es decir “un niño que venga vestido con short” y así sucesivamente hasta juntar a los cinco “voluntarios. No tenía ni idea de que se trataba la confusión giraba en mi cabeza diciendo “wiii”, por fin les dijeron a los voluntarios que participarían en la grabación de una película llamada *Natural Disaster*. 
@@ -57,21 +57,21 @@ Nos pasaron a otra sala donde hablaban un poco de la importancia de la actuació
 
 Nos pasaron a otro cuarto que para mí fue donde empezó la diversión, el animador explico de que trataría la película y el papel que tendría cada uno de los voluntarios, estaba padre por que podías ver la producción de algunos efectos. Por último nos pidieron que subiéramos a un tren, el tren empezó a moverse y si no mal recuerdo se detenía en una parada del metro de [San Francisco](/tag/san-francisco) y empezó el caos. La luz empezó a fallar, algunas lámparas se caían, de repente terremoto, inundación caos ¡un aplauso! esa era la parte divertida pero aun no era todo, mientras regresábamos a la salida nos pusieron la película donde salían los voluntarios que habían escogido previamente, les quedo muy padre.
 
-![Simulador Disaster en Universal Orlando](/content/images/2015/02/2015-01-15-13-19-57.jpg)
+![Simulador Disaster en Universal Orlando](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-13-19-57.jpg)
 
 ###Harry Potter
 
-![Rox entrando al mundo mágico de Harry Potter](/content/images/2015/02/2015-01-15-13-53-04.jpg)
+![Rox entrando al mundo mágico de Harry Potter](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-13-53-04.jpg)
 
 Esta era la atracción más nueva del parque y la cantidad de gente que la estaba visitando lo dejaba claro, había gente que inclusive iba disfrazado con los uniformes de **Hogwarts**. La verdad no soy muy fan de las películas vi unas tres o cuatro y hace mucho sin embargo esta impresionada con la recreación que hicieron de la estación *King´s Cross en el andén 9 ¾* si no mal recuerdo (en realidad lo cheque en internet ¡te amo Google!). El detallado del escenario me dejo impresionada por ejemplo los cuadros se movían y la parte más divertida es que para los niños quienes por cierto eran una excelente fuente de ingresos. Les venden *varitas mágicas* con las que hacen sus hechizos y pasaban cosas maravillosas, había un bebedero que solo funcionaba con la varita en realidad eran muchos los trucos que ponían hacer los niños, se veía divertido ¡cool cool!.
 
 Queríamos llegar al simulador tiempo de espera 45 minutos ¡nooooo! Así hubieran sido dos horas tenía que esperarme. Como no podía pasar con mi bolsa tuve que hacer uso de sus modernos casilleros que como consejo no olviden el número de casillero. Mucha gente se le olvida el número y se convierte en una pérdida de tiempo para la gente que está formada esperando su turno para usarlos. Los casilleros son gratis hasta por 30 o 60 minutos, me imagino que trabajan de acuerdo al tiempo de espera para cada atracción ya que no tuvimos que pagar nada. La experiencia del simulador me encanto al principio empieza con un toque de adrenalina y los efectos muy buenos.
 
-![Harry Potter Universal Orlando](/content/images/2015/02/2015-01-15-13-54-34.jpg)
+![Harry Potter Universal Orlando](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-13-54-34.jpg)
 
-![Listos para entrar al simulador](/content/images/2015/02/2015-01-15-13-54-03.jpg)
+![Listos para entrar al simulador](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-13-54-03.jpg)
 
-![Banco Gringotts en Universal Orlando](/content/images/2015/02/2015-01-15-14-08-55.jpg)
+![Banco Gringotts en Universal Orlando](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-14-08-55.jpg)
 
 ###Regreso de La Momia
 
@@ -82,10 +82,10 @@ Después de la misión fallida llego la calma, entramos a dos atracciones que re
 ###Minions
 Esta atracción era un poco más para niños y el simulador era 3D, según indicaba en la pantalla el tiempo de espera era de 45 minutos ¡banana!. En fin quería verla. Realmente creo que solo estuvimos formados como 30 minutos, el acceso fue rápido. El simulador me gusto mucho pero lo que más me gusto eran las dos señoras de edad avanzada que estaban a mi lado, la forma en que disfrutaban y gritaban ¡no tenia precio! Una de esas veces donde te contagian el sentimiento, decidí hacerles segunda y gritar como si un minion disfrazado de *Freddy Krueger* me estuviera persiguiendo. La historia del simulador es tierna y está muy divertida tienen que verlo.
 
-![Simulador de Minions Universal Orlando](/content/images/2015/02/2015-01-15-11-06-01.jpg)
+![Simulador de Minions Universal Orlando](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-11-06-01.jpg)
 
 Al parecer, al menos en Orlando, podías meter tus propios snacks al parque. Vi a mucha gente que llevaba barritas, papas, chocolates, etc. Para la gente que viaja con niños me imagino que esto representa un gran ahorro, nosotros solo llevábamos una barra de chocolate y eso porque se me había olvidado sacarla de la bolsa (guiño guiño). Aun si hubiéramos llevado nuestros propios snacks estoy segura de que Geo no se hubiera resistido a la enorme pierna de pavo ahumada que vendían. Nuestra comida ese día fue de campeones, o de niños no lo se, una pierna enorme de pavo, unas *sabritas* y una cerveza.
 
-![Geo disfrutando de la pierna ahumada de pavo](/content/images/2015/02/IMG_20150115_125154.jpg)
+![Geo disfrutando de la pierna ahumada de pavo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150115_125154.jpg)
 
 Les puedo decir que ese día lo disfrute como pocos días, estaba muy divertida y Geo también, casi no habíamos comido ni bebido pero como nos habíamos divertido ahora les puedo decir que ese día valió los $103 dólares. Para regresarnos al hotel nos fuimos caminando tardamos como 20 minutos. Pasamos a un **7 Eleven** compramos un six de cerveza, dos rebanas de pizza, un burrito y unas papas ¿qué más necesitábamos? Nada. Nuestro hotel y la cena encajaban perfecto con el motel del terror. Ese día dormimos como piedras estábamos cansados “literal como niños cuando van a jugar al parque”.

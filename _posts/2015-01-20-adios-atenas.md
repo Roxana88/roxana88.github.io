@@ -3,7 +3,7 @@ layout: post
 title: "Adiós Atenas"
 tags: 
 author: rox
-image: /content/images/2015/01/2014-12-18-08-39-24-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-18-08-39-24-1.jpg
 ---
 Eran aproximadamente como las dos de la madrugada y una fuerte comezón en las muñecas me empezó a incomodar pero estaba muy cansada como para levantar y ver que era de repente escuche *uno de los sonidos que más odio en la noche, un molesto mosquito en la habitación* y suelo tener mucha suerte para que me piquen, me tape lo mejor que pude y decidí tratar de dormir nuevamente había pasado tiempo no sé exactamente cuánto y ahora tenía una sensación de comezón alrededor del cuello la cual trataba de calmar sin éxito aun quería dormir. 
 
@@ -17,7 +17,7 @@ Cuando Geo me vio me dijo "Tenemos que ir al doctor, solo tranquilízate" creo q
 
 No sé realmente que me causo la alergia pero sin duda volvería a comer todo lo que comí **YOLO**, Atenas supero mis expectativas una ciudad limpia con gente amable y de la comida ni hablar, de regresar claro que regresaría.
 
-![De nuestras últimas fotos, el templo de Zeus](/content/images/2015/01/2014-12-18-08-39-24.jpg)
+![De nuestras últimas fotos, el templo de Zeus](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-18-08-39-24.jpg)
 
 ##Precios en Atenas. 
 La cuestión de los precios en los alimentos y bebidas es muy relativa de acuerdo a la zona donde las consumas, nosotros lo hicimos en su mayoría en las zonas turísticas y los precios son de Diciembre 2014 en euros.

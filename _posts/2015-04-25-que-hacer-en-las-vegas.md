@@ -3,32 +3,32 @@ layout: post
 title: "¿Que hacer en las Vegas?"
 tags: 
 author: rox
-image: /content/images/2015/04/2013-12-26-18-20-08-HDR-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-18-20-08-HDR-1.jpg
 ---
 Si viajas en verano es muy probable que lo único que quieras hacer durante el día sea estar en las famosas **pool parties**, ya saben alcohol, música y trajes de baño ¡suena divertido!. La mayoría de la gente que visita las Vegas en verano en eso gasta sus horas del día *¿pero que pasa si viajas en invierno?* los hoteles tienen el área de la piscina fuera de servicio, así que tendrás que ingeniártelas pero estando en las Vegas sobra que hacer.
 Nosotros dedicamos gastar nuestras horas del día visitando **las Vegas Viejas** con la ilusión de despertar **los jugadores de pokar** que llevamos dentro y regresar millonarios a casa (cosa que no pasó). Visitando los Pubs en busca de *happy hour* uno de mis favoritos el Pub de **Gordon Ramsay** pensando que si tenía suerte aparecería nos casaríamos *(claro primero tendría que divorciarme de Geo ¿que clase de persona creen que soy?)* y estaría viviendo en [Londres](/tag/londres/), tendría cuatro hijastros y seria millonaria ¡cosa que tampoco paso!. Fue entonces cuando me di entendí la famosa frase *“lo que pasa en las Vegas se queda en las Vegas”*, ¿saben porque lo dicen? porque **no pasa nada**. Comparto con ustedes nuestras actividades durante el día.
-![Espere y espere y Gordon Ramsay nunca apareció](/content/images/2015/04/2013-12-28-13-35-54.jpg)
+![Espere y espere y Gordon Ramsay nunca apareció](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-28-13-35-54.jpg)
 
 ##Las viejas vegas
 Como les comente en mi post anterior de [las vegas](/las-vegas/) en **la strip** se encuentran los casinos nuevos y los grandes centros comerciales que se la viven en competencia para demostrar quien tiene el mejor **show**, también podrás ver a *los artistas y espectáculos del momento,* en pocas palabras la parte bonita y glamurosa. Pero qué pasa si quieres divertirte tal como lo hacen los locales, ¡gracias a Dios existen las viejas Vegas!.
-![La Strip Blvd. Las Vegas](/content/images/2015/04/2013-12-24-19-15-14.jpg)
+![La Strip Blvd. Las Vegas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-24-19-15-14.jpg)
 A diferencia de la Strip las Vegas Viejas es mucho más pequeña y no tan glamurosa, sin embargo vale la pena visitarlas y apreciar los casinos emblemáticos del lugar como el **Golden Nugget**, **Fremont**,  entre otros. Apostar en estos casinos es una buena opción para empezar a practicar sin perder tanto dinero, me gustaría verme importante y decir que realmente aprendí *el arte de las apuestas* pero lo unico que jugue fue **Black Jack y traga monedas** y aunque no lo crean también te generan ese sentimiento de incertidumbre ¿cuál será la próxima jugada de la computadora?. Otra plus que tiene es que en la mayoría de los casinos ofrecen **Spin** gratis con la oportunidad de ganar hasta $1,000 dólares **can you believe it?**, algo que observar mucho en estos casinos es a los locales de la tercera edad fumando y con sus tarjetas de prepago para las maquinas.
-![Adivinen ¿donde esta Geo?](/content/images/2015/04/2013-12-26-18-20-08-HDR.jpg)
-![¡hola estoy en las Vegas con mi sudadera de las Vegas! awesome](/content/images/2015/04/2013-12-26-17-16-56.jpg)
+![Adivinen ¿donde esta Geo?](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-18-20-08-HDR.jpg)
+![¡hola estoy en las Vegas con mi sudadera de las Vegas! awesome](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-17-16-56.jpg)
 
 ##Centro comerciales y outlets
 Los centro comerciales de las Vegas que se encuentran en **la Strip** no los puedes comparar con los que normalmente visitas, en primera porque la mayoría son temáticos y sus decoraciones con un poco de imaginación realmente *te transportan a diferentes partes del mundo* y si con eso no es suficiente, cada 30 minutos en ofrecen una clase de *show* que hace divertida la visita. Si quieren saber un poco más de los centros comerciales que visitamos y las temáticas de estos pueden leer mi post anterior de [Las Vegas](/las-vegas/).
-![Forum Shops las Vegas](/content/images/2015/04/2013-12-27-17-56-06.jpg)
+![Forum Shops las Vegas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-27-17-56-06.jpg)
 Hablando de las outles visite **Las Vegas North Premiun Outlets** y si quieres dedicarte a comprar realmente debes estar dispuesto a perder todo el día, en esta outlet encuentras muchas marcas conocidas pero la mecánica de compra es la siguiente, si tienes suerte podrás entrar a la tienda en cuanto llegas, pero si la marca es popular tendrás que hacer fila y permanecer formada hasta que llegue tu turno de entrar, en los locales solo se permite cierto número de personas es por eso que tendrás que esperar. Al menos en esta los precios no son increíbles, *mi consejo si es la primera vez que visitan un lugar no desperdicien su tiempo haciendo filas para comprar ropa y zapatos.*
 
 ##American shooters
-![esperando mi turno para entrar al cuarto de tiro](/content/images/2015/04/2013-12-26-12-04-11.jpg)
+![esperando mi turno para entrar al cuarto de tiro](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-12-04-11.jpg)
 Una de las cosas que siempre me había llamado la atención era aprender a disparar una arma, solo para gritar **¡Ay Jesús de Veracruz!** mientras disparaba ese siempre fue mi sueño. En las Vegas fue fácil volverlo realidad solo tuve que pagar por la renta del arma y municiones así que decidimos que sería divertido intentarlo. Llegamos a **Amerian shooters** y solo tuvimos que firmar una carta de *“Si me matan es porque soy una loquilla y no me importa entrar a un cuarto donde hay varias personas armas” y otra que era “No quiero matar a nadie solo practicar”*después de firmar te entregan el arma, las dianas(los papeles para practicar los tiros) que en este lugar tenían algunas temáticas de zombis los cuales costaban $2 dolares ¿quee?¿quien los compra? las Kardashian nosotros compramos el clásico naranja de $1 dólar, y por ultimo te entregan tus municiones y los audífonos.
-![Geo listo con su diana](/content/images/2015/04/2013-12-26-12-23-37.jpg)
+![Geo listo con su diana](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-12-23-37.jpg)
 Antes de entrar al cuarto de practica tienes que ponerte los audífonos, pero a nosotros aún nos faltaba algo saber cómo cargar y disparar el arma **#LOL**, aún recuerdo la cara del chico que nos rento el arma cuando le preguntamos *¿y como se carga?* creo que temia por su vida pero de seguro otros turistas ya habían hecho la misma pregunta ¡estamos en las Vegas **#YOLO!.**
 Aún recuerdo el sentimiento que tuve al entrar al cuarto de práctica y *escuchar el sonido de varias armas de fuego* siendo disparadas al mismo tiempo, si hubiera estado borracha en ese momento se me baja. Los nervios para dar el primer disparo eran bastantes solo pensaba cosas como.... ¿y si la cargo mal?¿y si se me duerme la mano?*¿ y si me desmayo?¿y si alguien se pone loquillo?¿ y si hubiera desayunado pan tostado con Nutella?* esa clase de preguntas que te hacen dudar acerca de tu decisión. Fue una experiencia muy divertida al último me quede con ganas de comprar más municiones para practicar más.
-![La prueba de que mi puntería fue mejor que la de Geo](/content/images/2015/04/2013-12-26-14-02-52-1.jpg)
+![La prueba de que mi puntería fue mejor que la de Geo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-14-02-52-1.jpg)
 
 ##Pubs 
 Como les comentaba perdimos buena parte del día conociendo los pubs y aprovechando las *happy hour*, en las Vegas encontramos varias cervezas interesantes e inclusive una que es realmente difícil de encontrar y la cual Geo se arrepintió varias veces por perder su oportunidad de probarla, un minuto de silencio por la cerveza **Samuel Adams Utopía** que Geo no probo.
-![No todo fue tristeza](/content/images/2015/04/2013-12-24-17-20-12.jpg)
+![No todo fue tristeza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-24-17-20-12.jpg)

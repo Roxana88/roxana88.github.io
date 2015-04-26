@@ -3,19 +3,19 @@ layout: post
 title: "HMS Belfast"
 tags: 
 author: geo
-image: /content/images/2015/03/2014-12-27-13-45-10-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-45-10-1.jpg
 ---
 Sobre el río Támesis, cercano al famoso **Puente de Londres**, se encuentra un museo flotante que es espectacular. Se trata del HMS Belfast, un navío de guerra del ejercito britanico usado en la **Segunda Guerra Mundial**. Aunque no se sea gran fan de los museos de guerra, este barco vale la pena, porque simplemente es un barco real que opero y ahora descansa para recibir visitantes. Aunque existen otros navíos que se pueden ver así, por ejemplo el **USS Constitution** en [Boston](/tag/boston), este si llama la atención.
 
-![HMS Belfast visto desde el Támesis](/content/images/2015/03/2014-12-27-13-45-10.jpg)
+![HMS Belfast visto desde el Támesis](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-45-10.jpg)
 
 Por un muelle se entra al barco directo al frente donde se puede ver la magnitud del navío. Hay unas flechas indicando como hacer el recorrido, pero si no hay mucha gente puedes simplemente andar por ahí tomando fotos. Como nosotros hicimos. Queríamos perdernos en el barco, que eran como unos 9 niveles. Se puede ver hasta el cuarto de maquinas.
 
-![Frente del HMS Belfast](/content/images/2015/03/2014-12-27-13-26-10.jpg)
+![Frente del HMS Belfast](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-26-10.jpg)
 
 Se puede entrar a las torretas donde se pueden ver algunas filmaciones de como se operan y tomas de los disparos que se realizaron en el barco. Es increible el tamaño de los misiles, y la cantidad de palancas e interruptores que se tenían que usar para mover con precisión esos cañones. Aunque no hay muchas interacciones, no es como que un museo de ese tipo, es agradable poder tocar esos controles e imaginar la locura de calor y presión en esos espacios tan reducidos.
 
-![En el interior del barco](/content/images/2015/03/2014-12-27-13-34-52.jpg)
+![En el interior del barco](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-34-52.jpg)
 
 En el interior del barco, hay imitaciones "realistas" de la tripulación en posiciones de combate. Lo cual es divertido porque algunos tienen cara de locos. Se puede ver como lucía la cocina, cuarto de radares y comunicación, así como las hamacas o camas dependiendo el rango. Las habitaciones más glamourosas son apenas un pequeño cajón con una cama muy pequeña y baul. Eso de vivir en altamar no parece nada divertido, y menos en tiempo de guerra. Había narraciones de que dormían como 4 horas, para seguir en ataques belicos.
 
@@ -31,4 +31,4 @@ Como complemento, se puede visitar las **Salas de Guerra de Churchill** (Churchi
 
 El HSM Belfast se encuentra entre London Brige y Tower Bridge, del lado sur del rio. La estación de metro más cercana es **London Bridge** que son unos 5 minutos caminando. También se puede llegar por crucero, la mayoría hacen parada en el Tower Bridge, aunque del otro lado del río. El lobby de la atracción tiene un restaurante y un bar, aunque como fuimos en invierno no estaban abiertos. Aún así hay mucho que ver por la zona.
 
-![Rox de marinera](/content/images/2015/03/2014-12-27-13-16-32.jpg)
+![Rox de marinera](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-16-32.jpg)
