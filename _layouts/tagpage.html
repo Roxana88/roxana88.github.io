@@ -6,67 +6,72 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-md-12 posts">
+                <div class="tag-heading">
+                    <div class="post-image" style="background-image: url({{page.image}});">&nbsp;</div>
+                    <h2>{{page.title}}</h2>
+                    <p>{{page.description}}</p>
+                    <hr />
+                </div>
+
+                {% for post in site.tags[page.tag] %}
                 <article class="post">
                     <div class="post-header">
                         <div class="post-title">
-                            <h2>{{ page.tag }}</h2>
+                            <h2><a href="{{post.url}}">{{{post.title}}}</a></h2>
+                        </div>
+                        <div class="post-date hidden-sm hidden-xs">
+                            <span title="{{post.date | date:"%Y" }}">{{post.date | date:"%d"}}</span>
+                            {{post.date | date:"%B"}}
                         </div>
                     </div>
-
-                    <hr class="divider" />
                     <div class="post-content">
-                        <ul>
-                            {% for post in site.tags[page.tag] %}
-                            <li>
-                                {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
-                            </li>
-                            {% endfor %}
-                        </ul>
+                        <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
+                        <p>
+                            {{post.excerpt | strip_html}}...
+                        </p>
+                        <a href="{{post.url}}" class="btn btn-success">Continuar leyendo</a>
                     </div>
                     <hr />
                     <div class="post-meta">
-                        Fecha: {{page.date | date_to_string}} - Autor: <span class="author-name">{{author.name}}</span>
-                        <br />
+                        Fecha: {{post.date| date_to_string}}
+                        
                         <div class="share-icons">
-                            Compartir: <i class="fa fa-share"></i>
+                            Comparte en Redes Sociales:
                             <ul class="list-inline list-share-icons">
                                 <li>
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{post.url}}"
                                        onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i class="fa fa-facebook fb-tooltip"></i></a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/share?text={{page.title}}&amp;url={{ site.url }}{{page.url}}"
+                                    <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{post.url}}"
                                        onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="fa fa-twitter tw-tooltip"></i></a>
                                 </li>
                                 <li>
-                                    <a href="https://plus.google.com/share?url={{ site.url }}{{page.url}}"
+                                    <a href="https://plus.google.com/share?url={{ site.url }}{{post.url}}"
                                        onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"><i class="fa fa-google-plus gp-tooltip"></i></a>
                                 </li>
                             </ul>
                         </div>
-                        <hr class="divider" />
-
-                        {% include mailchimp.html %}
-                        <hr class="divider" />
-
-                        <div class="text-center hidden-sm hidden-xs">
-                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Tamal -->
-                            <div style="text-align: center">
-                                <ins class="adsbygoogle"
-                                     style="display:inline-block;width:728px;height:90px"
-                                     data-ad-client="ca-pub-7312968410890852"
-                                     data-ad-slot="2217745225"></ins>
-                                <script>
-                                    (adsbygoogle = window.adsbygoogle || []).push({});
-                                </script>
-                            </div>
-                        </div>
                     </div>
+                    <hr class="divider" />
                 </article>
+
+                {% endfor %}
+                <hr class="divider" />
+                <div class="text-center hidden-sm hidden-xs">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- Tamal -->
+                    <div style="text-align: center">
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-7312968410890852"
+                             data-ad-slot="2217745225"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-
