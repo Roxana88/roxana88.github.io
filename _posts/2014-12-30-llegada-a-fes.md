@@ -33,9 +33,9 @@ Para ir al restaurante un chico va por ti al hotel y tienes que seguirlo a trav�
 
 ![Entradas para compartir](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG-20141230-WA0001-1.jpg)
 
-**Primer tiempo** era platos pequeños con diversas entradas como papas, nopal, zanahorias, betabel y lentejas entre otras cosas que no sabía que eran. **Segundo tiempo** era el plato fuerte y Geo pidió un **Tajine de pollo** lo que recibió fue un montón de cuscús con verduras y un pedacito de pollo. Yo pedí la **Pastilla**, que es un hojaldre relleno de pollo con almendras y nuez espolvoreado de azucar glas y canela. El sabor era curioso y no lo volvería a comer.
+**Primer tiempo** era platos pequeños con diversas entradas como papas, nopal, zanahorias, betabel y lentejas entre otras cosas que no sabía que eran. **Segundo tiempo** era el plato fuerte y Geo pidió un **Tajine de pollo** lo que recibió fue un montón de cuscús con verduras y un pedacito de pollo. Yo pedí la **Pastilla**, que es un hojaldre relleno de pollo con almendras y nuez espolvoreado de azúcar glas y canela. El sabor era curioso y no lo volvería a comer.
 
-![Foto del Tajine de pollo](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG-20141230-WA0002-1.jpg)
+![Tajine de pollo](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG-20141230-WA0002-1.jpg)
 
 Acabado el segundo tiempo uno de los chicos volvió a pedir su té la respuesta del mesero no, le dijo que seguía la fruta yo solo veía la tristeza del chico, en el lugar no era lo que tu querías y había quedado claro primero te sientan donde quieren y luego te dan la comida en el orden que quieren. **Tercer tiempo** era un plato de mandarinas como con cuatro plátanos verdes. El **cuarto tiempo** ¡Por fin llegó el té! vi al chico casi llorando de felicidad, el te iba acompañado de unas galletas medias feas.
 
