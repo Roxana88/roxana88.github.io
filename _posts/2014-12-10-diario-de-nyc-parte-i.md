@@ -61,7 +61,7 @@ Derrotados por no encontrar el mercado, caminamos al **Atlantic Mall** (creo era
 
 [Katz](http://katzsdelicatessen.com/) *es un deli tradicional*, que preparan diversas carnes como Pastrami, Roast Beef, Corn Beef, Brisket, etc. Una chulada de lugar, que solo se ve ofuscada por la forma de comprar, que para nuestra mala suerte fue locura. Básicamente te dan un ticket vacío, con el cual te tienes que formar con algún muchacho (los cuales eran latinos todos), para que te prepare un delicioso **Ruben**. La espera vale la pena, y aunque un poco elevado el precio, bien merece los 16 dólares que cuesta. Un punto a favor que la *cervecería Brooklyn*, prepara una cerveza tipo *ale* exclusivamente para el lugar. 
 
-Es bastante buen lugar para probar un delicioso pedazito de pan con mucha carne. Nos gusto tanto que posteriormente iriamos a desayunar. Como dato curioso, había una pared con las típicas fotos de celebridades que han visitado el lugar, y el único que reconocimos fue a *Vicente Fox*, lástima que no pudimos tomar una foto de la foto.
+Es bastante buen lugar para probar un delicioso pedazito de pan con mucha carne. Nos gusto tanto que posteriormente iríamos a desayunar. Como dato curioso, había una pared con las típicas fotos de celebridades que han visitado el lugar, y el único que reconocimos fue a *Vicente Fox*, lástima que no pudimos tomar una foto de la foto.
 
 ![Times Square de noche](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09035.JPG)
 

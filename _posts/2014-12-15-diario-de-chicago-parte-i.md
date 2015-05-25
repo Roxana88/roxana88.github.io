@@ -38,19 +38,19 @@ Ya comidos, regresamos a girar un poco, más no recuerdo bien que tanto giramos,
 
 ![Portillos en todo su esplendor con Samuel Adams](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/316.JPG)
 
-Pasamos por varios lugares random, como un extraño **Oktoberfest** que celebraban en una explanada de unos edificios, pero como la cerveza no estaba tan cool (era cerveza *Berghoff*) nos fuimos pronto. Después de recorrer un poco la ciudad, era momento de verla por las alturas, así que tomamos camino al **Skydeck**. Como ya casi anochecía, era el momento idóneo, porque yo quería ver el atardecer desde las alturas. 
+Pasamos por varios lugares aleatorios, como un extraño **Oktoberfest** que celebraban en una explanada de unos edificios, pero como la cerveza no estaba tan cool (era cerveza *Berghoff*) nos fuimos pronto. Después de recorrer un poco la ciudad, era momento de verla por las alturas, así que tomamos camino al **Skydeck**. Como ya casi anochecía, era el momento idóneo, porque yo quería ver el atardecer desde las alturas. 
 
 ![Cubo mágico de Skydeck](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-13-19-13-34.jpg)
 
-Recuerdo que si habia algo de gente, no tanta, pero lo suficiente para impedirte mover libremente entre las ventanas y sobre todo de pararte en las cajas de cristal que cuelgan por los lados y tomarte fotos mientras mueres de miedo. Esta loquisimo ver el suelo a tanta distancia debajo de ti. Anocheció y tomamos unas cuantas mas fotos de noche, es buena idea ese momento porque tomas fotos tanto con luz de dia como de la noche, pero si te tienes que quemar como una hora para que se aprecie bien la diferencia.
+Recuerdo que si había algo de gente, no tanta, pero lo suficiente para impedirte mover libremente entre las ventanas y sobre todo de pararte en las cajas de cristal que cuelgan por los lados y tomarte fotos mientras mueres de miedo. Esta loquisimo ver el suelo a tanta distancia debajo de ti. Anocheció y tomamos unas cuantas mas fotos de noche, es buena idea ese momento porque tomas fotos tanto con luz de día como de la noche, pero si te tienes que quemar como una hora para que se aprecie bien la diferencia.
 
 ![Vista nocturna desde Skydeck](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-13-19-24-27.jpg)
 
-Para cenar fuimos a **Goose Island**, con un exquisito *flight* de cervezas y de comida.Estábamos algo abrumados del apetito, por lo que solo pedimos dos entradas para compartir pero valieron la pena. Yo probe todas las *sours beers* que tenian en flight, y me encantaron. Lo que si me apendeje y no compre algo de *Bourbon County*, y no pude beber en todo el viaje. Aún así quedé encantado de *Matilda, Lolita y sus hermanitas*. 
+Para cenar fuimos a **Goose Island**, con un exquisito *flight* de cervezas y de comida.Estábamos algo abrumados del apetito, por lo que solo pedimos dos entradas para compartir pero valieron la pena. Yo probé todas las *sours beers* que tenian en flight, y me encantaron. Lo que si me deje ver lento y no compre algo de *Bourbon County*, y no pude beber en todo el viaje. Aún así quedé encantado de *Matilda, Lolita y sus hermanitas*. 
 
 ![Goose Island](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-13-20-17-59.jpg)
 
-En esa ocasión quería seguir bebiendo, pero el restaurante estaba algo lejos así que mejor lo dejamos tranquilo. Fue bastante buen día, porque abarcamos dos atracciones, dos restaurantes del itinerario y bastantes kilometros de la ciudad. 
+En esa ocasión quería seguir bebiendo, pero el restaurante estaba algo lejos así que mejor lo dejamos tranquilo. Fue bastante buen día, porque abarcamos dos atracciones, dos restaurantes del itinerario y bastantes kilómetros de la ciudad. 
 
 ![Flights](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-13-20-30-50.jpg)
 
@@ -68,13 +68,13 @@ Como el *CityPass* ya incluye la entrada al *The Field*, **para ver unos cuantos
 
 ![T.REX](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-14-12-00-28.jpg)
 
-Caminamos muchas cuadras kilométricas para llegar a la tienda de insumos, en mi loco afán de comprar caramelo belga y tonterías.  Pasamos también por el barrio griego que olía bien, pero ya nos habíamos empacado de *McDonald's* y esperábamos noticias de Iunk, que supuestamente veríamos para comer deep dish… lo cual fue una mentira.
+Caminamos muchas cuadras kilométricas para llegar a la tienda de insumos, en mi loco afán de comprar caramelo belga y tonterías.  Pasamos también por el barrio griego que olía bien, pero ya nos habíamos empacado de *McDonald's* y esperábamos noticias de Iunk, que supuestamente veríamos para comer Deep dish… lo cual fue una mentira.
 
 ![Show de delfines](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-14-10-21-29.jpg)
 
 La tienda de *homebrewing* fue genial, era enorme y también tenían cosas para crecer lúpulos y así. El sujeto que me atendió fue de gran ayuda y asi, y me recomendó cervezas y lugares locales. Uno de ellos, obviamente ya tenía en el itinerario **Haytmarket**. 
 
-Saliendo de la tienda pasamos a este pub, que estaba a pocas cuadras. El lugar era genial porque tenían mucha variedad, cosas extrañas como *Black Saison*, que pensé solo eran leyendas. Tomamos varios flights mientras molestaba por telefono a Iunk para que llegara.
+Saliendo de la tienda pasamos a este pub, que estaba a pocas cuadras. El lugar era genial porque tenían mucha variedad, cosas extrañas como *Black Saison*, que pensé solo eran leyendas. Tomamos varios flights mientras molestaba por teléfono a Iunk para que llegara.
 
 ![Flights de Haytmarket](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/377.JPG)
 

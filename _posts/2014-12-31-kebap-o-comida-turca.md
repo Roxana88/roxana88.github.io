@@ -10,7 +10,7 @@ La gastronomía turca es basta, no tan compleja como podría imaginar al princip
 ##Desayuno
 En [Turquía](/tag/turquia) tienen una especie de desayuno base, el *chay* (te negro turco) y el **simit** (un pan en forma de dona variado en tamaño). Es lo más barato que puedes comer, no te llenas pero es algo. Ya si te vas a sentar, al dúo le agregan unos jitomates y pepinos crudos, un poco de yogur y miel. Es el siguiente paso en desayunos básicos. 
 
-Aunque hay una variente al simit, que es el **borek**, es una masa húmeda en capas con queso como lasaña, con o sin relleno; este podía ser espinacas, queso o carne molida. Los turcos aman su carne molida a lo que vi. 
+Aunque hay una variante al simit, que es el **borek**, es una masa húmeda en capas con queso como lasaña, con o sin relleno; este podía ser espinacas, queso o carne molida. Los turcos aman su carne molida a lo que vi. 
 
 ![Borek](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141221_085021314_HDR.jpg)
 
@@ -56,6 +56,6 @@ Había ravioles en Turquía, de nombre **manti** y sonbuenos. Con la misma masa 
 
 Finalmente, para los amantes de la cerveza tenemos un foco rojo, bueno no es para tanto. Turquía es más fácil conseguir cerveza que en [Marruecos](/tag/marruecos). Existe, a lo que vi, una sola marca de cerveza **Efes**, con unos 5 estilos lagers, su principal era una pilsner muy light, y unas cuantas cervezas importadas. 
 
-Había la leyenda de un brewpub al norte de Estambul, de unos ingleses, pero muy malas reseñas y quedaba muy alejado. La ciudad si es bastante grande. Conseguir cerveza era fácil en restaurantes que fueran digamos de más nivel o turísticos, en las fondas (büfes) era imposible. En tiendas solo en algunas. 
+Había la leyenda de un **brewpub** al norte de Estambul, de unos ingleses, pero muy malas reseñas y quedaba muy alejado. La ciudad si es bastante grande. Conseguir cerveza era fácil en restaurantes que fueran digamos de más nivel o turísticos, en las fondas (büfes) era imposible. En tiendas solo en algunas. 
 
 El precio en restaurante por cerveza era el doble que en tienda, y casi siempre era de barril. Rox no gusto de las cervezas locales y solo bebía te turco. Y a mi me gusto la Efes Xtra, que la vendían en shot de unos 200 ml y era una lager de adjuntos con 9 grados, similar a la Baltika 9. Era dulce y basurienta, pero era fácil de cargar y beber rápido, si saben a lo que me refiero.

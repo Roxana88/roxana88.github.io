@@ -26,6 +26,8 @@ En este sitio fueron filmadas diversas películas, incluso escenas de **Game of 
 * **Identificador UNESCO** - [444](http://whc.unesco.org/en/list/444)
 * **Consideraciones** - Es un lugar al aire libre, protegerse del sol no esta de más.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d109452.56495574967!2d-7.065091986256353!3d30.987426785855092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C+Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt+Ben+Haddou%2C+Souss-Massa-Draa%2C+Morocco!3m2!1d31.047043!2d-7.1318996!5e0!3m2!1sen!2s!4v1424388325798" width="600" height="450" frameborder="0" style="border:0"></iframe>
+<div class="embed-responsive embed-responsive-16by9">  
+<iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d109452.56495574967!2d-7.065091986256353!3d30.987426785855092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C+Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt+Ben+Haddou%2C+Souss-Massa-Draa%2C+Morocco!3m2!1d31.047043!2d-7.1318996!5e0!3m2!1sen!2s!4v1424388325798" class="embed-responsive-item" frameborder="0" style="border:0"></iframe>
+</div>
 
 Para llegar a Ait Ben Hadu desde Ouarzazate hay que tomar la carretera en dirección a [Marrakech](/tag/marrakech) tomando la desviación ligeramente indicada. Lo más conveniente es tomar un guía, dado que hay diversos puntos de interes tanto en Ouarzazate como en el camino a Ait Ben Hadu. En estas partes más rurales de Marruecos es dificil ver transporte público, una de las pocas opciones es el **Grand Taxi** que en ocasiones es compartido. Aunque los conductores de estos taxis, son un poco agresivos al volante.
