@@ -2,7 +2,7 @@ gems:
   - jekyll-sitemap
 
 paginate: 6
-permalink: /:title/index.html
+permalink: /:title/
 
 url: http://www.tamalesconpasaporte.com
 
