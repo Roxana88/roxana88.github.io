@@ -92,7 +92,7 @@ layout: default
                             <div style="background-image: url({{page.previous.image}}); background-size: cover; opacity: 0.4;float: right;width: 100%;min-height: 200px; border-radius: 20px 0 0 20px;"></div>
                             <div style="position: absolute;margin: 10px;">
                                 <h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
-                                <p>{{page.previous.excerpt | strip_html}}...</p>
+                                <p>{{page.previous.excerpt | strip_html | truncate: 30 }}...</p>
                             </div>
                         </div>
                         {% endif %}
@@ -101,7 +101,7 @@ layout: default
                             <div style="background-image: url({{page.next.image}}); background-size: cover; opacity: 0.4;float: right;width: 100%;min-height: 200px; border-radius: 0 20px 0 20px;"></div>
                             <div style="position: absolute;margin: 10px;">
                                 <h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
-                                <p>{{page.next.excerpt | strip_html}}...</p>
+                                <p>{{page.next.excerpt | strip_html | truncate: 30 }}...</p>
                             </div>
                         </div>
                         {% endif %}
