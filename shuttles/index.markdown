@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Shuttles"
-tags: 
-author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/duh--7-.JPG
 ---
 **¿Qué es un shuttle?** Un shuttle es un servicio de transporte, que normalmente encuentras en aeropuertos, y conectan rutas tanto definidas como por demanda. El objetivo de un shuttle es proveer un servicio más barato que un taxi convencional donde otros servicios masivos como autobus, metro o incluso tren no llegan.

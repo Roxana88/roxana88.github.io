@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Navegar por tiempo"
-tags: 
-author: geo
-image: null
 ---
 Utiliza el siguiente listado por años para navegar nuestros artículos de relatos relacionados.
 

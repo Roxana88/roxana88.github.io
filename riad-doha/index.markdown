@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Riad Doha"
-image: null
 ---
 Nos ibamos a hospedar en este hotel, Riad Doha de la ciudad de [Fes](/tag/fes) en [Marruecos](/tag/marruecos), en Diciembre del [2014](/tag/2014). Pero al parecer tienen la mala práctica de sobrevender (overbooking) las habitaciones y nos mandaron a otro lugar que no era la habitación que queríamos. El segundo lugar se llama [Riad Nassim](/riad-nassim/). No recomiendo ninguno de los lugares.
 

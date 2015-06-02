@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Diversión en Las Vegas"
-tags: 
-author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2013-12-26-20-42-02-HDR.jpg
 ---
 Si estas por viajar a la fabulosa ciudad de [Las Vegas](/tag/las-vegas), Nevadas te recomendamos nuestros artículos:

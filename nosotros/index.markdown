@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Nosotros"
-tags: 
-author: geo
-image: null
 ---
 Hola, somos **Geo** y **Rox** una pareja mexicana que un día despertó harta de comer tacos con salsa, beber tequila y escuchar mariachi ¡Al diablo con esto nos vamos a visitar Europa! así empezó todo. En este blog compartimos las anécdotas buenas y malas de nuestros viajes ¡que bonito es ser turista y hacer burradas !, nada te hablara de  un lugar como su comida ¡que bonita es la indigestión si no te enfermas no viajaste! y por último no nos podemos olvidar de esos licores que nos dan la fuerza que necesitamos para turistear. Estos somos nosotros dos personas que disfrutamos de viajar, comer, beber y compartir las experiencias vividas.
 

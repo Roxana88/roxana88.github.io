@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Blogs de viajeros"
-tags: 
-author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43-1.jpg
 ---
 Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes.

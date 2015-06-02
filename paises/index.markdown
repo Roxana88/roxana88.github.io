@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Navegar por país"
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-16-20-49.jpg
 ---

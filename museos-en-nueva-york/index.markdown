@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Museos en Nueva York"
-tags: 
-author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-12-34-29.jpg
 ---
 Si visitas la ciudad de [New York](/tag/new-york) no olvides visitar al menos uno, o dos, de sus increíbles museos. Nosotros te detallamos sobre algunos:

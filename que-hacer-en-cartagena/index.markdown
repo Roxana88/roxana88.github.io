@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "¿Qué hacer en Cartagena?"
-tags: 
-author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-05-24-09-59-45.jpg
 ---
 ¿Planeas viajar a [Cartagena](/tag/cartagena), Colombia? No olvides checar nuestros artículos con tips e información sobre que hacer y que ver en Cartagena de Indias.

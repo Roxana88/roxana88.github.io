@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "¿Qué hacer en Estambul? Nosotros te decimos"
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-19-15-01-19.jpg
 ---
