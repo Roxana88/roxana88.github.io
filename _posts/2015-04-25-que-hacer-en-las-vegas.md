@@ -53,3 +53,5 @@ Aún recuerdo el sentimiento que tuve al entrar al cuarto de práctica y *escuch
 Como les comentaba perdimos buena parte del día conociendo los bares y pubs, aprovechando las *happy hour*. En las Vegas encontramos varias cervezas interesantes e inclusive una que es realmente difícil de encontrar. Geo se arrepintió varias veces por perder su oportunidad de probarla, un minuto de silencio por la cerveza **Samuel Adams Utopias** que Geo no probo.
 
 ![No todo fue tristeza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-24-17-20-12.jpg)
+
+Así que si te preguntas ¿qué hacer en Las Vegas? La respuesta es sencilla, ¡divertirte!

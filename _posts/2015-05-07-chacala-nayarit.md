@@ -5,7 +5,7 @@ tags:
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-03-08-23-20.jpg
 ---
-Era sábado por la mañana y estaba un poco desilusionada del viaje, habíamos perdido todo el día anterior en llegar a **Rincón de Guayabitos** debido a los problemas de seguridad en [Guadalajara](/tag/guadalajara/). En mi post [Un día épico](un-día-Épico) podrán leer todo el drama completo. 
+Era sábado por la mañana y estaba un poco desilusionada del viaje, habíamos perdido todo el día anterior en llegar a **Rincón de Guayabitos** debido a los problemas de seguridad en [Guadalajara](/tag/guadalajara/). En mi post [Un día épico](/un-dia-epico/) podrán leer todo el drama completo. 
 
 Aún sin hotel comenzamos a buscar opciones de hospedaje y solo encontramos un cuartos que con lo único que contaban era con una cama y un mini baño, me sentía derrotada y mi cara comenzaba a articular pucheros. 
 

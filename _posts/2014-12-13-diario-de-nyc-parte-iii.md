@@ -18,7 +18,7 @@ Caminamos por la Quinta Avenida, viendo muchas tiendas elegantes, y el **Rockefe
 
 ![Washington Square](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2012-12-27-13-43-45.jpg)
 
-El plan para ese día era lo mejor, pues iriamos a **Minetta Tavern** y probar su carisima hamburguesa de carne azul, recorriendo largas cantidades de Manhattan, hasta llegar a **Washington Square** y la zona universitaria. Aquí tengo una anécdota muy divertida, pues en el parque había letreros que decían "*Don't feed the pigeons*", y Rox me comenta, oye pero no hay pinguinos. Jeje. 
+El plan para ese día era lo mejor, pues iríamos a **Minetta Tavern** y probar su carisima hamburguesa de carne azul, recorriendo largas cantidades de Manhattan, hasta llegar a **Washington Square** y la zona universitaria. Aquí tengo una anécdota muy divertida, pues en el parque había letreros que decían "*Don't feed the pigeons*", y Rox me comenta, oye pero no hay pinguinos, jeje. 
 
 ![Rox con su carisima burger](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2012-12-27-14-58-56.jpg)
 
@@ -63,15 +63,15 @@ Con algo de hambre, y un poco borrachos, decidimos ir a **Chelsea Market**, por 
 
 ![Rox disfrutando de su langosta](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2012-12-29-14-51-45.jpg)
 
-Regresamos a **Times Square** para despedirnos, puesto que al día siguiente ya teníamos que partir de regreso. Hubo un momento curioso puesto que un señor se me acerco a pedir dinero en español pero me hablo con un acento caribeño y yo me puse a hablar con él en el mismo acento. Yo no me di cuenta, pero Rox se carcajeo de mi al escuchar lo que pasaba. No caminamos tanto en Times Square porque si habia mucha gente, en realidad mucha gente. Y todos se alistaban para la fiesta de año nuevo que estaba tan próxima. En el hotel se nos quedaron viendo con rareza cuando sabíamos que dejabamos la habitación un día antes del caos.
+Regresamos a **Times Square** para despedirnos, puesto que al día siguiente ya teníamos que partir de regreso. Hubo un momento curioso puesto que un señor se me acerco a pedir dinero en español pero me hablo con un acento caribeño y yo me puse a hablar con él en el mismo acento. Yo no me di cuenta, pero Rox se carcajeo de mi al escuchar lo que pasaba. No caminamos tanto en Times Square porque si habia mucha gente, en realidad mucha gente. Y todos se alistaban para la fiesta de año nuevo que estaba tan próxima. En el hotel se nos quedaron viendo con rareza cuando sabíamos que dejábamos la habitación un día antes del caos.
 
-![](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09722.JPG)
+![Hermosa vista del Empire State Building](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09722.JPG)
 
 ##Domingo 30 de Diciembre 2012
 Al parecer los domingos en general son tranquilos, salimos del hotel, y había casi nula actividad en las calles, aunque el sábado por la noche era una locura por todos lados, sobre todo en Time Square que era imposible caminar. El regreso si fue bastante tranquilo, tomando el tren a **Newark**, y bebiendo en los aeropuertos un poco de *Samuel Adams*, nunca esta de mas una o dos pintas antes de regresar a casa.
 
 ![Adiós NYC](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09723.JPG)
 
-NYC me encanto, de lo que conozco de este mundo, definitivamente esta en el mejor lugar. Fue exactamente como lo imagine, o mejor, no como [Paris](/tag/paris) o [Roma](/tag/roma) que era mucho el romance detrás. Si quiero regresar a NYC, cuantas veces pueda, de hecho es la idea poder llegar aquí en el [2015](/tag/2015) y disfrutar de sus calles, y quizás conocer un poco areas que no logre cubrir como **Harlem** y **Queens**, y ver un poco más de **Brooklyn**. Esa es la idea, pero Manhattan es muy poderosa y no me deja salir.
+NYC me encanto, de lo que conozco de este mundo, definitivamente esta en el mejor lugar. Fue exactamente como lo imagine, o mejor, no como [Paris](/tag/paris) o [Roma](/tag/roma) que era mucho el romance detrás. Si quiero regresar a NYC, cuantas veces pueda, de hecho es la idea poder llegar aquí en el [2015](/tag/2015) y disfrutar de sus calles, y quizás conocer un poco áreas que no logre cubrir como **Harlem** y **Queens**, y ver un poco más de **Brooklyn**. Esa es la idea, pero Manhattan es muy poderosa y no me deja salir.
 
 En cuestión *foody* lo que deje ir es probar la pizza estilo *New York*, y probar las populares hamburguesas de **Shake Shack**, que según la gente son las mejores. ¿Volveremos a Katz? Quizás, me encanta la carne de ahí.

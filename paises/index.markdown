@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Navegar por pais
+layout: post
+title: "Navegar por país"
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-16-20-49.jpg
 ---
 Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes. Esperemos incluir muchos más en un futuro cercano.
 
@@ -15,7 +16,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [Holanda](/tag/holanda) - Amsterdam
 * [Italia](/tag/italia) - Florencia, Roma
 * [Marruecos](/tag/marruecos) - Fez, Marrakesh, Rabat, Casablanca, Zagora
-* [México](/tag/mexico) - Guadalajara, Puerto Vallarta, Tequila, Cancún, Veracruz, Ciudad de México, Guanajuato, Creel
+* [México](/tag/mexico) - Guadalajara, Puerto Vallarta, Tequila, Cancún, Veracruz, Ciudad de México, Guanajuato, Creel, Cuernavaca
 * [Panamá](/tag/panama) - Ciudad de Panamá
 * [Reino Unido](/tag/reino-unido) - Londres
 * [República Checa](/tag/republica-checa) - Praga, Pilzn
@@ -24,4 +25,4 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 
 También revisa nuestra [lista por años](/tiempo) o checa nuestro [mapa interactivo](/mapa).
 
-![Rox en Estambul](/content/images/2015/05/2014-12-19-16-20-49-1.jpg)
+![Rox en Estambul](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-16-20-49-1.jpg)

@@ -9,7 +9,7 @@ Pienso que la idea de recorrer todo el mundo, o al menos darle la vuelta, ha est
 
 Los grupos de aerolíneas, que cuentan con un red de miembros suficientemente extensa como para dar cobertura mundial, crearon este esquema de boletaje que consiste en poder hacer la vuelta al mundo (en 80 días o en el tiempo que quieras) con un precio reducido. Claro que reducido a la cantidad de kilómetros que se viajan aún así es un precio considerable, pero muchas veces más barato que los vuelos separados.
 
-StarAlliance, OneWorld y SkyTeam son los grupos de aerolíneas con este servicio, y otros servicios similares, que generalizando te permiten una cantidad limitada de vuelos, de destinos finales, de países y viaje en una sola dirección. Por ejemplo si de [América](/tag/america) sales a [Europa](/tag/europa), ya no puedes volver cruzar el Océano Atlantico   por lo que tienes que pasar por el Océano Pacífico para regresar a América.
+StarAlliance, OneWorld y SkyTeam son los grupos de aerolíneas con este servicio, y otros servicios similares, que generalizando te permiten una cantidad limitada de vuelos, de destinos finales, de países y viaje en una sola dirección. Por ejemplo si de [América](/tag/america) sales a [Europa](/tag/europa), ya no puedes volver cruzar el Océano Atlántico por lo que tienes que pasar por el Océano Pacífico para regresar a América.
 
 Las reglas difieren un poco entre cada paquete, pero son sencillas y todas las compañías tienen un divertido planificador que te permite diseñar tu ruta y hasta darte un estimado. Solo que si no cumples una de las reglas, el precio puede ser mayor dado que manejan rangos ya sea en países o en kilómetros.
 
@@ -21,7 +21,7 @@ El servicio de StarAlliance (más información en su [sitio web](https://www.sta
 
 Pongamos un ejemplo sencillo, la ruta Guadalajara-Tokio-Bangkok-Amsterdam-Londres-New York-Guadaljara, consiste en 9 vuelos (esto porque no todos son directos), 5 paradas y 24 mil millas. Se puede ajustar y los agregar como paradas las conexiones. Este boleto RTW esta estimado en $68 mil pesos. Considerando que vuelas Asia-Europa-América, no es tan descabellado.
 
-Si aumentamos un destino, digamos [Estambul](/tag/estambul) entre Bangkok y [Amsterdam](/tag/Amsterdam) las millas aumentan a poco más de 29 mil y el precio a $89 mil. Un incremento considerable, considerando que solo son 5 mil millas más.
+Si aumentamos un destino, digamos [Estambul](/tag/estambul) entre Bangkok y [Amsterdam](/tag/amsterdam) las millas aumentan a poco más de 29 mil y el precio a $89 mil. Un incremento considerable, considerando que solo son 5 mil millas más.
 
 ![StarAlliance RTW](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/StarAlliance.png)
 

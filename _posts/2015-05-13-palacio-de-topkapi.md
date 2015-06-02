@@ -5,13 +5,13 @@ tags:
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-11-17-43.jpg
 ---
-Dentro de las múltiples joyas arquitectónicas que se encuentran en el barrio de **Sultanahmet** en [Estambul](/tag/estambul) esta el **Palacio de Topkapi** (Topkapı Sarayı). Es un palacio de grandes dimensiones que solía ser el recinto de sultanes en la época imperial de [Turquía](/tag/turquía). Actualmente funciona como museo, y se han acondicionado la mayoría de las salas para presentar sus tesoros e información de como se vivía en el palacio siglos atrás.
+Dentro de las múltiples joyas arquitectónicas que se encuentran en el barrio de **Sultanahmet** en [Estambul](/tag/estambul) esta el **Palacio de Topkapi** (Topkapı Sarayı). Es un palacio de grandes dimensiones que solía ser el recinto de sultanes en la época imperial de [Turquía](/tag/turquia). Actualmente funciona como museo, y se han acondicionado la mayoría de las salas para presentar sus tesoros e información de como se vivía en el palacio siglos atrás.
 
 El Palacio de Topkapi comienza con un basto jardín (el primer patio) donde están las taquillas y unos cafés así como el **Hagia Irene**, que es una pequeña iglesia bizantina. Se entra por una inmensa puerta llamada **Bâb-ı Hümâyûn** (Puerta Imperial) de grandes dimensiones y con un detalle increible en la decoración.
 
 ![Bâb-üs Selâm, entrada al Palacio de Topkapi](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-08-49-16.jpg)
 
-Para adentrarse al Palacio hay que pasar otra puerta, **Bâb-üs Selâm** (Puerta de la acogida) que tiene las simbolicas torres que suelen usarse para representar al castillo. Ambas puertas tienen *caligrafía árabe*, más no tengo idea de que dicen. Pasando por esta puerta, estamos ya en el castillo en el segundo patio. 
+Para adentrarse al Palacio hay que pasar otra puerta, **Bâb-üs Selâm** (Puerta de la acogida) que tiene las simbólicas torres que suelen usarse para representar al castillo. Ambas puertas tienen *caligrafía árabe*, más no tengo idea de que dicen. Pasando por esta puerta, estamos ya en el castillo en el segundo patio. 
 
 A la derecha en el segundo patio se puede visitar las cocinas imperiales, que es un área que acababan de renovar cuando fuimos, y tienen una basta y completa explicación de como funcionaban las cocinas en tiempos imperiales, sus ingredientes, métodos de cocina, costumbres y modales en los banquetes. Así como una extraña fascinación de los sultanes por la porcelana china.
 

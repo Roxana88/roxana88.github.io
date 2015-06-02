@@ -6,9 +6,9 @@ author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC08980.JPG
 ---
 ##Sabado 22 de Diciembre 2012
-El vuelo de **United** se realizó en tiempo y forma, divisando en las alturas la gran extensión que representa [Houston](/tag/houston), muchos suburbios y un tanto de concentración de ciudad, me dieron ganas de salir del aeropuerto a visitar la ciudad, pero no contábamos con suficiente tiempo. Bajando del avión pasamos a migración, donde no tuvimos que hacer gran espera ni tuvimos problemas, después a Aduana con la misma facilidad. *Habia previsto una o dos horas para esto, pero fueron escasos 20 minutos.* Teníamos una eternidad de cerca de 4 horas para perder en el aeropuerto.
+El vuelo de **United** se realizó en tiempo y forma, divisando en las alturas la gran extensión que representa [Houston](/tag/houston), muchos suburbios y un tanto de concentración de ciudad, me dieron ganas de salir del aeropuerto a visitar la ciudad, pero no contábamos con suficiente tiempo. Bajando del avión pasamos a migración, donde no tuvimos que hacer gran espera ni tuvimos problemas, después a Aduana con la misma facilidad. *Había previsto una o dos horas para esto, pero fueron escasos 20 minutos.* Teníamos una eternidad de cerca de 4 horas para perder en el aeropuerto.
 
-Paseamos viendo las tiendas y locales, y finalmente nos decidimos pasar a comer en un restaurante tipo Sirloin Stockade pero sin buffett, donde comimos un poco de parrillada texana, lease *BBQ Ribs, Brisket, frijoles dulces, pure de papa dulce y el mágico pan de elote* que es estupidamente dulce. Fue una comida abundante, Rox fue derrotada y no comió todo.
+Paseamos viendo las tiendas y locales, y finalmente nos decidimos pasar a comer en un restaurante tipo Sirloin Stockade pero sin buffet, donde comimos un poco de parrillada texana, lease *BBQ Ribs, Brisket, frijoles dulces, puré de papa dulce y el mágico pan de elote* que es estúpidamente dulce. Fue una comida abundante, Rox fue derrotada y no comió todo.
 
 Por fin cuando el vuelo fue anunciado, pasamos a abordar otro avión pequeño, creo que era mucho más pequeño que el anterior. Al parecer *el vuelo Houston a Newark* es de lo menos popular. Este vuelo si me dio bastante flojera, dado que fueron como tres horas y media. *United* al parecer tiene altos costes que ni galletas o cacahuates nos ofrecieron, pobres. El aterrizaje fue de lo más divertido, todos creiamos que ibamos a morir, porque el viento estaba muy fuerte y el avión se inclinó demasiado de una ala y tardó en frenar. Hubo locura y gritos.
 
@@ -20,7 +20,7 @@ Recuperada la maleta, corrimos al *AirLink* para tomar el tren urbano, coqueta l
 
 ![Habitación en Hotel Pennsylvania](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC08901.JPG)
 
-La estación era grande, y como buena instalación, se comunicaba directamente al Metro. Lo usual de primer mundo. Salimos por la entrada del **Madison Square Garden**, que estaba grande y extraño. El clima estaba helado, con mucho viento y una ligera brisa. El hotel estaba frente a nosotros, tan solo cruzar la calle. Bendición no tener que correr con maletas. El **hotel Pennsylvania** es enorme, al parecer 18 pisos, y al menos en el piso que estábamos nosotros que tenia 100 habitaciones, saca cuentas. Un mundo de gente podria estar ahi dentro. El check-in fue rápido, y así de rápido pasamos a la habitación *675*.El hotel no es precisamente lindo. Le falta mantenimiento en general, y si como decían algunos comentarios en línea, los pasillos parecían de hotel embrujado. Pero somos adultos y no nos dio miedo, tanto digo.
+La estación era grande, y como buena instalación, se comunicaba directamente al Metro. Lo usual de primer mundo. Salimos por la entrada del **Madison Square Garden**, que estaba grande y extraño. El clima estaba helado, con mucho viento y una ligera brisa. El hotel estaba frente a nosotros, tan solo cruzar la calle. Bendición no tener que correr con maletas. El **hotel Pennsylvania** es enorme, al parecer 18 pisos, y al menos en el piso que estábamos nosotros que tenia 100 habitaciones, saca cuentas. Un mundo de gente podría estar ahí dentro. El check-in fue rápido, y así de rápido pasamos a la habitación *675*.El hotel no es precisamente lindo. Le falta mantenimiento en general, y si como decían algunos comentarios en línea, los pasillos parecían de hotel embrujado. Pero somos adultos y no nos dio miedo, tanto digo.
 
 ![Rox tras la primer pinta](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC08906.JPG)
 
@@ -65,7 +65,7 @@ Es bastante buen lugar para probar un delicioso pedazito de pan con mucha carne.
 
 ![Times Square de noche](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09035.JPG)
 
-Saliendo del Katz tomamos camino al hotel de nuevo, pero primero paseamos por **Times Square**, y si es impresionante. No había tanta gente como en próximos días, pero si estaba de locura. La nitidez y tamaño de las enormes pantallas en los edificios es increible. Muchos teatros a lo largo de **Broadway**, y tiendas extravagantes como *Toy R Us*, y *M&M’s World*. Caminamos por las calles aledañas, y pasamos a un pub. 
+Saliendo del Katz tomamos camino al hotel de nuevo, pero primero paseamos por **Times Square**, y si es impresionante. No había tanta gente como en próximos días, pero si estaba de locura. La nitidez y tamaño de las enormes pantallas en los edificios es increíble. Muchos teatros a lo largo de **Broadway**, y tiendas extravagantes como *Toy R Us*, y *M&M’s World*. Caminamos por las calles aledañas, y pasamos a un pub. 
 
 Si tuve un problema con los pubs a lo largo del viaje, de hecho lo tengo con todos los viajes. Su nombre era **O’Lunney’s**. Bebimos un par de cervezas de barril locales, nada impresionante, pero si buenas a excepción de la *Yuengling*, la cervecería de EUA más vieja según esto, que no me gusto.
 
