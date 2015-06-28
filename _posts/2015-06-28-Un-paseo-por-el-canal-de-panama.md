@@ -3,7 +3,7 @@ layout: post
 title: "Un paseo por el canal de Panamá"
 tags: 
 author: rox
-image: 
+image: http://i.imgur.com/vJz2tgi.jpg
 ---
 Fue en Mayo del 2014 cuando decidimos que era un buen momento para conocer [Panamá](/tag/panama/) y [Colombia](/tag/colombia/), conocer un poco más de Latinoamérica.
 Geo se ha encargado de platicar un poco de Panamá pero enfocándose un poo más en la ciudad y un poco de su trauma con la **Rana Dorada**
@@ -13,7 +13,7 @@ Geo se ha encargado de platicar un poco de Panamá pero enfocándose un poo más
 ##Un paseo por el canal de Panamá
 Una de las cosas que había visto antes del viaje era dar un paseo por el canal y disfrutar de diversas actividades como un paseo en kayak, visitar las cascadas y conocer a los monos capuchinos en su hábitat. Así fue como terminamos convencidos de tomar el tour de un día  con **Jungle Land Panamá** realmente me convencieron porque en su sitio parecían buenas personas que disfrutaban de lo que hacían.
 
-![Listos para iniciar el viaje]()
+![Listos para iniciar el viaje](http://imgur.com/wEXqElT.jpg)
 
 Pasarón por nosotros al hotel alrededor de las 8:00 am, aún recuerdo que el día anterior no quería comer nada que pudiera perjudicar mi estado de salud al día siguiente, siempre es el mismo sentimiento antes de un viaje el *¿que pasa si me enfermo?. Afortunadamente amaneci bien de salud aunque un poco nerviosa, ya les he platicado que yo y el agua tenemos una historia de odio amor muy extraña y un recorrido de dos horas en el canal no me hacia sentir del todo segura.
 
