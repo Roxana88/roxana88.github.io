@@ -3,6 +3,7 @@
 
 No olvidar agregar encabezados:
 
+```
 ---
 layout: post
 title: "Titulo"
@@ -10,3 +11,4 @@ tags:
 author: rox
 image: 
 ---
+```
