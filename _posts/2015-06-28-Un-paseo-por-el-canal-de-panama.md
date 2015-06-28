@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un paseo por el canal de Panamá"
-tags: 
+tags: panama, tours
 author: rox
 image: http://i.imgur.com/vJz2tgi.jpg
 ---
