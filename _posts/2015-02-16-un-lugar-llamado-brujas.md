@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un lugar llamado Brujas"
-tags: 
+tags: brujas belgica 2012 guiaciudad europa
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06897-1.JPG
 ---

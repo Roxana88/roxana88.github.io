@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guadalajara: Centro histórico"
-tags: 
+tags: guadalajara mexico america latinoamerica guiaciudad miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC03335-1.JPG
 ---

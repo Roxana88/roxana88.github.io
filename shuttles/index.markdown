@@ -7,6 +7,6 @@ image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/duh--7
 
 Cuando se viaja a [Estados Unidos](/tag/estados-unidos), por citar un ejemplo, en muchos aeropuertos es mucho más económico contratar este servicio para ir o venir a tu hotel. Sobre todo si eres solamente una o dos persona, porque cobran por persona. El precio de un taxi completo a solo un asiento en un shuttle puede llegar a ser grande.
 
-![](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/duh--7--1.JPG)
+![Esperando en el aeropuerto](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/duh--7--1.JPG)
 
 Hay muchas empresas que dan este servicio, y en lo personal nosotros hemos usado [SuperShuttle](https://www.supershuttle.com/). En general han tenido un buen servicio, a excepción del aeropuerto de [LAX](/tag/los-angeles) que los conductores estaban en huelga y tardamos como 2 horas en salir hacia al hotel.

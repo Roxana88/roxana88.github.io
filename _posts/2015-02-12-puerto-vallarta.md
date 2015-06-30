@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué hay en Puerto Vallarta o qué?"
-tags: 
+tags: 2013 america mexico pto-vallarta puerto-vallarta guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/unnamed.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diario de Los Angeles - Parte I"
-tags: 
+tags: los-angeles 2014 america estados-unidos guiacuidad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-09-15-11-24-38.jpg
 ---
