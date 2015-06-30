@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capadocia en auto"
-tags: 
+tags: planes turquia capadocia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-24-06-38-31.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diario de NYC - Parte I"
-tags: 
+tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC08980.JPG
 ---

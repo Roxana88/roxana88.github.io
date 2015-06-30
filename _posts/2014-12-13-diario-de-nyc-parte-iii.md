@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diario de NYC - Parte III"
-tags: 
+tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2012-12-28-12-31-25-1.jpg
 ---

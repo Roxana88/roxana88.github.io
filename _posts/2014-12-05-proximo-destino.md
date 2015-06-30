@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Próximo destino"
-tags: 
+tags: planes europa 2014 america asia africa
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-07-15-38-59.jpg
 ---
