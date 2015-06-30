@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conociendo Estambul"
-tags: 
+tags: europa 2014 turquia asia estambul guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG-20150108-WA0005.jpg
 ---

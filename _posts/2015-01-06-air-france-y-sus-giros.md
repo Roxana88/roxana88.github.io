@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Air France y sus giros"
-tags: 
+tags: 2014 marruecos africa problemas casablanca
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-17-32-38-1.jpg
 ---

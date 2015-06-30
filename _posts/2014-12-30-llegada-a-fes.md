@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Llegada a Fes"
-tags: 
+tags: 2014 marruecos africa gastronomia fes fez
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG-20141229-WA0000.jpg
 ---

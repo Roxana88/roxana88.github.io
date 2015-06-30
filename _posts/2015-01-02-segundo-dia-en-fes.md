@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Segundo día en Fes"
-tags: 
+tags: 2014 marruecos africa fes fez guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141229_135411.jpg
 ---

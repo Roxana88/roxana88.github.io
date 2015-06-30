@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roma, revisita 24 horas"
-tags: 
+tags: europa italia 2014 roma
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141215_105905089_HDR-1.jpg
 ---

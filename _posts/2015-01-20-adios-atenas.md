@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adiós Atenas"
-tags: 
+tags: europa 2014 grecia atenas guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-18-08-39-24-1.jpg
 ---

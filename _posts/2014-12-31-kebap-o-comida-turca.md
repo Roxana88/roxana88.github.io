@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kebap, o comida turca"
-tags: 
+tags: europa turquia asia 2014 gastronomia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141220_183732744.jpg
 ---

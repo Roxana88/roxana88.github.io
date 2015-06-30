@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un lugar llamado Pamukkale"
-tags: 
+tags: europa turquia 2014 asia pamukkale
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141222_101803-2.jpg
 ---

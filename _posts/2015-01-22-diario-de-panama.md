@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diario de Panamá - Parte I"
-tags: 
+tags: 2014 america panama latinoamerica guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2014-05-16-13-53-55-1.jpg
 ---

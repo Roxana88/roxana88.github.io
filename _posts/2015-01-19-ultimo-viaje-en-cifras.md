@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Último viaje en cifras"
-tags: 
+tags: estadisticas
 author: geo
 image: null
 ---

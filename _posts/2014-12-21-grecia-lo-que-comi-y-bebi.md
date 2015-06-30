@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grecia, lo que comí y bebi"
-tags: 
+tags: europa grecia 2014 atenas gastronomia miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141216_132200417_HDR-1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El autobus a Pamukkale"
-tags: 
+tags: tuquia pamukkale 2014
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141222_074350.jpg
 ---

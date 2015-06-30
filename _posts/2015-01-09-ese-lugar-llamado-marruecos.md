@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ese lugar llamado Marruecos"
-tags: 
+tags: 2014 marruecos africa
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20150101_175911619_HDR.jpg
 ---

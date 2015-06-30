@@ -3,7 +3,7 @@ layout: post
 title: "Conseguir una visa turca"
 tags: planes turquia miniguia visas
 author: geo
-image: null
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/turkishevisa.jpg
 ---
 Hoy en día muchos países están conectando sus sistemas gubernamentales, y generando herramientas que facilitan a sus habitantes a hacer trámites de gobiernos. Cuando quieres visitar un país, igual no quieres hacer un trámite de gobierno, y conseguir una visa puede en ocasiones lucir nada divertido. [Turquía](/tag/turquia), entre otros países como India y Sri Lanka, renovaron sus esquemas y ofrecen un concepto muy bien pensado e innovador, la **e-visa** (visa eléctronica) o también conocida como **Electronic authorization**.
 

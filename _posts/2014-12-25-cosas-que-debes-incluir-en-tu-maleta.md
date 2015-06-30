@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cosas que debes incluir en tu maleta"
-tags: 
+tags: planes miniguia
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141223_211750.jpg
 ---

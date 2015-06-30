@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Año nuevo en Marrakesh"
-tags: 
+tags: marruecos 2015 africa gastronomia marrakesh
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-15-19-32-2-1.jpg
 ---

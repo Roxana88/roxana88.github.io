@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conduciendo en Turquía"
-tags: 
+tags: europa turquia 2014 asia capadocia goreme
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141224_073251867.jpg
 ---

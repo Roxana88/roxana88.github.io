@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conociendo el desierto de Zagora"
-tags: 
+tags: marruecos 2015 marrakesh zagora
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2015-01-03-17-32-10-1.jpg
 ---

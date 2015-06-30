@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philadelphia"
-tags: 
+tags: estados-unidos philadelphia 2015 filadelfia guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20150112_094908324_HDR.jpg
 ---
