@@ -39,7 +39,7 @@ Si a esta ruta, le agregamos Estambul, los segmentos aumentan a 12 pero el preci
 
 ##SkyTeam 
 
-Cuenta con un equipo de 20 aerolíneas, incluyendo **AeroMexico**, y ofrece unas reglas similares a los servicios anteriores, pero su [aplicación web](http://roundtheworld.skyteam.com/) tiene un poco de "inteligencia" que te ayuda a generar una ruta optima en base a las ciudades que le listes. Usando las mismas ciudades la ruta optima nos genero la misma.
+Cuenta con un equipo de 20 aerolíneas, incluyendo **AeroMexico**, y ofrece unas reglas similares a los servicios anteriores, pero su [aplicación web](http://roundtheworld.skyteam.com/B2C/6242201573103256149/ConsumerTool/en/Home/MainPage) tiene un poco de "inteligencia" que te ayuda a generar una ruta optima en base a las ciudades que le listes. Usando las mismas ciudades la ruta optima nos genero la misma.
 
 Aquí las millas están empaquetadas en 26,000, 29,000, 33,000 y 38,000. Nuestra ruta de ejemplo utiliza aquí solamente 21263 millas y 7 segmentos cuyos rango es 4 y 16. En este caso el número de millas es menor y el precio estimado es de USD 4492 (unos 68 mil pesos) igual que el de StarAlliance.
 
