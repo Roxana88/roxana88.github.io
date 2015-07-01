@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torre Hassan y Mausoleo de Mohamed V"
-tags: 
+tags: rabat miniguia marruecos africa 2015
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-12-30-15-44-59-1.jpg
 ---

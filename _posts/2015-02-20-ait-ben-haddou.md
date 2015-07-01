@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ait Ben Hadu"
-tags: 
+tags: miniguia marruecos atracciones marrakesh marrakech
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_142220942-1.jpg
 ---

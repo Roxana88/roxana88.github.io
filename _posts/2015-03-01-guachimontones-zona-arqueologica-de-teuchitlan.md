@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guachimontones: zona arqueológica de Teuchitlán"
-tags: 
+tags: america mexico guadalajara tequila miniguia latinoamerica
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-11-29-54-1.jpg
 ---

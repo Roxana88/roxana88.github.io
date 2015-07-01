@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Euroviaje 2012 - Parte III"
-tags: 
+tags: 2012 europa belgica brujas paris francia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06823-1.JPG
 ---

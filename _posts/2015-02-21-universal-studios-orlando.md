@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Universal Studios Orlando"
-tags: 
+tags: estados-unidos 2015 florida orlando america
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2015-01-15-11-42-25.jpg
 ---
