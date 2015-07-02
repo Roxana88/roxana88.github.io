@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recorrido por las grutas de Chontalcoatlán"
-tags: 
+tags: mexico tours cuernavaca 2010 latinoamerica
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/Terra-3-Expediciones-40-1.JPG
 ---

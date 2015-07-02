@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smithsonian: Museo de Arte Americano"
-tags: 
+tags: estados-unidos washington eua atracciones museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/cover.jpg
 ---

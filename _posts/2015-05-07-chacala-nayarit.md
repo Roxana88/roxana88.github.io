@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chacala, Nayarit"
-tags: 
+tags: chacala mexico playas nayarit latinoamerica
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-03-08-23-20.jpg
 ---

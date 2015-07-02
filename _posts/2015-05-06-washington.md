@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Washington D.C."
-tags: 
+tags: estados-unidos washington guiaciudad eua atracciones america
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-14-14-01-03.jpg
 ---

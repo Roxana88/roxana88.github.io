@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un día épico"
-tags: 
+tags: mexico 2015 nayarit playas latinoamerica chacala
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-02-08-31-07.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Madrid en dos días"
-tags: 
+tags: 2012 europa espana madrid guiaciudad atracciones
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC08287.JPG
 ---

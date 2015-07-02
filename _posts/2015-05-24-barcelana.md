@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Descubriendo Barcelona"
-tags: 
+tags: espana europa barcelona 2012 guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC08052.JPG
 ---

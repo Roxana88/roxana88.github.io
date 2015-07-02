@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Munich: viviendo el sueño aleman"
-tags: 
+tags: 2012 europa munich alemania guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC05593-1.JPG
 ---

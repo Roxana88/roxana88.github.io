@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Viajas fuera de tu país?"
-tags: 
+tags: planes miniguia
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-14-08-56.jpg
 ---

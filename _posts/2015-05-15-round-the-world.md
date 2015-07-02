@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boletos Round The World (RTW)"
-tags: 
+tags: planes miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/RTW.png
 ---

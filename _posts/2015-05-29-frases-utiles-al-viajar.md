@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frases útiles al viajar"
-tags: 
+tags: miniguia idiomas
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-20-10-08-51.jpg
 ---

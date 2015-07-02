@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DF: museos y miradores"
-tags: df ciudad-mexico mexico museos atracciones america 2014
+tags: df ciudad-de-mexico mexico museos atracciones america 2014
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20141005_132720.jpg
 ---

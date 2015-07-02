@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Que hacer en Las Vegas?"
-tags: 
+tags: estados-unidos 2013 las-vegas guiaciudad eua
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-18-20-08-HDR-1.jpg
 ---

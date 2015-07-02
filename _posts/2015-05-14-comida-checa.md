@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comida Checa"
-tags: 
+tags: republica-checa praga europa gastronomia miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC05025.JPG
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Palacio de Topkapi"
-tags: 
+tags: turquia estambul miniguia atracciones museos 2014
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-11-17-43.jpg
 ---

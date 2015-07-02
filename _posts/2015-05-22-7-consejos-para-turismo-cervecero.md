@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 consejos para turismo cervero"
-tags: 
+tags: estados-unidos gastronomia miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC09703.jpg
 ---

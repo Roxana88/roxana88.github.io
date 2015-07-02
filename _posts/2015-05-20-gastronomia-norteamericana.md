@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gastronomía norteamericana"
-tags: 
+tags: estados-unidos eua new-york philadelphia gastronomia miniguia miami boston
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-09-15-08-26-04.jpg
 ---

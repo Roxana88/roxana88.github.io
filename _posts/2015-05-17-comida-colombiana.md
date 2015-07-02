@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los sabores de Colombia"
-tags: 
+tags: america gastronomia cartagena colombia latinoamerica
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-05-20-14-49-1.jpg
 ---

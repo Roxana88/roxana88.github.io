@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miedo a Volar"
-tags: 
+tags: problemas
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/325.JPG
 ---

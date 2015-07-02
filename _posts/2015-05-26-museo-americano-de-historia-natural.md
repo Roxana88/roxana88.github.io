@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museo Americano de Historia Natural"
-tags: 
+tags: estados-unidos eua new-york nueva-york miniguia museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC09115.JPG
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vuelos baratos: aerolíneas de bajo costo"
-tags: 
+tags: miniguia vuelos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-23-15-24-22.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un paseo por las obras de Gaudí"
-tags: 
+tags: 2012 europa barcelona españa atracciones
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC08027.JPG
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gastronomía Marroquí"
-tags: 
+tags: marruecos africa gastronomia fes fez marrakesh marrakech miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-29-13-24-28.jpg
 ---

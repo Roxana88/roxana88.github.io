@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trenes en Marruecos"
-tags: 
+tags: marruecos fes fez marrakesh marrakech casablanca rabat miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-05-11-01-24.jpg
 ---

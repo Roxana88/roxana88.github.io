@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acrópolis de Atenas"
-tags: 
+tags: europa grecia atenas miniguia atracciones
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-17-09-33-27.jpg
 ---

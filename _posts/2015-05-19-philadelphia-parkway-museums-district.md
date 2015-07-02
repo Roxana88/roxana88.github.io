@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philadelphia Parkway Museums District"
-tags: 
+tags: estados-unidos philadelphia 2015 guiaciudad atracciones museos filadelfia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-11-10-33-11.jpg
 ---

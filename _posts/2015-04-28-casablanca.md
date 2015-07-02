@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Casablanca"
-tags: 
+tags: marruecos africa casablanca rabat guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-11-40-47.jpg
 ---
