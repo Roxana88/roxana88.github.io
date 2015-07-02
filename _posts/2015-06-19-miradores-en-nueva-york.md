@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miradores en Nueva York"
-tags: 
+tags: estados-unidos new-york nueva-york eua miniguia atracciones 
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/DSC09218.JPG
 ---

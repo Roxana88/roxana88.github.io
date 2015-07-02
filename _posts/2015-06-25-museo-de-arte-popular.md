@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museo de Arte Popular"
-tags: 
+tags: ciudad-de-mexico df mexico miniguia latinoamerica atracciones museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/IMG_20141005_132653.jpg
 ---

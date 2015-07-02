@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un paseo por el canal de Panamá"
-tags: panama tours
+tags: panama tours latinoamerica 2014 tours miniguia
 author: rox
 image: http://i.imgur.com/vJz2tgi.jpg
 ---

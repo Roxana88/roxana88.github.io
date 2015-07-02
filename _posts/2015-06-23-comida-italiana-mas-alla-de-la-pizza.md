@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comida italiana, más alla de la pizza"
-tags: 
+tags: europa italia roma florencia gastronomia miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/IMG132.jpg
 ---

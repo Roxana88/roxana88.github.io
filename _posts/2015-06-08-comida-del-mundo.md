@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comida del mundo"
-tags: 
+tags: republica-checa estados-unidos turquia grecia marruecos gastronomia colombia mexico
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-25-13-05-10.jpg
 ---

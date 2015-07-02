@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museo Nacional de Historia - Castillo de Chapultepec"
-tags: 
+tags: ciudad-de-mexico df mexico miniguia atracciones latinoamerica museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-33-39.jpg
 ---

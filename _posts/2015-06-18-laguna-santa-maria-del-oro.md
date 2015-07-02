@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laguna Santa María del Oro"
-tags: 
+tags: america mexico miniguia atracciones latinoamerica nayarit
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2015-06-13-13-02-37.jpg
 ---

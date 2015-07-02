@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cascadas de Cacalotenango"
-tags: 
+tags: america mexico latinoamerica tours cuernavaca 2010
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/Terra-3-Expediciones-93.JPG
 ---

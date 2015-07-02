@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Broadway, New York"
-tags: 
+tags: estados-unidos eua new-york nueva-york miniguia atracciones
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2012-12-29-17-36.jpg
 ---

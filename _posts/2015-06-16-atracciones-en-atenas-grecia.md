@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atracciones en Atenas, Grecia"
-tags: 
+tags: europa grecia atenas atracciones guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-17-08-49-49.jpg
 ---

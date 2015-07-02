@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Gallery of Art"
-tags: 
+tags: estados-unidos miniguia washington atracciones museos 
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2015-01-14-14-16-06.jpg
 ---

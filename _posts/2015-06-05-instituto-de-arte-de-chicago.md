@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instituto de Arte de Chicago"
-tags: 
+tags: estados-unidos eua chicago miniguia atracciones museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/285.JPG
 ---

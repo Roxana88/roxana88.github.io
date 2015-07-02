@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miradores de Chicago: Skydeck y John Hancock (360 Chicago)"
-tags: 
+tags: estados-unidos eua chicago america miniguia atracciones
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/322.JPG
 ---

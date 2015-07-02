@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museo Nacional De Arte (MUNAL)"
-tags: 
+tags: america ciudad-de-mexico df mexico miniguia atracciones latinoamerica museos 
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-12-12-25.jpg
 ---
