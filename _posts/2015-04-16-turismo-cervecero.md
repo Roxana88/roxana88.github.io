@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turismo Cervecero"
-tags: 
+tags: miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC09245.JPG
 ---

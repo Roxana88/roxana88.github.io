@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cartagena: Un paseo por las islas"
-tags: 
+tags: playas cartagena colombia latinoamerica 2014
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-05-22-11-13-48-1.jpg
 ---

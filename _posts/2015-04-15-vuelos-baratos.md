@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vuelos baratos"
-tags: 
+tags: vuelos miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/10988582504_9eef7bb993.jpg
 ---

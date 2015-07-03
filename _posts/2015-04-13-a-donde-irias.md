@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿A donde irías?"
-tags: 
+tags: planes
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/Pho_in_Ho_Chi_Minh_City_by_joshua.jpg
 ---

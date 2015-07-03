@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conociendo Florencia"
-tags: 
+tags: florencia europa italia 2012 guiaciudad atracciones
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC06315.JPG
 ---

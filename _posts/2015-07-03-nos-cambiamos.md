@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Nos Cambiamos"
-tags: 
+tags: planes
 author: geo
-image: 
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-11-17-07-20-46.jpg
 ---
 
 Si lees este post es porque ya nos cambiamos de servidores. El resto del sitio seguira funcionando igual como siempre, al menos eso espero, jejeje. Si notas alguna funcionalidad extraña o alguna liga rota, favor de reportarla.

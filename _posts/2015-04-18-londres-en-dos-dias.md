@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Londres en dos días"
-tags: 
+tags: guiaciudad londres inglaterra europa 2014
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-27-10-52-38.jpg
 ---

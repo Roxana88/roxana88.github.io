@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amsterdam"
-tags: 
+tags: amsterdam miniguia belgica europa 2012 guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC06751.JPG
 ---

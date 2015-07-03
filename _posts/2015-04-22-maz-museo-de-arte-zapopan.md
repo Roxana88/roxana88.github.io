@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MAZ: Museo de Arte Zapopan"
-tags: 
+tags: zapopan guadalajara jalisco mexico latinoamerica 2015 museos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-04-19-10-50-15-1.jpg
 ---

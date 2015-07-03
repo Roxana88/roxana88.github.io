@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viajeros responsables"
-tags: 
+tags: miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-29-13-54-09.jpg
 ---
