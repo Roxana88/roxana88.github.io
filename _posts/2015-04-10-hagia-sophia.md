@@ -13,7 +13,7 @@ Al llegar al centro historico de Estambul, llamado **Sultanahmet**, la vista se 
 
 ![Caligrafía árabe](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-20-09-08-20.jpg)
 
-![Cúpula](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-20-09-11-54-1.jpg)
+![Cúpula](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-20-09-11-54.jpg)
 
 El lugar todavía cuenta con diversos elementos musulmanes, como enormes pinturas con [caligrafía árabe](http://es.wikipedia.org/wiki/Caligraf%C3%ADa_%C3%A1rabe) cuelgan en los techos. Pero si se mira con atención se encuentran todavía pequeños frescos y  mosaicos de santos catolicos **bizantinos** en los techos. Esta parte es de lo más interesante porque a pesar de que sirvio de mezquita, varias de las imagenes que podrían ser consideradas profanas sobrevivieron. Claro que elementos como el campanario y el altar fueron removidos.
 

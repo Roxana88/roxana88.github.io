@@ -37,4 +37,4 @@ Sobre la comida creo que hablare aparte, pero note ciertas similitud con Turquí
 
 Marruecos es mistico, más no mágico. Si me gusto aun con algunas decepciones, **Jemma El Fnaa**, pero en mayor parte fue mi error por romantizar tanto los lugares. Te culpo TLC y demás series de viajes. Quizás volvería, visitando **Tangier y Essaouria** y adentrarme más al Sahara. Quizás, pero no creo que en próximos años. Como país islámico para conocer, me quedo con Turquía como favorito. 
 
-![Jemma El Fnaa](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20150101_175911619_HDR-1.jpg)
+![Jemma El Fnaa](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20150101_175911619_HDR.jpg)

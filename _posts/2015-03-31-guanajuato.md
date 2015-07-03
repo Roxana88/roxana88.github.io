@@ -57,6 +57,7 @@ Es una hermoso lugar lleno de callejones distinguido por sus leyendas y lugares 
 * *Callejón del beso*. No se bien la leyenda pero se que existe, lo que les puedo decir es que si visitan Guanajuato es casi obligatoria visitar este famoso callejón y no solo eso, la costumbre es darle un beso a tu pareja me imagino que para lograr algo como *“fueron felices para siempre”*.
 
 * *Funicular*. Puedes tomar el funicular para subir a uno de los puntos más altos de Guanajuato que te permite tener una excelente vista de la ciudad. Desde ese punto uno de los lugares que más destaca es la **Basílica de Nuestra Señora de Guanajuato**. También lo puedes tomar para bajar, los accesos se encuentran atrás del **Teatro Juarez** y junto al **Monumento al Pípila** este atractivo tiene un costo (que no recuerdo bien) creo que fueron como $20 pesos por persona.
-![Vista desde el funicular en Guanajuato](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2012-12-01-14-35-15-3.jpg)
+
+![Vista desde el funicular en Guanajuato](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2012-12-01-14-35-15-2.jpg)
 
 Hay mucho más cosas que puedes hacer en Guanajuato como visitar el Museo de las Momias, la Casa de Diego Rivera, Museo Exhacienda San Gabriel de la Barrera, Museo Regional de Guanajuato, etc. Sin duda pueden pasar un fin de semana entretenidos en este hermoso lugar.

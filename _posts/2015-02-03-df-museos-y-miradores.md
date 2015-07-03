@@ -41,7 +41,7 @@ Si viajan al DF en un fin de semana les encantara saber que la mayoría de *los 
 
 ![Exposición de las catrinas en el Museo de Arte Popular](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141005_132907.jpg)
 
-![Museo de Arte Popular](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141005_132720.jpg)
+![Museo de Arte Popular](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20141005_132720.jpg)
 
 * Museo Nacional de Arte. En este museo encontraran una amplia  diversidad de cuadros, la verdad no soy muy amante de los cuadros y nuestro recorrido fue rápido. La arquitectura del lugar era muy bonita y aprovechamos para sacar algunas fotos.
 [Sitio web Museo Nacional de Arte](http://www.munal.com.mx/)

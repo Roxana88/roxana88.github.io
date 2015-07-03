@@ -7,7 +7,7 @@ image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-0
 ---
 Casablanca es la ciudad más grande de [Marruecos](/tag/marruecos) y representa un centro económico muy importante para el norte de [África](/tag/africa). A distancia de una hora se encuentra [Rabat](/tag/rabat), la capital marroquí. Casablanca cuenta con un gran puerto que es gran parte de lo que se puede observar en la ciudad que no cuenta con muchos atractivos turísticos pero se puede encontrar un ambiente más relajado y menos conservador que en ciudades como [Fez](/tag/fez) o [Marrakesh](/tag/marrakesh).
 
-![Mezquita Hassan II](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-11-40-47-1.jpg)
+![Mezquita Hassan II](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-11-40-47.jpg)
 
 Entre las pocas atracciones que atraen a visitantes se encuentra la **Mezquita Hassan II**, la tercer mezquita más grande y la alminar (o minarete) más alta del mundo que tiene unos lasers que apuntan hacia **La Meca**. De hecho es el edificio de fines religiosos más alto del mundo. Esta mezquina es bastante moderna pues cuenta con una madraza (escuela musulmana), biblioteca y algo que parecía un museo cuando la visitamos. Hay visitas guiadas para los no-musulmanes en el interior de la Mezquita, pero por mala suerte el único día que estuvimos en Casablanca cuando llegamos ya había comenzado el tour.
 
