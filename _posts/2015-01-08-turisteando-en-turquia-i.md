@@ -101,7 +101,7 @@ Es fácil de llegar solo tienes que seguir las indicaciones que se encuentra en 
 
 Las cisternas las había visto en un programa de **Anthony Bourdain** donde estaba de visita en Estambul y me parecieron hermosas. Un año y medio después Rox haciendo fila para entrar a verlas por 20 liras, un precio un poco elevado ya que las recorres es de 15 minutos máximo. Las cisternas servían para almacenar agua, ese era básicamente su uso, yo la describiría como un pequeño lago subterráneo (porque ahorita ya tienen peces) con muchos pilares y una zona peatonal, la verdad si fue bonito verlas pero son mas atractivas en la tele.
 
-![Saludandolos desde las cisternas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-12-19-14-44-40.jpg)
+![Saludandolos desde las cisternas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG-20150108-WA0005.jpg)
 
 ##Tomar té y fumar shisha
 

@@ -11,7 +11,7 @@ Son las ocho de la mañana de un lunes, no veo mucha actividad en los pueblos y 
 
 Pasamos mas poblados tan pequeños que no son más de 2 km de largos y solo se abren un tanto de metros al lado de la carretera. Mezquitas lucen de vez en cuando, con sus domos plateados reflejando primera luz del sol. Las nubes comienzan a apartarse, eso es bueno, y que estemos próximos a llegar también. 
 
-![Aeropuerto](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141222_074350-1.jpg)
+![Aeropuerto](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141222_074350.jpg)
 
 Rox tiene muchas ansias de conocer [Pamukkale](/tag/pamukkale), yo solo espero que se aparten las nubes. El agua estaría muy helada si no sale el sol. Es temprano y seguimos en carretera. 
 

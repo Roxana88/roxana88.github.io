@@ -57,7 +57,7 @@ Nos faltaba caminar al teatro que se encontraba en la parte alta de las ruinas y
 
 Era momento de salir ¿por donde creen que era la salida? Es correcto por el mismo lugar que entramos era momento de quitarnos los zapatos nuevamente ¡ah que caray medio día y ya había perdido mi dignidad dos veces!. Caminamos por la calle central la que se suponía que estaría llena de restaurantes y así fue solo que casi todos estaban cerrados, comimos en el primero el señor parecía muy amable y una vez que entramos al local apenas y nos tomo la orden, simplemente no comprendía te invitan con tanto entusiasmo a pasar y luego ni te pelan.
 
-![Pamukkale antes de bajar al pueblo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141222_101803-1.jpg)
+![Pamukkale antes de bajar al pueblo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141222_101803.jpg)
 
 Terminamos de comer y el plan era recorrer el pueblo, 10 minutos después ya estaba hecho  habíamos recorrido todo y eran como las dos de la tarde prácticamente hubiéramos podido regresarnos el mismo día.
 

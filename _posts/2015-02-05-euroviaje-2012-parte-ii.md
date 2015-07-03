@@ -72,7 +72,7 @@ De regreso, pasamos un rato en el hotel, descansando y usando el internet en el 
 
 ![Paseando en Florencia](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06645.JPG)
 
-![Felicidad medida en carbohidratos](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06611.JPG)
+![Felicidad medida en carbohidratos](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/DSC06611.JPG)
 
 ###Enero 26, Tren a Zurich, 16:00
 Creo que esto ya es **Suiza** baby, estamos en Chiasso, estación fronteriza. Serán unas 3 horas más entre los alpes suizos para lograr **Zurich**. La primer clase de este tren es bastante chafa comparada con los otros, ya veremos el siguiente tren.

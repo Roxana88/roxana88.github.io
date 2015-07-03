@@ -43,7 +43,7 @@ Juan nos aseguraba que pescariamos, y no fue así. Si logramos sacar uno que otr
 
 De nuevo en el campamento flotante, tomamos unas cervezas para rehidratarnos (mentira), y vimos el zoologico privado que eran unos tucanes, un bebe cocodrilo y una boa (o algo así, no se de viboras, ¿ok?). Carls nos ponia la vibora en los hombros para el deleite de tomarnos fotos. Fue divertido, pero se sentía extraño el cuerpo de la vibora cuando había que tomarla con firmeza con las manos. 
 
-![Esto es la jungla](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-05-18-12-26-10-1.jpg)
+![Esto es la jungla](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-05-18-12-26-10.jpg)
 
 Era tiempo de volver y todos tomaron sus cosas, menos una pareja que iban a pasar la noche ahí, ¡que loco!. Las habitaciones no se veían mal. Nos despedimos de Carls y los demás, y el jovén Juan tomo la lancha grande y nos llevo a gran velocidad de regreso al otro puertito. Digo a gran velocidad, porque solo le tomo como 25 minutos. Ya el regreso no había explicaciones ni nada. De hecho todos nos dormiamos, en la van casi todos caimos como bebes.
 

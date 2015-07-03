@@ -36,7 +36,7 @@ Del lado de la región de Capadocia, encontramos un kebab más, como decirlo, ¿
 
 Finalmente una mención especial era el trompo vertical, de nombre kokorek, ¿que era esa carne envuelta en lo que parecía tripas? No lo sé, pero era sabroso. Se prepara en pan (de dos tipos, uno como baguette y otro tipo sema) o en tortilla. Le agregan jitomates picados y una mezcla de especias. 
 
-![Trompo místico](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141220_183732744-1.jpg)
+![Trompo místico](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141220_183732744.jpg)
 
 ##Curiosidades
 

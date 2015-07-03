@@ -30,7 +30,7 @@ A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos
 * Toallas desmaquillantes con aceite, normalmente uso un desmaquillante para los ojos y otro para la cara pero en este caso los sustituí por las toallitas.
 * Mi crema sana sana, una crema que uso para casi cualquier incomodidad en la piel.
 
-![Los recipientes pequeños para llevar mis productos de belleza](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141223_211750.jpg)
+![Los recipientes pequeños para llevar mis productos de belleza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141223_211750.jpg)
 
 #Artículos varios
 

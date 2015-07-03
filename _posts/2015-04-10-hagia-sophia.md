@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hagia Sophia"
-tags: 
+tags: turquia estambul museos atracciones miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-20-09-11-54.jpg
 ---

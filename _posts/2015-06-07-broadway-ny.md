@@ -7,7 +7,7 @@ image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2012-1
 ---
 Era la segunda vez que visitamos [Manhattan en New York](/tag/nueva-york/), en nuestra primera visita decidimos adquirir el [CityPass](/citypass/) para visitar las principales atracciones así que teníamos tiempo para hacer aquellas cosas que nos habían faltado.
 
-![Times Square de día](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2015-01-09-13-55-11.jpg)
+![Times Square de día](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-13-55-11.jpg)
 
 La primera vez nos habíamos quedado con ganas de ver alguna de las famosas y clásicas *obras de Broadway*. Es impresionante caminar por **Times Squeare** y ver todas las obras que ofrecen función, es realmente difícil decir cuál será la mejor opción, puedes leer los *reviews* de todas y aún así todas suenan encantadoras. De las obras que más veras publicidad es de los *best sellers o las obras del momento* . 
 
