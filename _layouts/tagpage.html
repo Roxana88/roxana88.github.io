@@ -14,8 +14,7 @@ layout: default
 </script>
 <div class="coverpost" style="background-image: url('{{page.image}}')">
     <div class="logo-text">
-        <h1>{{page.title}}</h1><br />
-        <h2>{{page.description}}</h2>
+        <h1>{{page.title}}</h1><br /><h2>{{page.description}}</h2>
     </div>
 </div>
 <div class="container">
@@ -24,9 +23,7 @@ layout: default
             {% for post in site.tags[page.tag] %}
             <article class="post">
                 <div class="post-header">
-                    <div class="post-title">
-                        <h2><a href="{{post.url}}">{{post.title}}</a></h2>
-                    </div>
+                    <div class="post-title"><h2><a href="{{post.url}}">{{post.title}}</a></h2></div>
                     <div class="post-date hidden-sm hidden-xs">
                         <span title="{{post.date | date:"%Y" }}">{{post.date | date:"%d"}}</span>
                         {{post.date | date:"%b"}}
@@ -34,15 +31,12 @@ layout: default
                 </div>
                 <div class="post-content">
                     <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
-                    <p>
-                        {{post.excerpt | strip_html}}...
-                    </p>
+                    <p>{{post.excerpt | strip_html}}...</p>
                     <a href="{{post.url}}" class="btn btn-success">Continuar leyendo</a>
                 </div>
                 <hr />
                 <div class="post-meta">
                     Fecha: {{post.date| date_to_string}}
-
                     <div class="share-icons">
                         Comparte en Redes Sociales:
                         <ul class="list-inline list-share-icons">
@@ -63,7 +57,9 @@ layout: default
                 </div>
                 <hr class="divider" />
             </article>
-            {% endfor %}></div>
+            {% endfor %}>
+            <a href="{{page.image}}" alt="Tag image">Tag image</a>
+        </div>
         <div class="col-md-4">
             <div class="about">
                 <div class="fb-like-box" data-href="https://www.facebook.com/Tamalesconpasaporte" data-width="280" data-height="320"
@@ -73,13 +69,8 @@ layout: default
 
                 <div style="text-align: center" class="hidden-sm hidden-xs">
                     <!-- Tamalbox -->
-                    <ins class="adsbygoogle"
-                         style="display:inline-block;width:290px;height:600px"
-                         data-ad-client="ca-pub-7312968410890852"
-                         data-ad-slot="1025056821"></ins>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
+                    <ins class="adsbygoogle" style="display:inline-block;width:290px;height:600px" data-ad-client="ca-pub-7312968410890852" data-ad-slot="1025056821"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                 </div>
 
                 <hr class="divider" />
