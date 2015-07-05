@@ -15,10 +15,14 @@ Si aún no conoces Guadalajara, en este post me encargare de hablarte un poco de
 
 * **Zoológico.** Tengo que reconocer que solo lo he visitado una vez pero lo recomiendo sobre todo si se trata de una visita familiar, un gran atractivo del zoológico es el acuario que aunque es un poco pequeño es una buena visita. Cuando lo visite a la entrada del acuario había dos pequeños estanque con mantarrayas para que los niños pudieran tocarlas. Saliendo del zoológico pueden pasar a visitar **Selva Mágica** que es un parque de diversión que literal se encuentra al lado.
 
+![Zoológico de Guadalajara](http://i.imgur.com/BJzwibc.jpg)
+
 * **Trompo Mágico.** La verdad que no lo he visitado pero según lo que las leyendas cuentan es el **Papalote Museo del Niño** de Guadalajara, así que si viajan en familia especialmente con niños esta también podría ser una opción.
 
 * **Chapultepec.** Otro lugar que tengo que mencionar es Chapultepec sin duda el centro cultural de Guadalajara, en este lugar encontrarás una amplia variedad de propuestas gastronómicas así como bares que se adaptan a cualquier presupuesto gracias a los **Food Truck** que cada vez tienen más presencia en Guadalajara.Cada fin de semana o casi cada fin de semana suele haber eventos dedicados a fomentar el deporte y la cultura, por las noches *Chapu* se llena de vida y se convierte en una visita obligatoria.
 Otra cosa interesante de Chapu es que los domingos podrás disfrutar de la *vía recreativa*, con el fin de fomentar el deporte y la convivencia familiar cierran las calles para que la gente pueda correr, andar en bicicleta, patinar, etc.
+
+![Hospicio Cabañas](http://imgur.com/bSfDVFV.jpg)
 
 * **Puerta de Hierro.** Sin duda una de las partes más elegantes de Guadalajara que te deslumbra con sus enormes edificios aunque solo sean unos cuantos, en esta zona se encuentra una de las plazas comerciales más bonitas y nuevas de Guadalajara, la plaza  **Andares**. 
 
