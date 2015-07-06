@@ -5,7 +5,7 @@ tags: guadalajara mexico guiaciudad
 author: rox
 image: http://imgur.com/Ap2fUvM.jpg 
 ---
-A lo largo de Tamales con Pasaporte me he dado a la tarea de tratar de compartir mi experiencia al visitar nuevos y maravillosos lugares, pero no me habia tomado el tiempo para hablar de la Perla Tapatía mejor conocida como [Guadalajara](/tag/guadalajara/). En un artículo Geo les platico un poco del [Centro Histórico](/guadalajara-centro-historico/).
+A lo largo de **Tamales con Pasaporte** me he dado a la tarea de tratar de compartir mi experiencia al visitar nuevos y maravillosos lugares, pero no me habia tomado el tiempo para hablar de la Perla Tapatía mejor conocida como [Guadalajara](/tag/guadalajara/). En un artículo Geo les platico un poco del [Centro Histórico](/guadalajara-centro-historico/).
 
 ##¿Tu primera vez en Guadalajara?
 

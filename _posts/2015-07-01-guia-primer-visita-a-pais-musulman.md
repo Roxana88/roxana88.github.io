@@ -5,7 +5,7 @@ tags: marruecos turquia miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/2014-12-19-12-52-45.jpg
 ---
-Mucha gente tiene ideas un poco extraña y algo alejadas de la realidad, sobre que esperar en un país de mayoría islámica. Creo que muchos de nuestros conceptos erróneos se basan en estereotipos y personajes de caricatura en televisión. Por eso esta pequeña guía para saber que esperar en un país musulmán:
+Mucha gente tiene ideas un poco extrañas y algo alejadas de la realidad sobre que esperar en un país de mayoría islámica. Creo que muchos de nuestros conceptos erróneos se basan en estereotipos y personajes de caricatura en televisión. Por eso esta pequeña guía para saber que esperar en un país musulmán:
 
 * Los musulmanes rezan unas 5 veces al día y antes de hacerlo las mezquitas hacen el llamado a rezar, **Adhan**, el cual suena por todas las calles por altavoces instalados en los **alminar**. Las primeras veces que se escucha es un poco raro, pero después pasa a segundo plano. En este momento es normal ver a muchos hombres prepararse con alfombrillas para rezar inclusive cuando están en mercados.
 
