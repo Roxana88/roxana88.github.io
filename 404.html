@@ -1,0 +1,106 @@
+---
+layout: default
+title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mundo, conociendo la cultura local por medio de su comida"
+---
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_MX/sdk.js#xfbml=1&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="header-wrap">
+    <div id="instafeed"></div>
+    <header class="container header">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="logo-text">
+                    <h1>Tamales con Pasaporte</h1>
+                    <h2 class="hidden-xs hidden-sm">Blog de Anécdotas y Consejos para los viajeros. Desde México por el mundo, conociendo la cultura local por medio de su comida</h2>
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+
+<div class="content-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 posts">
+                <article class="post">
+                    <div class="post-header">
+                        <div class="post-title">
+                            <h1>Error<small>La p&aacute;gina que buscas no existe</small></h1>
+                        </div>
+                    </div>
+                    <p>Pero no te preocupes, tenemos mucho contenido que te podr&iacute;a interesar.</p>
+                </article>
+            </div>
+            <div class="col-md-4">
+                <div class="about">
+                    <div class="text-center">
+                        <img alt="Rox y Geo" src="/assets/images/about.jpg" class="img-thumbnail" style="border-radius: 80px;">
+                    </div>
+                    <p>
+                        Somos Rox y Geo, nos gusta viajar y comer. Este blog
+                        es acerca de los lugares que hemos viajado,
+                        de lo que hemos aprendido y sobre todo de como nos hemos
+                        divertido. Si tienes cualquier duda sobre alguno de los destinos
+                        que hemos visitado, contactanos por medio de las redes sociales
+                        m&aacute;s abajo.
+                    </p>
+                    <p>
+                        Esperamos mucho que encuentres un poco de informaci&oacute;n e inspiraci&oacute;n
+                        para tus viajes, o simplemente pases un buen momento leyendo sobre nuestras
+                        aventuras visitando M&eacute;xico y el mundo.
+                    </p>
+                    <hr class="divider">
+                    <div class="fb-like-box" data-href="https://www.facebook.com/Tamalesconpasaporte" data-width="280" data-height="320"
+                         data-colorscheme="light" data-show-faces="true" data-header="true"
+                         data-stream="false" data-show-border="true"></div>
+                    <div style="text-align: center" class="hidden-sm hidden-xs">
+                        <!-- Tamalbox -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:290px;height:600px"
+                             data-ad-client="ca-pub-7312968410890852"
+                             data-ad-slot="1025056821"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="posts-pagination">
+    <div class="container">
+        <div class="row">
+            {% if paginator.next_page %}
+            <div class="col-md-4 newer-posts">
+                <a href="{{ paginator.next_page_path }}" class="previous">
+                    <i class="fa fa-chevron-left"></i>
+                    <span>Art&iacute;culos anteriores</span>
+                </a>
+            </div>
+            {% endif %}
+            <div class="col-md-4 page-num">
+                <span>P&aacute;gina  {{ paginator.page }} de {{ paginator.total_pages }}</span>
+            </div>
+            {% if paginator.previous_page %}
+            <div class="col-md-4 older-posts">
+                <a href="{{ paginator.previous_page_path }}" class="next">
+                    <span>Art&iacute;culos nuevos</span>
+                    <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
