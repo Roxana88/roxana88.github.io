@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planeación de Viaje 101"
-tags: 
+tags: miniguia planes vuelos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/Ejemplo-1.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HMS Belfast"
-tags: 
+tags: londres europa inglaterra atracciones miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-45-10-1.jpg
 ---
