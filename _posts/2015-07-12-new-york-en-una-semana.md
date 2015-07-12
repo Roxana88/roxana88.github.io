@@ -3,7 +3,7 @@ layout: post
 title: "New York en una semana"
 tags: estados-unidos new-york manhattan 2012 miniguías nueva-york
 author: rox
-image:http://i.imgur.com/1wF9j0I.jpg
+image: http://i.imgur.com/1wF9j0I.jpg
 ---
 
 La sensación de regresar a un lugar es muy diferente a la sensación de visitarlo por primera vez, la primera vez es ir a lo desconocido aunque leas acerca de las principales atracciones no hay nada como visitarlo. Habiendo tantos lugares en el mundo es difícil pensar en visitar uno más de una vez en lugar de conocer algo nuevo, nosotros tenemos un listado de lugares que volveríamos a visitar y el que está en el top de la lista es [New York](/tag/new-york/).
