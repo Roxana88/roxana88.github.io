@@ -3,7 +3,7 @@ layout: post
 title: "Año nuevo en Marrakesh"
 tags: marruecos 2015 africa gastronomia marrakesh
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-15-19-32-2-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-15-19-32-2.jpg
 ---
 Nos encontrábamos en **Marrakesh** y sabíamos que la gente no celebraba mucho el año nuevo en esos rumbos; cosa que no me importaba mucho realmente no soy la chica fiesta, mis exigencias eran bastante aceptables. Básicamente se resumía en *una cerveza para poder hacer el brindis guiño guiño* ¿qué tan difícil puede ser eso? 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MoMA, Museo de Arte Moderno"
-tags: 
+tags: estados-unidos eua museos atracciones new-york nueva-york miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC09516.JPG
 ---

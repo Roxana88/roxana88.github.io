@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Cartagena: Ciudad amurallada"
-tags: 
+tags: cartagena colombia guiaciudad miniguia latinoamerica
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-05-20-18-00-29-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-05-20-18-00-29.jpg
 ---
 Estaba emocionada por visitar [Colombia](/tag/colombia), es la primera y única playa que hemos visitado en Latinoamerica (fuera de de las mexicanas) y lo que más me agradaba que saldríamos del país y llegariamos a hablar español. Antes de  llegar a Cartagena pasamos algunos días en [Panamá](/diario-de-panama-parte-ii/) donde tomamos un tour al canal y realizamos algunas actividades extremas. *Quitando el peligro de ser devorado por un cocodrilo* ¡de las mejores experiencias que he vivido! El plan era simple pasar unos días en Cartagena para relajarnos. Cuando pienso en la playa me imagino un clima agradable, mariscos y cervezas lager ¡eso es lo que pido! Después recuerdo que el sol me hace daño y termina irritando mi piel ¡el precio de la fama!.
 

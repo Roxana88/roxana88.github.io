@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boston en dos días"
-tags: 
+tags: boston estados-unidos eua guiaciudad miniguia america
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-08-11-03-40.jpg
 ---

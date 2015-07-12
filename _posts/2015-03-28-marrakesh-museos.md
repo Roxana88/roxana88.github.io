@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marrakesh: Museos"
-tags: 
+tags: marrakesh marrakech marruecos museos atracciones miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2015-01-01-09-49-19-1.jpg
 ---

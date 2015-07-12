@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bienvenidos a Tequila"
-tags: 
+tags: tequila guadalajara jalisco mexico miniguia guiaciudad latinoamerica
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-11-02-15-15-52.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ait Ben Hadu"
 tags: miniguia marruecos atracciones marrakesh marrakech
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_142220942-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_142220942.jpg
 ---
 Ait Ben Hadu, es un tipo de poblado fortificado o **ksar**, que se ubica a unos kilometros de **Ouarzazate** (o Uarzazate según algunos) en [Marruecos](/tag/marruecos). Declarado **Patrimonio de la Humanidad** desde 1987. Es un punto interesante de conocer, que aunque no te lleva más que un par de horas verlo valé la pena el desvío.
 

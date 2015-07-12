@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ahorrar para viajar"
-tags: 
+tags: planes miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/ahorrar-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/ahorrar.jpg
 ---
 Repasando los apuntes anteriores para [planifiación de viajes](/planeacion-de-viaje-101/) me di cuenta que estaba pasando por alto un punto importante de la planeación, que es el **ahorro**, y a menos de que seas rico y puedas disponer de la fortuna familiar para salir a [Europa](/tag/europa), debes considerar. Tenemos que aprender a ahorrar dinero, y si realmente lo deseamos también debemos aprender a sacrificar cosas innecesarias de nuestras vidas.
 
@@ -22,5 +22,3 @@ Para ahorrar no hay ningún secreto, no entiendo porque la gente gasta dinero en
 ![Ahorrar](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/ahorrar.jpg)
 
 Considero que no puedo abarcar más en este artículo, pero al menos la idea que quiero exponer espero sea entendida. Es tu dinero, y tu sabes como lo gastas, pero si realmente quieres llegar a esa hermosa ciudad medieval, a ese increible espectaculo natural de cascadas o conocer esa exótica comida tan lejana de tus costumbres... entonces deja de gastar en cosas que no necesitas.
-
-    

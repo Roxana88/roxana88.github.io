@@ -3,7 +3,7 @@ layout: post
 title: "MAZ: Museo de Arte Zapopan"
 tags: zapopan guadalajara jalisco mexico latinoamerica 2015 museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-04-19-10-50-15-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-04-19-10-50-15.jpg
 ---
 Este domingo pasado, estábamos caminando un poco por el centro de [Zapopan](/tag/zapopan), que tengo que hacer un artículo al respecto, y nos encontramos abierto el MAZ, **Museo de Arte Zapopan**, que la verdad no entiendo sus horarios. El MAZ es un pequeño museo que pretende traer exposiciones temporales de artistas nacionales e internacionales. No puedo calificarlo de un buen museo, pero al menos ya es un inicio.
 

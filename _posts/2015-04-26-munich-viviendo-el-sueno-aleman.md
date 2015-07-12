@@ -3,7 +3,7 @@ layout: post
 title: "Munich: viviendo el sueño aleman"
 tags: 2012 europa munich alemania guiaciudad
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC05593-1.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/DSC05593.JPG
 ---
 Cuando me imaginaba [Alemania](/tag/alemania) la primer imagen que aparecía en mi mente es la del **Oktoberfest** ¿sería cierta la capacidad que tanto presumen de los alemanes para tomar cerveza? ¿Vería a mujeres cargando hasta cinco tarros enormes de cerveza? ¿Será cierto que la cervezas con los embutidos alemanes sabe mejor? Cuanto este tipo de preguntas se cruzan una y otra vez por tu cabeza es difícil continuar con tu día a día, solo quedaba una solución teníamos que visitar Alemania.  Así fue como decidimos conocer **Munich** en nuestro primer viaje por [Europa](/tag/europa/) *”Willkommen in München (Bienvenidos a Munich(”*. 
 

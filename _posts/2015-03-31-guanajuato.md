@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "León y Guanajuato"
-tags: 
+tags: guanajuato mexico guiaciudad latinoamerica miniguia
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2012-12-01-14-35-15-2.jpg
 ---

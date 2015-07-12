@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tower of London"
-tags: 
+tags: londres inglaterra reino-unido museos atracciones miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2014-12-27-11-21-55.jpg
 ---

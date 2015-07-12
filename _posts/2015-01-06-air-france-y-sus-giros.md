@@ -3,7 +3,7 @@ layout: post
 title: "Air France y sus giros"
 tags: 2014 marruecos africa problemas casablanca
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-17-32-38-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-17-32-38.jpg
 ---
 Llegamos al nada grato aeropuerto de [Casablanca](/tag/casablanca) por tren, y después de pasar una banda en la entrada, fuimos al mostrador de **Air France** por nuestros pases de abordar. Casi no había gente así que pasamos rápido con una señorita que lo primero que nos pregunto fue el destino final, a lo que dijimos [México](/tag/mexico), y en pantalla le dio la información. Aquí todo bien, pero ella pregunto algo a su compañera sobre Atlanta, quizás si Atlanta estaba en [Estados Unidos](/tag/estados-unidos). Tomo los pasaportes para buscar  visas, pero como tenemos visa laser me di cuenta y se las pase. Ella me miro confundida y llamo a su supervisor. Un sujeto de lentes, digamos **Pepe**, se acerco y me comento que si las visas eran visas y si estaban vigentes (si, la visa trae impreso la fecha de vencimiento pero Pepe no sabia leer) porque según eso las visas americanas son solo de un año, todas. 
 
