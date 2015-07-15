@@ -3,7 +3,7 @@ layout: post
 title: "México: Pueblos Mágicos"
 tags: mexico latinoamerica planes miniguia tequila jalisco
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/HPIM1969.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/HPIM1959.JPG
 ---
 Aquí en México, la Secretaría de Turismo (SECTUR) ideó hace unos años un programa llamado **Pueblos Mágicos** para otorgar un reconocimientos a poblados que conservan la “magia” de sus orígenes. Buscando que el pueblo tenga una historia y un valor cultural interesante para el turismo. Lo que se busca con el programa es mejorar la difusión de ciertas localidades que mantienen el folclor mexicano y que los pueblos mismos puedan soportar el turismo.
 
