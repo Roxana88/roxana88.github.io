@@ -3,7 +3,7 @@ layout: post
 title: "Diario de NYC - Parte II"
 tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09210-1.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09210.JPG
 ---
 ##Lunes 24 de Diciembre 2012
 El día de *Noche Buena*, despertamos temprano a caminar como locos varias cuadras sin sentido, gracias a **TripAdvisor**, para encontrar la cafetería **StumpTown**, que estaba por la Quinta y no por la Novena en el *hotel Ace*. El café era totalmente hipster, no quiero imaginar la versión original de **Portland**, tenía una decoración muy agradable, aunque la variedad de alimentos era casi nula, solo donas. Mientras que el café era bueno, pero no podría decir que tan especial como lo quieren vender.

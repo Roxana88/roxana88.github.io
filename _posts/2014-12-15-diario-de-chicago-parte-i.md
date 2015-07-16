@@ -3,7 +3,7 @@ layout: post
 title: "Diario de Chicago - Parte I"
 tags: 2013 estados-unidos chicago america guiaciudad atracciones museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09756-1.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/DSC09756.JPG
 ---
 ##Jueves 12 de Septiembre 2013
 Llegamos un poco de noche, en un aeropuerto no tan lleno por lo que pasamos Migración y Aduana rápidamente sin problemas, y nos lanzamos a buscar el Metro, que por fortuna seguía operando. Lo que si es que tuvimos que caminar bastante. El metro paso por un buen de lugares, dado que si estaba un poco lejano, pero estuvo bien. En la parte del Loop, el metro es por arriba, así que desde arriba vimos el hotel a la distancia.

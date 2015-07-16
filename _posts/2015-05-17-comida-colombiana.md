@@ -3,7 +3,7 @@ layout: post
 title: "Los sabores de Colombia"
 tags: america gastronomia cartagena colombia latinoamerica
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-05-20-14-49-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-05-20-14-49.jpg
 ---
 En el artículo anterior ya les había platicado un poco de Cartagena, la [ciudad amurallada](/cartagena-ciudad-amurallada/), y nuestra visita a las [islas del Caribe colombiano](/cartagena-las-islas/). Es momento de hablar un poco de los sabores que Colombia. Una de las cosas que más me gusta hacer cuando visito un lugar es probar la comida típica, existen platillos y bebidas que han logrado cautivarme a tal grado que trato de cocinarlas posteriormente en casa.
 

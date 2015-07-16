@@ -3,7 +3,7 @@ layout: post
 title: "Diario de Chicago - Parte II"
 tags: 2013 estados-unidos chicago america guiaciudad atracciones museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-15-13-03-04-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2013-09-15-13-03-04.jpg
 ---
 ##Domingo 15 de Septiembre 2013
 

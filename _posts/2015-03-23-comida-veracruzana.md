@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Comida veracruzana"
-tags: 
+tags: gastronomia veracruz mexico latinoamerica miniguia
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/image_20150320124708622-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/image_20150320124708622.jpg
 ---
 Ya les platique un poco de los lugares que pueden visitar en [Veracruz](/tag/veracruz) pero es claro que en este estado al igual que muchos otros en la [Republica Mexicana](/tag/mexico) se caracteriza por sus comida.
 

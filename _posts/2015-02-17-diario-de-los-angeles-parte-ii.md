@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Diario de Los Angeles - Parte II"
-tags: los-angeles 2014 america estados-unidos guiaciudad
+tags: los-angeles 2014 america estados-unidos eua guiaciudad
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-09-16-12-13-31-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-09-16-12-13-31.jpg
 ---
 ##Lunes 15 de Septiembre 2014
 

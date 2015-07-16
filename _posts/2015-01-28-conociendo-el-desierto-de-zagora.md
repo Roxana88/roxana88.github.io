@@ -3,7 +3,7 @@ layout: post
 title: "Conociendo el desierto de Zagora"
 tags: marruecos 2015 marrakesh zagora
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2015-01-03-17-32-10-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-03-17-32-10.jpg
 ---
 ¿Cómo me imaginaba que sería el **tour al desierto de Zagora (Marruecos)**? Lo primero que pensé cuando Geo me lo comento fue ¿qué necesidad de morir de frío en medio de  la nada? ¿qué vamos a hacer con 8 horas de recorrido para llegar?  simplemente bah. Geo se veía emocionado con la idea así que pensé en ir buscando algún *tour  lo más cómodo posible y de poca duración uno de dos días a lo máximo*,  en ese  momento la idea no era de mi total agrado pero no quería cerrarme a intentarlo.
 

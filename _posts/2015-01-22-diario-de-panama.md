@@ -3,7 +3,7 @@ layout: post
 title: "Diario de Panamá - Parte I"
 tags: 2014 america panama latinoamerica guiaciudad
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2014-05-16-13-53-55-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/2014-05-16%2013.53.16.jpg
 ---
 ##Viernes 16 de Mayo 2014
 Primer escape a **Latinoamérica**, tocando la cosmopolita ciudad de **Panama**, al menos eso creía. Un vuelo por medio de *Copa Airlines* de unas 4 horas, bastante tránquilo sin contratiempos en el aeropuerto de **Guadalajara**, y aterrizando en el distante aeropuerto de **Tocumen**, después de a ver visto en las alturas una costera ciudad llena de edificios y puertos. Se veía muy bien, como que las ciudades al lado de una gran masa de agua me gustan más, ya sea bahía, mar, río o lago. Pena que en Guadalajara no tengamos algo así.
