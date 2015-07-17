@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Francisco"
-tags: 
+tags: san-francisco estados-unidos eua guiaciudad america miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-10-40-30.jpg
 ---

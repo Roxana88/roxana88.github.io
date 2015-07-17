@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Euroviaje 2012 - Parte V"
-tags: 
+tags: espana europa barcelona madrid 2012 guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/DSC08115-1.JPG
 ---

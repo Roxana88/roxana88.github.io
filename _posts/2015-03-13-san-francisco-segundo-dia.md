@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Francisco: segundo día"
-tags: 
+tags: san-francisco estados-unidos eua guiaciudad america miniguia
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-33-48.jpg
 ---

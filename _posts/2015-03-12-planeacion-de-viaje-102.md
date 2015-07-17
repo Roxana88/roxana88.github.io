@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planeación de Viaje 102"
-tags: 
+tags: miniguia planes vuelos
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/rome2rio-1.png
 ---

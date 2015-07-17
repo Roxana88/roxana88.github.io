@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kaymakli: ciudad subterranea turca"
-tags: 
+tags: capadocia goreme turquia atracciones miniguia
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-24-10-09-48-1.jpg
 ---
@@ -33,6 +33,5 @@ De la imagén anterior, la piedra se utilizaba para poner piedras cargadas de me
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24991.627415017138!2d34.753283999999994!3d38.465636499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x9b9371f5906aa81e!2sKaymakli+Underground+City!5e0!3m2!1sen!2s!4v1426190512656" class="embed-responsive-item" frameborder="0" style="border:0"></iframe>
 </div>
-
 
 Para llegar a Kaymakli, se puede optar por algún tour estando en **Goreme o Urgup** (o cualquier ciudad de Capadocia). Es un trayecto de media hora desde Goreme, con una increible vista. Nosotros rentamos un auto, y disfrutamos tomando la ruta de Goreme hacia el castillo Uçhisar y de ahí al poblado Kaymakli. El GPS (que no era Google Maps, porque este no sirve offline en Turquía) nos mintio un poco sobre el lugar arqueologico, porque apuntaba fuera del poblado, y en realidad se encuentra en el centro del pueblo. La carretera cruza como avenida principal el poblado.

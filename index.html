@@ -31,9 +31,9 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
 <div class="content-wrap">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 posts">
+            <section class="col-md-8 posts" itemscope itemtype="http://schema.org/Blog">
                 {% for post in paginator.posts %}
-                <article class="post object">
+                <article class="post object" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
                     <div class="post-header">
                         <div class="post-title">
                             <h2><a href="{{post.url}}">{{post.title}}</a></h2>
@@ -112,7 +112,7 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
 
                     <!--End mc_embed_signup-->
                 </article>
-            </div>
+            </section>
             <div class="col-md-4">
                 <div class="about">
                     <div class="text-center">
