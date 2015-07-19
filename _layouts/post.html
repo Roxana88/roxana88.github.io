@@ -5,9 +5,11 @@ layout: default
 {% assign author = site.authors[page.author] %}
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
+    <meta property="name" content="{{page.title}}"/>
+    <meta property="image" content="{{page.image}}"/>
     <div class="coverpost" style="background-image: url('{{page.image}}')">
         <div class="logo-text">
-            <h1 itemprop="name">{{page.title}}</h1><br />
+            <h1 itemprop="headline">{{page.title}}</h1><br />
             <h2>{{page.date | date_to_string}} - {{author.name}}</h2>
         </div>
     </div>
