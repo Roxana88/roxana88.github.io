@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comida Mexicana"
-tags: ciudad-de-mexico gastronimia mexico latinoamerica miniguia 
+tags: ciudad-de-mexico gastronomia mexico latinoamerica miniguia jalisco guadalajara
 author: rox
 image: http://i.imgur.com/kPMDbvg.jpg
 ---
