@@ -3,7 +3,7 @@ layout: post
 title: "Torre Hassan y Mausoleo de Mohamed V"
 tags: rabat miniguia marruecos africa 2015
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-12-30-15-44-59-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-12-30-15-46-50.jpg
 ---
 Cuando se visita la capital de [Marruecos](/tag/marruecos), la ciudad de [Rabat](/tag/rabat), se puede encontrar dos importantes edificaciones marroquis (entre otras como la mansión real) que representan fuertemente el deseo de los monarcas marroquis de perpetuar su imagén. Se trata de la Torre Hassan y el Mausoleo de Mohamed V que se localiza en el atrio de la torre. Un poco de historia ayuda a generar el marco perfecto para entender el lugar cuando se visita.
 
