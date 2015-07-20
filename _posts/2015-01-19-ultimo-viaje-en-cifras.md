@@ -3,7 +3,7 @@ layout: post
 title: "Último viaje en cifras"
 tags: estadisticas
 author: geo
-image: null
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG-20141221-WA0009.jpg
 ---
 Como me gusta llevar *contadores*, no podía dejar la oportunidad de hacerlo en este último viaje. Hay detalles que luego te sorprenden, por ejemplo creía que comería muchas hamburguesas, y no fue así. De hecho perdí monton de veces de probar las famosas **Shake Shack**, pero probe finalmente las **Five Guys** (de hecho dos veces, en dos continentes distintos). Aquí las locas estadisticas:
 
