@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Comida Mexicana"
-tags: ciudad-de-mexico comida-mexicana gastronimia 
+tags: ciudad-de-mexico gastronimia mexico latinoamerica miniguia 
 author: rox
-image: http://i.imgur.com/TJ8RlsA.jpg 
+image: http://i.imgur.com/kPMDbvg.jpg
 ---
 Después de unos cuantos post hablando de la comida tipica de algunos lugares de los que hemos visitado pensé que tal vez era momento de hablar de la comida mexican, se me hizo un buen tema y me imaginé que encontraría muchas fotos para este post pero resulta que extrañamente no le he sacado fotos a casi nada,así que tendrán que apoyarme con un poco de imaginación.
 
