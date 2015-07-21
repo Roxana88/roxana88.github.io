@@ -3,7 +3,7 @@ layout: post
 title: "Euroviaje 2012 - Parte II"
 tags: vaticano florencia suiza zurich holanda amsterdam europa 2012
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05860-1.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05860.JPG
 ---
 
 ###Enero 21, Cuarto en Roma, 21:08
