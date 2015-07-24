@@ -3,7 +3,7 @@ layout: post
 title: "Grecia, lo que comí y bebi"
 tags: europa grecia 2014 atenas gastronomia miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141216_132200417_HDR-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141216_132200417_HDR.jpg
 ---
 La comida griega me gusta, aunque es difícil encontrarla en [Guadalajara](/tag/guadalajara). Sólo conozco un **restaurante**., griego Agios Aggelos (Calle 20 de Noviembre 356, Zapopan). Aún éso no me es desconocida la cocina. En este viajé a [Atenas](/tag/atenas) logré darme una mejor idea, y la verdad que me encanto mucho más. 
 
