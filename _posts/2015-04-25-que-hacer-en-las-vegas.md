@@ -3,7 +3,7 @@ layout: post
 title: "¿Que hacer en Las Vegas?"
 tags: estados-unidos 2013 las-vegas guiaciudad eua
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-18-20-08-HDR-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2013-12-26-18-20-08-HDR.jpg
 ---
 Si viajas a Las Vegas en verano es muy probable que lo único que quieras hacer durante el día sea estar en las famosas **pool parties**, ya saben alcohol, música y trajes de baño ¡suena divertido! La mayoría de la gente en eso gasta sus horas del día *¿pero que pasa si viajas en invierno?* Los hoteles tienen el área de la piscina fuera de servicio, así que tendrás que ingeniártelas pero estando en Las Vegas sobra que hacer.
 
