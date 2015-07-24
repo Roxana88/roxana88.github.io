@@ -3,11 +3,11 @@ layout: post
 title: "Un lugar llamado Pamukkale"
 tags: europa turquia 2014 asia pamukkale
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141222_101803-2.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141222_101803.jpg
 ---
 Sabíamos que visitaríamos Turquía pero aún no teníamos bien definido todo el itinerario, [Estambul](/tag/estambul) y [Capadocia](/tag/capadocia), era un hecho pero nos sobraba un día que podíamos aprovechar en conocer otro lugar, Geo me dijo:
 
->Rox necesito que me digas que lugar quieres conocer en Turquía. Participa en el itinerario.
+> "Rox necesito que me digas que lugar quieres conocer en Turquía. Participa en el itinerario."
 
 Buena pregunta no tenía ni idea de que había en [Turquía](/tag/turquia). Era momento de investigar, desorientada y sin respuesta hice lo que cualquier persona en su sano juicio haría hecho, entre a *Google* seleccione imágenes y puse "lugares turísticos en Turquía así bien bonitos" , aparecieron algunas imágenes de capadocia *mmm no me sirven* y de repente vi unas albercas que parecían de aguas termales en la nieve ¡interesante! tenia que saber como se llama el lugar y el nombre era **Pamukkale**, realmente se trata de formaciones minerales con aguas termales ¡cool! ya estaba decidido formaría parte del itinerario. 
 
