@@ -30,7 +30,7 @@ Cerca del lugar se encuentra la **Presa de la Vega** que ofrece también una bue
 * **Costo** - Adultos 30 pesos y niños 15 pesos. El costo incluye el estacionamiento y el museo.
 * **Horario** - Abierto de 9 de la mañana a 6 de la tarde.
 * **Consideraciones** - Es recomendable ir con ropa comoda y zapato tenis, porque hay que subir una pendiente de unos 20 minutos para llegar desde el estacionamiento a los "guachimontones". Traer agua es muy importante.
-* **Información** - Se puede encontrar un poco más de información en el [sitio web de la zona arquelógica](http://www.inah.gob.mx/index.php?option=com_content&view=article&id=5721)
+* **Información** - Se puede encontrar un poco más de información en el [sitio web de la zona arquelógica](http://www.inah.gob.mx/zonas/176-zona-arqueologica-teuchitlan-o-guachimontones)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d238946.52208648404!2d-103.63910654697668!3d20.647622685699563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0x8428b18cb52fd39b%3A0xd63d9302bf865750!2sGuadalajara%2C+JAL%2C+Mexico!3m2!1d20.659698799999997!2d-103.34960919999999!4m5!1s0x84260dc27af7e84f%3A0x78f4a7f5526a5a9e!2sZona+Arqueol%C3%B3gica+de+Guachimontones%2C+Carretera+Estatal+604+Guadalajara-San+Marcos+km+56%2C+Gral.+Lucio+Blanco%2C+46762+Teuchitl%C3%A1n%2C+Jal.%2C+Mexico!3m2!1d20.695465!2d-103.83633599999999!5e0!3m2!1sen!2s!4v1425056771493" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
