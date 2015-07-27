@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Autor Geo"
+layout: page
+title: "Autor Rox"
 ---
 
-Estos son algunos de mis artículos en Tamales con Pasaporte:
+Hola soy Rox y estos son algunos de mis artículos en Tamales con Pasaporte:
 
