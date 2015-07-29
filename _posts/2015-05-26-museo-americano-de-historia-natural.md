@@ -27,7 +27,7 @@ Entre los fósiles montados completamente para el deleite esta un **Tiranosaurio
 
 El Museo vale la pena por si mismo, pero si visitas New York con un [CityPass](/citypass), ya viene incluido así que no hay forma de omitirlo. Puedes ver un recorrido rápido digamos en una hora y media, pero si quieres curiosear bien a fondo supongo que unas 3 a 4 horas serían suficientes.
 
-* **Costo** - La entrada es de $22 dolares adultos, $12.50 dolares niños. Incluido en CityPass ([Sitio web con información de precios](http://www.amnh.org/plan-your-visit/admissions-ticketing))
+* **Costo** - La entrada es de $22 dolares adultos, $12.50 dolares niños. Incluido en CityPass ([Sitio web con información de precios](http://www.amnh.org/plan-your-visit))
 * **Horario** - El Museo abre de las 10 de la mañana hasta las 5:45 de la tarde.
 
 <div class="embed-responsive embed-responsive-16by9">
