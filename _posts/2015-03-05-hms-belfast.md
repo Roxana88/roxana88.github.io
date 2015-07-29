@@ -3,7 +3,7 @@ layout: post
 title: "HMS Belfast"
 tags: londres europa inglaterra atracciones miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-45-10-1.jpg
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2014-12-27-13-45-10.jpg
 ---
 Sobre el río Támesis, cercano al famoso **Puente de Londres**, se encuentra un museo flotante que es espectacular. Se trata del HMS Belfast, un navío de guerra del ejercito britanico usado en la **Segunda Guerra Mundial**. Aunque no se sea gran fan de los museos de guerra, este barco vale la pena, porque simplemente es un barco real que opero y ahora descansa para recibir visitantes. Aunque existen otros navíos que se pueden ver así, por ejemplo el **USS Constitution** en [Boston](/tag/boston), este si llama la atención.
 
