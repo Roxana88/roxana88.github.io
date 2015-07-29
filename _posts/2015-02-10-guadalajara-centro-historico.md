@@ -3,7 +3,7 @@ layout: post
 title: "Guadalajara: Centro histórico"
 tags: guadalajara mexico america latinoamerica guiaciudad miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC03335-1.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC03335.JPG
 ---
 Ya han pasado varios artículos y no había escrito ni una línea sobre mi ciudad [Guadalajara](/tag/guadalajara). Nací y vivo aquí desde hace muchos años, y aunque no podría ser como un guía de turismo local, creo que puedo explicar algo de la ciudad. Comenzemos con el hecho de que la verdad Guadalajara no es ese tipo de ciudad tan turistica que uno podría imaginar. La mayoría de la gente de otros paises ni idea tiene que existe, claro que saben que existe el tequila y las playas. Pero aún así visitarla, y desde aquí visitar otros poblados interesantes de la región, creo que sería bien visto por muchos turistas.
 
