@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Autor Geo"
+title: "Nostros"
 ---
 {% assign author = site.authors["geo"] %}
 
@@ -9,9 +9,13 @@ title: "Autor Geo"
 </div>
 <div class="author-info">
     <h2 rel="author">{{author.name}}</h2>
-    <p>{{author.bio}}</p>
+    <p>{{author.bio}} Estos son algunos de mis artículos en Tamales con Pasaporte:</p>
 </div>
-<hr />
 
-Estos son algunos de mis artículos en Tamales con Pasaporte:
-
+<ul class="posts">
+{% for post in site.posts %}
+    {% if post.author contains 'geo' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
