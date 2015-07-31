@@ -4,7 +4,8 @@ title: "Segundo día de gyros y baklavas"
 tags: europa grecia atenas 2014 guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-17-09-13-50-1.jpg
-redirect_from: /atenas2
+redirect_from: 
+  - /atenas2/
 ---
 Eran aproximadamente las 6:30 am y los gallos empezaban a cantar "parakalo, parakalo", era momento de levantarnos y como el hotel en el que nos quedamos contaba con un desayuno estilo europeo habías acordado bañarnos desayunar y regresar a la habitación para arreglarnos. *El desayuno constaba de café, jugo, pan, mermelada, mantequilla y una fruta no era mucho pero con eso teníamos para empezar el día,* la fruta no me la comía en el momento la guardaba para tener un refrigerio en cuanto me diera hambre. Lo cual me funciono bastante bien, me tomare un momento para mencionar que el personal del hotel siempre fue amable sin duda si lo recomiendo. 
 
