@@ -4,6 +4,7 @@ title: "Adiós Atenas"
 tags: europa 2014 grecia atenas guiaciudad
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-18-08-39-24.jpg
+redirect_from: "/atenas3"
 ---
 Eran aproximadamente como las dos de la madrugada y una fuerte comezón en las muñecas me empezó a incomodar pero estaba muy cansada como para levantar y ver que era de repente escuche *uno de los sonidos que más odio en la noche, un molesto mosquito en la habitación* y suelo tener mucha suerte para que me piquen, me tape lo mejor que pude y decidí tratar de dormir nuevamente había pasado tiempo no sé exactamente cuánto y ahora tenía una sensación de comezón alrededor del cuello la cual trataba de calmar sin éxito aun quería dormir. 
 
