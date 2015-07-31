@@ -2,6 +2,8 @@
 layout: page
 title: "Nosotros"
 author: rox
+redirect_from:
+  - /author/roxana-evans-garduno-gomez/
 ---
 {% assign author = site.authors[page.author] %}
 
