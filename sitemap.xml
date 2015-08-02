@@ -13,6 +13,11 @@ layout: null
             <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
         {% endif %}
     <changefreq>weekly</changefreq>
+    {% for image in post.images %}
+-    <image:image>
+-        <image:loc>{{image}}</image:loc>
+-    </image:image>
+-    {% endfor %}
 </url>
 {% endfor %}
 </urlset>
