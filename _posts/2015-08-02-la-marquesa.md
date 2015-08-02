@@ -4,6 +4,11 @@ title: ¡Bienvenidos a la Marquesa!
 tags: miniguia ciudad-de-mexico atracciones
 author: rox
 image: http://i.imgur.com/4cQ5BSs.jpg 
+images:
+  - http://i.imgur.com/4cQ5BSs.jpg
+  - http://i.imgur.com/FGD9ix0.jpg
+  - http://i.imgur.com/GaxtUtR.jpg
+  - http://i.imgur.com/wiTOG92.jpg
 ---
 Cerca de la carretera que te lleva a la  [Ciudad de México](/tag/ciudad-de-mexico/) se encuentra un enorme parque en donde podrás disfrutar de un excelente fin de semana lleno de actividades para realizar en familia. Recuerdo que de niña lo visite un par de veces, ya saben de esas veces que te sientes atrevida y con ganas de hacer algo diferente como **montar un ponny**. Este lugar se llama Parque Nacional Insurgente Miguel y Costilla mejor conocido como la Marquesa.
 
