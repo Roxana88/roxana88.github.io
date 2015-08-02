@@ -4,6 +4,10 @@ title: "Ciudades que hemos estado más no visto"
 tags: planes
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/DSC06654.JPG
+images:
+ - https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/DSC06654.JPG
+ - https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/2015-01-06%2020.22.24.jpg
+ - https://dl.dropboxusercontent.com/u/1610385/content/images/2015/07/2015-01-13%2009.54.10.jpg
 ---
 
 A lo largo de nuestros viajes nos hemos movido de aquí para allá y en ocasiones hemos estado en ciudades por un par de horas, o quizás un poquito más, pero las cuales por tiempo o problemas de logística no hemos podido visitar y por el momento quedan guardadas esperando una oportunidad para ser exploradas. Estas son algunas de estas ciudades que han quedado en espera y quisieramos conocer en algún momento.
