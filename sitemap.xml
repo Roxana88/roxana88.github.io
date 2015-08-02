@@ -6,7 +6,7 @@ layout: null
 
 {% for post in site.posts %}
 <url>
-    <loc>{{ site.production_url }}{{ post.url | replace: 'index.html', ''}}</loc>
+    <loc>{{ site.url }}{{ post.url | replace: 'index.html', ''}}</loc>
         {% if post.lastmod == null %}
             <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
         {% else %}
