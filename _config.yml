@@ -1,5 +1,4 @@
 gems:
-  - jekyll-sitemap
   - jekyll-redirect-from
   
 paginate: 6
