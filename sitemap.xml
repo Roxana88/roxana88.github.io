@@ -7,21 +7,20 @@ layout: null
 {% for post in site.posts %}
 <url>
     <loc>{{ site.production_url }}{{ post.url | replace: 'index.html', ''}}</loc>
-            {% if post.lastmod == null %}
-                <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-            {% else %}
-                <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-            {% endif %}
+        {% if post.lastmod == null %}
+            <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+            <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %}
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     {% for image in post.images %}
     <image:image>
-            <image:loc>{{image}}</image:loc>
+        <image:loc>{{image}}</image:loc>
     </image:image>
     {% endfor %}
 </url>
 {% endfor %}
-
 {% for page in site.pages %}
     {% if page.type != "redirect" %}
         {% if page.sitemap != null and page.sitemap != empty %}
