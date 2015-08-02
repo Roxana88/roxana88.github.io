@@ -13,24 +13,6 @@ layout: null
             <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
         {% endif %}
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    {% for image in post.images %}
-    <image:image>
-        <image:loc>{{image}}</image:loc>
-    </image:image>
-    {% endfor %}
 </url>
-{% endfor %}
-{% for page in site.pages %}
-    {% if page.type != "redirect" %}
-        {% if page.sitemap != null and page.sitemap != empty %}
-            <url>
-                <loc>{{ site.production_url }}{{ page.url | replace: 'index.html', ''}}</loc>
-                <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-                <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-                <priority>{{ page.sitemap.priority }}</priority>
-            </url>
-        {% endif %}
-    {% endif %}
 {% endfor %}
 </urlset>
