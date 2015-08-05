@@ -23,6 +23,8 @@ El siguiente edificio que cuenta con cierta restauración para apreciar es el *C
 
 Si lo tuyo no es la historia ni las ruinas de edificaciones, quizás no te llene el ojo visitar este lugar y te vayas directo al Casco Antiguo a conocer sus calles coloniales, pero en mi opinión si vale la pena invertir una hora o un poco más a apreciarlas. Muchas de las ciudades coloniales desaparecieron o bien son parte de ciudades modernas donde han cambiado demasiado. Poder observar ruinas de este índole para mi es apremiante y claro si es un lugar [Patrimonio de la Humanidad](/patrimio-humanidad-unesco/) de la UNESCO.
 
+![Las restauraciones dentro dle convento](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/08/2014-05-17%2011.36.10.jpg)
+
 * **Costo** - La entrada es de unos 8 doláres para extranjeros y precios reducidos para nacionales. En el [sitio oficial](http://www.panamaviejo.org/) esta el detalle y descuentos.
 * **Horario** - Martes a Domingos de 8:30 de la mañana a 5:30 de la tarde.
 * **Identificador UNESCO** - [790](http://whc.unesco.org/en/list/790).
