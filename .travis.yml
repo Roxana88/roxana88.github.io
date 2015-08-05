@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.1.1
 script:
-  - bundle exec jekyll build && bundle exec htmlproof ./_site --only-4xx
+  - bundle exec jekyll build && bundle exec htmlproof ./_site --only-4xx --disable_external
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
