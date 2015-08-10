@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canal de Youtube"
-tags: videos
+tags: videos vlog
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/vid.jpg
 ---
