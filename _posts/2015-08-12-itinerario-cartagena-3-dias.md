@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Itinerario Cartagena: 3 días en la costa colombiana"
-tags: cartagane colombia latinoamerica america miniguia guiaciudad
+tags: cartagena colombia latinoamerica america miniguia guiaciudad
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/08/2014-05-21%2009.23.46.jpg
 ---
