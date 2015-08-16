@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Titulo"
-tags: 
+title: "Mercados en Estados Unidos: Segunda parte"
+tags: boston filadelfia estados-unidos miniguia gastronomia
 author: rox
-image: 
+image: http://i.imgur.com/mywMB8d.jpg
+images:
+  - http://i.imgur.com/3aZJMIf.jpg
+  - http://i.imgur.com/x4S4Vz6.jpg
+  - http://i.imgur.com/beeyUpr.jpg
+  - http://i.imgur.com/0xB2KJJ.jpg
 ---
 ###Quincy Market
 
@@ -34,7 +39,5 @@ Despues de deleitarme con el desayuno dimos un recorrido por el lugar para ver q
 
 ![Comida Cajun](http://i.imgur.com/0xB2KJJ.jpg)
 
-Si hubiera tenido la oportunidad de regresar creo que me hubiera inclinado por la comida Griega desde nuestro viaje a [Atenas](/tag/atenas/) es difícil de olvidar.
-
-En general todos los mercados y las comidas que he probado jamás me han defraudado, si quieren saber un poco más del resto de los mercados que hemos visitado lean la primera parte de mi post [primera parte](/mercados-en-estados-unidos/).
+Si hubiera tenido la oportunidad de regresar creo que me hubiera inclinado por la comida Griega desde nuestro viaje a [Atenas](/tag/atenas/) es difícil de olvidar. En general todos los mercados y las comidas que he probado jamás me han defraudado, si quieren saber un poco más del resto de los mercados que hemos visitado lean la primera parte de mi post [primera parte](/mercados-en-estados-unidos/).
 
