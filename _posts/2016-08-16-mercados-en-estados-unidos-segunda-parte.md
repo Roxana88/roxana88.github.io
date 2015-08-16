@@ -5,12 +5,11 @@ tags: boston filadelfia estados-unidos miniguia gastronomia
 author: rox
 image: http://i.imgur.com/mywMB8d.jpg
 ---
-
-###Quincy market
-
-![Bienvenidos al Quincy market](http://i.imgur.com/3aZJMIf.jpg)
+###Quincy Market
 
 Dicen que por algo pasan y fue así como en nuestra visita a [Boston](/tag/boston/) conocimos y comimos en este mercado. Nuestra primera visita es una historia triste habíamos salido del tour de *Samuel Adams* y decidimos llegar al centro histórico para comer algo, estábamos muriendo de hambre y literal nos metimos al primer local de comida saliendo de la estación el metro y el ganador fue **Chipotle** y sus enormes, calóricos y deliciosos burritos. 
+
+![Bienvenidos al Quincy Market](http://i.imgur.com/3aZJMIf.jpg)
 
 Unas cuantas cuadras después estaba el Quincy Market, entramos y era un pasillo enorme lleno de locales de comida, postres y bebidas, al centro del mercado cuenta con una especie de cúpula de dos pisos llenas de mesas donde la gente se puede sentar a disfrutar de sus alimentos. Ese día Geo termino probando uno de los platillos clásicos de Boston la *sopa de almeja* y yo por mi parte sufría del mal del burro que es algo similar al mal de puerco pero este exclusivamente te da cuando comes burritos, para lo que no estan relacionados con el término está el mal del puerco es esa sensación de no querer hacer nada más que estar estático y con sueño pero sin poder dormir.
 Aún está llena así que decidí ver a Geo comer mientras escuchaba a un chico tocar la guitarra, sabía que regresariamos al lugar, durante nuestro recorrido vimos más de un local con comida interesante y estaba cerca del hotel.
