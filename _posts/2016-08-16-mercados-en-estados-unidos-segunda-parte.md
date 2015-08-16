@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Mercados en Estados Unidos: Segunda parte
-tags: Boston Filadelfia Estados-Unidos Miniguia Gastronomia
+tags: boston filadelfia estados-unidos miniguia gastronomia
 author: rox
 image: http://i.imgur.com/mywMB8d.jpg
 ---
+
 ###Quincy market
 
 ![Bienvenidos al Quincy market](http://i.imgur.com/3aZJMIf.jpg)
