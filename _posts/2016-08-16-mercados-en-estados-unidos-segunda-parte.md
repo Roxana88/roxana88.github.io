@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Titulo"
+tags: 
+author: rox
+image: 
+---
 ###Quincy Market
 
 Dicen que por algo pasan y fue así como en nuestra visita a [Boston](/tag/boston/) conocimos y comimos en este mercado. Nuestra primera visita es una historia triste habíamos salido del tour de *Samuel Adams* y decidimos llegar al centro histórico para comer algo, estábamos muriendo de hambre y literal nos metimos al primer local de comida saliendo de la estación el metro y el ganador fue **Chipotle** y sus enormes, calóricos y deliciosos burritos. 
