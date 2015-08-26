@@ -18,11 +18,15 @@ Se puede caminar por casi todo el recinto y pasar al Castillo Comtal (Château C
 
 Las partes interesantes del Castillo Comtal es que puedes pasear por las murallas donde los arqueros protegían a los gobernantes y con una explicación de cómo se intentaba repeler un asedio. Además que cuenta con una serie de esculturas y artefactos romanos y medievales, junto con maquetas de la zona. Además del Castillo Comtal también se puede visitar la Basílica de San Nazareno, que no tuvimos la fortuna de ver por dentro porque estaba cerrada.
 
+![Rox de vagabunda en las rampas de la ciudadela](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/08/DSC07802.JPG)
+
 Y para terminar (o empezar) el instagram medieval, la Porte Narbonnaise (Puerta Narbona, puerta principal de la ciudadela) es el clásico ejemplo de arquitectura con una imitación de puente levadizo. No podemos tener nuestra fantasía a la Robin Hood sin que levanten el puente. Esto fue criticado a Viollet-le-Duc, porque no existía originalmente… pero se ve bien.
 
 ![Entrada de la Basílica de San Nazareno](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/08/DSC07792.JPG)
 
 Para finalizar si quieres aumentar tu experiencia, hospedarte en un hotel dentro de la ciudadela lo vale. Pasear en la noche por esas calles frías (llenas de fantasmas según Rox) es bueno, sin decir que el hotel Best Western (Le Donjon) es un encanto. A las afueras hay más hoteles y más vida, pero pues eso en cualquier ciudad.
+
+![Carcasona de noche](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/08/DSC07829.JPG)
 
 * **Costo** - No recuerdo (fuimos en el 2012) el precio pero segun internet, debe estar en unos 9 euros la entrada más la audioguía que era costo separado.
 * **Sitio UNESCO** - Código [345](http://whc.unesco.org/pg.cfm?cid=31&id_site=345)
