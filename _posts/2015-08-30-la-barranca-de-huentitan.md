@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La barrabca de Huentitán
+title: La barranca de Huentitán
 tags: miniguia guadalaja mexico 
 author: rox
 image: http://i.imgur.com/crhqktb.jpg
