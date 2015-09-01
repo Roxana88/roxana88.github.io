@@ -45,3 +45,5 @@ Cuando íbamos en la vuelta 3 literal sentía que ya no podía caminar más, era
 ![La foto del triunfo](http://i.imgur.com/YypHCsI.jpg)
 
 Ya estábamos cerca del triunfo trate de regular mi respiración y poner cara de “Soy cool, que bueno estuvo el ejercicio el próximo domingo regresamos” Así es mi cara decía todo eso. Si disfrute la visita el lugar, es muy panorámico y una excelente opción para visitar el domingo, mi única recomendación es que si no tienen mucha condición no bajen mucho porque en la subida te dolerá hasta el alma.
+
+Para llegar a la Barranca de Huentitan, hay que tomar la calle Belisario Dominguez hacia el norte, y no es broma, hasta donde acaba la calle. Habrá algunos terrenos donde te puedes estacionar por 10 pesos todo el tiempo y de ahi solo queda comenzar a caminar por los puestos para encontrar la entrada.
