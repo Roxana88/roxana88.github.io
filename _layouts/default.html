@@ -57,7 +57,7 @@
                     var original = $(this);
 
                     $(theImage).load(function () {
-                        if (this.height > this.width) $(original).css("width", "30%");
+                        if (this.height > this.width) $(original).css("width", "32%");
                     });
                 });
 
@@ -65,7 +65,7 @@
                     new Instafeed({
                         get: 'user',
                         userId: 1591756528,
-                        limit: 7,
+                        limit: parseInt(screen.width / 320) + 1,
                         accessToken: '1591756528.467ede5.7469a2fdbbdf463ebb9ec7f8ca79c1d3',
                         resolution: 'low_resolution'
                     }).run();
