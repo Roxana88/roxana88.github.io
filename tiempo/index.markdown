@@ -2,10 +2,10 @@
 layout: page
 title: "Navegar por tiempo"
 ---
-Utiliza el siguiente listado por años para navegar nuestros artículos de relatos relacionados.
+Hola de nuevo, este es un listado rápido por años con para navegar nuestros artículos en los años acontecidos. Es divertido para nosotros ver como han avanzado nuestros viajes por el paso de los años.
 
 * [2008](/tag/2008)
-* 2009
+* [2009](/tag/2009)
 * [2010](/tag/2010)
 * [2011](/tag/2011)
 * [2012](/tag/2012)
