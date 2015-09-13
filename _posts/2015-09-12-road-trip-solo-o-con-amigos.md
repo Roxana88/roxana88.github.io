@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Road trip ¿Solo o con amigos?
-tags: mexico 2015 mini-guias tours jalisco
+tags: mexico 2015 miniguia tours jalisco
 author: rox
 image: http://i.imgur.com/E1EU9aG.jpg
 ---
 
-El día de hoy  amanecí decidida a resolver la gran incógnita ¿qué opción es la mejor viajar: solos o con amigos? Las dos opciones son buenas y tienen sus ventajas y desventajas. Creo que la decisión debe ser basada en el objetivo que tengas del viaje, por ejemplo si tienes ganas de una escapada romántica creo que la respuesta es obvia. 
+El día de hoy  amanecí decidida a resolver la gran incógnita ¿qué opción es la mejor al viajar: solos o con amigos? Las dos opciones son buenas y tienen sus ventajas y desventajas. Creo que la decisión debe ser basada en el objetivo que tengas del viaje, por ejemplo si tienes ganas de una escapada romántica creo que la respuesta es obvia. 
 
 ![Geo manejando camino a Cappadocia en Turquía](http://i.imgur.com/wBuVZ2d.jpg)
 
