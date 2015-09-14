@@ -8,10 +8,10 @@ image: http://i.imgur.com/IQ2b9NK.jpg
 
 Como les había platicado en mi post anterior la verdadera razón por la que visitamos Aguascalientes fue gracias a la invitación de Héctor para conocer este hermoso lugar llamado Mexticacán. Aún recuerdo mi conversación con Geo acerca de visitar o no Mexticacán, fue algo así:
 
-           Geo: Oye Héctor nos invita a su pueblo el fin de semana
-           Yo: ¿Y que ha en su pueblo o que?
-           Geo: Que van a poner unos tapetes o algo asi
-           Yo: Bueno
+           Geo: Oye Héctor nos invita a su pueblo el fin de semana.
+           Yo: ¿Y que hay en su pueblo o que?
+           Geo: Que van a poner unos tapetes o algo asi.
+           Yo: Bueno.
 
 Una semana más tarde nos encontrábamos camino a Mexticacan, ¿Cuales eran mis expectativas de este pequeño pueblo? Realmente no espera mucho y creo que fueron mis bajas expectativas las que hicieron que este pequeño pueblo realmente me encantara.
 
