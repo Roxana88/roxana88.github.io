@@ -5,6 +5,7 @@ tags: mexico jalisco 2015
 author: rox
 image: http://i.imgur.com/IQ2b9NK.jpg
 ---
+
 Como les había platicado en mi post anterior la verdadera razón por la que visitamos Aguascalientes fue gracias a la invitación de Héctor para conocer este hermoso lugar llamado Mexticacán. Aún recuerdo mi conversación con Geo acerca de visitar o no Mexticacán, fue algo así:
 
            Geo: Oye Héctor nos invita a su pueblo el fin de semana
