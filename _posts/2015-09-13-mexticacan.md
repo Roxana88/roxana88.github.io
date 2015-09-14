@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mexticacán: Primer día 
+title: "Mexticacán: Primer día"
 tags: mexico jalisco 2015
 author: rox
 image: http://i.imgur.com/IQ2b9NK.jpg
