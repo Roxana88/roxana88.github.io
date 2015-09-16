@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mexticacán: Segundo día"
-tags: mexico jalisco 2015
+tags: mexico jalisco 2015 aguascalientes
 author: rox
 image: http://i.imgur.com/B0icHyz.jpg
 ---
