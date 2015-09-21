@@ -47,3 +47,19 @@ Cuando íbamos en la vuelta 3 literal sentía que ya no podía caminar más, era
 Ya estábamos cerca del triunfo trate de regular mi respiración y poner cara de “Soy cool, que bueno estuvo el ejercicio el próximo domingo regresamos” Así es mi cara decía todo eso. Si disfrute la visita el lugar, es muy panorámico y una excelente opción para visitar el domingo, mi única recomendación es que si no tienen mucha condición no bajen mucho porque en la subida te dolerá hasta el alma.
 
 Para llegar a la Barranca de Huentitán, hay que tomar la calle Belisario Dominguez hacia el norte, y no es broma, hasta donde acaba la calle. Habrá algunos terrenos donde te puedes estacionar por 10 pesos todo el tiempo y de ahi solo queda comenzar a caminar por los puestos para encontrar la entrada.
+
+##Actualización
+
+Hoy 20 de Septiembre del año 2015  en pleno uso de mis facultades mentales decidí regresar a la barranca de Huentitán, la esperanza era salir con la frente en alto y decir ¡lo logre!. No podía dejarme vivir con la duda ¿que habrá alla bajo? ¿será un tesoro y por eso cuenta tanto bajarla? ¿deberia cenar cheese burger? Era momento de tomar valor y regresar al lugar.
+
+![Saludos desde Chiapas Huentitán](http://i.imgur.com/JB73QlF.jpg)
+
+Esta vez sabía a lo que me enfrentaba así decidí desayunar cereal, llevar una bebida hidratante y barras de avena ¡que Dios se apiade de mi alma!. Después de una hora logramos bajar la barranca y solo habia un rio que se veía bastante pobre, un poco decepcionante ya que no solo era lo que me había costado bajar la barranca si no lo que me costaría subirla. 
+
+![La foto del triunfo](http://i.imgur.com/8IehudW.jpg)
+
+Una vez cerca del río decidimos seguir a la gente ¡parecía que aún no terminaba el recorrido!. Después de la caminata llegamos a un puente elegante que sin duda era la atracción del lugar, la vista desde el puente es hermosa *muy verde y esas cosas* pero nada se compara con mi orgullo de haberlo logrado. Por supuesto lo cruzamos para ver qué había del otro lado ¿y que creen no hay tesoro?.
+
+![Puente elegante también conocido como el puente de Arcediano](http://i.imgur.com/wV3xKMi.jpg)
+
+La subida fue doloroso pero no tanto como la primera vez, la verdad es que mi velocidad para subir se podía comparar con la de un bebé dando sus primeros pasos. Ni siquiera quería ver la numeración de las vueltas ¡no tienes porque hacerte daño Rox! me decía una y otra vez. Llegó un momento en el que sentí que ya no podía pero la fuerza mágica de una *paleta de la rosa* me ayudo a soportarlo, las últimas vueltas fueron las más pesadas pero no importa por fin puedo decir que lo logre.
