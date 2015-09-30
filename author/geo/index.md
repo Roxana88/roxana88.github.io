@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nosotros"
+title: "Nosotros - Geo Perez"
 author: geo
 ---
 {% assign author = site.authors[page.author] %}
