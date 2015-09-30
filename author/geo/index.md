@@ -8,13 +8,13 @@ author: geo
 <div class="row">
 <div class="col-md-4">
 <div class="author-image" style="border: 0">
-    <img src="{{author.image}}" alt="{{author.name}}" title="{{author.name}}" />
+    <img src="{{author.image}}" alt="{{author.name}}" title="{{author.name}}" style="margin: auto" />
 </div>
 </div>
 <div class="col-md-8">
 <div class="author-info">
-    <h2 rel="author">{{author.name}}</h2>
-    <p>{{author.bio}} <br />Estos son algunos de mis artículos en Tamales con Pasaporte:</p>
+    <p><strong rel="author">{{author.name}}</strong> - {{author.bio}}</p>
+    <p>Estos son algunos de mis artículos en Tamales con Pasaporte:</p>
 </div>
 </div>
 </div>
