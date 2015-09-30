@@ -8,7 +8,7 @@ author: geo
 <div class="row">
 <div class="col-md-4">
 <div class="author-image" style="border: 0">
-    <img src="{{author.image}}" alt="{{author.name}}" title="{{author.name}}" style="margin: auto" />
+    <img src="{{author.image}}" title="{{author.name}}" style="margin: auto" />
 </div>
 </div>
 <div class="col-md-8">
