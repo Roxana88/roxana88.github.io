@@ -16,6 +16,7 @@ Esta es una lista actualizada de recursos en Internet útiles para viajeros.
 
 * [Guía del Viajero](http://guiadelviajero.sre.gob.mx/) - En su listado [Información por Destino](http://guiadelviajero.sre.gob.mx/index.php/informacion-por-destino) comprende todos los países con información para mexicanos.
 * [Pasaporte mexicano (Wikipedia](http://es.wikipedia.org/wiki/Pasaporte_mexicano) - El artículo de Wikipedia (tanto en inglés como en español) provee buena información sobre visas. Es más fácil de consultar que la Guía de Viajero.
+* [e-Visa Turquía](https://www.evisa.gov.tr/es/) - Proceso de visado electronico para [Turquía](/tag/turquia). Más información en [Conseguir una visa turca](/conseguir-una-visa-turca/).
 
 ##Varios
 
