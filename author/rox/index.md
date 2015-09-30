@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nosotros"
+title: "Nosotros - Roxana Evans"
 author: rox
 redirect_from:
   - /author/roxana-evans-garduno-gomez/
