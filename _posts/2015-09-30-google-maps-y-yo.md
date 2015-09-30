@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Maps y yo"
-tags: miniguia planeacion
+tags: miniguia planes
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/09/IMG-20150930-WA0002.jpg
 ---
