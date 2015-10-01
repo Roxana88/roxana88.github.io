@@ -3,7 +3,8 @@ layout: page
 title: "Blogs de viajeros"
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43-1.jpg
 ---
-Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes.
+
+Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y comida en lejanos paises.
 
 ##Blogs en Español
 * [Vivir al Máximo](http://viviralmaximo.net/)
@@ -20,3 +21,4 @@ Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes.
 * [Drinking Traveller](http://drinkingtraveller.com/)
 * [Turkey Travel Planner](http://www.turkeytravelplanner.com/) - Aunque no es un blog, la cantidad de buena información sobre [Turquía](/tag/turquia) es increíble.
 * [The Man in Seat Sixty-One](http://www.seat61.com/) - Mucha información de trenes.
+* [Migrationology](http://migrationology.com/) - Comida asiatica en cantidades industriales.
