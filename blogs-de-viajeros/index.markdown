@@ -11,6 +11,7 @@ Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y c
 * [Tu historia de Viaje](http://tuhistoriadeviaje.com/)
 * [Dos Mochilas en Ruta](http://dosmochilasenruta.com/)
 * [Bueno, Bonito y Barato](http://buenobonitobarat0.blogspot.com.es)
+* [Jitomate](https://jitomate.wordpress.com/)
 
 ![Chelsea Market, Nueva York](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43.jpg)
 
