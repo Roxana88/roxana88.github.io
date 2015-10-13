@@ -5,7 +5,7 @@ tags: miniguia new-york munich boston panama republica-checa chicago londres
 author: rox
 image: http://i.imgur.com/soZ94qG.jpg
 ---
-Cuando empezamos a viajar a (Estados Unidos)[/tag/estados-unidos/]  una de las cosas que llaman nuestra atención es visitar las cervecerías locales y hacer los recorridos que te ofrecen para aprender un poco más del proceso. *Todo sea por la cultura*. Geo ya ha comentado un poco del tema en su post de [Turismo Cervecero](/turismo-cervecero/), pero me gustaria platicar un poco de las cervecerías que hemos visitado a lo largo de nuestros viajes.
+Cuando empezamos a viajar a [Estados Unidos](/tag/estados-unidos)  una de las cosas que llaman nuestra atención es visitar las cervecerías locales y hacer los recorridos que te ofrecen para aprender un poco más del proceso. *Todo sea por la cultura*. Geo ya ha comentado un poco del tema en su post de [Turismo Cervecero](/turismo-cervecero/), pero me gustaria platicar un poco de las cervecerías que hemos visitado a lo largo de nuestros viajes.
 
 ## Brooklyn Brewery 
 
