@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% assign author = site.authors[page.author] %}
-
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <meta itemprop="name" content="{{page.title}}"/>
     <meta itemprop="image" content="{{page.image}}"/>
@@ -33,7 +32,7 @@ layout: default
                         Fecha: <span itemprop="datePublished"> {{page.date | date_to_string}}</span>- autor
                         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
                             <span itemprop="name" class="author-name">{{author.name}}</span>
-                            </span>
+                        </span>
                         <br/>
                         <div class="share-icons">
                             Compartir: <i class="fa fa-share"></i>
@@ -82,7 +81,7 @@ layout: default
                     <div class="row">
                         <div class="col-md-12">
                             <hr />
-                            <p>Continua leyendo con nostros. Podrian interesarte los siguientes art&iacute;culos.</p>
+                            <p>Continua leyendo con nosotros. Podr&iacute;an interesarte los siguientes art&iacute;culo:</p>
                         </div>
                         {% if page.previous %}
                         <div class="col-md-6" style="padding: 0; min-height: 200px; overflow: hidden">
@@ -127,9 +126,7 @@ layout: default
                         {% endfor %}
                         <li><a href="{{page.image}}" alt="Tag image">Tag image</a></li>
                     </ul>
-
                     <hr class="divider hidden-sm hidden-xs">
-
                     <div style="text-align: center" class="hidden-sm hidden-xs">
                         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Tamalbox -->
@@ -137,13 +134,10 @@ layout: default
                              style="display: inline-block; width: 290px; height: 600px"
                              data-ad-client="ca-pub-7312968410890852"
                              data-ad-slot="1025056821"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </article>
