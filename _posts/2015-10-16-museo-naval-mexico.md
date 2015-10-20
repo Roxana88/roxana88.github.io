@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museo Naval México"
-tags: museo veracruz 2015
+tags: museos veracruz 2015
 author: gep
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/10/2015-03-15%2010.31.21.jpg
 ---
