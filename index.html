@@ -2,18 +2,6 @@
 layout: default
 title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mundo, conociendo la cultura local por medio de su comida"
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<div id="fb-root"></div>
-<script>
-    (function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/es_MX/sdk.js#xfbml=1&version=v2.0";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-
 <div class="header-wrap">
     <div id="instafeed"></div>
     <header class="container header">
@@ -41,8 +29,7 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                             <h2 itemprop="headline"><a href="{{post.url}}">{{post.title}}</a></h2>
                         </div>
                         <div class="post-date hidden-sm hidden-xs">
-                            <span title="{{post.date | date:"%Y" }}">{{post.date | date:"%d"}}</span>
-                            {{post.date | date:"%b"}}
+                            <span title="{{post.date | date:"%Y" }}">{{post.date | date:"%d"}}</span>{{post.date | date:"%b"}}
                         </div>
                     </div>
                     <div class="post-content">
@@ -52,8 +39,7 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                     </div>
                     <hr />
                     <div class="post-meta">
-                        Fecha: <span itemprop="datePublished">{{post.date| date_to_string}}</span>
-                        <br />
+                        Fecha: <span itemprop="datePublished">{{post.date| date_to_string}}</span><br />
                         <div class="share-icons">
                             Comparte en Redes Sociales:
                             <ul class="list-inline list-share-icons">
@@ -71,7 +57,6 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                                 </li>
                             </ul>
                         </div>
-
                         <hr class="divider" />
                     </div>
                 </article>
@@ -103,7 +88,6 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                             </div>
                         </form>
                     </div>
-
                     <!--End mc_embed_signup-->
                 </article>
             </section>
@@ -113,12 +97,9 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                         <img alt="Rox y Geo" src="/assets/images/about.jpg" class="img-thumbnail" style="border-radius: 80px;">
                     </div>
                     <p>
-                        Somos Rox y Geo, nos gusta viajar y comer. Este blog
-                        es acerca de los lugares que hemos viajado,
-                        de lo que hemos aprendido y sobre todo de como nos hemos
-                        divertido. Si tienes cualquier duda sobre alguno de los destinos
-                        que hemos visitado, contactanos por medio de las redes sociales
-                        m&aacute;s abajo.
+                        Somos Rox y Geo, nos gusta viajar y comer. Este blog es acerca de los lugares que hemos viajado,
+                        de lo que hemos aprendido y sobre todo de como nos hemos divertido. Si tienes cualquier duda sobre alguno de los destinos
+                        que hemos visitado, contactanos por medio de las redes sociales m&aacute;s abajo.
                     </p>
                     <p>
                         Esperamos mucho que encuentres un poco de informaci&oacute;n e inspiraci&oacute;n
@@ -126,18 +107,27 @@ title: "Blog de Anécdotas y Consejos para los viajeros. Desde México por el mu
                         aventuras visitando M&eacute;xico y el mundo.
                     </p>
                     <hr class="divider">
+                    <div id="fb-root"></div>
+                    <script>
+                        (function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) return;
+                            js = d.createElement(s); js.id = id;
+                            js.src = "//connect.facebook.net/es_MX/sdk.js#xfbml=1&version=v2.0";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));
+                    </script>
                     <div class="fb-like-box" data-href="https://www.facebook.com/Tamalesconpasaporte" data-width="280" data-height="320"
                          data-colorscheme="light" data-show-faces="true" data-header="true"
                          data-stream="false" data-show-border="true"></div>
                     <div style="text-align: center" class="hidden-sm hidden-xs">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Tamalbox -->
                         <ins class="adsbygoogle"
                              style="display:inline-block;width:290px;height:600px"
                              data-ad-client="ca-pub-7312968410890852"
                              data-ad-slot="1025056821"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                     </div>
                 </div>
             </div>
