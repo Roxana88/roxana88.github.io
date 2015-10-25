@@ -3,7 +3,7 @@ layout: post
 title: ¿Tu primera vez en Praga?
 tags: europa praga republica-checa
 author: rox
-image: http://i.imgur.com/8ArhXYi.jpg
+image: http://i.imgur.com/lkCCrIV.jpg
 ---
 
 Después de unos cuantos meses de experiencia escribiendo mis posts siento que apenas estoy empezando a entender cómo escribirlos. Mi primer post fue el de Praga que por cierto es largo, no sabía qué cosas escribir o que cosas omitir, pensaba y pensaba cómo debía empezar a escribirlo.
