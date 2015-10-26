@@ -35,7 +35,7 @@ Decidí escribir nuevamente un post de Praga porque el primero, además de ser l
 
 ![¡Hola! Soy la Kofola](http://i.imgur.com/OyEVlVu.jpg)
 
-* Praga es una ciudad que te sorprende simplemente al recorrer sus calles la arquitectura del lugar es impresionante, medieval y elegante. Sin embargo no te puedes ir sin visitar el [Castillo de Praga](http://www.hrad.cz/), el puente de Carlos que está lleno de esculturas y artistas callejeros, el reloj astronómico y el monumento a  Wesceslao ¡ahora si ya puedes irte! .
+* Praga es una ciudad que te sorprende simplemente al recorrer sus calles la arquitectura del lugar es impresionante, medieval y elegante. Sin embargo no te puedes ir sin visitar el [Castillo de Praga](http://www.hrad.cz/), el puente de Carlos que está lleno de esculturas y artistas callejeros, el reloj astronómico y el monumento a Wesceslao ¡ahora si ya puedes irte!
 
 * Los embutidos en Europa en general son muy buenos pero mis favoritos fueron los de Praga, pasar por las calles y ver los carritos llenos de salchichas es una tentación difícil de resistir, sobre todo cuando en México te las venden como productos gourmet ¡las quiero todas! Solo recuerden no alimentar a las palomas.
 
@@ -47,6 +47,6 @@ Decidí escribir nuevamente un post de Praga porque el primero, además de ser l
 
 ![Caminando, simplemente caminando](http://i.imgur.com/eLEiSQd.jpg)
 
-* En general en Europa durante invierno oscurece temprano por lo que es recomendable que te levantes temprano para iniciar con tu itinerario y visitar las atracciones más lejanas primero, así cuando empiece a oscurecer estarás cerca de hotel y no tendrás que preocuparte.
+* Europa durante invierno oscurece temprano por lo que es recomendable que te levantes temprano para iniciar con tu itinerario y visitar las atracciones más lejanas primero, así cuando empiece a oscurecer estarás cerca de hotel y no tendrás que preocuparte.
 
 Con estos pequeños consejos creo que ya estas listo para dejarte enamorar por las coloniales calles de Praga sin perderse las principales atracciones ni su deliciosa comida.
