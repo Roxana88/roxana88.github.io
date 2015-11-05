@@ -12,7 +12,7 @@ Puede que hagamos publicaciones sobre viajes que ya hemos platicado, extendiendo
 
 ![Rox meditando sobre sus viajes](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/10/IMG_0273.JPG)
 
-Hace tiempo comentaba acerca de este tema, de la [Nostalgia de los viajes](la-nostalgia-de-los-viajes), y aunque es bueno seguir tus propios consejos, el mantenimiento de un blog es un poco de diferente. Aunque claro que aplican los casos de hacer viaje cercanos o reexplorar la ciudad en busca de un buen lugar o evento sobre el cual narrar y mantener vivo el flujo de contenido del sitio. Quizás si el clima mejora podremos aventurarnos en las cercanías en estos días.
+Hace tiempo comentaba acerca de este tema, de la [Nostalgia de los viajes](/la-nostalgia-de-los-viajes/), y aunque es bueno seguir tus propios consejos, el mantenimiento de un blog es un poco de diferente. Aunque claro que aplican los casos de hacer viaje cercanos o reexplorar la ciudad en busca de un buen lugar o evento sobre el cual narrar y mantener vivo el flujo de contenido del sitio. Quizás si el clima mejora podremos aventurarnos en las cercanías en estos días.
 
 En el siguiente mes, tenemos un viaje rápido a Toluca en cual espero por fin conocer las **pirámides de Teotihuacán**, al menos eso nos juraron los familiares de Rox qué iremos a visitar, y darle una visitada de nuevo, con calma, a **Metepec** que es un [Pueblo Mágico](/mexico-pueblos-magicos/) bastante colorido con su iglesia en la colina y sus artesanías de **Arboles de la Vida** que son increíbles. Ya estaremos reportando de este viaje en los próximos días.
 
