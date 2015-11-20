@@ -42,18 +42,17 @@ function initialize() {
     {'nombre': 'Carcasona, Francia', link: '/tag/carcasona', 'lat': new google.maps.LatLng(43.208114, 2.362470) },
 	{'nombre': 'San Francisco, EUA', link: '/tag/san-francisco', 'lat': new google.maps.LatLng(37.794199, -122.403611) },
 	{'nombre': 'Las Vegas, EUA', link: '/tag/las-vegas', 'lat': new google.maps.LatLng(36.129714, -115.167447) },
-    {'nombre': 'Veracruz, México', link: '/tag/veracruz', 'lat': new google.maps.LatLng(19.197207, -96.132025) },
-    {'nombre': 'Washington, EUA', link: '/tag/washington', 'lat': new google.maps.LatLng(38.894806, -77.046152) },
-    {'nombre': 'Tequila, México', link: '/tag/tequila', 'lat': new google.maps.LatLng(20.876503, -103.826402) },
-    {'nombre': 'Miami, EUA', link: '/tag/miami', 'lat': new google.maps.LatLng(25.777532, -80.195375) },
-    {'nombre': 'Creel, México', link: '/tag/creel', 'lat': new google.maps.LatLng(27.749592, -107.635172) },
-    {'nombre': 'Guanajuato, México', link: '/tag/guanajuato', 'lat': new google.maps.LatLng(21.016189, -101.252577) },
+    	{'nombre': 'Veracruz, México', link: '/tag/veracruz', 'lat': new google.maps.LatLng(19.197207, -96.132025) },
+    	{'nombre': 'Washington, EUA', link: '/tag/washington', 'lat': new google.maps.LatLng(38.894806, -77.046152) },
+    	{'nombre': 'Tequila, México', link: '/tag/tequila', 'lat': new google.maps.LatLng(20.876503, -103.826402) },
+    	{'nombre': 'Miami, EUA', link: '/tag/miami', 'lat': new google.maps.LatLng(25.777532, -80.195375) },
+    	{'nombre': 'Creel, México', link: '/tag/creel', 'lat': new google.maps.LatLng(27.749592, -107.635172) },
+    	{'nombre': 'Guanajuato, México', link: '/tag/guanajuato', 'lat': new google.maps.LatLng(21.016189, -101.252577) },
+    	{'nombre': 'Aguascalientes, México', link: '/tag/aguascalientes', 'lat': new google.maps.LatLng(21.880210, -102.294342) },
+    	{'nombre': 'Cancún, México', link: '/tag/cancun', 'lat': new google.maps.LatLng(21.169664, -86.840925) },
   ];
-  var mapOptions = {
-    zoom: 2,
-    center: lats[0].lat
-  };
-
+  
+  var mapOptions = {    zoom: 2,     center: lats[0].lat  };
   var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
   $.each(lats, function(i, l) {
