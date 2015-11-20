@@ -26,6 +26,7 @@ Teotihuacán para mí era como un recuerdo infantil de primaria, de alguna lámi
 
 * **Costo** - Los niños no pagan y adultos cuesta 64 pesos, más el estacionamiento unos 45 pesos.
 * **Sitio UNESCO** - Código [414](http://whc.unesco.org/en/list/414)
+
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15026.582132093026!2d-98.86267387822471!3d19.685122471805666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x66c26479f83a004e!2sLa+Ciudadela!5e0!3m2!1sen!2smx!4v1448056327979" class="embed-responsive-item"  frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
