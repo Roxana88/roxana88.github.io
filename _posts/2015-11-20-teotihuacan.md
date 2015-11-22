@@ -22,9 +22,11 @@ Fuera de las dimensiones de los edificios, lo que más me llamó la atención fu
 
 ![Pirámide de la Luna a la distancia](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/11/IMG_0607.JPG)
 
+Algo también curioso que tiene Teotihuacán que hay muchos vendedores de replicas de artesanías y demás baratijas, desde silbatos, pulseras, craneos, esculturas de guerreros aztecas y lanzas de obsidiana. Esta bien que esten disponibles estos recuerdos, pero creo que era un poco excesivo la cantidad de vendedores que había. Al menos no era molestos y un "no gracias" bastaba.
+
 Teotihuacán para mí era como un recuerdo infantil de primaria, de alguna lámina de tarea sobre las grandes culturas mexicanas, y hay acababa. Pero cuando lo vi, me gusto mucho, y me hizo recordar que existe un vasto número de lugares, tanto históricos como naturales, aquí en México que están en mi **bucket list** y debería darle más prisa a visitarlos.
 
-* **Costo** - Los niños no pagan y adultos cuesta 64 pesos, más el estacionamiento unos 45 pesos.
+* **Costo** - Los niños no pagan y adultos cuesta 64 pesos, más el estacionamiento unos 45 pesos. Más información en el [sitio oficial](http://www.teotihuacan.inah.gob.mx/).
 * **Sitio UNESCO** - Código [414](http://whc.unesco.org/en/list/414)
 
 <div class="embed-responsive embed-responsive-16by9">
