@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teotihuacán"
-tags: mexico ciudad-de-mexico atracciones df
+tags: mexico ciudad-de-mexico atracciones df 2015
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/11/IMG_0478.JPG
 ---
