@@ -21,7 +21,7 @@ Esto de los viajes es una cosa adictiva mientras más lugares visitas, percibes 
 
 * Lo que espero de **Japón** es poder ver uno de esos shows llenos de robots y chicas con luces de LED algo me dice que eso es divertido al menos **Bourdain** lo parece en sus programas. Con suerte encontrar un traje de Pikachu y podre caminar por las calles sin ser juzgada de loca mientras como un poco de sushi y digo *arigato*. 
 
-* Cuando visitemos  **Shanghái**  en China tendremos la fortuna de hacerlo durante el año nuevo chino, disfrutar del evento es suficiente para decir que la visita valdrá la pena. Siendo sincera tengo un poco de miedo de comprar todas las cosas que vea en las tiendas, mi objetivo es encontrar la alcancía del gatito roba monedas y todas las chuches curiosas que vea en resumen voy a comprar China.
+* Cuando visitemos  **Shanghái** en China tengo un poco de miedo de comprar todas las cosas que vea en las tiendas, mi objetivo es encontrar la alcancía del gatito roba monedas y todas las chuches curiosas que vea en resumen voy a comprar China.
 
 * **Macao** cuando vi las fotos fue amor a primera vista, Geo estaba planteando apenas la posibilidad de visitar el lugar cuando yo estaba buscando el hotel como perder la oportunidad de conocer Las Vegas de Asia. Me imagino en Macao con un enorme collar de oro y mi ropa **blink blink** tomando *sake* custodiada por Pikachus elegantes. 
 
