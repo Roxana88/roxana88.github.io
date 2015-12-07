@@ -23,7 +23,7 @@ Esto de los viajes es una cosa adictiva mientras más lugares visitas, percibes 
 
 * Cuando visitemos  **Shanghái**  en China tendremos la fortuna de hacerlo durante el año nuevo chino, disfrutar del evento es suficiente para decir que la visita valdrá la pena. Siendo sincera tengo un poco de miedo de comprar todas las cosas que vea en las tiendas, mi objetivo es encontrar la alcancía del gatito roba monedas y todas las chuches curiosas que vea en resumen voy a comprar China.
 
-* **Macao** cuando vi las fotos fue amor a primera vista, Geo estaba planteando apenas la posibilidad de visitar el lugar cuando yo estaba buscando el hotel como perder la oportunidad de conocer Las Vegas de Asia. Me imagino en Macao con un enorme collar de oro y mi ropa blink blink tomando *sake* custodiada por Pikachus elegantes. 
+* **Macao** cuando vi las fotos fue amor a primera vista, Geo estaba planteando apenas la posibilidad de visitar el lugar cuando yo estaba buscando el hotel como perder la oportunidad de conocer Las Vegas de Asia. Me imagino en Macao con un enorme collar de oro y mi ropa **blink blink** tomando *sake* custodiada por Pikachus elegantes. 
 
 * De **Vietnam** me dolió mucho pagar la visa así que mi venganza será comer la mayor cantidad de pho, rollos vietnamitas y en general disfrutar de su gastronomía. Dejarme seducir por sus ruidosas calles llenas de motocicletas y disfrutar de un atardecer apreciando los campos de arroz ¡suena a que tengo un plan!.
  
@@ -33,6 +33,6 @@ Esto de los viajes es una cosa adictiva mientras más lugares visitas, percibes 
 
 * De **Singapur** solo espero quedar deslumbrada con los enormes rascacielos que adornan la ciudad, tal vez si Macao son Las Vegas de Asia Singapur puede ser el [Manhattan](/tag/new-york).
 
-* De la *India* tengo sentimientos encontrados muero por visitarla y probar su deliciosa comida pero también sé que será el lugar donde experimentare el choque cultural más fuerte del viaje. Amigos que han tenido la oportunidad de visitarla y comparte su experiencia o la aman o la odian no hay punto intermedio yo espero amarla.
+* De la **India** tengo sentimientos encontrados muero por visitarla y probar su deliciosa comida pero también sé que será el lugar donde experimentare el choque cultural más fuerte del viaje. Amigos que han tenido la oportunidad de visitarla y comparte su experiencia o la aman o la odian no hay punto intermedio yo espero amarla.
 
 No son los únicos lugares que visitaremos pero si son de los que más tengo expectativas oficialmente empieza la cuenta regresiva para el viaje del 2016 y también me complace decir que estamos a días de cumplir el primer año del blog, gracias a las personas con nos han leído y nos siguen leyendo.
