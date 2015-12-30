@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registro en el SIRME
-tags: mini-guia
+tags: miniguia mexico
 author: rox
 image: http://i.imgur.com/sGpNJMj.jpg
 ---
