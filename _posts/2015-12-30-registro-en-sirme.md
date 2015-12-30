@@ -3,7 +3,7 @@ layout: post
 title: Registro en el SIRME
 tags: mini-guia
 author: rox
-image: http://i.imgur.com/neH0ict.jpg
+image: http://i.imgur.com/sGpNJMj.jpg
 ---
 A pesar de que somos viajeros frecuentes nunca dejamos de aprender cosas útiles en cada viaje. La primera vez que salimos del país solo habíamos contratado un seguro de viajero y nos sentimos listos para la aventura, en los viajes posteriores tomamos nota de la dirección y teléfono de la embajada mexicana en cada uno de nuestros destinos y esta vez decidimos registrarnos en el *Sistema de registro para mexicanos en el extranjero (SIRME)*, este registro tiene como finalidad brindar ayuda e información oportuna a los ciudadanos mexicanos que se encuentran en el exterior y para ser sincera recientemente me enteré de su existencia. 
 Para la planeación de este viaje nos apoyamos con la información de la *Secretaría de Relaciones Exteriores (SRE)* y su [guía del viajero](http://guiadelviajero.sre.gob.mx/) donde se ofrece información relevante del país que quieres visitar como los requisitos de entrada, leyes y costumbres, seguridad y bienestar, etc. Bien vale la pena darle una leída.
