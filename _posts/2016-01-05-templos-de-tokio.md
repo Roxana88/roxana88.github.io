@@ -33,3 +33,9 @@ Una vez que finalizas tu visita podrás adquirir diversos amuletos los cuales so
 Ya estando en eso de los amuletos decidí probar con los palillos chinos que es una especia de adivinación. Tienes que agitar un contenedor metálico lleno de palillos y después sacar uno al azar, cada palillo cuenta con un kanji (caractér japónes) y tiene una pequeña explicación de su significado. Básicamente te da como tu horoscopo. Para finalizar doblas el papel y lo dejas colgado en una área designada en el patio del templo. Los templos son unos de los principales atractivos turísticos gracias a su arquitectura que es muy peculiar, hablando en nuestro caso en México no tenemos nada parecido.
 
 ![No entendi muy bien, es que no hablo japones](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/01/IMG_1490.JPG)
+
+Y para que conozcan un poco más un templo por fuera, el siguiente video muestra el templo de Higashi Honganji en Kioto.
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1TNanDMJReI" frameborder="0" allowfullscreen></iframe>
+</div>
