@@ -15,6 +15,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [Grecia](/tag/grecia) - Atenas
 * [Holanda](/tag/holanda) - Amsterdam
 * [Italia](/tag/italia) - Florencia, Roma
+* [Japón](/tag/japon) - Tokio, Kioto, Osaka
 * [Marruecos](/tag/marruecos) - Fez, Marrakesh, Rabat, Casablanca, Zagora
 * [México](/tag/mexico) - Guadalajara, Puerto Vallarta, Tequila, Cancún, Veracruz, Ciudad de México, Guanajuato, Creel, Cuernavaca
 * [Panamá](/tag/panama) - Ciudad de Panamá
