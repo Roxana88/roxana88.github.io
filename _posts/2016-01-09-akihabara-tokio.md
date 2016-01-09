@@ -10,8 +10,6 @@ Llegamos al aeropuerto de Narita, en Tokio, y veia un monton de simbolos por tod
 
 En mi visita a Tokio tuve esa sensación que por un momento había olvidada, la sensación de lo desconocido era mi primer encuentro real con la cultura Japonesa. Sinceramente la ciudad superó mis expectativas por mucho Tokio simplemente es una locura, todos sus distritos me enamoraron y decidí empezar con mi favorito Akihabara.
 
- # Bienvenidos a Akihabara
-
 Llegamos un poco antes de las 10:00 am y el distrito parecía desolado no había casi gente en las calles, antes de las visita había visto algunas fotos sobre todo de noche y al verlo en vivo esas fotos parecian fantasía ¿donde está toda la gente? La poca gente que se veía al parecer estaban formados esperando a que abrieran algunos locales, se veía que llevaban un rato ya que algunas llevaban una pequeña silla para hacer la espera amena.
 
 ![Las calles solas de Akihabara](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/01/IMG_1133.JPG)
