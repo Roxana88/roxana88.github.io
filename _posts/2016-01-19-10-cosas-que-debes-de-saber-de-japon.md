@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “10 cosas que debes de saber de Japón"
+title: "10 cosas que debes de saber de Japón"
 tags: japon tokio osaka
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/01/IMG_2229.JPG
