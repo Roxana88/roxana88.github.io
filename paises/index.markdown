@@ -9,8 +9,11 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [Austria](/tag/austria) - Viena
 * [Bélgica](/tag/belgica) - Brujas
 * [Colombia](/tag/colombia) - Cartagena
+* [Corea del Sur](/tag/corea-del-sur) - Seúl
+* [China](/tag/china) - Shanghai, Hong Kong, Macao
 * [España](/tag/espana) - Madrid, España
 * [Estados Unidos de América](/tag/estados-unidos) - Chicago, New York, Washington DC, Orlando, Miami, Los Angeles, San Francisco, Philadephia, Boston, Las Vegas
+* [Filipinas](/tag/filipinas) - Manila
 * [Francia](/tag/francia) - París, Carcasona
 * [Grecia](/tag/grecia) - Atenas
 * [Holanda](/tag/holanda) - Amsterdam
@@ -23,6 +26,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [República Checa](/tag/republica-checa) - Praga, Pilzn
 * [Suiza](/tag/suiza) - Zurich
 * [Turquía](/tag/turquia) - Estambul, Goreme, Pamukkale
+* [Vietnam](/tag/vietnam) - Hanoi, Hue, Danang, Ho Chi Min (Saigon)
 
 También revisa nuestra [lista por años](/tiempo) o checa nuestro [mapa interactivo](/mapa).
 
