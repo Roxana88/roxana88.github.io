@@ -22,11 +22,11 @@ La fila para comprar los boletos era corta sin embargo la atención es lenta, de
 
 Cuando por fin llegó nuestro turno enseñamos a la cajera la información del tren que queríamos, su inglés no era el mejor fue una de esas situaciones donde nos repetido las cosas como tres veces y nosotros no entendíamos llegando un punto a que un poco avergonzados por no entender sólo contestamos *yes*. Cuando nos enseñó en una calculadora el total a pagar sabíamos que algo anda mal, la cifra a pagar era menor pero también sabíamos que no habría manera de conseguir lo que queríamos la cajera no prestaba atención a lo que queríamos, lo único importante para ella era untarse un poco de pepino en las manos y vernos con cara de ¿van a querer o no?.
 
-¡[Despertando con la vista de las montañas](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_5618.JPG)
+![Despertando con la vista de las montañas](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_5618.JPG)
 
 Ya con calma un poco después nos dimos cuenta que nos habían vendido los boletos para un tren diferente el tipo TN, las diferencia eran pocas podía ser cabinas *”con camas de colchones un poco duros”* y cabinas para cuatro o seis personas, si la suerte era poca nos tocarían asientos en lugar de camas. Ya era cosa del destino no de nosotros.
 
-¡[La gente trabajando en los campos de arroz](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_5346.JPG)
+![La gente trabajando en los campos de arroz](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_5346.JPG)
 
 Mi experiencia en el tren nocturno fue buena, la cabina era para cuatro personas pero por suerte todo el viaje fuimos solos. Un poco más de privacidad, aunque el personal del tren no tocaba antes de abrir. Sólo entran los primeros 20 minutos del viaje para pedir los boletos y para darte agua y toallas húmedas que te servirán al día siguiente.
 
