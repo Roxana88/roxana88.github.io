@@ -11,7 +11,7 @@ Como estas comidas exóticas del oriente lejano no llegarán aquí habrá que te
 
 Estos son algunas de estas comidas exóticas de fácil acceso en los países que visitaremos:
 
-* **Tofu apestoso** - Al parecer el aroma fuerte es parte las gastronomía asiáticas, quizás es como la necesidad de aroma de grasa de puerco en la nuestra. Es un platillo de China y Hong Kong, en este último espero probarlo en sus puestos callejeros. Al parecer según la región es como se sirve y cocina, siendo la versión frita con salsa hoisin o agridulce lo más usual.
+* **Tofu apestoso** - Al parecer el aroma fuerte es parte las gastronomía asiáticas, quizás es como la necesidad de aroma de grasa de puerco en la nuestra. Es un platillo de [China](/tag/china) y [Hong Kong](/tag/hong-kong), en este último espero probarlo en sus puestos callejeros. Al parecer según la región es como se sirve y cocina, siendo la versión frita con salsa hoisin o agridulce lo más usual.
 
 ![Tofu apestoso](https://upload.wikimedia.org/wikipedia/commons/0/00/Choudoufu.jpg)
 
@@ -19,11 +19,11 @@ Estos son algunas de estas comidas exóticas de fácil acceso en los países que
 
 ![Delicioso embrion con yema](https://upload.wikimedia.org/wikipedia/commons/6/63/Balut-dissected.jpg)
 
-* **Serpiente y tarántula** - Esto forma parte de esos platillos que yo considero más como folclor y circo para turistas que una realidad. Como los escamoles y chapulines en México. Se supone que en Cambodia se logra encontrar estos puestos en la calle, que curiosamente cobran por tomar foto (no me digan que no son turisticos). Se preparan a las brasas en un palito, como toda buena comida en esos lugares. La pregunta será, ¿realmente los locales lo comen?
+* **Serpiente y tarántula** - Esto forma parte de esos platillos que yo considero más como folclor y circo para turistas que una realidad. Como los escamoles y chapulines en [México](/tag/mexico). Se supone que en [Camboya](/tag/camboya) se logra encontrar estos puestos en la calle, que curiosamente cobran por tomar foto (no me digan que no son turisticos). Se preparan a las brasas en un palito, como toda buena comida en esos lugares. La pregunta será, ¿realmente los locales lo comen?
 
 * **Durian** - Continuando con alimentos apestosos, tenemos la famosa fruta del sur de Asia que es apestosa, pero según foodies una maravilla de sabor. Aunque se parece a la Yaca, no es lo mismo, el Durian es enorme y apestoso. De todas las comidas exóticas, creo que es la más probable que pruebe sin tanto miedo en Tailandia.
 
-* **Camarones borrachos** - Este es un raro platillo que no había leído mucho aún, que consiste en camarones vivos remojados en alcohol para darle sabor. Cruel y potencialmente peligroso, al parecer hay versiones menos agresivas donde pasan por agua hirviendo los camarones antes de preparar. Este es un platillo que quizás podamos encontrar en Shanghai China. Y no podría comerlos vivos, simplemente es raro.
+* **Camarones borrachos** - Este es un raro platillo que no había leído mucho aún, que consiste en camarones vivos remojados en alcohol para darle sabor. Cruel y potencialmente peligroso, al parecer hay versiones menos agresivas donde pasan por agua hirviendo los camarones antes de preparar. Este es un platillo que quizás podamos encontrar en [Shanghai](/tag/shanghai), China. Y no podría comerlos vivos, simplemente es raro.
 
 ![Quizás borracho podría comer camarones vivos](https://upload.wikimedia.org/wikipedia/commons/6/62/Drunken_shrimp_alive.jpg)
 
