@@ -20,7 +20,7 @@ Cruzaras la zona fronteriza entre ambas naciones para llegar a unos coquetos arc
 
 ![Fuera de migración en Bavet, Camboya](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/03/IMG_6445.JPG)
 
-El chequeo por parte del personal es rápido, no como en [Tailandia](/tag/tailandia), y te toman biométricos y hacen pocas preguntas. Al finalizar puedes pasar rápido a un baño o esperar la primer parada, pero si pasas se rápido porque los choferes se desesperan rápido. El autobús ya habrá cruzado y espera del otro lado del complejo. Ya en territorio jemer se pueden ver una serie de casinos, aunque un poco sucio y polvoriento. Te recuerda que vas a pasar horas de diversión en el sur de [Asia](/tag/asia). 
+El chequeo por parte del personal es efectivo y sin remoras, no como en [Tailandia](/tag/tailandia), y te toman biométricos y hacen pocas preguntas. Al finalizar puedes pasar al baño o esperar la primer parada, pero si pasas se rápido porque los choferes se desesperan y pobre de tu alma si te quedas en la frontera. El autobús ya habrá cruzado y espera del otro lado del complejo. Ya en territorio jemer se pueden ver una serie de casinos, aunque un poco sucio y polvoriento. Te recuerda que vas a pasar horas de diversión en el sur de [Asia](/tag/asia). 
 
 ![Casinos fronterizos, diversión estilo Vegas en escenarios rurales](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/03/IMG_6450.JPG)
 
