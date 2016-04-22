@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cosas que hacer en Hong Kong 
-tags: asia hong-kong mini-guia 2016
+tags: asia hong-kong guiaciudad 2016
 author: rox
 image: http://i.imgur.com/HOmIyY1.jpg
 ---
