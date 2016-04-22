@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 cosas que hacer en Georgetown"
-tags: asia malasia 2016 penang miniguia 
+tags: asia malasia 2016 penang guiaciudad 
 author: rox
 image: http://i.imgur.com/2Xth8NS.jpg
 ---
