@@ -8,7 +8,7 @@ image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/03/IMG_64
 
 Cruzar frontera por vía terrestre en países lejanos y de lenguajes complicados como [Vietnam](/tag/vietnam) y [Camboya](/tag/camboya) no debería ser intimidante o confuso si sabes lo que tienes que hacer. Nosotros investigamos en diversas fuentes y fue provechoso porque sin el conocimiento del proceso hubiéramos pasado momentos de incertidumbre. 
 
-Estando en [Saigon](/tag/saigon) (Ciudad de Ho Chi Minh) hay diversas empresas transportistas que ofrecen la ruta hacia Cambodia, tanto [Nom Pen](/tag/nom-pen) como [Siem Reap](/tag/siem-reap), a precios económicos aunque no está de más un poco de regateo. En promedio por 10 dólares se puede tomar un autobús en Pham Ngu Lao (la área de backpackers o mochileros) para Nom Pen. En un trayecto de unas 6 a 8 horas, nosotros fueron unas 6 horas las que pasamos a bordo del autobús de la compañía **Phuong Heng**. El cruce fronterizo se hace en las ciudades de Moc Bai y Bavet. 
+Estando en [Saigon](/tag/saigon) (Ciudad de Ho Chi Minh) hay diversas empresas transportistas que ofrecen la ruta hacia Camboya, tanto [Nom Pen](/tag/nom-pen) como [Siem Reap](/tag/siem-reap), a precios económicos aunque no está de más un poco de regateo. En promedio por 10 dólares se puede tomar un autobús en Pham Ngu Lao (la área de backpackers o mochileros) para Nom Pen. En un trayecto de unas 6 a 8 horas, nosotros fueron unas 6 horas las que pasamos a bordo del autobús de la compañía **Phuong Heng**. El cruce fronterizo se hace en las ciudades de Moc Bai y Bavet. 
 
 ![Flamante autobús amarillo fronterizo](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/03/IMG_6448.JPG)
 
