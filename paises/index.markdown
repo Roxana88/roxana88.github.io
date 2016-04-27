@@ -17,7 +17,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [Alemania](/tag/alemania) - Munich, Erding
 * [Austria](/tag/austria) - Viena
 * [Bélgica](/tag/belgica) - Brujas
-* [España](/tag/espana) - Madrid, España
+* [España](/tag/espana) - Madrid, Barcelona
 * [Francia](/tag/francia) - París, Carcasona
 * [Grecia](/tag/grecia) - Atenas
 * [Holanda](/tag/holanda) - Amsterdam
