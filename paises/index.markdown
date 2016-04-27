@@ -28,6 +28,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 
 ## Asia
 
+* [Camboya](/tag/camboya) - Nom Pem, Siemp Reap
 * [Corea del Sur](/tag/corea-del-sur) - Seúl
 * [China](/tag/china) - Shanghai, [Hong Kong](/tag/hong-kong), [Macao](/tag/macao)
 * [Filipinas](/tag/filipinas) - Manila
