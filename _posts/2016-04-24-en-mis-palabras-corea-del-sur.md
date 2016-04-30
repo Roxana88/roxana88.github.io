@@ -16,7 +16,7 @@ Seúl fue un resplandor, un frío resplandor de lo que puede ser una ciudad, un 
 
 Descubrir las calles de Seúl es bastante fácil, apunta hacia cualquier punto y comienza a perderte en sus avenidas o pequeñas calles de Bukchon Hanok entre los castillos. Un mal consejo, olvidate de los castillos. Son reconstrucciones en su gran mayoría. Son solo maquetas gigantes de cómo fueron. Las calles ofrecen mejor escenario y diversos templos y palacios más pequeños de entrada gratuita. 
 
-![Templo budista[(https://dl.dropboxusercontent.com/u/1610385/content/images/2016/04/IMG_2810.JPG)
+![Templo budista](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/04/IMG_2810.JPG)
 
 Insadong ofrece una opción turística de dar un vistazo rápido a lo que Seúl puede ofrecer. Un poco de recuerdos, comida, sujetos doblando hebras de miel y cantando canciones divertidas (rollin’ rollin’ very very tasty). Aunque si lo que quieres es realmente comer un poco más local están los números mercados cerrados por Jong-ro. Tan local que quizás puedas ver carne de perro. Hubiera tomado una foto pero la anciana que lo cocinaba me miró con recelo. 
 
