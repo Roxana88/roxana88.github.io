@@ -1,5 +1,6 @@
 # Tamales Con Pasaporte [![Build Status](https://travis-ci.org/Roxana88/roxana88.github.io.svg)](https://travis-ci.org/Roxana88/roxana88.github.io)
-[http://www.tamalesconpasaporte.com/](http://www.tamalesconpasaporte.com/)
+
+Visita nuestro blog en: [http://www.tamalesconpasaporte.com/](http://www.tamalesconpasaporte.com/)
 
 ## Sobre nuestro blog
 
