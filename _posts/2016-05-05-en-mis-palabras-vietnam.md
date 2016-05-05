@@ -3,7 +3,7 @@ layout: post
 title: "En mis palabras: Vietnam"
 tags: vietnam guiaciudad hanoi saigon asia 2016
 author: geo
-Image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_4657.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_4657.JPG
 ---
 
 Creo que de los países del sur de [Asia](/tag/asia) que está más presente en el imaginario colectivo es Vietnam, sin duda es culpa de Hollywood y la televisión que nos compartieron una imagen de una remota guerra en la selva con personas asiáticas peleando a los apuestos americanos. No necesitas saber de historia o geografía para entender ese hecho. La verdad es que, como en muchos casos, la media no justifica la belleza de una nación con estos estereotipos.
