@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "En mis palabras: Camboya"
-tags: camboya siemp-reap nom-pen guiaciudad asia 2016
+tags: camboya siem-reap nom-pen guiaciudad asia 2016
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_6973.JPG
 ---
@@ -10,11 +10,11 @@ Cuando pensaba en el viaje, buena parte de mis deseos de aventura se concentraba
 
 ![Naga de la selva estilo Tomb Raider](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_6947.JPG)
 
-Desde que estábamos en Vietnam, nos habían comentado lo “gracioso” que era la gente en Camboya al ofrecer todo en un dólar y sus extraños modos de venta. Cuando estuve en [Nom Pen](/tag/nom-pen), me di cuenta que era ridículo y en [Siemp Reap](/tag/siemp-reap) me di por vencido en intentar entenderlos. El asunto es simple, hasta el gobierno de Camboya cree que eres una cartera con equipaje. Ni más ni menos. Era tan superficial lo que vi en Camboya, que difícilmente volvería. Eso y la comida que no era buena. A excepción de los postres de hiel cuyos nombres exóticos en su escritura indescifrable jamás pude leer, así que se mantendrán como un misterio.
+Desde que estábamos en Vietnam, nos habían comentado lo “gracioso” que era la gente en Camboya al ofrecer todo en un dólar y sus extraños modos de venta. Cuando estuve en [Nom Pen](/tag/nom-pen), me di cuenta que era ridículo y en [Siem Reap](/tag/siem-reap) me di por vencido en intentar entenderlos. El asunto es simple, hasta el gobierno de Camboya cree que eres una cartera con equipaje. Ni más ni menos. Era tan superficial lo que vi en Camboya, que difícilmente volvería. Eso y la comida que no era buena. A excepción de los postres de hiel cuyos nombres exóticos en su escritura indescifrable jamás pude leer, así que se mantendrán como un misterio.
 
 ![El rey aprobando el taxi](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_6516.JPG)
 
-No quiero parecer desagradecido con el buen pueblo jemer, pero me costó mucho trabajo sentirme cómodo. Al menos en India no iba con tantas esperanzas, pero Siemp Reap se me hizo tan cansado y explotado. La **Pub Street** fue como un golpe de realidad que destruyó todas mis locas aventuras que había imaginado. En ningún otra ciudad sentí tanto el odiado y famoso **Banana Pancake Trail**. Era decepcionante ver tantos restaurantes occidentales. Al menos en Nom Pen era más fácil salir de la fantasía de “gringo” y caminar por calles normales con gente cotidiana aburrida pero más real.
+No quiero parecer desagradecido con el buen pueblo jemer, pero me costó mucho trabajo sentirme cómodo. Al menos en India no iba con tantas esperanzas, pero Siem Reap se me hizo tan cansado y explotado. La **Pub Street** fue como un golpe de realidad que destruyó todas mis locas aventuras que había imaginado. En ningún otra ciudad sentí tanto el odiado y famoso **Banana Pancake Trail**. Era decepcionante ver tantos restaurantes occidentales. Al menos en Nom Pen era más fácil salir de la fantasía de “gringo” y caminar por calles normales con gente cotidiana aburrida pero más real.
 
 ![Pub Street y un desfile](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_6809.JPG)
 
