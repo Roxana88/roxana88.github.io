@@ -22,6 +22,8 @@ Horas despues desperte fresca como una lechuga gracias al sacrificio que Geo hiz
 
 ![Detalles de incrustaciones](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_0650.JPG)
 
+![Más de cerca las flores de piedras preciosas](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_0692.JPG)
+
 Aunque es un poco más pequeño de lo que imaginaba lo que hace único al Taj Mahal es la cantidad de efectos ópticos, la simetría con la que fue construido y  los materiales usados, principalmente está construido con mármol blanco traslucido adornado con pequeñas piedras preciosas talladas a mano que forman flores, mientras más nos acercabamos más podíamos apreciar el nivel de detalles, nos contaba el guía que desde el ángulo que lo apreciaras lucía igual lo único que cambiaba eran los versos del Corán que adornan los marcos de la entreda.
 
 ![Taj Mahal en su gran esplendor](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/05/IMG_0643.JPG)
