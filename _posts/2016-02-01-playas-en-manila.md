@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playas en Manila"
-tags: manila playas
+tags: manila playas filipinas
 author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_4558.JPG
 ---
