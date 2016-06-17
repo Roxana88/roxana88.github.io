@@ -3,7 +3,7 @@ layout: post
 title: "En mis palabras: Tokio"
 tags: tokio japon guiaciudad asia 2016
 author: geo
-Image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/06/IMG_1664.JPG
+image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/06/IMG_1664.JPG
 ---
 
 Cuando se acercaba el Narita Express a la ciudad y a la terminal de trenes, sentí que un deseo estaba a pocos metros de volverse realidad. Tokio fue una gran experiencia que me cautivo más de lo que esperaba. La realidad es que yo iba por los ramens y pikachus, pero la cultura japonesa me dio muchos recuerdos y vivencias que me encantan y quisiera platicar en este blog.
