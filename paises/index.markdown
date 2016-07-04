@@ -35,6 +35,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [India](/tag/india) - Delhi, Varanasi, Agra
 * [Japón](/tag/japon) - Tokio, Kioto, Osaka
 * [Malasia](/tag/malasia) - Georgetown (Penang), Kuala Lumpur, Malaca
+* [Singapur](/tag/singapur) - Ciudad de Singapur
 * [Tailandia](/tag/tailandia) - Bangkok, Chiang Mai, Chiang Rai, Phuket
 * [Turquía](/tag/turquia) - Estambul, Goreme, Pamukkale
 * [Vietnam](/tag/vietnam) - Hanoi, Hue, Danang, Ho Chi Min (Saigon)

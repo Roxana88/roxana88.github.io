@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapur: Gardens by the Bay"
-tags: singapur atraciones guiaciudad asia 2016
+tags: singapur atracciones guiaciudad asia 2016
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/07/IMG_9973.JPG
 ---
