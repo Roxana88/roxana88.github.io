@@ -10,7 +10,7 @@ Cuando tienes poco tiempo en una ciudad es dificil decidir que lugares vale la p
 
 Shanghai al ser una gran ciudad de uno de los países más grandes de [Asia](/tag/asia/) y el centro financiero sin duda está preparada para recibir a los turistas y ofrecer una amplia opción de lugares a visitar, aquí mis recomendaciones.
 
-##Nanjing Road
+## Nanjing Road
 
 Aunque no tenía intensiones de comprar no podía perder la oportunidad de dar un paseo por la calle principal de compras en Shanghai, justo como se la imaginan llenas de plazas con  mil y un opciones de compras, que puede ser desde ropa hasta comida. Es entretenido entrar a los centros comerciales y apreciar la decoración que en general en Asia se esmeran, una vuelta por aqui una vuelta por alla y de repente me encontraba en **M&M World** tomandome una foto con una M&M con vestimenta típica.
 
@@ -18,7 +18,7 @@ Aunque no tenía intensiones de comprar no podía perder la oportunidad de dar u
 
 Seguimos caminando para ver que se topaba en nuestro camino y llegamos a una plaza exclusiva de venta de alimentos, las opciones de comida eran bastantes y aunque de la mayoría no entendía que eran de cualquier modo quería probarlas, estaba indecisa sin saber que comprar cuando de repente una luz ilumino los ojos de Geo y había quedado de cierta manera hipnotizado por un cuadro de piel de puerco rostizado. Seguimos caminando y las opciones de comida callejera eran bastante atractivas, sin miedo de enfermar del estomago me deje seducir por una especie de roti de Durian, fruta mística y cara que solo a los asiáticos les gusta **I just don't got it**. Un paseo por esta calle es necesario y si lo haces al atardecer disfrutas su iluminación.
 
-## *The Bund** - Distrito financiero
+## The Bund - Distrito financiero
 
 Dar un paseo por el distrito financiero de Shanghai es una de las cosas que tienes que hacer y sin duda por la noche es una excelente opción. Puedes obtener una vista excepcional de la famosisima  **Torre Perla Oriental (Oriental Pearl Tower)** que es un ícono de la ciudad y aprovechar para dar un paseo al lado del río **Huangpu**. 
 
