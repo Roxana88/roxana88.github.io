@@ -9,7 +9,8 @@ Viajamos a San Francisco en Diciembre del 2013. Hacía frío pero era bastante s
 
 Llegamos un viernes por la noche, pero muy noche ya era la una de la madrugada. Decidimos quedarnos en el **Grant Hotel** que se encuentra en el centro a una cuadra del **tranvia** y cerca de varias paradas de camión. Así como de *Union Square*, la persona que se encontraba en la recepción era un chino ya de edad avanzada y extremadamente amable. Pero no le entendíamos nada de lo que decía, admito que por un momento me sentía muy apenada ya que no lograba descifrar lo que el señor queria, hicimos lo que la lógica dictaba mostrar los pasaportes y una tarjeta de crédito. 
 
-##Muelle de San Francisco
+## Muelle de San Francisco
+
 Era sábado y nos levantamos temprano porque queríamos ir al muelle y desayunar algo por esa zona. Desafortunadamente teníamos mucha hambre así que pasamos a **The Coffee Bean** por un café y una dona esperando que esto nos ayudara a resistir. 
 
 Mientras caminamos sacamos unas cuantas fotos y de repente al otro lado de la calle estaba *Chinatown* “regresare lo prometo”. Ese día Chinatown no estaba en el plan, y era algo temprano y muchas cosas parecían cerradas. Después de 35 minutos de caminata llegamos a uno de esos mercados **hipsters** y vendían muchas cosas parecidas a las que aquí en [Guadalajara](/tag/guadalajara) puedes encontrar en Tonalá (mercado de artesanías) pero mucho más caras ¡no gracias! 
@@ -20,7 +21,7 @@ Nos encontrábamos enfrente del **Ferry Building** . Dentro de este edificio se 
 
 ![Rox devorando un sandwich de porchetta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-10-13-31.jpg)
 
-##Pier 39 o el lugar de las focas
+## Pier 39 o el lugar de las focas
 
 Lo bonito de viajar en la época navideña es que todo está adornado. En [Estados Unidos](/tag/estados-unidos) realmente les gustan los adornos, a la entrada del pier había un arbol enorme de navidad con regalos. El Pier 39 (Beach street y The Embarcadero street) es una excelente idea para dar un paseo en fin de semana, maneja un concepto familiar y cuenta con varias tiendas donde puedes comprar *snacks* como helados, pretzel, hotdogs, churros rellenos, etc. 
 
@@ -36,7 +37,7 @@ Hacía calor y teníamos sed, *extrañamente era como sed de cerveza no de agua*
 
 ![Geo feliz después de tomar cervaza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-59-06.jpg)
 
-##Bar Rogue
+## Bar Rogue
 Si han leído algunos de mi *artículos*, se habrán dado cuenta que durante nuestros viajes caminamos hasta que los pies nos explotan. Sé que no suena creíble lo que estoy a punto de contarles, pero *sin planearlo llegamos a este bar*. Ibamos pasando por afuera cuando Geo me dijo “mira es de la cervecería Rogue”. Lo que hace a estas cervezas especiales son sus locos sabores como *chipotle, dona, almendra, etc.* y que mejor que probarlas de barril. Eso día mi cuerpo me pedí calorías y es de sabios escuchar al cuerpo por lo que me decidí por las siguientes:
 
 * Mocha porter
@@ -65,7 +66,7 @@ Regresamos a descansar al hotel. Nunca había estado en un lugar donde tuvieran 
 
 Si vas de subida es muy cansado, yo podía subir un máximo de tres calles antes de pedir descanso y mis piernas estaban temblando en ese punto. La bajada tampoco es fácil tenía un poco de miedo de tropezarme y caer. 
 
-##Union Square
+## Union Square
 
 Nos habíamos quedado con ganas de ver más adornos navideños así que fuimos a Union Square (Entre las calles Powell y Post). Es una plaza rodeada de tiendas departamentales, mi intención no era comprar pero no estaba demás dar una vuelta por las tiendas y lo mejor de todo es que por la temporada había descuentos. 
 
@@ -73,7 +74,7 @@ Nos sacamos algunas fotos con el enorme árbol de navidad que se encontraba al c
 
 ![En Union Square](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-23-08-36-18.jpg)
 
-##Bar Mikkeller
+## Bar Mikkeller
 
 Cuando visitamos este bar literal casi llora Geo de felicidad, ya lo tenía planeado e inclusive lleva una lista de las cervezas que quería probar. La cantidad de cervezas de barril era absurda sin duda pasaríamos unas horas en el lugar. 
 
