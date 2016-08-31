@@ -5,7 +5,10 @@ tags: san-francisco estados-unidos eua guiaciudad america miniguia
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-11-33-48.jpg
 ---
-##Chinatown
+
+Continuando con el relato de nuestra visita a la ciudad de San Francisco, California.
+
+## Chinatown
 
 Quería una chinita más para mi colección así que convencí a Geo para dar una vuelta y ver si teníamos suerte. No importaba si no encontraba la chinit, sabía que terminaría comprando algo. Chinatown en San Francisco es pequeña, conforme iba viendo los aparadores me di cuenta que casi todas las tiendas tenían lo mismo así que nos metimos a la primera que estaba abierta y nos atendió una amable señora. 
 
@@ -13,12 +16,12 @@ Quería una chinita más para mi colección así que convencí a Geo para dar un
 
 La señora insistía en vendernos *unas artesanías que de verdad parecían más hechas en México que en China “que sospechoso”*. Como mi intención de compra era mínima tome una sombrilla en forma de chinita y estaba lista. La señora trataba de convencer a Geo de comprar una **katana**, asegurándole que los hombres demuestras su hombría teniendo katanas. *Yo solo quería una chinita no poner en duda la hombría de Geo*, aunque la idea de una katana en la caso no sonaba mal. Después de 10 minutos de darle razones a la señora por las cuales no podíamos comprar la katana por fin nos liberó.
 
-##Hyde Street Pier
+## Hyde Street Pier
 El [día anterior](/diario-de-san-francisco/) había discutido con Geo si tomaríamos un tour por la bahía para ver el **Golden Gate** y la famosa prisión de **Alcatraz**. Vimos la información de los cruceros y pensábamos tomar uno a las 3:30pm por eso decidimos dar una vuelta por el *Hyde Street Pier* antes de tomar el crucero. 
 
 Había unos barcos de diferentes dimensiones a los cuales por $10 dólares, o algo así, te podías subir para verlos mejor y sacar fotos del interior. Funcionaban como museo, en lo personal no me llamo la atención. El concepto del este lugar es muy parecido al del Pier 39 durante el recorrido encontraran muchas tiendas, restaurantes y bares todo apuntaba a que sería un buen recorrido.
 
-###Tour por la bahía
+## Tour por la bahía
 
 Continuamos con nuestro recorrido y de repente estaban unos pequeños barcos con cupo como para 15 o 20 personas. Aseguraban un recorrido de una hora por $15 dólares que era menos de la mitad de lo que cobraba el ferry turístico. Teníamos que tomar una decisión y tendría que ser rápido ya que estaba a punto de zarpar, *el “capitán” se veía un poco borracho, pero ¿quién soy yo para juzgar a estos buenos hombres?* 
 
@@ -34,7 +37,7 @@ La intención del señor era buena. Una vez que saco las fotos nos paso el celul
 
 ![La famosa prisión de Alcatraz](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-22-14-20-13.jpg)
 
-###Joe´s Crab Shack
+## Joe´s Crab Shack
 Era momento de comer y Geo ya sabía lo que quería. Fuimos al restaurante Joe´s Crab Shack (en 245 Jefferson Street), donde pedimos cangrejos enormes mutantes los cuales saben igual que los cangrejos normales.
 
 Pedimos un paquete para dos personas y de repente llego la mesera con una especie de babero de plástico, un cuchillo de plástico y unas pinzas de metal. No tenía idea para que era todo eso. Afortunadamente Geo me explico y me prepare para recibir mi platillo.
@@ -49,7 +52,7 @@ Después de la comida caminamos un poco por la zona para tratar de bajar la comi
 
 ![Esas cerezas tenían mi nombre](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-22-16-20-48.jpg)
 
-###Desafiando las calles
+## Desafiando las calles
 
 ![Calles de San Francisco](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-22-17-00-37.jpg)
 
@@ -61,7 +64,7 @@ Casi a la mitad del camino estaba decidida a dejarme caer y rodar por las calles
 
 Llegamos al hotel y nos quedamos descansando un rato mientras tomábamos cervezas y buscaba la forma de disculparme con mis pies.
 
-##Sushi Tony
+## Sushi Tony
 Ese  día cenamos sushi que se encontraba literal al lado del hotel y el cual estaba delicioso. Es un lugar pequeño y limpio, la barra donde preparan los sushis está a la vista de los comensales si te sientes chismosito puedes ver como los preparan. El menú tiene fotos, algo que en lo personal me gusta porque me ayuda a darme una idea del platillo ¡así sea sushi! 
 
 ![Nuestra cena](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-19-01-01.jpg)
@@ -70,10 +73,10 @@ Si no mal recuerdo Geo pidió el **Swamp Roll** que era de atún con ensalada du
 
 Dirección 733 Bush St, San Francisco, CA
 
-##The Irish Bank
+## The Irish Bank
+
 Para terminar el día solo nos hacía falta una cerveza. Decidimos caminar un poco y llegamos a este *pub con concepto irlandés*. Se encuentra en un callejón lo que le da un toque de peligro (es broma). Decidimos quedarnos en el callejón, hacia un poco de frio pero había calefacción cerca. Pedimos las cervezas y en lo que llegaron nos dedicamos a apreciar la publicidad de diferentes marcas de cervezas que estaba en el lugar. Como era de esperarse la de **Guinness** no podía faltar. Nos tomamos una cerveza y el cuerpo empezaba a pedir descanso así que después de eso regresamos al hotel.
 
-Dirección 10 Mark LaneSan Francisco, CA
+Dirección 10 Mark Lane, San Francisco, CA
 
 ![Ultima cerveza del día](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-12-21-20-36-45.jpg)
- 
