@@ -6,9 +6,12 @@ author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7788.JPG
 ---
 Tailandia fue uno de los países que más disfrute visitar y creo que eso se debe a la mezcla interesante de las ciudades que conocimos. Empezamos por **Bangkok** la hermosa capital que gracias a un par de películas ya me había dado una pequeña idea de cómo luciría, también visitamos **Chiang Mai** la ciudad de los templos es imposible visitarla y no dejarte sorprender por la arquitectura de cada uno de ellos que a pesar de que veas varias todos son únicos  y por último la hermosa playa Phuket del cual ya les hable en un post como [La pequeña Rusia](/phuket-la-pequena-rusa/).
+
 ## Comprar ropa hippie
 Les podría decir que algunos países como Vietnam y Tailandia se convierte en el centro favorito de retiro para todos los americanos y europeos **hippies** que aún se encuentran en la búsqueda de sí mismo o del significado de la vida o ese tipo de cosas que escuchaba decían. Tan hippie es este destino que es imposible salir del país sin un par de pantalones holgados con estampado de elefantes o cosas por el estilo que se complementan a la perfección con unas playeras flojas,  como eso del exceso no existe también estarán llenas de  estampados. Por más resistencia que trates de poner es algo que va a pasar, simplemente no puedes ir contra la corriente y lucir como un turista, porque los locales no usan esta ropa.
+
 ![Venta de ropa en Khao San](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7330.JPG)
+
 ## Ser estafado por un tuck tuck
 Como turista el transporte público en Bangkok es un poco complicado, la forma más común de transporte son estos pequeños carros motos que la gente conoce como tuk tuk o un taxi. Antes del viaje leímos varios consejos para evitar ser estafado y con toda esa lectura más de un par de veces caímos.
 ![Tuk tuk de lujo en Chiang Mai](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7879.JPG)
