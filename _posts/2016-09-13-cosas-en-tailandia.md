@@ -29,7 +29,7 @@ Siempre trata de llevar cambio o billetes pequeños ya que es una palabra que  l
 
 Cuando llegas a un restaurante esperas un servicio rápido que te ayude a satisfacer esa necesidad que el hombre llama **hambre** y la cual al menos a mí me pone de mal humor. En [Tailandia](/tag/tailandia) olvídate de que eso pasa ya que el servicio suele ser muy lento inclusive si de llevar un café instantáneo se trata. La primera vez recuerdo que tenía tanta hambre que de haber tenido una tortilla a la mano me comía un taco de servilletas. Ya después de unos días en Bangkok entendí que así era el servicio y no podía hacer nada al respecto. 
 
-![Esperando la comida](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_8138.JPG)
+![Esperando la comida](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7338.JPG)
 
 Recuerdo varias veces ver cómo la gente se paraba enojada porque aún no llegaba su comida, una parte de mi quería gritar “No lo hagan o no comerán nunca”. El servicio lento  es algo casi casi cultural, no importa cuánto lugares visites.  Pero no todo está perdido si tienes mucha hambre la mejor opción es optar por la comida callejera o el  buen **7 Eleven**.
 
@@ -45,7 +45,7 @@ Aunque parecía legal beber en la calle recuerdo que temerosa escondía mi cerve
 
 Estando en [Guadalajara](/tag/guadalajara) los 7 Eleven no ofrecen más que un par de bebidas y snacks básicos, una simple tienda de conveniencia. Pero en [Asia](/tag/asia) se esfuerzan por ofrecer un poco más de variedad dentro de los snacks que ofrecen como sándwich que van de lo dulce a lo salado y que puedes comer frío o bien pedir que los metan a la sandwichera y disfrutar del queso o chocolate derretido mientras lo acompañas con una deliciosa y fresca taza de café instantáneo. 
 
-![Esperando la comida en el 7 Eleven #NoEsCierto](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7466.JPG)
+![Esperando la comida en el 7 Eleven #NoEsCierto](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_8493.JPG)
 
 Porque si una queja tengo de Tailandia en es esa conseguir café de cafetera es una cuestión que por alguna extraña razón se vuelve complicada al menos cerca de **Khao San**, cuando disfrutas de los precios que se ofrecen en la calle pensar en cadenas como **Starbucks** se vuelve un lujo innecesario, como les decía se respira el espíritu hippie y es fácilmente contagioso.
 
