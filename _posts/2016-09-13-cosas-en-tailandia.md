@@ -32,6 +32,7 @@ Cuando llegas a un restaurante esperas un servicio rápido que te ayude a satisf
 ![Esperando la comida](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_8138.JPG)
 
 Recuerdo varias veces ver cómo la gente se paraba enojada porque aún no llegaba su comida, una parte de mi quería gritar “No lo hagan o no comerán nunca”. El servicio lento  es algo casi casi cultural, no importa cuánto lugares visites.  Pero no todo está perdido si tienes mucha hambre la mejor opción es optar por la comida callejera o el  buen **7 Eleven**.
+
 ## Beber en la calle
 
 Antes del viaje, aún me sentía joven y divertida por lo cual  pensé que sería buena idea quedarnos en la zona de los backpackers conocida como **Khao San**. Para  que puedan medir el nivel de mochileros que visitan la zona basta con decir que en la misma calle había dos **7 Eleven** con venta de alcohol. El cual podía sacar para consumo en calle sin ningún problema. 
