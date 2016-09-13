@@ -18,12 +18,12 @@ Como turista el transporte público en Bangkok es un poco complicado, la forma m
 
 ![Tuk tuk de lujo en Chiang Mai](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7879.JPG)
 
-La primera es que los tuk tuks se encuentran en abundancia fuera de los lugares turísticos y siempre que te vean con la intención de entrar a un lugar se acercaran y te juraran que está cerrado. Inclusive si es evidente que está abierto y ofrecerán llevarte a otro lugar.
+* La primera es que los tuk tuks se encuentran en abundancia fuera de los lugares turísticos y siempre que te vean con la intención de entrar a un lugar se acercaran y te juraran que está cerrado. Inclusive si es evidente que está abierto y ofrecerán llevarte a otro lugar.
 
-Algo que no debes olvidar es especificar la tarifa antes de tomar el servicio de lo contrario el viaje te saldrá más caro de lo que pensabas, y si viaja más de una persona no olvides aclarar que la tarifa es por el número de integrantes y no una tarifa individual.
+* Algo que no debes olvidar es especificar la tarifa antes de tomar el servicio de lo contrario el viaje te saldrá más caro de lo que pensabas, y si viaja más de una persona no olvides aclarar que la tarifa es por el número de integrantes y no una tarifa individual.
 Siempre trata de llevar cambio o billetes pequeños ya que es una palabra que  los tuk tuks no conocen, inclusive siempre dan por hecho que es propina.
 
-Si ofrecen llevarte a una fábrica donde puedas ver el cultivo y cuidado de las orquídeas o algo similar, solo di no ¡todo son ventas!.
+* Si ofrecen llevarte a una fábrica donde puedas ver el cultivo y cuidado de las orquídeas o algo similar, solo di no ¡todo son ventas!.
 
 ## Olvidarte de la palabra prisa 
 
