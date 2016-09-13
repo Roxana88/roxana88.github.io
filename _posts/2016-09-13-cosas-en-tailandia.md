@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cosas que te pasaran en Tailandia"
-tags: tailandia bangkok chiang-mai phuket asia 2016
+tags: tailandia bangkok chiangmai phuket asia 2016
 author: rox
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/09/IMG_7788.JPG
 ---
