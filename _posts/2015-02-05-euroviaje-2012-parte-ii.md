@@ -6,14 +6,14 @@ author: geo
 image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05860.JPG
 ---
 
-###Enero 21, Cuarto en Roma, 21:08
+### Enero 21, Cuarto en Roma, 21:08
 Estamos en Roma, después de pasar la noche en el camino por tren. Es incomodo el camarote inclusive para dos personas, ahora si que no es como en los dibujitos que ponían en el sitio web, nada de eso, es una pecera aquello. En [Munich](/tag/munich) me quede en el **Nymphenburg**, así que la verdad no me gusto, eran pocas salas, y muy, pero muy, deteriodado lo tenían. De ahí fuimos a comer a **Agustiner** y después a esperar el tren. Resumo por que ya quiero dormir. Mañana describo el **Coliseo** y la primer impresión de [Roma](/tag/roma).
 
 ![Rox en Nymphenburg](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05625.JPG)
 
 ![Nevado Nymphenburg desde afuera](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05599.JPG)
 
-###Enero 22, Cuarto en Roma, 8:47
+### Enero 22, Cuarto en Roma, 8:47
 Esperamos el mistico desayuno a la habitación, cuantos lujos con estos europeos. Ayer paseamos muy temprano en Roma, casí desde las nueve, eso explica mi agotamiento de ayer. Encargamos las maletas en recepción, y tomamos **Via Cavour** rumbo al Coliseo y demás zonas arqueologicas. En el camino nos dimos cuenta que Roma es como la [Ciudad de México](/tag/ciudad-de-mexico) en [Europa](/tag/europa), algo sucia, llena de vagabundos, tráfico de locos y esa sensación rara como estar en México de nuevo, muy curioso. El recorrido es relativamente corto, aunque las calles suben y bajan demasiado y cansan.
 
 ![Via Cavour en Roma](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05661.JPG)
@@ -24,7 +24,7 @@ El Coliseo si impresiona al verlo desde afuera, pero si es más pequeño de lo p
 ![El interior del Coliseo y sus muchos turistas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05692.JPG)
 ![Arco de Constantino](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05749.JPG)
 
-###Enero 23, Cuarto en Roma, 8:37
+### Enero 23, Cuarto en Roma, 8:37
 Me encuentro esperando que Rox termine de vestirse y que llegue el desayuno. Me dio una alergía en la piel en el tren Munich a Roma, mucha comezón. El día antes de ayer, después de la pizza y cervezas, seguimos paseando por las calles de Roma, donde extrañamente me pierdo con relativa facilidad, y terminamos en la **Plaza Barberini** que conecta con **Via Veneto**, la calle popular y fresa de Roma. Via Veneto esta llena de tiendas caras, cafes-restaurantes muy bonitos y grandes, hoteles incrustados en viejos edificios. Todo muy agradable por esa avenida, que termina en un gran parque cuyo nombre no entendi. El primer punto que me llamo la atención del parque fue una estatua con el nombre Byron, cuya persona parecía mucho a **Lord Byron**. Tengo que investigar el tema. Habia mucho árbol, estatus y fuentes, un buen relax audiovisual a la concurrencia de esta zona del Termini.
 
 ![Plaza Nacional](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05846.JPG)
@@ -39,14 +39,14 @@ Mientras que ayer comenzamos el día con desayuno en la habitación, el cual fue
 
 ![Seguir a los turistas para llegar al Vaticano](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05886.JPG)
 
-###Enero 24, Cuarto en Roma, 7:55
+### Enero 24, Cuarto en Roma, 7:55
 Terminando de arreglar todo para salir a [Florencia](/tag/florencia), lo bueno que es un tren de hora y media de alta velocidad. Todo va bien, pero me falta describir la visita al Vaticano, y el resto de Roma. En el metro tomamos la línea A para el Vaticano, y después de bajarnos estabamos incluidos en una masa de turistas que se dirigían al Vaticano. El centro del Vaticano (**Plaza San Pedro**), tiene accesos de control con detectores de materiales peligrosos. Increible aqui los españoles, parece que nunca habían visto uno de estos arcos, porque les explotaba la cabeza. La plaza y la catedral de San Pedro no se me hicieron tan grande, de nuevo el *efecto Hollywood* altero la perecepción de como son las edificaciones del mundo real. La plaza tenía un arbolito de navidad y un nacimiento, se me hizo raro pero luego entedería el porqué.
 
 ![Arbolito de Navidad estilo Vaticano](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05896.JPG)
 
 ![Rox en Plaza San Pedro](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC05891.JPG)
 
-###Enero 26, Tren a Milán, 13:52
+### Enero 26, Tren a Milán, 13:52
 Hoy será un día de mucho tren, este es el primero de tres, **la ruta es Florencia, Milán, Zurich, Amsterdam**. Incluyendo uno nocturno, en segunda clase, de miedo. Retomare los días en Roma después de los días de Florencia. El camino en tren a Florencia fue muy breve y comodo en el tren *Eurostar*. Al llegar, caminamos en sentido contrario al hotel, como siempre, que en realidad estaba a menos nada de la terminal.
 
 ![Mi única foto en Suiza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06656.JPG)
@@ -74,7 +74,7 @@ De regreso, pasamos un rato en el hotel, descansando y usando el internet en el 
 
 ![Felicidad medida en carbohidratos](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/DSC06611.JPG)
 
-###Enero 26, Tren a Zurich, 16:00
+### Enero 26, Tren a Zurich, 16:00
 Creo que esto ya es **Suiza** baby, estamos en Chiasso, estación fronteriza. Serán unas 3 horas más entre los alpes suizos para lograr **Zurich**. La primer clase de este tren es bastante chafa comparada con los otros, ya veremos el siguiente tren.
 
 ![Rox en Zurich](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/DSC06654.JPG)
@@ -98,7 +98,7 @@ Estabamos en el **CNL** (City Night Line, el tren nocturno) rumbo a Amsterdam pe
 
 Por cierto, el tren nocturno fue la locura porque no pusieron el vagón de asientos sino de camitas de seis. La confusión y caos general se dio cuando abordamos. En mi opinión, no fue tan malo, de hecho fue un upgrade gratis, aunque compartimos camarote con dos sujetos y una ruca que parecia gitana y no me dejo dormir al principio por sus cantidades industriales de perfume. Fuera de eso pude dormir y descansar, aunque Rox jura que todos roncabamos, yo ni cuenta me di de eso.
 
-###Enero 28, Tren a Antwerpen, 12:00
+### Enero 28, Tren a Antwerpen, 12:00
 
 Salimos de Amsterdam rumbo a [Bélgica](/tag/belgica) para llegar a [Brujas](/tag/brujas). Nuestra estancia, en la ciudad triple X, fue breve pero nos dimos una idea de lo que era Amsterdam, canales, prostitutas y marihuana. En cuestiones culinarias, solo destacan sus papas a la francesa con mayonesa, y chocolates, y la estrella, los waffles con chunches. Que Rox comio con nutella y bananas, y yo de cerezas con crema montada, muy buenos y clásicos en la zona. Respecto a la ciudad puedo decir que es linda, pero los cafes le dan un olor muy nauseabundo, que la verdad no me agrada en lo absoluto. La zona roja es algo muy curiosa porque esta integrada en el centro con cambios radicales de giros, era ventana roja, waffles, casa con niños, patos, lotería!. Muy extraño, aparte había shows en vivo, lease porno en directo a toda realidad. Las  mujeres de vitrina, eran viejas, operadas o gordas, realmente no entiendo para que le dan importancia si parecia circo de excentricidades.
 
