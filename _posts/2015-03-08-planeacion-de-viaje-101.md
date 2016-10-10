@@ -9,7 +9,7 @@ Cuando platico de nuestros planes de viaje, suelen preguntarme si compramos paqu
 
 Se puede ser un turista convencional y esperar que tu camión te mueva todo el tiempo de Hotel a las atracciones, tener tiempos limitados para todo, y forzosas rutinas en los vuelos. Cosa horrible, no me gusta para nada esperar a gente que ni siquiera viene conmigo. He escuchado muchas historias de terror de atrasos y demás vicios de gente que simplemente no le importa el tiempo de los demás. Por eso aquí una explicación del proceso.
 
-##Limitar tiempo y ciudades
+## Limitar tiempo y ciudades
 
 Lo primero, es saber a donde y cuando. Aquí surgen preguntas importantes como ¿qué tan anticipado tengo que comprar los boletos de avión? ¿tengo que tener todo el dinero? ¿como manejar problemas?
 
@@ -27,7 +27,7 @@ Claro que si aún vives con la idea de que salir de viaje implica llevar 40 kilo
 
 Para llevar este calculo, ten en cuenta muchos hubs o aeropuertos grandes para usarlos como la escala C. En nuestro caso Roma fue la mejor opción, y la aerolínea economica (Vueling) tenía buenos precios partiendo de aquí. Esto no es una regla, así que hay que verificar fechas del viaje y todas las opciones de aeropuertos disponibles. Nota importante que en muchos sitios de reservaciones como **Expedia** no manejan todas las aerolíneas de bajo costo. Hay que buscar información en otras fuentes.
 
-###Llenar los días
+### Llenar los días
 
 Digamos que por fin tienes ya un vuelo de llegada y un vuelo de salida que fue un buen precio y se ajusta a lo que necesitas. Ahora tienes la idea de que ciudades visitar, que es lo que quieres ver o quizás ni idea tienes pero quieres ir a Marruecos porque si. Esta es la parte divertida, me encanta hacer esto. Lo que utilizo como herramienta es una hoja de calculo, **Google Drive** para mi es más que suficiente para lograrlo. Aquí es donde hago una tabla cuyas columnas son:
 
