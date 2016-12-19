@@ -1,5 +1,6 @@
 gems:
   - jekyll-redirect-from
+  - jekyll-seo-tag
   
 paginate: 6
 permalink: /:title/
