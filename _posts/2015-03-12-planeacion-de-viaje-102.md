@@ -3,7 +3,7 @@ layout: post
 title: "Planeación de Viaje 102"
 tags: miniguia planes vuelos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/rome2rio-1.png
+image: /images/2015/03/rome2rio-1.png
 ---
 En el artículo anterior, [Planeación 101](/planeacion-de-viaje-101/), explica como iniciar la generación de nuestro itinerario para facilitar la planeación de un viaje, sobre todo cuando queremos visitiar diversas ciudades y podemos perdernos un poco. Continuemos con la explicación del llenado de este itinerario.
 
@@ -13,11 +13,11 @@ Encontrar la mejor ruta para disfrutar con plenitud la estadía en un país es c
 
 Una herramienta que me agrado bastante  es [Rome2Rio](https://www.rome2rio.com/), es tan fácil de usar como poner la ciudad de origen y la ciudad destino. Se presentara un mapa con las opciones de transporte y sus estimados de tiempo y costos. Ayuda a tener una mejor idea de cuanto tiempo gastaría versus cuanto dinero podrías ahorrar en situaciones que automaticamente piensas en el avión.
 
-![Rome2Rio](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/rome2rio.png)
+![Rome2Rio](/images/2015/03/rome2rio.png)
 
 En un nivel más fino, buscar atracciones puede ser igual de fácil. Se puede optar por clásicas guías impresas o en línea, que en lo personal me gusta [WikiTravel](http://wikitravel.org/en/Main_Page), porque aparte de información general incluye excelentes tips de **trampas de turistas**. A veces se me pasa leerlo, y cometemos errores tan básicos como cuando nos cobraron de más en los puestos de comida de [Marrakech](/tag/marrakech).
 
-![TouristEye](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/touristeye.png)
+![TouristEye](/images/2015/03/touristeye.png)
 
 En cambio, si eres más visual, hay una herramienta tanto en web como en moviles que se llama [TouristEye](http://www.touristeye.com/) (Disponible en español). El funcionamiento es simple,  generas un "viaje" y vas agregando las ciudades que deseas. Por cada ciudad te dara un cuadriculado con reseñas y rating de atracciones. Para mucha gente es más fácil con fotos que leido. 
 

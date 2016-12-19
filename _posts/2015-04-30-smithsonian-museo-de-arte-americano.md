@@ -3,27 +3,27 @@ layout: post
 title: "Smithsonian: Museo de Arte Americano"
 tags: estados-unidos washington eua atracciones museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/cover.jpg
+image: /images/2015/04/cover.jpg
 ---
 El Smithsonian American Art es un hermoso museo de arte, en el antiguo edificio de patentes de [Washington D.C.](/tag/washington), que comparte lugar con la **Galería Nacional de Retratos**. Por fuera el edificio tiene un pórtico imitando al [Partenón de Atenas](/acropolis/) e invita a entrar. Como parte de la fundación Smithsonian, ambos museos son gratis. Es bastante curiosa la distribución de ambos, en ocasiones no te das cuenta cuando acaba uno o empieza el otro. Este artículo no tiene fotos de las obras, porque la mayoría no permiten su reproducción.
 
-![Entrada al Museo de Arte Americano](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-13-15-37-08.jpg)
+![Entrada al Museo de Arte Americano](/images/2015/04/2015-01-13-15-37-08.jpg)
 
 El Museo de Arte Americano cuenta con diversas exposiciones tanto temporales como permanentes que datan desde las primeros tiempos de Norteamérica hasta arte de lo más moderno y vanguardista. Recuerdo que cuando fuimos tenían una exposición de un pintor fotorealista llamado [Richard Estes](http://americanart.si.edu/exhibitions/archive/2014/estes/), simplemente me encanto su trabajo.
 
-![Entrada a Exhibiciones](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-13-17-40-30.jpg)
+![Entrada a Exhibiciones](/images/2015/04/2015-01-13-17-40-30.jpg)
 
 Mientras que la ala de Retratos Nacionales es algo interesante, pues muestra muchos, pero realmente muchos, cuadros de los presidentes americanos, e inclusive hasta puedes "adoptarlos". No quiero imaginar a cuantos miles de dolares. Es un poco diferente, no recuerdo que en [México](/tag/mexico) exista una exhibición así con todos los presidentes.
 
-![Pasillo de la restauración del edificio](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-13-17-37-27.jpg)
+![Pasillo de la restauración del edificio](/images/2015/04/2015-01-13-17-37-27.jpg)
 
 Un paseo por ambos museos puede llevarte fácilmente unas dos horas, y dudo que lo veas completo. Inclusive tienen una área especializada llamada **Luce Foundation Center** donde exhiben artefactos y objetos de arte en grandes vitrinas de cristal. Es como un anexo al museo.
 
-![Detalles del edificio](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-13-17-34-38.jpg)
+![Detalles del edificio](/images/2015/04/2015-01-13-17-34-38.jpg)
 
 A lo anterior suma la exquisita decoración que se conserva de tiempos originales del edificio, con sus hermosos azulejos y columnas. En el centro del edificio se encuentra el **Kogod Courtyard** con su techo falso de cristal que luce irreal y fascinante.
 
-![Kogod Courtyard](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-13-17-41-50.jpg)
+![Kogod Courtyard](/images/2015/04/2015-01-13-17-41-50.jpg)
 
 Aunque el Museo de Arte Americano no se encuentra en **The National Mall**, esta a escasas cuadras y se puede disfrutar la vista camino al Mall mirando la arquitectura local o bien salir por un poco de deliciosa comida china, porque el museo esta a cuadras de **Chinatown**. 
 

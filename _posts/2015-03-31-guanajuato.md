@@ -3,7 +3,7 @@ layout: post
 title: "León y Guanajuato"
 tags: guanajuato mexico guiaciudad latinoamerica miniguia
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2012-12-01-14-35-15-2.jpg
+image: /images/2015/03/2012-12-01-14-35-15-2.jpg
 ---
 ##Festival del globo
 Que mejor manera de pasar un fin de semana de puente  que visitar el **Festival del Globo en León** esa fue la idea que tuve el mes de Noviembre del año [2013](/tag/2013). ¿Buena o mala idea? Creo que en general buena. Para mi desgracia no fui la unica que penso que ir al festival era una buena idea, suena coqueta la idea de iniciar el día viendo varios globos aerostáticos en el cielo mientras disfrutas de un café y dejas que los minutos pasen disfrutando de la vista ¿a quien no le gustan los globos? 
@@ -14,13 +14,13 @@ Estábamos muy cerca de llegar a León y *antes del viaje nos habíamos preparad
 
 El festival es muy concurrido y a pesar de que la ciudad esta llena de señalamientos que te indican como llegar. La ciudad de Léon se vuelve un *caos*, que no se compara con la hermosa sensación de levantarte muy temprano para ver el *despegue de los globos*.
 
-![Despegue de los globos, festival del globo 2013](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-11-17-07-20-46.jpg)
+![Despegue de los globos, festival del globo 2013](/images/2015/03/2013-11-17-07-20-46.jpg)
 
 Continuando con el relato, al día siguiente de nuestra llegada un hermoso sábado nos levantamos a las 5:00am con las ojeras y con sueño como “Dios manda”. Ya casi llegando al parque la velocidad a la que íbamos era *extremadamente lenta* (se repite la historia de la caseta). Dejamos el carro como a un kilometro del parque, era momento de correr para alcanzar a ver el despegue. Llegamos y algunos globos ya se encontraban en el cielo y otros estaban en la tierra para que la gente se tomara fotos. 
 
 Eran como las 8:00 am y el lugar estaba ambientado los animadores haciendo su trabajo y los patrocinadores recordando la presencia de su marca. Habia mucha gente por lo que sacamos algunas fotos pero no como me las imaginaba algo así como “Geo, el globo y yo”.
 
-![Nuestra foto con un poco de gente de fondo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2013-11-17-07-41-15.jpg)
+![Nuestra foto con un poco de gente de fondo](/images/2015/03/2013-11-17-07-41-15.jpg)
 
 La verdad la cantidad de gente y las colas para todo superaba la magia del evento así que decidimos abortar la misión. *Un minuto de silencio para la misión Festival del Globo León 2013*. Para disfrutar del festival también se pueden quedar a acampar en el parque, la opción parecía bastante popular y la gente que se había quedado a acampar se veía feliz, es una buena opción si quieres disfrutar por completo del evento. [Más Información del Festival](http://www.leonguanajuato.com/festivaldelglobo/).
 
@@ -41,9 +41,9 @@ Dirección: Paseo de Los Niños, Zona Recreativa y Cultural, León, Gto.
 * *Museo de Arte e Historia*. Es un edificio relativamente nuevo que tienen como  objetivo fomentar la cultura. Cuenta con exposiciones permanentes y temporales así que no importa las veces si ya lo visitaste siempre encontrarás algo nuevo. La exposición de la cultura regional está bien trabajada y claramente te presenta al estado de Guanajuato ¡me gusto! Si visitan el museo el día **domingo la entrada es libre** para más información [el sitio web del Forum Cultural](http://forumcultural.guanajuato.gob.mx/forum-cultural/museo/).
 Dirección: Prolongación Calzada de los Héroes No. 908 (esquina Vasco de Quiroga) Col. La Martinica, León.
 
-![Disfrutando del museo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/IMG_20141116_115515.jpg)
+![Disfrutando del museo](/images/2015/03/IMG_20141116_115515.jpg)
 
-![Aprende algo Geo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/IMG_20141116_121458.jpg)
+![Aprende algo Geo](/images/2015/03/IMG_20141116_121458.jpg)
 
 Esas son las sugerencias que puedo darles para que aprovechen sus visita, claro también pueden visitar los centros comerciales. Si les sobra tiempo pueden visitar Guanajuato en donde encontraran más actividades, sin duda la visita puede ser bien aprovechada.
 
@@ -58,6 +58,6 @@ Es una hermoso lugar lleno de callejones distinguido por sus leyendas y lugares 
 
 * *Funicular*. Puedes tomar el funicular para subir a uno de los puntos más altos de Guanajuato que te permite tener una excelente vista de la ciudad. Desde ese punto uno de los lugares que más destaca es la **Basílica de Nuestra Señora de Guanajuato**. También lo puedes tomar para bajar, los accesos se encuentran atrás del **Teatro Juarez** y junto al **Monumento al Pípila** este atractivo tiene un costo (que no recuerdo bien) creo que fueron como $20 pesos por persona.
 
-![Vista desde el funicular en Guanajuato](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/2012-12-01-14-35-15-2.jpg)
+![Vista desde el funicular en Guanajuato](/images/2015/03/2012-12-01-14-35-15-2.jpg)
 
 Hay mucho más cosas que puedes hacer en Guanajuato como visitar el Museo de las Momias, la Casa de Diego Rivera, Museo Exhacienda San Gabriel de la Barrera, Museo Regional de Guanajuato, etc. Sin duda pueden pasar un fin de semana entretenidos en este hermoso lugar.

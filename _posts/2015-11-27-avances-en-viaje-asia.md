@@ -3,7 +3,7 @@ layout: post
 title: "Avances en viaje a Asia"
 tags: planes asia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/11/IMG_0519.JPG
+image: /images/2015/11/IMG_0519.JPG
 ---
 
 Nuestro próximo destino, Asia, comienza a tomar forma en cuestión de los planes y trámites a realizar para lograrlo. Necesitamos un total de 5 visas para trámitar, que la ventaja que 3 de ellas son en línea y sencillas y las otras dos son la de Vietnam por correo desde [la Ciudad de México](/tag/ciudad-de-mexico) y presencial en el Consultado Honorario de Tailandia en [Guadalajara](/tag/guadalajara) que después detallare pero ambas son bastantes simples en los pasos a seguir.

@@ -3,7 +3,7 @@ layout: post
 title: "Comidas exóticas"
 tags: asia gastronomia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/12/durian.jpg
+image: /images/2015/12/durian.jpg
 ---
 No se puede mentir, cuando se piensa en [Asia](/tag/asia) y comida es fácil asociar con la palabra **exótica**. Conforme pasa el tiempo, la comida de los países asiáticos empieza a mezclarse y entrar más en nuestra cultura, siendo que el sushi y chow mein no son nada extraños comparado con lo que alguna vez fueron. Pero claro que no todo es tan sencillo como unos fideos chinos, hay ciertos alimentos que difícilmente llegarán a ser parte de un intercambio cultural.
 

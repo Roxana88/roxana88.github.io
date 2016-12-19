@@ -3,7 +3,7 @@ layout: post
 title: "Vuelos baratos"
 tags: vuelos miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/10988582504_9eef7bb993.jpg
+image: /images/2015/04/10988582504_9eef7bb993.jpg
 ---
 Revisando un poco las palabras claves de como la gente llega a este sitio, me doy cuenta que gran parte buscan "vuelos baratos", tal cual. El segundo conjunto es "DF a Roma". Lo que se me hace bastante curioso que la gente quiera encontrar vuelos en un blog. Por eso el siguiente artículo es para explicar un poco más a fondo como buscar vuelos baratos. 
 
@@ -11,15 +11,15 @@ Revisando un poco las palabras claves de como la gente llega a este sitio, me do
 
 Lo más básico es que mantenerte en las famosas **listas de correos** de las aerolíneas y también de los servicios de reservaciones como *Expedia*. En sus correos podrás tener información de descuentos y quizás saldos. En redes sociales funciona igual. El problema con los correos, es que son ofertas en general que bien no te interesa por el destino que quieres o las condiciones de las fechas no ayudan.
 
-![Alertas en Kayak](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/kayak.png)
+![Alertas en Kayak](/images/2015/04/kayak.png)
 
 Ahora bien, buscadores de vuelos como [Kayak](http://kayak.com/) o [SkyScanner](http://www.skyscanner.com/) al momento de hacer una búsqueda de un vuelo, aparte de intentar darte mejores precios porque buscan en muchos sitios al mismo tiempo, te permiten generar alertas con tu búsqueda para recibir vía correo electrónico novedades sobre cambios en los precios.
 
-![Alertas en SkyScanner](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/skyscanner.png)
+![Alertas en SkyScanner](/images/2015/04/skyscanner.png)
 
 En [Google Flights](http://flights.google.com/) puedes guardar muchas búsquedas en distintos días y ver los cambios de tarifa como ya lo explicaba en el artículo [Planeación de Viajes 101](/planeacion-de-viaje-101/). Ejemplo en la siguiente gráfica llevo 50 días viendo el tracking de un vuelo Los Ángeles a Manila, la diferencia de precio en un momento es alarmante casi el doble de precio.
 
-![Gráficas en Google Flights](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/Google.png)
+![Gráficas en Google Flights](/images/2015/04/Google.png)
 
 ##Comprando con millas
 

@@ -3,37 +3,37 @@ layout: post
 title: "¿Qué hay en Puerto Vallarta o qué?"
 tags: 2013 america mexico pto-vallarta puerto-vallarta guiaciudad
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/unnamed.jpg
+image: /images/2015/02/unnamed.jpg
 ---
 Si le preguntas a un extranjero que parte de [México](/tag/mexico) le gustaría conocer es muy probable que las respuesta sea alguna de las *playas mexicanas*, la más famosa [Cancún](/tag/cancun) y si no me equivoco **Vallarta** debe ser la segunda.  ¿Qué hay en Puerto Vallarta o qué? Bueno a mí lo que más me gusta de es dar un paseo por el malecón, disfrutar de una rica y  refrescante **cerveza Corona** mientras contemplo el atardecer. *Esa sensación de dedicarte unos minutos para apreciar la simpleza de la vida y no tener prisa de nada,* desafortunadamente solo lo aprecio cuando estoy de vacaciones y con unas cuantas cervezas encima ¡bah! . 
 
-![Malecón Puerto vallarta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-02-18-05-53.jpg)
+![Malecón Puerto vallarta](/images/2015/02/2013-06-02-18-05-53.jpg)
 
 Suelo tener una  relación tormentosa con las playas, mi piel es muy delicado o yo muy quejumbrosa aún no lo sé bien como funciona esto, soporto  tres días en la playa antes de empezar a manifestar ardor e irritación en la piel ¡en fin!.  Nos quedamos en el **Hotel Rio** el cual se encuentra una cuadra abajo del malecón, *¡excelente ubicación!*, nuestro plan básicamente era conocer el malecón ya que tenía poco que lo habían remodelado y relajarnos. Llegamos a Vallarta un sábado a medio día y resumiré el clima en un *“tenia tanto miedo de derretirme”,* en cuanto llegamos empecé a sudar bastante me urgía llegar al hotel y cambiarme ya que la ropa  que llevaba no me ayudaba con el clima. Llegamos al hotel y afortunadamente tenían nuestra habitación lista ahora si llego el momento de salir en busca de comida.
 
 Caminamos hacia el malecón y quería comer mariscos era lo único que tenía claro. De repente un sujeto nos abordo y nos invito a pasar a un restaurante, nos dieron una *tostada de ceviche* obviamente caímos  en una trampa de turistas, bueno una trampa de turistas a medias porque la vista del lugar era hermosa aun que los precios estaban un poco elevados. 
 
-![Rox dándole la bienvenida a Vallarta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-01-13-13-35.jpg)
+![Rox dándole la bienvenida a Vallarta](/images/2015/02/2013-06-01-13-13-35.jpg)
 
 ##Paseo por el Malecón
 
-![Rox en tomando un poco de sol en el malecón](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-01-15-27-59.jpg)
+![Rox en tomando un poco de sol en el malecón](/images/2015/02/2013-06-01-15-27-59.jpg)
 
 Es una zona peatonal llena de diversas atracciones, por un lado puedes apreciar las tiendas departamentales, bares y restaurantes.  Por otro lado puedes apreciar diversas esculturas y por supuesto la vista hacia el mar, de hecho se alcanza a ver la zona hotelera de *Nuevo Vallarta*. El malecón es totalmente amigable con los turistas, a lo largo de tu recorrido encontraras bancas para sentarte y poder apreciar de la vista, algunas esculturas que serán el marco perfecto para sacar las fotos del recuerdo. Hacer el recorrido durante la puesta del sol es una experiencia extremadamente relajante o al menos para mí lo fue, si con la caminada te da sed no te preocupes encontraras mucho lugares donde podrás rehidratarte y que se adaptaran perfecto a tu presupuesto. Aquí les dejo la lista de los lugares que visitamos en el malecón y la experiencia que nos dejaron:
 
 * **La Bodeguita de en medio**. ¡Los mejores mojitos que he tomado! De vez en cuando me pregunto si los mojitos eran realmente buenos o los sobrevaloro por la experiencia obtenida. La Bodeguita es un restaurant-bar cubano aunque para ser sincera solo probamos los mojitos, tienen los mojitos clásicos pero también tienen algunas opciones locas como mojito de Jacks Daniel´s y mi favorito mojito con fresa.
 
-![Geo en la Bodeguita de en Medio Puerto Vallarta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-01-18-10-54.jpg)
+![Geo en la Bodeguita de en Medio Puerto Vallarta](/images/2015/02/2013-06-01-18-10-54.jpg)
 
 * **Bubba Gump**. Lo que me cautivo de este lugar fue la **Coronarita** que básicamente es una margarita a la cual le agregan una ampolleta de cerveza Corona, la idea es que conforme estés tomando la bebida la cerveza se esté vaciando. La coronarita me dejo traumada en la tienda compre la base y por las siguientes semanas estuve tomando algunas para recordar los buenos días que pase en Vallarta. 
 
-![Mi felicidad a descubrir la coronarita en Bubba Gump](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-02-14-39-10.jpg)
+![Mi felicidad a descubrir la coronarita en Bubba Gump](/images/2015/02/2013-06-02-14-39-10.jpg)
 
 * **Cheeky Monkey**. Lo que nos llamo la atención de este lugar fue un letrero que decía **beer a dólar**, ¿era posible encontrar cerveza así de barata? así fue pagamos como $15 pesos por la cerveza y la vista era muy buena. La botana por el precio está bien ¡no podíamos pedir mucho!,  un lugar bonito y barato para pasar la tarde. A lo largo del malecón encontraran varios bares que ofrecen la cerveza a un dólar, algunos están ubicados en un segundo piso y son estilo terraza mientras que otros te ofrecen palapas en la playa cualquiera que sea tu decisión  ¡valdrá la pena!. Por último no pidan Modelo Especial porque les costara el doble, viva con las cervezas lager.
 
-![Geo disfrutando de su cerveza de $15 pesitos en Cheeky Monkey](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-03-12-06-45.jpg)
+![Geo disfrutando de su cerveza de $15 pesitos en Cheeky Monkey](/images/2015/02/2013-06-03-12-06-45.jpg)
 
-![Rox disfrutando de cerveza barata en Puerto Vallarta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-02-11-22-24.jpg)
+![Rox disfrutando de cerveza barata en Puerto Vallarta](/images/2015/02/2013-06-02-11-22-24.jpg)
 
 * **Cervecería Union**. El lugar esta cómodo y el ambiente es bueno, digamos que esta cervecería es una opción **nice** ofrecen las cervezas artesanales que maneja la **cervecería Minerva**. Claro si quieres tomar cerveza artesanal tendrás que pagar más. Nosotros en lo personal preferimos aprovechar las cervezas de a dólar, cuando me encuentro en la playa prefiero las cervezas estilo lager (es una forma más bonita de decir que soy coda).
 
@@ -47,13 +47,13 @@ Dar un paseo el sábado por la noche es algo que tienen que hacer, el malecón s
 
 Como dice el dicho “el que busca encuentra” y así fue como llegamos a la *Microcervecera de Los Muertos*,  la cual se encuentra ubicada en *Lázaro Cárdenas #302* muy cerca del Malecón. Si algo me gusta de las zonas turísticas es la famosa *happy hour*, no recuerdo exactamente cuál era la promoción del lugar pero cuando estas de paseo cualquier descuento es bien recibido. Recuerdo haber probado la stout de la casa y la IPA, pero como les comentaba en la playa prefiero las cervezas claras, en resumen me gusto más la IPA. Si les gusta la cerveza artesanal sin duda tienen que visitar esta cervecería ¡quién iba a decir que encontraríamos una microcerveceria en Vallarta¡.
 
-![La única foto que tomamos de la cervecería los muertos](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-01-15-51-22.jpg)
+![La única foto que tomamos de la cervecería los muertos](/images/2015/02/2013-06-01-15-51-22.jpg)
 
 Como elegimos quedarnos en Puerto Vallarta y cerca del Malecón no buscábamos un hotel con todo incluido, nuestro plan era salir a caminar temprano y desayunar en algún lugar, continuar caminado y disfrutar de una cerveza, regresar al hotel y disfrutar de la piscina y salir a caminar nuevamente. El desayuno lo tomamos dos veces en el restaurante del hotel *Coexist* el cual recomiendo ampliamente, la comida está muy buena y la atención es excelente, Geo pidió unos huevos benedicto y yo el único desayuno que se pedir unos deliciosos chilaquiles.
 
-![Chilaquiles de poder en Coexist](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-02-09-50-36.jpg)
+![Chilaquiles de poder en Coexist](/images/2015/02/2013-06-02-09-50-36.jpg)
 
-![Huevos benedicto](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-02-09-49-51.jpg)
+![Huevos benedicto](/images/2015/02/2013-06-02-09-49-51.jpg)
 
 ##Puerto Vallarta Vs Nuevo Vallarta
 
@@ -65,4 +65,4 @@ Hemos tenido la oportunidad de visitar **Nuevo Vallarta** en un plan todo inclui
 
 Porque la gente local es muy amigable y servicial, es un lugar seguro en las zonas turísticas, te ofrece una amplia variedad de comida y bebida que se adaptara a tu presupuesto. He tenido la oportunidad de visitar algunas playas fuera de México y la verdad por el ambiente me quedo con Vallarta.
 
-![Disfruta Vallarta](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2013-06-03-10-16-50-1.jpg)
+![Disfruta Vallarta](/images/2015/02/2013-06-03-10-16-50-1.jpg)

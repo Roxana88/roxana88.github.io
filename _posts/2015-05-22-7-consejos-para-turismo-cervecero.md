@@ -3,7 +3,7 @@ layout: post
 title: "7 consejos para turismo cervero"
 tags: estados-unidos gastronomia miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC09703.jpg
+image: /images/2015/05/DSC09703.jpg
 ---
 En el artículo anterior de [Turismo Cervecero](/turismo-cervecero/) explicaba en que consistía esta modalidad y ahora daré mis 7 consejos para no morir en el intento.
 
@@ -17,7 +17,7 @@ Nada de malo comenzar un poco temprano, digamos a las 12 del día, pero en dosis
 
 Sin duda lo mejor que puedes hacer es visitar la propia cervecería local, que muchas veces cuentan con su propio bar o al menos con un tour con muestras al final. En algunos casos los bares propios tienen **taps** (cerveza de barril) exclusivos.
 
-![Rox con una muestra en Samuel Adams](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-07-13-42-43.jpg)
+![Rox con una muestra en Samuel Adams](/images/2015/05/2015-01-07-13-42-43.jpg)
 
 Lo mismo pasa con los **brewpubs**, que son bares que hacen su propia cerveza, en algunos casos ni siquiera llega a embotellarse. Así que la única forma de probarla es en la fuente misma.
 
@@ -31,7 +31,7 @@ A menos que quieras estar recorriendo la ciudad, encontrando gemas escondidas es
 
 Un **flight** (o sampler) consiste en un par de onzas de varias cervezas, dependiendo el lugar pueden ser unas 4 onzas de unas 4 a 8 cervezas diferentes. A veces ya estan hechos los flights o, lo mejor, los puedes armar tu solo.
 
-![Un flight listo para ser probado](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2013-09-14-16-26-47.jpg)
+![Un flight listo para ser probado](/images/2015/05/2013-09-14-16-26-47.jpg)
 
 Es la mejor forma de probar varias cervezas, y más barato, y no terminas ebrio a la cuarta pinta de una Double IPA. En serio, si quieres probar unas 3 o 4 cervezas robustas en una sentada, imposible pidiendo pintas de tamaño completo.
 
@@ -41,7 +41,7 @@ Si tienes duda de esa Pale Ale Pumpkin Hashbrown Double Sugar, no dudes en pedir
 
 Por supuesto que no vas pedir una prueba de todas hasta que te hartes y te vayas o pedir una de Miller. Bueno hay gente que quizás si lo haga.
 
-![Nada dice amor como una tablita con un arcoiris de cervezas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2013-12-24-17-20-12.jpg)
+![Nada dice amor como una tablita con un arcoiris de cervezas](/images/2015/05/2013-12-24-17-20-12.jpg)
 
 ## 6 - Dejar lagers y pale ales para luego
 
@@ -53,6 +53,6 @@ Después de unas cuantas cervezas barleywine y tripels en flights en el bar, un 
 
 Finalmente uno de los momentos bonitos es comprar souvenirs (o sea cerveza) para traer a casa. La mejor oportunidad es en las cervecerías, pero si no hubo y las licorerías no llenaron tus ojos puedes proceder a los supermecados como **Whole Food**, en [Estados Unidos](/tag/estados-unidos), donde seguramente encontraras algo bueno que llevar para compartir con tus seres queridos, o sea tu mismo.
 
-![Si llevas pidiendo pintas de nitro stout en lugar de flights, quedaras fuera de combate](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-12-17-34-06.jpg)
+![Si llevas pidiendo pintas de nitro stout en lugar de flights, quedaras fuera de combate](/images/2015/05/2015-01-12-17-34-06.jpg)
 
 Lo mejor es llevar botellas grandes de 750 ml, y por supuesto, ediciones locas y raras como Saisons y DIPAs que aquí en [México](/tag/mexico) son raras de conseguir. Nada de traer las mismas que ya se venden aquí, por favor. Por la ley mexicana de aduanas un adulto puede traer hasta 3 litros de alcohol de baja graduación (cerveza y vinos). Pasando ese tope ya se cobra un impuesto del 160% si no mal recuerdo. Con cuidado de meter demasiado alcohol.

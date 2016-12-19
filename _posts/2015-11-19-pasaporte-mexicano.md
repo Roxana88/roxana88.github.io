@@ -3,7 +3,7 @@ layout: post
 title: "Pasaporte mexicano"
 tags: planes mexico
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/11/20151119092138.JPG
+image: /images/2015/11/20151119092138.JPG
 ---
 
 El día de ayer fui a presentarme a la oficina de la SRE (Secretaria de Relaciones Exteriores) a conseguir un nuevo pasaporte después de un mes de espera por la cita. En Octubre se suponía que un nuevo y ágil sistema informático de citas, pagos y procesamiento de pasaportes mexicanos estaría operando. El sistema fracasó y hubo caos y locura para conseguir pasaportes. En teoría ya están por terminar las correcciones pero aún así me tocó a la vieja usanza con un proceso un poco anticuado y no precisamente rápido.

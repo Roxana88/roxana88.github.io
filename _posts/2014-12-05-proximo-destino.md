@@ -3,7 +3,7 @@ layout: post
 title: "Próximo destino"
 tags: planes europa 2014 america asia africa
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-07-15-38-59.jpg
+image: /images/2015/05/2015-01-07-15-38-59.jpg
 ---
 La fecha ya esta puesta, *14 de Diciembre [2014](/tag/2014)*, así como el destino igualmente. Y si, la verdad que solo estamos contando los días. Este será el primer viaje digamos largo, donde no llevaremos equipaje documentado. Solamente una mochila cada uno. Ya tenía ganas de intentar este modo ligero, porque si llega a desgastar estar cargando maletotas en el metro o camiones. Al final del día lo único que se pierde es el montón de souvenirs que llegan a ser bastante iguales, casi todos vienen de China y solo cambia el nombre del lugar.
 

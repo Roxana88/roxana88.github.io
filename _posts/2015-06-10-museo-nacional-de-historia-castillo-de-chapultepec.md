@@ -3,31 +3,31 @@ layout: post
 title: "Museo Nacional de Historia - Castillo de Chapultepec"
 tags: ciudad-de-mexico df mexico miniguia atracciones latinoamerica museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-33-39.jpg
+image: /images/2015/06/2014-10-05-15-33-39.jpg
 ---
 Una de las mejores atracciones en la ciudad de [México](/tag/df) es sin duda el hermoso **Castillo de Chapultepec**, que desde lo alto y rodeado del encantador **Bosque de Chapultepec**, fue testigo callado de diversos eventos historicos de [México](/tag/mexico). Una visita tanto para nacionales como extranjeros que quieran saber más de la historia de nuestro país.
 
-![Rox en la entrada al Museo Nacional de Historia](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-14-46-11.jpg)
+![Rox en la entrada al Museo Nacional de Historia](/images/2015/06/2014-10-05-14-46-11.jpg)
 
 Llegar al Castillo de Chapultepec es un poco agotante pero aún así divertido, pues desde el bosque hay que subir colina arriba un tramo de unos 10 minutos, dependiendo tu velocidad, pero la vista hacia la ciudad lo vale. En el camino se puede visitar el **Museo del Caracol** que es una galería con maquetas de la historia de México, en un edificio en forma de caracol con un buen final. Te lleva unos 30 minutos verlo, por lo que si vale la pena considerarlo.
 
-![Vista desde el Cerro de Chapultepec](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-07-57.jpg)
+![Vista desde el Cerro de Chapultepec](/images/2015/06/2014-10-05-15-07-57.jpg)
 
 Dentro de las exposiciones permanentes del Museo Nacional de Historia se puede encontrar colecciones que datan desde la Conquista Española a través del surgimiento de México como nación y su lucha para entrar al mundo moderno. Hay muchos artefactos y obras de arte peculiares, como banderas y estandartes de la Independencia y la Revolución.
 
-![Mural de Los Niños Héroes](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-14-47-41.jpg)
+![Mural de Los Niños Héroes](/images/2015/06/2014-10-05-14-47-41.jpg)
 
 Algunos de los objetos que se me hicieron de lo más curioso son artículos personales y sociales del presidente **Porfirio Díaz** como invitaciones a banquetes y menús de los mismos. El presidente Díaz le encantaba el glamour francés y se muestra en los detalles de sus eventos.
 
-![Porfirio Díaz y su glamour](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-03-32.jpg)
+![Porfirio Díaz y su glamour](/images/2015/06/2014-10-05-15-03-32.jpg)
 
 Hay una serie de armaduras y armas, así como algunos aparatos históricos y joyas que han quedado como tesoros nacionales. Y hablando de tesoros, están las habitaciones amuebladas originales que fueron utilizadas por **Maximiliano I**, él y Carlota ocuparon el Castillo (obviamente) durante el Segundo Imperio Mexicano... Lo interesante es cuando ves el [Palacio Schönbrunn de Viena](/tag/viena) y escuchas una historia trágica de un pariente de Francisco José I de Austria que fue fusilado en cierto país.
 
-![De la colección de armas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-04-22.jpg)
+![De la colección de armas](/images/2015/06/2014-10-05-15-04-22.jpg)
 
 Regresando a la historia, se puede visitar los jardines del edificio llamado **Alcazár** que es la emblemática construcción en forma de torre de Chapultepec. Aquí se pueden ver las carrozas usaras en la antigüedad por Maximiliano y los presidentes mexicanos. Y una serie de vitrales y murales de la historia de México.
 
-![Alcazár de Chapultepec](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-10-05-15-40-19.jpg)
+![Alcazár de Chapultepec](/images/2015/06/2014-10-05-15-40-19.jpg)
 
 Entre otras curiosidades, están las placas e información de los **Niños Héroes** (de hecho hay un monumento en el Bosque de Chapultepec). Así que si tu único recuerdo de las clases de historia sobre Chapultepec son los Niños Héroes si encontraras información.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Air France y sus giros"
 tags: 2014 marruecos africa problemas casablanca
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-17-32-38.jpg
+image: /images/2015/04/2015-01-05-17-32-38.jpg
 ---
 Llegamos al nada grato aeropuerto de [Casablanca](/tag/casablanca) por tren, y después de pasar una banda en la entrada, fuimos al mostrador de **Air France** por nuestros pases de abordar. Casi no había gente así que pasamos rápido con una señorita que lo primero que nos pregunto fue el destino final, a lo que dijimos [México](/tag/mexico), y en pantalla le dio la información. Aquí todo bien, pero ella pregunto algo a su compañera sobre Atlanta, quizás si Atlanta estaba en [Estados Unidos](/tag/estados-unidos). Tomo los pasaportes para buscar  visas, pero como tenemos visa laser me di cuenta y se las pase. Ella me miro confundida y llamo a su supervisor. Un sujeto de lentes, digamos **Pepe**, se acerco y me comento que si las visas eran visas y si estaban vigentes (si, la visa trae impreso la fecha de vencimiento pero Pepe no sabia leer) porque según eso las visas americanas son solo de un año, todas. 
 
@@ -21,7 +21,7 @@ Llego Ana con el otro hombre, **Julio**, y hablaron con Pepe. Nunca llego la sup
 
 Bastante tiempo después, apareció Ana disculpándose, diciendo que no teníamos problema. Le preguntamos de que se trataba y nos explico que pensaron que queríamos ser inmigrantes ilegales en [Europa](/tag/europa) o Estados Unidos, casi me carcajeo, que teníamos el perfil por ser pareja, jóvenes y volando con equipaje ligero, que era lo trendy de los ilegales viajar con maletas chiquitas. Claro porque es más fácil llegar de ilegal en Estados Unidos llegando de vacaciones de Europa por aire que cruzando el Río Bravo, sería el peor guión para una película. Según ella que mucha gente de África usaba [Marruecos](/tag/marruecos) o gente de [Asia](/tag/asia) usaba [Turquía](/tag/turquia), como trampolines para ser ilegales en Europa. Y pues claro, como fuimos a Turquía fue sospechoso para estas personas. Quizás no me gusto Turquía para pasar de ilegal así que fui a Marruecos, pero momento primero estuve en [Atenas](/tag/atenas), Roma y [Londres](/tag/londres), soy un despistado. En resumen no hubo explicación con lógica, solo un montón de excusas y una espera para ver que vuelos nos conseguían. 
 
-![Gate donde salió el avión sin nosotros](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/04/2015-01-05-17-32-38.jpg)
+![Gate donde salió el avión sin nosotros](/images/2015/04/2015-01-05-17-32-38.jpg)
 
 El siguiente vuelo sería hasta la mañana, y entonces tuvieron que darnos hotel y comidas. Le pedí Internet a Ana, para notificar a nuestros familiares que había pasado, porque en el aeropuerto no hay WiFi ni de paga. Nos llevo a la **sala VIP del aeropuerto**, y nos ofreció conexión, bocadillos y otra disculpa. Ya habían arruinado algunos de mis planes pero no tenia sentido enojarme más. 
 

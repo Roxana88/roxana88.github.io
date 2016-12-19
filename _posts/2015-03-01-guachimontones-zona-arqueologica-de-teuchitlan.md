@@ -3,27 +3,27 @@ layout: post
 title: "Guachimontones: zona arqueológica de Teuchitlán"
 tags: america mexico guadalajara tequila miniguia latinoamerica
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-11-29-54-1.jpg
+image: /images/2015/02/2014-08-24-11-29-54-1.jpg
 ---
 Cerca de la ciudad de [Guadalajara](/tag/guadalajara), [México](/tag/mexico), existen diversas zonas arqueológicas, un poco olvidadas de las guías de viajes, que esperan un poco de atención. Uno de estos lugares es llamado Guachimontones, en el poblado de **Teuchitlán**, Jalisco. Es un buen pretexto para salir de la ciudad y conocer un poco la **Región Valles**, que incluye el pueblo de [Tequila](/tag/tequila).
 
 El atractivo de este lugar reside que contiene una serie de piramides circulares (o guachimonton), en cuyas bases tienen otros circulos externos. En estos últimos circulos existen plataformas que, en base a la investigación arqueológica, servían de suelo para edificaciones temporales de los nativos. El uso que se les daba a las piramides estaba relacionado a la religión y al parecer a una especie de **danza con voladores**, similares a los *Voladores de Papantla* en [Veracruz](/tag/veracruz).
 
-![Guachimonton](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-11-29-54.jpg)
+![Guachimonton](/images/2015/02/2014-08-24-11-29-54.jpg)
 
 Existen diversas láminas ilustradas que explican cada uno de los sitios en la zona, dando a conocer detalles sobre las edificaciones y costumbres. Lo mejor es caminar con calma y darle un vistazo a cada parada para ir armando una imagén mental del lugar.
 
-![Detalle de la piramide](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-11-32-32.jpg)
+![Detalle de la piramide](/images/2015/02/2014-08-24-11-32-32.jpg)
 
 Aunque solo se ha habilitado para visita un conjunto de tres piramides principales y un area que sirvio para el **juego de pelota**, existen más "guachimontones" dispersos por la zona. Lo que indica que existía una pequeña civilización de la cual se sabe muy poco por la cantidad de vestigios existentes.
 
-![Area de juego de pelota](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-11-38-25.jpg)
+![Area de juego de pelota](/images/2015/02/2014-08-24-11-38-25.jpg)
 
 El area de juego de pelota es curioso, porque no se entiende mucho que estas viendo cuando caminas por el largo andador que vendría siendo la cancha de juego. En el museo hay un video explicativo que ayuda a comprender como se jugaba y sobre todo porque se jugaba. Cosa interesante porque yo desconocía que en el occidente de México se practicara este deporte.
 
 La zona arqueológica cuenta con un museo con visitas guiadas. El museo contiene algunas piezas de alfarería y restos de objetos, obtenidos principalmente de las **tumbas de tiro**. De estas últimas tiene una explicación visual muy buena que permite entender la complejidad de este tipo de tumbas. También se puede apreciar información sobre el descubrimiento y mantenimiento de las piramides y un maqueta mostrando las diversas edificaciones encontradas. Hay talleres para los más pequeños.
 
-![Entrada al museo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/2014-08-24-12-01-06.jpg)
+![Entrada al museo](/images/2015/02/2014-08-24-12-01-06.jpg)
 
 Cerca del lugar se encuentra la **Presa de la Vega** que ofrece también una buena vista y algunos restaurantes de mariscos y parrilladas.
 

@@ -3,33 +3,33 @@ layout: post
 title: "Año nuevo en Marrakesh"
 tags: marruecos 2015 africa gastronomia marrakesh
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-15-19-32-2.jpg
+image: /images/2015/01/2014-12-31-15-19-32-2.jpg
 ---
 Nos encontrábamos en **Marrakesh** y sabíamos que la gente no celebraba mucho el año nuevo en esos rumbos; cosa que no me importaba mucho realmente no soy la chica fiesta, mis exigencias eran bastante aceptables. Básicamente se resumía en *una cerveza para poder hacer el brindis guiño guiño* ¿qué tan difícil puede ser eso? 
 
 En [Turquía](/tag/turquia) conseguir cerveza no había sido difícil, claramente lo lograríamos esta vez *¡si vieran la importancia que le doy a eso del brindis de año nuevo!*. No sabíamos mucho del lugar no nos culpen acabamos de llegar y como buenos turistas lo que  queríamos era *caer en trampas para turistas* o como coloquialmente se le llama *conocer el lugar*. La verdad es que en Marrakesh parece que es más fácil obtener la nacionalidad que conseguir una cerveza o alcohol en general, cosa que no sabíamos al principio, pero les diré donde podrán conseguir *desde cerveza caliente hasta cerveza de barril.*
 
-![Rox en el tren camino a Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-12-55-31.jpg)
+![Rox en el tren camino a Marrakesh](/images/2015/01/2014-12-31-12-55-31.jpg)
 
 El día anterior habíamos estado en **Rabbat**, la capital de **Marruecos**, después de [Fes](/tag/fes) un paseo por la ciudad no nos caería nada mal. Aprovechamos la oportunidad de conocer [Rabbat](/tag/rabat) antes de llegar a Marrakesh. Tomamos un tren y el recorrido duró como tres o cuatro horas las cuales por mucho prefiero pasar en tren que en avión, básicamente el tren puede pasar hasta cinco minutos antes de la hora programada así que les recomiendo que lo esperen con tiempo. 
 
 *Nos subimos al tren y recordé el tren de [Praga](/tag/praga) por la distribución de los asientos*. Estaba dividido en camarotes para ocho personas, como los lugares no están asignados nos sentamos en el primero que vimos cupo. El recorrido por el tren no es tan escénico como lo habían sido los de Europa pero igual si lo disfrutas y conforme avanzaba el tren veía como la ciudad iba desvaneciendo y todo se tornaba en un escenario más rústico. Algo que sin duda me sorprendió la cantidad de nopales que veía ¡ey regrésame esos nopales son de [México](/tag/mexico)!.
 
-![Terminal del tren en Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-14-46-11.jpg)
+![Terminal del tren en Marrakesh](/images/2015/01/2014-12-31-14-46-11.jpg)
 
 Llegamos a Marrakesh y teníamos que caminar a la **Medina**. Para los que no estén muy relacionados con el tema la medina es la parte antigua de la ciudad la cual se encuentra rodeada por una pared, cuando ves las hermosas fotos de la medina te imaginas la película más romántica del año obviamente quería quedarme en un *riad* dentro de la medina.
 
-![Exterior de la medina en Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-15-19-32-2.jpg)
+![Exterior de la medina en Marrakesh](/images/2015/01/2014-12-31-15-19-32-2.jpg)
 
 Se sentía un poco como Fes pero las calles eran más grandes, se veía un poco más limpias  y no parecían un laberinto, apenas habíamos entrado y un señor nos preguntó a que riad íbamos. No sabíamos si contestar o no por las previas experiencias en Fes *ya no queríamos más trampas de turistas pero tampoco queríamos ser groseros*,  así que  le contestamos y seguimos caminando mientras  el señor nos decía “no no **Riad Laârouss** es por acá yo los llevo”. Geo vio el mapa y se dio cuenta que el señor mentía. 
 
 Le agradecimos y seguimos caminando, el señor nos alcanzo y seguía insistiendo de hecho le pregunto a otro local donde queda el riad laârouss ¿verdad que para allá? Y el otro señor solo fue “si si allá allá”. Tuvimos que ser cortantes y decirle que nos dejara continuar. Llegamos a la dirección que decía el mapa y la puerta del riad estaba cerrada con candado y yo solo pensé ¿el señor tenía razón y se acaban de cambiar? ¿acaso el señor era un buen hombre? ¿qué clase de persona soy?. Mientras yo pensaba en todo eso Geo le dio la vuelta y me dijo “Ey Rox la entrada es por aquí” en ese momento tuve que olvidarme de la complicada novela que estaba inventando ¡sale bye!. 
 
-![Interior riad Laârouss](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2015-01-01-08-58-53.jpg)
+![Interior riad Laârouss](/images/2015/01/2015-01-01-08-58-53.jpg)
 
 Llegando al riad nos dijeron que no tenían nuestra reservación, afortunadamente aun no pagábamos, quedaron de revisar si tenían habitaciones disponibles yo esperaba que si, el riad estaba muy padre si me daban ganas de quedarnos en el lugar desafortunadamente solo consiguieron la habitación en el anexo el cual estaba bien ¡el papel de baño era rosa! ese detalle le encanto a Geo (es broma).
 
-![Anexo riad Laârouss](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-16-05-49.jpg)
+![Anexo riad Laârouss](/images/2015/01/2014-12-31-16-05-49.jpg)
 
 ## Jemaa el-Fna
 
@@ -37,11 +37,11 @@ Era momento de conocer esa hermosa medina que había visto en las fotos y una de
 
 No quería averiguarlo a la mala, preferí caminar por la orilla esperando no ser atacada, con la mezcla de las motos y el desorden para conducirlas me confundieron *no sabía si prefería los laberintos misterios de Fes o las motos amenazadoras de Marrakesh* o ¿simplemente tendría hambre? Ese era un misterio que pronto resolvería. Tenía hambre y prefería Marrakesh. De repente el panorama estaba tomando color mientras veía la variedad de artesanías que se ofrecían de las cuales no pensaba comprar ninguna, comentando con Geo decíamos que muchas veces ves las cosas y es así de *“wow cuanto arte, si si es muy bonito en mi casa se verá genial”* y cuando llegas a la casa te das cuenta de que no encaja con la decoración y te llenas de souvenirs sin sentido, *conclusión piénsenlo dos veces antes de comprar souvenirs.*
 
-![Rox en el mercado de Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-16-36-52-3.jpg)
+![Rox en el mercado de Marrakesh](/images/2015/01/2014-12-31-16-36-52-3.jpg)
 
 Llegar a la plaza Jemaa el-Fna no es difícil solo tienes que seguir los señalamientos y en cierto punto del trayecto el olor de la comida que empieza a tener presencia, *nos estamos acercando mi sentido de Rox hambrienta me lo dice* y claro que estaba en lo correcto. El mercado es muy bonito diferente por mucho a los que había visitado anteriormente *por mucho si visitan Marrakesh el mercado es una visita obligatoria*, básicamente está dividido en las siguientes secciones:
 
-![Geo intentando comer caracoles en el mercado de Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-16-42-39.jpg)
+![Geo intentando comer caracoles en el mercado de Marrakesh](/images/2015/01/2014-12-31-16-42-39.jpg)
 
 * Jugos.
 * Sopas.
@@ -49,7 +49,7 @@ Llegar a la plaza Jemaa el-Fna no es difícil solo tienes que seguir los señala
 * Digestivos como un misterioso chocolate que no logramos probar.
 * Sección de entretenimiento, ves los encantadores de serpientes, hombres con monos, hombres tocando instrumentos.
 
-![El local en el que cominos en el mercado de Marrakesh](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-16-45-24.jpg)
+![El local en el que cominos en el mercado de Marrakesh](/images/2015/01/2014-12-31-16-45-24.jpg)
 
 El muy animado y folklórico ambiente que se crea en el mercado es único, la parte mala es que al ser un lugar altamente turístico la gente empieza a ver la forma de timarte y eso impide disfrutar la experiencia como se debe.
 
@@ -57,11 +57,11 @@ El muy animado y folklórico ambiente que se crea en el mercado es único, la pa
 
 Mientras caminamos en el mercado vimos un lugar donde *la comida se veía bien y la carta tenía precios razonables*. ¡Era mentira!. Nos llevaron un pan tipo de Marruecos llamado **khubz** el cual es considerado un regalo de dios para los locales el cual en pocas palabras *no debes desperdiciar* y en muchos lugares te lo dan para acompañar los alimentos. 
 
-![Cous cous con salchicha](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-12-55-311-1.jpg)
+![Cous cous con salchicha](/images/2015/01/2014-12-31-12-55-311-1.jpg)
 
 Nos llevaron el khubz y una salsa de jitomate mientras esperábamos el cous cous con salchichas y unas brochetas. La sorpresa al pedir la cuenta es que el pan que insiste en el resto de los lugares es gratis no lo habían cobrado en 9 dírham y la horrible salsa en 5 dírham ¡Que timo! .
 
-![Brochetas de carne](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-16-57-34.jpg)
+![Brochetas de carne](/images/2015/01/2014-12-31-16-57-34.jpg)
 
 En la sección de entretenimiento como yo la nombre es recomendable que veas las cosas pero de rapidito porque si tardas mucho te empezarán a pedir dinero. Ni se te ocurra sacar fotos porque también te pedirán dinero solo por el hecho de sacar la foto en el mercado, es por eso que nosotros casi no tenemos fotos del mercado. Desafortunadamente esta lección la aprendimos a la mala, Geo ya les expuso este detalle en su artículo [Ese lugar llamado Marruecos](/ese-lugar-llamado-marruecos/).
 
@@ -70,10 +70,10 @@ Si queríamos cervezas teníamos que salir de la medina a buscarlas. El objetivo
 
 Deambulamos como una hora diciendo “cerveza, turista, compro”. No encontramos nada. Parecía que el 2015 sería sin alcohol ¿quién se merece eso? Yo solo pensaba *¡ándele hay anda queriendo pasar año nuevo en Marruecos!* Lo bueno es que yo donde sea consigo cerveza ¡ey!. En fin realmente no fue tan dramático simplemente llegó el momento en el que sabíamos que no pasaría y la única forma de superar la decepción era volver a comer y para hacer la historia aún más triste regresamos a la medina y mi cena de año nuevo fue una pizza individual fea. Al momento de ordenarla en mi cabeza sonaba como una buena idea, Geo me decía que pidiera algo con carne y le dije “no la comida de aquí ni se me antoja” ¿quién creen que tenía la razón? 
 
-![Mi deliciosa pizza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-21-07-54.jpg)
+![Mi deliciosa pizza](/images/2015/01/2014-12-31-21-07-54.jpg)
 
 Cuando llegó mi pizza fea aparente que era justo lo que imaginaba y cuando la probé fue algo así como “que delicia que delicia feliciten al chef de mi parte”. Geo sabía que mentía y me dio de su pollo para que “lo probara” estaba muy bueno y así fue como recibí el 2015 con pizza y te marroquí.
 
-![El pollo de Geo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/2014-12-31-21-06-58.jpg)
+![El pollo de Geo](/images/2015/01/2014-12-31-21-06-58.jpg)
 
 Parece que lo único que hacen los locales para recibir el año nuevo es comer pastel. Ese día vi una cantidad absurda de pasteles, la celebración del año nuevo no es una cosa importante dentro de sus costumbres de hecho el día primero de enero lo trabajan normal. Para los turistas en algunos riads ofrecen un convivio con bailes tradicionales pero no duran más de dos horas. En los próximos post les diré como conseguir cerveza en Marrakesh y para no dejarlos con el pendiente *en lo que va del 2015 he probado algunas cervezas* al parecer no me afectó recibir el año 2015 sobria.

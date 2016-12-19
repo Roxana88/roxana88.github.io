@@ -3,7 +3,7 @@ layout: post
 title: "Vuelos baratos: aerolíneas de bajo costo"
 tags: miniguia vuelos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-23-15-24-22.jpg
+image: /images/2015/05/2014-12-23-15-24-22.jpg
 ---
 Continuando con mi artículo anterior de [Vuelos Baratos](/vuelos-baratos/), en este artículo quiero desarrollar los ventajas y las desventajas de las aerolíneas de bajo costo. Porque no todo es amor, me gusta que ahorro pero no me gusta que me hagan sufrir. Y quieras que no, con el ahorro vienen algunos detalles.
 
@@ -15,7 +15,7 @@ Continuando con mi artículo anterior de [Vuelos Baratos](/vuelos-baratos/), en 
 
 * **Mejores precios con anticipación** - Muchas aerolíneas de bajo costo como **Volaris** suelen generar campañas para vender vuelos a precios reducidos con compras de hasta 6 meses de anticipación. También a estos descuentos, si eres parte de algún sistema de recompensas (rewards) te puedes ver beneficiado de mayor descuento. El problema con los programas de recompensas de las aerolíneas de bajo costo que no tienen convenio con otras aerolíneas y la cobertura del beneficio es mucho menor.
 
-![Rox en la pista](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-23-15-24-26.jpg)
+![Rox en la pista](/images/2015/05/2014-12-23-15-24-26.jpg)
 
 ## Desventajas
 

@@ -3,11 +3,11 @@ layout: post
 title: "Un día épico"
 tags: mexico 2015 nayarit playas latinoamerica chacala
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-02-08-31-07.jpg
+image: /images/2015/05/2015-05-02-08-31-07.jpg
 ---
 Llevábamos una semana planeando *que hacer durante el puente,* para los que no estén familiarizados con el termino "puente" se refiere a los días festivos que coinciden con el fin de semana, durante los cuales la mayoría de la gente descansa. En este caso el viernes primero de Mayo no fui a trabajar así que *con un margen de 3 días hacer un viaje a la playa sonaba coqueto*. Ya conocíamos [Puerto Vallarta](/tag/puerto-vallarta/) así que pensamos en otra playa cercana y la ganadora fue **Rincón de Guayabitos**, la semana se paso rápido y se llegó el tan esperado viernes.
 
-![Les presento Rincón de Guayabitos, Nayarit](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-02-08-23-27--1-.jpg)
+![Les presento Rincón de Guayabitos, Nayarit](/images/2015/05/2015-05-02-08-23-27--1-.jpg)
 
 ##6:30 
 Nos levantamos temprano  para bañarnos y desayunar, decidimos irnos en el transporte público porque teníamos tiempo suficiente. Disfrutamos de los empujones y el aromaterapia en el camión. De esas experiencia que me recuerdan lo afortunada que soy por viajar en carro la mayoría de los días.
@@ -47,4 +47,4 @@ El señor le enseño un correo a Geo que según el le había mandado a **Expedí
 ##23:40 
 La sensación de hambre a sido remplazada por el miedo a no tener una habitación donde pasar la noche. Don señor pirata llegó y nos dijo que ningún hotel tenía vacantes que le daba mucha pena ¿le da pena? *Voy a dormir en la playa y voy a ser devorada por un tiburón y usted sintiendo pena ¡bah!* El señor tenía una solución, *"tengo un cuarto que no es el mejor pero tampoco es el peor. Tiene vista al mar, y no les voy a cobrar la noche".* ¡Oh Dios todo esto suena mal! El cuarto no tenia cortinas y solo tenía una cama dura como piedra y almohadas viejas. No tenia baño y por si fuera cosas estaba llena de las cosas de limpieza y ropa de alguien *¡Geo necesito un hombro donde llorar mis penas!* ¡Feliz día del trabajo!.
 
-![Vista al mar desde el cuarto misterioso](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-05-02-07-42-24.jpg)
+![Vista al mar desde el cuarto misterioso](/images/2015/05/2015-05-02-07-42-24.jpg)

@@ -3,7 +3,7 @@ layout: post
 title: "¿Viajas fuera de tu país?"
 tags: planes miniguia
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-14-08-56.jpg
+image: /images/2015/05/2014-12-14-08-56.jpg
 ---
 Cuando llevas mucho tiempo planeando un viaje siempre consideras cosas como *¿que lugares voy a visitar? ¿donde me voy a hospedar? ¿que ropa me voy a llevar?*, etc. Dejamos que la emoción nos ciegue a tal grado que nunca pensamos en que  algo puede salir mal, si algo pasa es importante estar prevenidos. 
 
@@ -12,13 +12,13 @@ Después de algunos viajes nosotros hemos aprendido algunas cosas que nunca pode
 ##Lo que debes considerar antes del viaje.
 
 * **Tener un escaneo de tus documentos en la nube.** Es importante tener un escaneo de tus documentos como el pasaporte y la visa, y subirlos a plataformas como **Dropbox** que te permita poder acceder a ellos en cualquier momento. 
-![El primer lugar que visitamos fuera de México, Praga](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/DSC04660.JPG)
+![El primer lugar que visitamos fuera de México, Praga](/images/2015/05/DSC04660.JPG)
 
 * **Teléfono y dirección del consulado.** No importa que seas un turista en son de paz nunca sabes cuando se te puede presentar un problema, es por eso que siempre se recomienda tener a la mano la dirección y teléfono del consulado de tu país. Pareciera que puede ser fácil conseguirlo en cualquier momento pero recuerda que no estás en tu país, probablemente no hables el mismo idioma y el acceso a Internet puede ser complicado.
 
  En nuestro viaje a [Marruecos](/tag/marruecos/) justo cuando nos disponíamos a abordar el vuelo nos comentaron que debíamos esperar ya que al parecer “algo no estaba en orden”, fue tanta nuestra frustración que dedicamos un post a [Air France](/air-france-y-sus-giros/). Afortunadamente todo se resolvió sin necesidad de llamar al consulado pero este es un ejemplo de que nunca está de más esa información.
 
-![Turista come gelatos en son de paz](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-15-14-23.jpg)
+![Turista come gelatos en son de paz](/images/2015/05/2014-12-15-14-23.jpg)
 
 * **Seguro de viajero.** Algo que nunca nos gusta pensar es que durante nuestro hermoso viaje nos podemos accidentar ¡Nooooo! Claro si estas en [México](/tag/mexico/) ir con un doctor no suena tan complicado ¿pero si estas en [Europa](/tag/europa/)? Deja de lo complicado lo caro, el seguro de viajero lo puedes comprar con cualquier aseguradora, por ejemplo para nuestro último viaje compramos un seguro por 30 días que nos $2,259 por ambos.
 

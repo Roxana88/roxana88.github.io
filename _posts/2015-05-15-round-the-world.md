@@ -3,7 +3,7 @@ layout: post
 title: "Boletos Round The World (RTW)"
 tags: planes miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/RTW.png
+image: /images/2015/05/RTW.png
 ---
 Pienso que la idea de recorrer todo el mundo, o al menos darle la vuelta, ha estado en la mente de muchos desde viejos tiempos de conquistadores y aventureros que navegaban desconocidos mares en busca de una nueva frontera. Hoy en día, no hay mucha conquista y aventura como en aquellos entonces (al menos en este mundo) pero aún así se puede desear cruzar los océanos hasta regresar al punto de partida por atrás.
 
@@ -23,7 +23,7 @@ Pongamos un ejemplo sencillo, la ruta Guadalajara-Tokio-Bangkok-Amsterdam-Londre
 
 Si aumentamos un destino, digamos [Estambul](/tag/estambul) entre Bangkok y [Amsterdam](/tag/amsterdam) las millas aumentan a poco más de 29 mil y el precio a $89 mil. Un incremento considerable, considerando que solo son 5 mil millas más.
 
-![StarAlliance RTW](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/StarAlliance.png)
+![StarAlliance RTW](/images/2015/05/StarAlliance.png)
 
 ##OneWorld
 
@@ -35,7 +35,7 @@ Usemos una ruta similar a la anterior, nos da que utilizamos 10 segmentos de los
 
 Si a esta ruta, le agregamos Estambul, los segmentos aumentan a 12 pero el precio se mantiene. A diferencia de StarAlliance, aquí llenar los segmentos es mucho mejor.
 
-![OneWorld Explorer](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/OneWorld.png)
+![OneWorld Explorer](/images/2015/05/OneWorld.png)
 
 ##SkyTeam 
 
@@ -45,6 +45,6 @@ Aquí las millas están empaquetadas en 26,000, 29,000, 33,000 y 38,000. Nuestra
 
 Si agregamos Estambul, como en los casos anteriores, el estimado no aumenta. Y el millaje y segmentos solo aumentan un poco. Así que en este caso luce más atractivo SkyTeam.
 
-![Aplicación SkyTeam](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/skyteam.png)
+![Aplicación SkyTeam](/images/2015/05/skyteam.png)
 
 Estos son algunos recursos, al menos los oficiales, para cotizar y planear un boleto RTW, hay agencias de viajes especializadas solamente a esta modalidad que utilizan aerolíneas económicas en combinación para generar mejores presupuestos. 

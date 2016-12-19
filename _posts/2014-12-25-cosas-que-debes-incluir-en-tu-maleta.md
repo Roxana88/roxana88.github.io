@@ -3,7 +3,7 @@ layout: post
 title: "Cosas que debes incluir en tu maleta"
 tags: planes miniguia
 author: rox
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141223_211750.jpg
+image: /images/2015/01/IMG_20141223_211750.jpg
 ---
 #Medicinas
 Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la importancia al que nos vamos a poner olvidándonos de pequeños detalles como *¿Que tal si me enfermo?* Es cierto que los medicamentos los encontrarás en cualquier lugar pero es más práctico y barato llevar lo siguiente solo por si las dudas:
@@ -16,7 +16,7 @@ Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la import
 
 Creo que con eso sobrevivirán. En mi caso padezco de colitis por lo cual siempre agregó Omeoprazol, lactobacilos y pastillas de hojas de guayaba.
 
-![El medicamento que siempre llevo en la maleta.](https://dl.dropboxusercontent.com/u/1610385/content/images/2014/12/IMG_20141223_211646.jpg)
+![El medicamento que siempre llevo en la maleta.](/images/2014/12/IMG_20141223_211646.jpg)
 
 #Belleza
 
@@ -30,7 +30,7 @@ A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos
 * Toallas desmaquillantes con aceite, normalmente uso un desmaquillante para los ojos y otro para la cara pero en este caso los sustituí por las toallitas.
 * Mi crema sana sana, una crema que uso para casi cualquier incomodidad en la piel.
 
-![Los recipientes pequeños para llevar mis productos de belleza](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/01/IMG_20141223_211750.jpg)
+![Los recipientes pequeños para llevar mis productos de belleza](/images/2015/01/IMG_20141223_211750.jpg)
 
 #Artículos varios
 

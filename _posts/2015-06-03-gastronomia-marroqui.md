@@ -3,13 +3,13 @@ layout: post
 title: "Gastronomía Marroquí"
 tags: marruecos africa gastronomia fes fez marrakesh marrakech miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-29-13-24-28.jpg
+image: /images/2015/06/2014-12-29-13-24-28.jpg
 ---
 La gastronomía marroquí no tiene gran popularidad, y esta un poco opacada por la cocina árabe, en su mayoría de Líbano, y aunque comparten ciertos métodos e ingredientes no llega a ser similar por el elemento **Berber** (pueblos del norte de África). 
 
 En mi opinión lo que genera asombro en esta comida son sus especias. Con mezclas como **Ras el hanout** que perfuman y dan sabores complejos a carnes y granos. A continuación una breve explicación de algunos platillos de [Marruecos](/tag/marruecos).
 
-![Platillo tipo Tajín](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2015-01-03-12-52-49.jpg)
+![Platillo tipo Tajín](/images/2015/06/2015-01-03-12-52-49.jpg)
 
 * **Tajín (طجين)** - Este es el plato más emblemático del Maghreb, cuenta con muchas variantes pero la esencia es la misma. Se basa en un guiso de carne con verduras (a veces sobre una cama de cuscús) que se cocina a fuego lento en hornos o brasas en un recipiente llamado Tajín (de ahí el nombre del platillo) que consiste en un plato de barro con una tapa cónica que ayuda a distribuir el calor. Se suele servir directamente la carne en el Tajín, por lo que estos recipientes suelen ser de tamaño individual aunque también los hay grandes.
 
@@ -25,14 +25,14 @@ En mi opinión lo que genera asombro en esta comida son sus especias. Con mezcla
 
 * **Té verde con menta (الأتاي)** - Como gran parte de los marroquíes siguen las leyes musulmanas, no beben alcohol así que la bebida social por excelencia es el té verde aderezado con hojas de menta. Es muy buen té, y en todas las ciudades o pueblos encontraras sobre las avenidas muchas casas de té. En los lugares más tradicionalistas son para hombres solamente.
 
-![Preparación artesanal de aciete de Argán para el Amlou](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2015-01-03-10-00-56.jpg)
+![Preparación artesanal de aciete de Argán para el Amlou](/images/2015/06/2015-01-03-10-00-56.jpg)
 
 * **Amlou** - Es una pasta hecha con aceite de **Argán**, miel y almendras (estas últimas a veces del Argán). Se tritura en unas piedras y sirve para acompañar el pan. Es normal desayunar pan (khubz) con un poco de miel o amlou en Marruecos.
 
-![Variedad de Galletas](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-29-16-04-22.jpg)
+![Variedad de Galletas](/images/2015/06/2014-12-29-16-04-22.jpg)
 
 * **Galletas marroquí** - Aunque en las calles de Marrakesh puedes encontrar gran variedad de galletas de muchas formas y tamaños, gran parte son las llamadas **Kaab el Ghazal** que son una pastas en forma de cuernitos rellanas de almendras bañada en "Agua de flor de naranjo" (es una especie de destilado con el aroma a la flor más que del citrico). Obviamente son un excelente acompañante para el té verde con menta. 
 
-![Platillo de salchichas merguez con cuscús](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/2014-12-31-16-57-42.jpg)
+![Platillo de salchichas merguez con cuscús](/images/2015/06/2014-12-31-16-57-42.jpg)
 
 Estos son algunos ejemplos, pero la comida marroquí es mucho más rica, pues cuentan con una gran diversidad de guisados y ensaladas de verduras, preparaciones de pescado, y muchas brochetas (kebabs) de carnes troceadas aderazadas con sus especias o de pequeñas salchichas (**Merguez**). Gran parte de la comida, y la buena comida, la encontraras en las calles de los mercados (souk, سوق).

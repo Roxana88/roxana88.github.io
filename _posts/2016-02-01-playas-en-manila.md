@@ -3,7 +3,7 @@ layout: post
 title: "Playas en Manila"
 tags: manila playas filipinas
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_4558.JPG
+image: /images/2016/02/IMG_4558.JPG
 ---
 
 En nuestra estancia en la capital filipina, [Manila](/tag/manila), nos dimos un tiempo para ir a la playa. No somos muy fan de las playas, porque Rox muere por la exposición del sol, pero valía la pena visitar una en la isla. El problema era encontrar una cercana y fácil de llegar.
@@ -12,7 +12,7 @@ Manila es un puerto, y cuenta con largas extensiones de costa donde se puede enc
 
 Hay diversas opciones de playas e islas en la región de Batangas al sur de Manila Metro, algunas con fama de playas vírgenes, otras especializadas para scuba diving y demás actividades acuáticas. Tras una exhaustiva investigación en blogs de viajes y algunos Starbucks después, llegamos a la idea de viajar a la playa de Laiya, que era una playa para pasar el rato. Lo que necesitamos. 
 
-![Laiya, el destino prometido](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_4568.JPG)
+![Laiya, el destino prometido](/images/2016/02/IMG_4568.JPG)
 
 Según los consejos del viaje, salimos temprano, tipo 5 de la mañana, al metro para llegar a Buendía, que es una de varias zonas que funcionan como estaciones de autobuses. En Metro Manila a lo que entiendo no hay una central como las conocemos. En Buendía buscamos la transportista JAM, que era recomendará porque toma autopista a Lipa, primer destino en la travesía. 
 
@@ -28,16 +28,16 @@ Fue cerca de unos 90 minutos, o quizás más, cuando llegamos al final de esa ca
 
 No se quien invento esa cabina, pero era pequeño, muy pequeña. Casi tuve que engrasarme para entrar con Rox en ella, y sufrir el suplicio de ir a nivel del suelo en una llanta pegada a una moto. El transporte más incómodo, el jeepney era un jet privado contra el triciclo. En el camino se paró en un acotamiento donde por ser turistas nos cobraron 20 pesos por cuota ecológica. 
 
-![A toda velocidad en el triciclo](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/2016-01-22%2010.07.17.jpg)
+![A toda velocidad en el triciclo](/images/2016/02/2016-01-22%2010.07.17.jpg)
 
 Otro rato más de nada y smog en la cara, cuando se comenzó a ver las entradas a los resorts de playa, que lucían mas bien como bungalows. Nos pregunto a cual íbamos el chofer, y le pedimos que ir a una playa pública. No es entendió y nos llevo a un resort quizás de un amigo suyo. Nos bajamos y le pase los 100 pesos y se puso en plan que eran 400. Entonces comenzó una discusión donde en un momento el sujeto del hotel se metió para decirme que la tarifa era 300. Yo solo gire los ojos y dije eso ni sentido tiene. Saque otro de 100 y le dije que era todo lo que iba conseguir y se fuera. 
 
 Comence a caminar para el mar, buscando su serenidad y el chofer se quejaba. Le fue más que bien, pensé. Se me acerco el encargado del supuesto hotel para ofrecerme habitaciones le dije que no pasaríamos la noche que si tenía palapa o restaurante. Me ofrecio una palapa horrible por 1000 pesos o una mesa fea de madera por 500 pesos. No había comida o bebidas para vender. Le dije no gracias y nos fuimos a remojar al mar. 
 
-![Explorando el mar](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_4555.JPG)
+![Explorando el mar](/images/2016/02/IMG_4555.JPG)
 
 La playa estaba linda, y el agua transparente y muy coqueta. Solo que no había lugar para comer y el precio de las mesas era absurdo. Caminamos un poco por la costa hasta que un sujeto salió de una casa de madera a decirnos que era playa privada más adelante. Antes de eso había pasado por una especie de comuna de pescadores donde nos adentramos pero solo encontramos una pequeña tienda sin cerveza y sin nadie que hablara inglés al parecer. Disfrutamos hasta que sentimos hambre y la necesidad de sombra, no había forma de ocultarse del sol y nadar no era opción. Somos unos tamales que no saben nadar.
 
-![Comuna de pescadores](https://dl.dropboxusercontent.com/u/1610385/content/images/2016/02/IMG_4588.JPG)
+![Comuna de pescadores](/images/2016/02/IMG_4588.JPG)
 
 El regreso fue en jeepney a San Juan por 35 pesos por persona y el resto igual que la ida. Bien valió la pena el largo camino hasta la playa, pero si fue muy cansado. Llegamos a las 7 a Manila, el supuesto Skyway que te ingresa a la ciudad no está completo y es una locura el tráfico. Más horas en transporte que en la arena, pero así es como funcionaba en [Filipinas](/tag/filipinas), al menos lo que nosotros experimentamos.

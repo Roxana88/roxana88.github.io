@@ -3,7 +3,7 @@ layout: post
 title: "Frases útiles al viajar"
 tags: miniguia idiomas
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-20-10-08-51.jpg
+image: /images/2015/05/2014-12-20-10-08-51.jpg
 ---
 Cuando se esta de viaje en un país con un idioma diferente al nuestro, resulta práctico conocer un par de palabras o frases. Tener una conversación con algún nativo es otra cosa, pero al menos poder decir gracias y saludar es un buen inicio. Mucha gente aprecia el hecho de que un viajero haga el intento de hablar su idioma.
 
@@ -13,7 +13,7 @@ A mi consideración, en lo más mínimo, esta el poder decir: hola, adiós, disc
 
 Al inicio nuestra pronunciación quizás este lejos de ser correcta, pero es fácil comenzar a pedir ayudar y por fin lograr decir **efjaristó** a esa amable señora que te pasa un baklava. Herramientas como [Google Translate](https://translate.google.com/) son de gran apoyo tanto para ver traducir rápido y conocer la pronunciación. Una ventaja es que Google Translate en Android (no se si en iOS también) puede descargar ciertos diccionarios. Así que no hay necesidad de sufrir de WiFi para una traducción rápida.
 
-![Si, usted, parakalo parakalo](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-16-15-44-12.jpg)
+![Si, usted, parakalo parakalo](/images/2015/05/2014-12-16-15-44-12.jpg)
 
 Otro buen sitio con muchas frases usuales es [Omniglot](http://www.omniglot.com/), aunque la traducción viene en inglés, pero son frases sencillas. Algunas cuentan con audio para que escuches la pronunciación y si el idioma no usa escritura latina viene su transliteración.
 

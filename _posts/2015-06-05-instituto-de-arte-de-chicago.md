@@ -3,11 +3,11 @@ layout: post
 title: "Instituto de Arte de Chicago"
 tags: estados-unidos eua chicago miniguia atracciones museos
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/285.JPG
+image: /images/2015/06/285.JPG
 ---
 El Instituto de Arte de Chicago (The Art Institute of Chicago) cuenta con una excelente colección de arte. Localizado sobre el **Grant Park** de [Chicago](/tag/chicago) es una atracción que debe estar en la primer visita de cualquier persona, aunque no te guste tanto el arte.
 
-![León guardian del Instituto de Arte de Chicago](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/286.JPG)
+![León guardian del Instituto de Arte de Chicago](/images/2015/06/286.JPG)
 
 La entrada de este bello edificio esta adornada con dos estatuas de leones de bronce que son emblemáticas del Instituto. Es el segundo museo de arte más grande de [Estados Unidos](/tag/estados-unidos) siendo el primero el **MET** (Metropolitan Art Museum) en [Nueva York](/tag/nueva-york), que también es un *must* si te gusta el arte.
 
@@ -19,15 +19,15 @@ Otras de las exhibiciones son de arte norteamericano con pinturas famosas como *
 
 Continuando con las exposiciones de arte norteamericano tienen una en concreto para el arte afroamericano y una exposición que me encanto, como ya comente en mi artículo de [Chicago](/diario-de-chicago-parte-i/), fue la de habitaciones miniaturas **Thorne**. Son increíbles, con pequeños detalles, todas pequeñas, y todas lindas. Buena parte de nuestra visita fue ver a detalle cada una de las 68 habitaciones.
 
-![Miniatura Thorne, la fotografía no es buena](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/298.JPG)
+![Miniatura Thorne, la fotografía no es buena](/images/2015/06/298.JPG)
 
 Contando con más exposiciones de arte de otras partes del mundo como de Asia, el antiguo imperio Bizantino y pueblos prehispánicos, otro que me llamo la atención fue la colección de arte africano con sus mascaras de rituales y estatuas de madera de extraños demonios. La parte del folclor mexicano, asiático o africano en sus alebrijes y similares creo que me gusta mucho.
 
-![Mascara africana](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/299.JPG)
+![Mascara africana](/images/2015/06/299.JPG)
 
 Referente al edificio del Museo una parte es bastante curiosa porque hay un túnel que conduce por encima de las vías del tren hacia una de las áreas nuevas. La visita al Museo bien vale unas 3 o 4 horas porque es realmente grande y las exposiciones son de clase mundial.
 
-![Puente entre ambos edificios y vías del tren](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/287.JPG)
+![Puente entre ambos edificios y vías del tren](/images/2015/06/287.JPG)
 
 * **Costo** - El precio de entrada es de $23 USD para adultos (más información en [sitio oficial](http://www.artic.edu/visit)) pero el [CityPass](/citypass/) de Chicago lo incluye.
 * **Horario** - Abierto de 10:30 a 5:00 de la tarde todos los días excepto Acción de Gracias, Navidad y Año Nuevo.
@@ -38,6 +38,6 @@ Referente al edificio del Museo una parte es bastante curiosa porque hay un tún
 
 Para llegar al Instituto de Arte de Chicago, si te encuentras por **Millenium Park** o **Grant Park** esta a minutos caminando, hay mapas informativos. En cambio si necesitas tomar el metro las estaciones Adams-Wabash, Monroe y Jackson-Dearborn son las más cercanas. Un buen número de atracciones esta a distancia caminable del museo.
 
-![Arte asiatico](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/06/305.JPG)
+![Arte asiatico](/images/2015/06/305.JPG)
 
 El lugar cuenta con muchas amenidades, y el acceso de la "ala moderna" (Modern Wing) con su puente gigante sobre el parque te lleva directo al **Cloud Gate** (el frijol cósmico gigante) para que continues tu visita en Chicago, que es una gran ciudad para conocer.

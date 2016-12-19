@@ -3,7 +3,7 @@ layout: post
 title: "Capadocia en auto"
 tags: planes turquia capadocia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-24-06-38-31.jpg
+image: /images/2015/05/2014-12-24-06-38-31.jpg
 ---
 Para explorar la región de **Capadocia**, decidimos rentar un auto (de hecho ya lo apartamos en línea en [economycarrentals.com](http://www.economycarrentals.com)) porque las distancias son algo lejanas y rurales. Es temporada de **posible nieve**, así que el reto será doble. Conducir con nieve o hielo (espero que no) y aparte tener que conducir en un país lejano con idioma que desconozco. Esto solo huele a aventura y éxito.
 

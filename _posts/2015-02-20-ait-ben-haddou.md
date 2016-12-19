@@ -3,23 +3,23 @@ layout: post
 title: "Ait Ben Hadu"
 tags: miniguia marruecos atracciones marrakesh marrakech
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_142220942.jpg
+image: /images/2015/02/IMG_20150104_142220942.jpg
 ---
 Ait Ben Hadu, es un tipo de poblado fortificado o **ksar**, que se ubica a unos kilometros de **Ouarzazate** (o Uarzazate según algunos) en [Marruecos](/tag/marruecos). Declarado **Patrimonio de la Humanidad** desde 1987. Es un punto interesante de conocer, que aunque no te lleva más que un par de horas verlo valé la pena el desvío.
 
-![Puente para pasar a Ait Ben Hadu](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_135755209.jpg)
+![Puente para pasar a Ait Ben Hadu](/images/2015/02/IMG_20150104_135755209.jpg)
 
 El lugar esta establecido en una colina a la orilla del río Ounila, donde los nativos **Berber** desde tiempos de las caravanas construyeron una comunidad conformada de casas tipo **kasbah**. Este tipo de edificación se realiza con barro y paja (arquitectura de tierra), por lo que regularmente son restauradas por que las lluvias comienzan a tumbar los muros. Todas estas edificaciones fueron protegidas por unos muros para protegerse de atacantes. En la cima de la colina se encontraba la parte más importante de la comunidad, el almacén de suministro. 
 
-![Interior Ait Ben Hadu](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/IMG_20150104_140524443.jpg)
+![Interior Ait Ben Hadu](/images/2015/03/IMG_20150104_140524443.jpg)
 
 La ciudad esta ausente de calles, puesto que todas las casas estan concentradas en un aglomerado con pasillos comunes con escaleras zigzagueantes. Aunque hay escasa información impresa en el lugar, la mayoría de los habitantes estan ofreciendo artesanías y antiguedades y proveen servicio de guía por un precio. La mejor vista, lógicamente, es hasta arriba donde se puede tomar buenas fotografías hacía las montañas hacía el mágico **Tizi n' Tichka**.
 
-![Muros destruidos mientras se sube](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_141729303.jpg)
+![Muros destruidos mientras se sube](/images/2015/02/IMG_20150104_141729303.jpg)
 
 En este sitio fueron filmadas diversas películas, incluso escenas de **Game of Thrones**. Por lo que se encontrara muchos habitantes con souvenirs de las filmaciones e información de cuales peliculas y escenas son del lugar. De hecho conocimos uno que había sido extra en la película **Gladiador**, y claro, se creía estrella de **Hollywood**. Restos de algunos sets son todavía visibles, aunque para ver más sets es mejor en los museos de Ouarzazate.
 
-![Vista en la cima](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/02/IMG_20150104_142220942.jpg)
+![Vista en la cima](/images/2015/02/IMG_20150104_142220942.jpg)
 
 * **Costo** - El lugar no tiene costo.
 * **Horario** - Es un lugar abierto con tiendas y hogares, por lo que dudo exista un horario.

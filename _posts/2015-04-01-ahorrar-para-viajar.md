@@ -3,7 +3,7 @@ layout: post
 title: "Ahorrar para viajar"
 tags: planes miniguia
 author: geo
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/ahorrar.jpg
+image: /images/2015/03/ahorrar.jpg
 ---
 Repasando los apuntes anteriores para [planifiación de viajes](/planeacion-de-viaje-101/) me di cuenta que estaba pasando por alto un punto importante de la planeación, que es el **ahorro**, y a menos de que seas rico y puedas disponer de la fortuna familiar para salir a [Europa](/tag/europa), debes considerar. Tenemos que aprender a ahorrar dinero, y si realmente lo deseamos también debemos aprender a sacrificar cosas innecesarias de nuestras vidas.
 
@@ -19,6 +19,6 @@ Para ahorrar no hay ningún secreto, no entiendo porque la gente gasta dinero en
 * **Entretenimiento** - Sin juzgar que haces en tu tiempo libre, pero si quieres ahorrar, deja de comprar videojuegos, deja de actualizar de iPhone, deja de comprar tanta ropa y accesorios inútiles para cualquier cosa. Tener muchas cosas no tiene sentido y solo te aleja bastante de lograr alguna meta, recomiendo por ejemplo esta entrada de [Mark Manson](http://markmanson.net/minimalism).
 * **Deudas** - En serio, primero paga cualquier deuda que tengas, antes de considerar ahorrar. Dar el pago mínimo o cualquier otra idea, simplemente te llevaran a malgastar tu dinero mes tras mes. 
 
-![Ahorrar](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/03/ahorrar.jpg)
+![Ahorrar](/images/2015/03/ahorrar.jpg)
 
 Considero que no puedo abarcar más en este artículo, pero al menos la idea que quiero exponer espero sea entendida. Es tu dinero, y tu sabes como lo gastas, pero si realmente quieres llegar a esa hermosa ciudad medieval, a ese increible espectaculo natural de cascadas o conocer esa exótica comida tan lejana de tus costumbres... entonces deja de gastar en cosas que no necesitas.
