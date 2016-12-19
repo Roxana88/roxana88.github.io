@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un día un Kobe"
+title: "Un día en Kobe"
 tags: japon osaka 2016 asia guiaciudad
 author: rox
 image: /images/2016/11/IMG_2429.JPG
