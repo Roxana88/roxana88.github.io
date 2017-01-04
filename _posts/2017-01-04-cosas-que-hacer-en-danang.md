@@ -20,7 +20,7 @@ Los fines de semana el puente se vuelve aún más increíble ya que alrededor de
 
 ![Puente por la noche](/images/2017/01/IMG_5911.JPG)
 
-![Esperando por el show](/images/2017/01/2016-01-30 20.24.49.JPG)
+![Esperando por el show](/images/2017/01/2016-01-30 20.24.49.jpg)
 
 ## Catedral de Danang
 
