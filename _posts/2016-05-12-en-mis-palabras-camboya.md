@@ -6,7 +6,7 @@ author: geo
 image: /images/2016/05/IMG_6973.JPG
 ---
 
-Cuando pensaba en el viaje, buena parte de mis deseos de aventura se concentraba en [Camboya](/tag/camboya). En una sucia y calurosa selva, entre ruinas, descubriendo los secretos arcanos de los jemer. Al más puro estilo de Tomb Raider. Claro que Rox estaba vestida de Lara Croft. Por supuesto que fue así, increíble Ankgor Wat y los demás templos “perdidos” en la espesas junglas del sur de [Asia](/tag/asia). Todo era emoción y misterio, con vegetación retomando las construcciones y monos salvajes robando botellas de agua. Emoción de un par de horas hasta que acepte que Camboya no fue lo que quería.
+Cuando pensaba en el viaje, buena parte de mis deseos de aventura se concentraba en [Camboya](/tag/camboya). En una sucia y calurosa selva, entre ruinas, descubriendo los secretos arcanos de los jemer. Al más puro estilo de Tomb Raider. Claro que Rox estaba vestida de Lara Croft. Por supuesto que fue así, increíble Angkor Wat y los demás templos “perdidos” en la espesas junglas del sur de [Asia](/tag/asia). Todo era emoción y misterio, con vegetación retomando las construcciones y monos salvajes robando botellas de agua. Emoción de un par de horas hasta que acepte que Camboya no fue lo que quería.
 
 ![Naga de la selva estilo Tomb Raider](/images/2016/05/IMG_6947.JPG)
 
