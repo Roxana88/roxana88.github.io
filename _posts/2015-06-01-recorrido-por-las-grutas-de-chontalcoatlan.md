@@ -13,7 +13,7 @@ Era 31 de diciembre del año [2009](/tag/2009) y recibir el año nuevo en un cam
 
 ![Caminando en busca de comida](/images/2015/05/P1020967.JPG)
 
-##Listos para la acción
+## Listos para la acción
 
 Habíamos contratado nuestro recorrido extremo por dos días con [Terra 3 Expediciones](http://www.t3expediciones.com/). El primer día íbamos a ir a unas grutas cerca de Cuernavaca en *Puente de Ixtla*. Teníamos que hacer rápel de 30 metros para llegar a la entrada de las *grutas* recorrer 2 kilómetros dentro y después escalar para salir a la humanidad. Después de haber visto películas como Taken, Misión Imposible y Rápido y Furioso estaba preparada para la acción.
 
@@ -25,7 +25,7 @@ Los primeros 10 metros de rápel fueron divertidos y fáciles. Estaban en pendie
 
 ![Sobreviví al rápel](/images/2015/05/Terra-3-Expediciones-23-1.JPG)
 
-##Recorrido por las grutas de Chontalcoatlán
+## Recorrido por las grutas de Chontalcoatlán
 
 Después de superar la sensación de quiero desaparecer y despertar en mi cama ya estaba lista para las grutas, ya había pasado lo más difícil ¿que tan difícil pueden ser las grutas? Me sentía un poco más relajada, era momento de disfrutar el viaje, empezamos a caminar por las grutas y era pura diversión hasta que mi cuerpo sintió la helada agua de la cueva ¡Oh Dios esta es la vida que escogí vivir! Lo difícil del agua helada es el primer contacto con tu cuerpo, ese contacto que te hace preguntar ¿por qué diablos pague para morir de hipotermia? Después de unos cuantos minutos el cuerpo se empieza a acostumbrar a las heladas aguas.
 

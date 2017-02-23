@@ -9,7 +9,7 @@ Cuando llevas mucho tiempo planeando un viaje siempre consideras cosas como *¿q
 
 Después de algunos viajes nosotros hemos aprendido algunas cosas que nunca podemos olvidar, si nos basamos en nuestros viajes estos son mis tips.
 
-##Lo que debes considerar antes del viaje.
+## Lo que debes considerar antes del viaje.
 
 * **Tener un escaneo de tus documentos en la nube.** Es importante tener un escaneo de tus documentos como el pasaporte y la visa, y subirlos a plataformas como **Dropbox** que te permita poder acceder a ellos en cualquier momento. 
 ![El primer lugar que visitamos fuera de México, Praga](/images/2015/05/DSC04660.JPG)

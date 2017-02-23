@@ -48,7 +48,7 @@ Ya estábamos cerca del triunfo trate de regular mi respiración y poner cara de
 
 Para llegar a la Barranca de Huentitán, hay que tomar la calle Belisario Dominguez hacia el norte, y no es broma, hasta donde acaba la calle. Habrá algunos terrenos donde te puedes estacionar por 10 pesos todo el tiempo y de ahi solo queda comenzar a caminar por los puestos para encontrar la entrada.
 
-##Actualización
+## Actualización
 
 Hoy. 20 de Septiembre del año [2015](/tag/2015), en pleno uso de mis facultades mentales decidí regresar a la Barranca de Huentitán. La esperanza era salir con la frente en alto y decir ¡lo logre! No podía vivir con la duda de ¿que habrá alla bajo? ¿será un tesoro y por eso cuenta tanto bajarla? ¿deberia cenar cheese burger? Era momento de tomar valor y regresar al lugar.
 

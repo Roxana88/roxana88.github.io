@@ -43,7 +43,7 @@ El Observatorio de **Rockefeller Center** se localiza en la calle 50 entre la Qu
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1261987471426!2d-73.979337!3d40.759249000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258fed6d19b35%3A0x8bb4f00308a37414!2sTop+of+the+Rock!5e0!3m2!1sen!2smx!4v1434636006054" class="embed-responsive-item" frameborder="0" style="border:0"></iframe>
 </div>
 
-##One World Observatory
+## One World Observatory
  
 Este es el observatorio más nuevo en Nueva York, y esta sobre la torre One World, que reemplazo a las **Torres Gemelas**, que ahora es el rascacielos más alto en la ciudad. El mirador se localiza en el piso 100 y aunque nuestra última visita si estuvimos por el **One World Trade Center** solo miramos las fuentes porque faltaban un par de meses para que lo abrieran. Nosotros estuvimos en Enero y lo abrieron a finales de Mayo de este año.
 

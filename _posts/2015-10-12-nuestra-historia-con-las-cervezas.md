@@ -21,13 +21,13 @@ Esta cerveza es un todo un icono en Nueva York. Cuenta la leyenda que si te toma
 
 ![¡Listos para beber!](http://i.imgur.com/IjxkVAO.jpg)
 
-##Pilsner Urquell
+## Pilsner Urquell
 
 Estando en [República Checa](/tag/republica-checa) sonaba una buena idea visitar el pequeño poblado de Pilsen, el cual por cierto está lleno de gitanos ansiosos de leer tu suerte a cambio de unas cuantas coronas. Las visitas guiadas a la cervecería en inglés salen cada hora y se supone que si reservar con tiempo puedes tener la visita en español. De todos las visitas guiadas que he tenido esta ha sido una de las más completas, te explican desde los ingredientes, el proceso, la historia, un video comercial y termina con una pequeña degustación de cerveza sin filtrar en la bodega subterránea ¡si tienen la oportunidad no lo piensen y visiten el lugar!
 
 ![Terminando el recorrido](http://i.imgur.com/lqYfrKO.jpg)
 
-##Samuel Adams
+## Samuel Adams
 
 La cervecería de Samuel Adams se encuentra en [Boston](/tag/boston) y las visitas guiadas salen cada hora, al igual que la visita guiadas de Brooklyn Brewery es gratis. En la visita te explican un poco de los ingredientes que utilizan y el proceso, de hecho pasan pequeños contenedores de lúpulo y malta. Te invitan a probar la malta, la plática del proceso dura alrededor de 20 minutos y después es momento de degustar. La parte final del recorrido incluye degustación de cuatro estilos diferentes donde te explican los sabores que deberías apreciar y un poco de la receta, el tour es muy completo y antes de marcharte puedes adquirir algunas botellas de reserva de 750 ml por solo $10 dolares. 
 
@@ -47,7 +47,7 @@ Estando en [Munich](/tag/munich) eso de conseguir una buena cerveza es como enco
 
 ![Disfrutando la comida y la cerveza HB](http://i.imgur.com/pa1M9JX.jpg)
 
-##La Rana Dorada
+## La Rana Dorada
 
 Imaginen que se encuentran de vacaciones y es alrededor de medio día, el calor en la calle es muy muy sofocante ¡perdida en las ardientes calles de Panamá! De repente cuando parece que estoy a punto de doblegarme veo un letrero con una de mis palabras favoritas *happy hour*. El destino lo había elegido era momento de visitar la Rana Dorada. 
 
@@ -65,7 +65,7 @@ Llegamos a la cervecería y por cuestión de 10 minutos no alcanzamos el ultima 
 
 ![Un poco de consuelo](http://i.imgur.com/U5RL9Yz.jpg)
 
-##Brew Dog
+## Brew Dog
 
 Visitamos [Londres](/tag/londres) a finales de diciembre una de las mejores épocas para conocer la ciudad ya que las calles están llenas de turistas y no tan saturadas. Parece que a los londeses les gusta descansar así que idearon varias celebraciones después de navidad con el fin de lograrlo tales como el *Boxing Day* y muchos lugares están cerrados. Después de planear por meses las visita se llegó el día de ir a Brew Dog, Geo llevaba una pequeña lista de las cervezas que quería probar. Estábamos listos para la degustación cuando llegamos y vimos que el lugar estaba cerrado y que por motivo de las celebraciones así permanecerá varios días ¡so sad!
 

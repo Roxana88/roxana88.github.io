@@ -5,7 +5,7 @@ tags: los-angeles 2014 america estados-unidos eua guiaciudad
 author: geo
 image: /images/2015/02/2014-09-16-12-13-31.jpg
 ---
-##Lunes 15 de Septiembre 2014
+## Lunes 15 de Septiembre 2014
 
 Estabamos algo hambrientos del día anterior que no habíamos cenado pesado sino solo comida chatarra, y el día anterior habíamos visto un lugar de esos que son como cafeterías sacada de hace decadas. Según eso desde 1924 de forma ininterrumpida abriendo 24/7. Su nombre **The Original Pantry Cafe** (877 S Figueroa St), y la verdad que no decepciono. Yo pedi los huevos con jamón, pero oh señor que jamón me dieron. Era como para alimentar a una familia completa. Rox se fue por los pancakes, que era como un kilo. Vale lo que cuesta por la cantidad de comida que te dan. No salimos victoriosos, lloramos con las papas hashbrown, en serio que si era mucha comida.
 
@@ -37,7 +37,7 @@ Cargados con souvenirs desde Hollywood y de Stone (también compramos cristaler�
 
 Después del cerdo, creo que la imagén se vuelve difusa. Dice Rox que hicimos algo más aquel día, yo lo dudo. La BBQ fue bastante buena, eso del *mac and cheese* es como el mejor acompañante. Recuerdo que un momento dado pasamos a *Starbucks* y me pareció buena idea comprarme un gran espresso. No dormi, quizás fue la indigestión, quizás la cafeína. Algo paso.
 
-##Martes 16 de Septiembre 2014
+## Martes 16 de Septiembre 2014
 
 Último día en la gran, pero realmente gran, ciudad de Los Angeles. Teníamos un largo día, pues saliamos en la noche para llegar a [Guadalajara](/tag/guadalajara) en la mañana. Mucho tiempo sin dormir, y más porque yo con el cafe de la noche pasada casi no logre dormir. Mala suerte por mi. Decidimos comer algo ligero, después de la locura anterior. Y como me dio flojera ir hasta el mercado, busque alguna cafetería. Caminamos unas dos o tres cuadras y llegamos a una cafetería pequeña, donde comimos un sandwich de huevo con tocino, nada espectacular, pero no malo. Corrimos de regreso al hotel, a recostarnos por última vez. El momento de la verdad iba a llegar, teniamos que entregar la habitación, y esperar que nos dejaran guardar las maletas, por unas horas... algo asi como todo el día de preferencia.
 

@@ -9,7 +9,7 @@ image: /images/2015/05/2015-01-03-17-32-10.jpg
 
 Empecé a buscar información acerca de los diversos tour que se ofrecían y existen muchas *opciones que se van adaptando a tu presupuesto y a la experiencia que deseas vivir*, en mi caso la opción elegida se baso en los comentarios de la gente que ya había tomado el tour la empresa  fue **Authentic Tours Marrakech**, dos días y una noche por 150€ por persona en ese momento parecía caro pero pues ya íbamos a andar por el rumbo.
 
-##Primer día de aventuras mágicas.
+## Primer día de aventuras mágicas.
 
 Era las 5:40 am cuando sonó el despertador nos bañamos, nos vestimos, tomamos las maletas, desayunamos un té y un  pedazo de pan hicimos el check out  y ¡boom! a las 7:00 am ya estábamos diciendo arre arre con nuestro guía llamado **Pancho Pantera**. Pancho nos pregunto que si hablamos español y nosotros le dijimos que si mientras el trataba de hablarnos  pero el español no era su fuerte, le comentamos que podía continuar en ingles y ¡oh sorpresa lo hablaba perfecto! entendía casi todo lo que decía mi problema siempre ha  sido más para hablarlo que para entenderlo. El guía disfrutaba de su trabajo si pasábamos por algún lugar de interés nos explicaba que era, por ejemplo el hotel donde se grabaron algunas escenas para la película **Sex and the city** y el palacio del actual rey **Mohamed VI**. La plática era interesante cuando nos informo que era momento de pasar por nuestros  compañeritos de aventuras mágicas. Esperamos como 15 minutos antes de que aparecieran y pidieron una disculpa por el retraso y yo solo pensé  *”mientras no sean así el resto del viaje no hay problema”*. Nuestros compañeros eran una pareja de Londres, ella se llamaba Matilda lo recuerdo porque inmediatamente hice una relación con la película, el nombre de él no lo recuerdo aunque es muy probable que fuera Chuy  *“de Londres ¿cuál puede ser el nombre común? pues el Chuy el Chuy ey era Chuy”*. No los aburriré con lo que paso después de que nos presentaron solo puedo decirle que recordé cuando en la escuela el maestro pedía que me pusiera de pie y me presentara con el resto del grupo así fue ni más ni menos.
 
@@ -44,7 +44,7 @@ Se acercaba el momento de subir a los dromedario pero antes de eso teníamos que
 
 ![Rox emocionada en el Castillo de Ouarzazate](/images/2015/01/2015-01-03-13-32-17.jpg)
 
-##Viaje hacia el campamento Berbere
+## Viaje hacia el campamento Berbere
 
 Llegaba el momento de montar el **dromedario**  y la sensación que sentía era entre nervios y emoción, según los comentarios de la gente que ya había tomado el tour lo mejorara *la experiencia de dolor después de haber montado el dromedario.* En fin el momento llego y cuando nos acercamos se veían diversos grupos de dromedarios grandes y yo solo pensaba ¿cómo logra subirme a uno? Aunque me dejaran el dromedario más pequeño seria todo un reto por mi estatura mido como 1.55 metros, creo que los nervios nublaron mi mente de tal manera que  no se me ocurrió pensar que lo más lógico era que acostaran al dromedario para que yo me pudiera subir y ya después se parara. 
 

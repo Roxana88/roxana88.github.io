@@ -23,7 +23,7 @@ Teníamos que empezar con las atracciones nuevas y tratar de entrar a todas las 
 
 ![Rox y su cerveza Universal Studios](/images/2015/02/2015-01-15-12-26-41.jpg)
 
-##Simuladores
+## Simuladores
 
 ###Terminator
 Habíamos planeado que nuestra primera parada seria el simulador de los Simpson, pero pasamos por el simulados de **Terminator** y o magia el tiempo de espera era solo de 10 minutos, por supuesto nos formamos. La atracción me gusto mientras estas esperando para entrar a la sala donde se lleva a cabo el show, ponen un video que te sirve de contexto para el show, el show es en 4D y algunos de los personajes principales hacen aparición en el escenario para darle mayor credibilidad al espectáculo. En total el espectáculo dura como 10 minutos y para ser el primero que veíamos nada mal y termina con *”I’ll be back”*.

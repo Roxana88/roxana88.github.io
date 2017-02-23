@@ -15,7 +15,7 @@ Caminamos hacia el malecón y quería comer mariscos era lo único que tenía cl
 
 ![Rox dándole la bienvenida a Vallarta](/images/2015/02/2013-06-01-13-13-35.jpg)
 
-##Paseo por el Malecón
+## Paseo por el Malecón
 
 ![Rox en tomando un poco de sol en el malecón](/images/2015/02/2013-06-01-15-27-59.jpg)
 
@@ -43,7 +43,7 @@ Creo que fueron todos los lugares que visitamos en el Malecón, sin duda les rec
 
 Dar un paseo el sábado por la noche es algo que tienen que hacer, el malecón se llena de opciones de comida barata ya saben hot dogs, crepas y esas cosas, Gente haciendo espectáculos como música y baile en vivo, justo lo que esperas de la zona turística un sábado por la noche ¡luces y acción!.
 
-##Cervecería Los Muertos
+## Cervecería Los Muertos
 
 Como dice el dicho “el que busca encuentra” y así fue como llegamos a la *Microcervecera de Los Muertos*,  la cual se encuentra ubicada en *Lázaro Cárdenas #302* muy cerca del Malecón. Si algo me gusta de las zonas turísticas es la famosa *happy hour*, no recuerdo exactamente cuál era la promoción del lugar pero cuando estas de paseo cualquier descuento es bien recibido. Recuerdo haber probado la stout de la casa y la IPA, pero como les comentaba en la playa prefiero las cervezas claras, en resumen me gusto más la IPA. Si les gusta la cerveza artesanal sin duda tienen que visitar esta cervecería ¡quién iba a decir que encontraríamos una microcerveceria en Vallarta¡.
 
@@ -55,7 +55,7 @@ Como elegimos quedarnos en Puerto Vallarta y cerca del Malecón no buscábamos u
 
 ![Huevos benedicto](/images/2015/02/2013-06-02-09-49-51.jpg)
 
-##Puerto Vallarta Vs Nuevo Vallarta
+## Puerto Vallarta Vs Nuevo Vallarta
 
 En Vallarta tienes dos opciones para tu hospedaje: puedes escoger un hotel dentro de las zona hotelera y disfrutar de las comodidades que un *todo incluido te ofrece* con la ventaja de que te queda cerca el malecón. O te puedes quedar en un hotel cerca del malecón si buscas pasar más tiempo en la calle que en el hotel y estas dispuesto a invertir para consumir los alimentos y bebidas fuera del hotel. Nosotros estamos acostumbrados a caminar, nos gusta conocer lo más que se pueda es por eso que solo pedíamos un hotel con alberca.
 

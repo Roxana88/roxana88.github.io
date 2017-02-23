@@ -21,7 +21,7 @@ No sé realmente que me causo la alergia pero sin duda volvería a comer todo lo
 
 ![De nuestras últimas fotos, el templo de Zeus](/images/2015/01/2014-12-18-08-39-24.jpg)
 
-##Precios en Atenas. 
+## Precios en Atenas. 
 La cuestión de los precios en los alimentos y bebidas es muy relativa de acuerdo a la zona donde las consumas, nosotros lo hicimos en su mayoría en las zonas turísticas y los precios son de Diciembre 2014 en euros.
 
 * Capuccino 3.5€.

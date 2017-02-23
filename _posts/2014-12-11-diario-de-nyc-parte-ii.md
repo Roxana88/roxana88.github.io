@@ -5,7 +5,7 @@ tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
 image: /images/2014/12/DSC09210.JPG
 ---
-##Lunes 24 de Diciembre 2012
+## Lunes 24 de Diciembre 2012
 El día de *Noche Buena*, despertamos temprano a caminar como locos varias cuadras sin sentido, gracias a **TripAdvisor**, para encontrar la cafetería **StumpTown**, que estaba por la Quinta y no por la Novena en el *hotel Ace*. El café era totalmente hipster, no quiero imaginar la versión original de **Portland**, tenía una decoración muy agradable, aunque la variedad de alimentos era casi nula, solo donas. Mientras que el café era bueno, pero no podría decir que tan especial como lo quieren vender.
 
 ![StumpTown](/images/2014/12/2012-12-24-09-40-56.jpg)
@@ -38,7 +38,7 @@ Creo que ese día terminamos el pub **Stout**, porque mi fabulosa cena navideña
 
 ![Felicidad navideña](/images/2014/12/DSC09245.JPG)
 
-##Martes 25 de Diciembre 2012
+## Martes 25 de Diciembre 2012
 El día de *Navidad*, como lo planeamos, iriamos temprano a **Chinatown**, esperando encontrar un poco de actividad, porque si estaba absurdamente vacía la ciudad. Tuvimos la idea de comer *dim sums* o alguna locura china para el desayuno, y llegamos a un mítico restaurante que era como el equivalente de changarro de menudo mexicano. No tenían dim sums, asi que optamos por los *noodles*, después de una épica batalla lingüística con el chino que atendía que no nos entendía nada, y nosotros tampoco a él. Yo pedí noodles con carne de res, todo tonto yo, y Rox con pato laqueado, que estaba bastante loco. Con el estómago lleno, caminamos sin rumbo por Chinatown, pero nos aburrimos fácilmente, no hay mucho que ver realmente, y cruzamos la avenida a **Little Italy**, e igual. Si no vas a comer o comprar alguna tontería en concreto, no vale la pena estar caminando por ahi, esta algo feo. O simplemente por que era muy temprano y día de navidad.
 
 ![High Line 10th Avenue](/images/2014/12/DSC09264.JPG)
@@ -51,7 +51,7 @@ Continuamos el camino por la Octava, creo, pasando por algunas tiendas, íbamos 
 
 ![Madison Square Park](/images/2014/12/2012-12-25-16-37-28.jpg)
 
-##Miercoles 26 de Diciembre 2012
+## Miercoles 26 de Diciembre 2012
 Temprano tomamos un rapido metro al [MET](http://www.metmuseum.org/) o **Museo de Arte Metropolitano**, que esta localizado en Central Park, la verdad que no tengo ya idea de que desayunamos ese dia, creo que una dona y café. El metro te deja en el museo de Historia Natural, así que hay que atravesar todo el parque para llegar. Descubrimos un teatro de niños o algo así, y unas curiosas estatuas de osos. Pero llegamos pronto pronto para no perdernos mucho tiempo. El Museo estaba bastante bien, habia un poco de locura sobre **Warhol** y el *arte japonés moderno*, con divagues que son más fáciles de entender en las fotografías. En general era un buen museo, muy grande y con obras clásicas como [Campo de trigo con cipré](http://www.metmuseum.org/collection/the-collection-online/search/436535?high=on&rpp=30&pg=1&rndkey=20141211&ft=*&who=Gogh%2c+Vincent+van%24Vincent+van+Gogh&pos=4) de Vicent van Gogh.
 
 ![Rox de metiche en las fotos](/images/2014/12/2012-12-26-12-52-46.jpg)

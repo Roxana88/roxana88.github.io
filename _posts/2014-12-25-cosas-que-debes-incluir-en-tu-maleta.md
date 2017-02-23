@@ -5,7 +5,7 @@ tags: planes miniguia
 author: rox
 image: /images/2015/01/IMG_20141223_211750.jpg
 ---
-#Medicinas
+# Medicinas
 Muchas veces la emoción del viaje nubla nuestra mente y le damos toda la importancia al que nos vamos a poner olvidándonos de pequeños detalles como *¿Que tal si me enfermo?* Es cierto que los medicamentos los encontrarás en cualquier lugar pero es más práctico y barato llevar lo siguiente solo por si las dudas:
 
 * Pepto o algo para el malestar estomacal, nunca sabes cómo reaccionaras a la comida del lugar.
@@ -18,7 +18,7 @@ Creo que con eso sobrevivirán. En mi caso padezco de colitis por lo cual siempr
 
 ![El medicamento que siempre llevo en la maleta.](/images/2014/12/IMG_20141223_211646.jpg)
 
-#Belleza
+# Belleza
 
 A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos normalmente, para este viaje *conseguí botes pequeños 120 ml.* aproximadamente donde agregue lo siguiente:
 
@@ -32,7 +32,7 @@ A la mayoría nos encantaría llevarnos todo los cosméticos y cremas que usamos
 
 ![Los recipientes pequeños para llevar mis productos de belleza](/images/2015/01/IMG_20141223_211750.jpg)
 
-#Artículos varios
+# Artículos varios
 
 Estas cosas en su momento no las tome en cuenta y después por necesidad termine comprandolas.
 

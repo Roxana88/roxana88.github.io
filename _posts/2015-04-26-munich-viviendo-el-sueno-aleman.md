@@ -7,7 +7,7 @@ image: /images/2015/04/DSC05593.JPG
 ---
 Cuando me imaginaba [Alemania](/tag/alemania) la primer imagen que aparecía en mi mente es la del **Oktoberfest** ¿sería cierta la capacidad que tanto presumen de los alemanes para tomar cerveza? ¿Vería a mujeres cargando hasta cinco tarros enormes de cerveza? ¿Será cierto que la cervezas con los embutidos alemanes sabe mejor? Cuanto este tipo de preguntas se cruzan una y otra vez por tu cabeza es difícil continuar con tu día a día, solo quedaba una solución teníamos que visitar Alemania.  Así fue como decidimos conocer **Munich** en nuestro primer viaje por [Europa](/tag/europa/) *”Willkommen in München (Bienvenidos a Munich(”*. 
 
-##Un paseo por Munich
+## Un paseo por Munich
 Llegamos alrededor de medio día así que dejamos las maletas en el hotel y era momento de buscar diversión, sabíamos cual era el objetivo así que empezamos a caminar hacia el. Hacía frío pero era bastante soportable así que caminar dos kilómetros no sonaba descabellado, la primera escala era el **Centro Histórico**. 
 
 ![Siendo turistas en  Marienplatz](/images/2015/04/DSC05431.JPG)
@@ -21,7 +21,7 @@ Si vas caminando por **Marienplatz** que es la calle principal te encontrarás c
 
 ![Reloj de Neues Rathaus mejor conocido como “glockenspie”](/images/2015/04/DSC05435.JPG)
 
-##Restaurante Hofbräuhaus
+## Restaurante Hofbräuhaus
 Famoso por su cerveza la cual seguramente han visto en los súper mercados y la ubique mejor como la **cerveza HB**. Se estaba haciendo tarde y queríamos comer así que nos dirigimos a este lugar, lo primero que ves al entrar es meseras vestidas con los famosos trajes de **Oktoberfest**, lo segundo que aprecias es que realmente cargan tarros enormes de cerveza. 
 
 ![Geo llegando a las tierras prometidas de HB](/images/2015/04/DSC05472.JPG)
@@ -29,7 +29,7 @@ Famoso por su cerveza la cual seguramente han visto en los súper mercados y la 
 *Los alemanes son personas muy alegres o tal vez borrachas* no lo se bien ya que la mayoría que se encontraban en grupos de amigos estaban cantando, *por primera vez un lugar era tal cual me lo había imaginado.* Nos llevaron la carta y el único tamaño del tarro de cerveza era *tamaño alemán* (de un litro), lo popular del lugar según los comentarios de **TripAdvisor** era pedir el *una variedad de salchichas alemanas acompañadas de sauerkraut (col agria) con una orden de pretzels*. Somos buenos leyendo recomendaciones así que eso pedimos y la verdad no me arrepiento.
 ![Rox viviendo el sueño Alemán](/images/2015/04/DSC05481.JPG)
 
-##Cervecería Erdinger
+## Cervecería Erdinger
 Al siguiente día continuaremos con la ilusión de **vivir el sueño alemán** así que decidimos tomar un tren local a **Erding** y conocer la **cervecería Erdinger** que se encontraba a 40 minutos de Munich. Llegamos a la estación del tren de Erding y empezamos a caminar en busca de información que nos guiará a la cervecería, por un momento me sentía como en *Pilsen en [República Checa](/tag/republica-checa/)*. Caminando en busca de visitas guiadas a la cervecería, las calles estaban solas, caminamos alrededor de 15 minutos sin éxito y no encontrábamos a quien preguntarle como llegar a nuestro destino. 
 
 Por fin en una parada de camión le preguntamos a un chico como llegar, no solo nos explico como hacerlo si no que además nos pagó el camión que extrañamente era el que el estaba esperando, quiero pensar que lo hizo en un acto de buena fe *(aún tengo todos mis órganos)*. 

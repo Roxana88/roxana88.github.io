@@ -17,7 +17,7 @@ Como comento Geo en su post [2016](/2016/) la ruta para nuestra primera visita a
 
 Esto de los viajes es una cosa adictiva mientras más lugares visitas, percibes lo grande que es el mundo y lo mucho que te falta por conocer. Conocer realmente el alma y la cultura es algo gratificante es algo a lo que le llamó salir de la rutina. Si cuando viajamos a [Estados Unidos](/tag/estados-unidos/) me explota la cabeza cada que visitamos Chinatown ¡Dios se apiade de mi alma en las tierras de gran Pikachu come noodles! Aún no se si espero más del paisaje o de la comida solo que será un gran viaje, siempre me ha parecido interesante la cultura asiática creo que será una experiencia totalmente nueva.
 
-##Mis expectativas
+## Mis expectativas
 
 * Lo que espero de **Japón** es poder ver uno de esos shows llenos de robots y chicas con luces de LED algo me dice que eso es divertido al menos **Bourdain** lo parece en sus programas. Con suerte encontrar un traje de Pikachu y podre caminar por las calles sin ser juzgada de loca mientras como un poco de sushi y digo *arigato*. 
 

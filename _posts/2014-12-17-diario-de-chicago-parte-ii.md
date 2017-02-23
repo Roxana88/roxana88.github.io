@@ -5,7 +5,7 @@ tags: 2013 estados-unidos chicago america guiaciudad atracciones museos
 author: geo
 image: /images/2014/12/2013-09-15-13-03-04.jpg
 ---
-##Domingo 15 de Septiembre 2013
+## Domingo 15 de Septiembre 2013
 
 Anduvimos desde temprano intentando llegar a **John Hancock**, pero llovía y estaba muy nublado. Intentamos perder tiempo en *Macy’s* pero nos resignamos a subir a la torre a pesar del clima. El sujeto del mostrador nos dijo que no estaba tan mal el clima, que si veríamos buena parte de la ciudad. Le crei, no teniamos más. A diferencia del **Skydeck**, este mirador estaba vacío, y no tenía la diversión de las cajas de cristal. Pero si tenía un lado como sin ventanas que te permite sentir el aire loco a esas alturas, lo cual era cool. El clima permitía ver unas cuantas cosas, pero como que si el mirador anterior era por mucho mejor.
 
@@ -22,7 +22,7 @@ Recorrimos una buena parte desde el muelle hasta el tren, muchas cuadras de locu
 
 Como estábamos lejos del **Loop**, preferimos regresarnos no *tan* ebrios y descansar un poco, porque el día siguiente partíamos de regreso a **Guadalajara**.
 
-##Lunes 16 de Septiembre 2013
+## Lunes 16 de Septiembre 2013
 
 La última mañana en Chicago, tenía que ser especial y Rox tenía ganas de sentir el poderío americano en forma de un desayuno digno, la sugerencia fue **Wildberry Pancakes** que estan a pocos pasos del **Cloud Gate**, lo cual no quedaba nada lejos del hotel. Rox sabía a lo que iba y escogio un brutal plato de *pancakes* con mucha mermelada y crema, estaba muy bueno, pero si era ofensivo a la salud. Yo como no gusto de tanto dulce en la mañan preferi unos huevos *Benedicto* que estaban deliciosos.
 

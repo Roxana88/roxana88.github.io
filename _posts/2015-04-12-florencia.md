@@ -13,7 +13,7 @@ Tal vez cuando piensen en *Florencia* lo primero que se les vendrá a la mente e
 
 ![Callejones de Florencia](/images/2015/04/DSC06330.JPG)
 
-##Miradores en Florencia
+## Miradores en Florencia
 No hay mejor manera de conocer una ciudad que visitando algún mirador, en el caso de Florencia cuenta con dos miradores importantes. *Piazzale Michelangelo o Plaza Miguel Angel* y *Cattedrale di Santa Maria del Fiore o Catedral de Santa Maria de la Flor*.
 
 * Piazzale Michelangelo. Si lo que buscas es una vista panorámica de Florencia esta plaza es el lugar indicado puedes apreciar cualquier parte de la ciudad. Para llegar a este punto de la ciudad existen dos forma la más popular en carro o camión, pero si te sientes joven y lleno de energía te puedes ir caminando.  Caminar hasta perder la respiración ya que si es un poco cansada la subida pero la vista es muy panorámica y claro que obtendrás una recompensa *sin duda ese tipo de ejercicio extreme justificaba toda la pasta, pizza y gelatos que comería en mi estancia*. 
@@ -27,7 +27,7 @@ No hay mejor manera de conocer una ciudad que visitando algún mirador, en el ca
 
 ![Vista desde la Catedral](/images/2015/04/DSC06556.JPG)
 
-##Lugares a visitar en Florencia
+## Lugares a visitar en Florencia
 En nuestra primera visita a [Europa](/tag/europa/) no contábamos con más de tres días para conocer una ciudad, sin embargo gracias a la [planeación](/tag/planes/) que habíamos hecho logramos visitar las atracciones más importantes de cada ciudad. La ventaja en Florencia es que las distancias son cortas y la mayoría de los puntos turísticos se encuentran cerca.
 
 * Piazza del Duomo o Plaza de la Catedral. En esta plaza se encuentran varios edificios emblemáticos de Florencia, se encuentra en el centro histórico y es uno de los lugares más visitados. Si te gusta y sabes de arquitectura es una visita obligada. Cerca de esta plaza puedes aprovechar para visitar la siguientes atracciones. 

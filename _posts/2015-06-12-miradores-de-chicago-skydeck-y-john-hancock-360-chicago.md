@@ -11,7 +11,7 @@ Cuando se visitan grandes ciudades que cuentan con un *skyline* disfrutable, int
 
 Ambos son muy buenos, y si compras el [CityPASS](/citypass) vienen incluidos. Y como consejo visitar uno en la mañana con buena luz, y otro al atardecer o en la noche. Así disfrutas mejor la vista de la ciudad como cambia y puedes tomar unas buenas fotos de la puesta de sol en las alturas. Que mucha gente lo hace, así que puede estar un poco lleno en ese momento.
 
-##Skydeck
+## Skydeck
 
 Skydeck esta localizado en la **Torre Willis** (antes conocida como la Torre Sears, porque ahi estaba la marca) que con sus 527 metros de altura ha estado entre los edificios más alto de [América](/tag/america) y el mirador se localiza en el piso 103. Subir el elevador esta increíble por que tarda realmente muy poco a la distancia que se eleva, si te da un poco de miedo y fascinación ver como el tablero indicando el piso cambia tan rápido.
 
@@ -31,7 +31,7 @@ Los horarios son: Abril a Septiembre de 9 de la mañana a 10 de la noche y de Oc
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5941.325746720417!2d-87.63682393378886!3d41.87859927000601!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcf09307f0945d4fd!2sSkydeck+Chicago!5e0!3m2!1sen!2s!4v1434116135239"  class="embed-responsive-item" frameborder="0" style="border:0"></iframe>
 </div>
 
-##John Hancock (360° Chicago)
+## John Hancock (360° Chicago)
 
 El edificio **John Hancock Center** es donde se hospeda el observatorio 360° Chicago que se localiza en el piso 94. La torre mide 459 metros. Aún así la vista es incréible, y creo que solo por las cajas de cristal recomendaría más el Skydeck, de lo contrario no podría escoger uno.
 

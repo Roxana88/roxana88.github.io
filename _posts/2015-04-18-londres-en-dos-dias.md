@@ -11,7 +11,7 @@ Ya saben que en navidad siempre nos llenamos de buenos deseos y ganas de compart
 
 Lo bueno es que el día 26 la mayoría de los locales de **fast food** y algunos **pubs** ya se encontraban abiertos. Como les comenta Geo en su post de [Turismo cervecero](/turismo-cervecero/) siempre que tenemos oportunidad visitamos pubs y cervecerias. Los londinenses empezaron a salir de sus casas en busca de **fish and chips**, el transporte público ya estaba funcionando y algunas de las principales atracciones turísticas ya estaban abiertas **let's get the party started**. 
 
-##Principales atracciones
+## Principales atracciones
 
 Visitar las principales atracciones de los lugares siempre implica un gasto y nosotros siempre buscamos economizar, es normal que utilicemos sistemas avanzados como *las hojas de cálculo de Excel* para hacer nuestros presupuestos. Las principales ciudades cuentan con una especie de cuponeras que compras en línea y te incluyen la entrada a ciertos atracciones sin costo y en fila preferente así como el descuentos en varios lugares, nosotros hemos usado el [CityPass y en este viaje el London Pass](/citypass/). 
 

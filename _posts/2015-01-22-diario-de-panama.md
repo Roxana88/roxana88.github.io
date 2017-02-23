@@ -5,7 +5,7 @@ tags: 2014 america panama latinoamerica guiaciudad
 author: geo
 image: /images/2014/12/2014-05-16%2013.53.16.jpg
 ---
-##Viernes 16 de Mayo 2014
+## Viernes 16 de Mayo 2014
 Primer escape a **Latinoamérica**, tocando la cosmopolita ciudad de **Panama**, al menos eso creía. Un vuelo por medio de *Copa Airlines* de unas 4 horas, bastante tránquilo sin contratiempos en el aeropuerto de **Guadalajara**, y aterrizando en el distante aeropuerto de **Tocumen**, después de a ver visto en las alturas una costera ciudad llena de edificios y puertos. Se veía muy bien, como que las ciudades al lado de una gran masa de agua me gustan más, ya sea bahía, mar, río o lago. Pena que en Guadalajara no tengamos algo así.
 
 Migración fue rápido y *cool*, sin visa ni nada, bienvenidos en el hermoso país de Panama. Como sabía que el aeropuerto estaba lejos de la ciudad, o al menos de nuestro hotel, fuimos directo a un taxi. Cosa poco convencional para nosotros que buscamos alternativas. El taxista fue amable y nos explico un poco lo de la moneda, que yo sabía que era dolar americano, pero resultaba que todavía manejaban **Balboa** pero solo en moneda no en billete, pero con la misma paridad que el USD. Pasamos algunas autopistas y por fin llegamos a una zona con muchos edificios y la torre **Trump** de fondo junto al mar.
@@ -64,7 +64,7 @@ De regreso al hotel, fuimos por viveres. Lease agua en cantidades industriales, 
 
 Escogimos un mezza, que básicamente es un monton de pequeñas porciones para compartir al centro. Claro con mucha cerveza. Nos dieron *baba ganoush* (pure de berenjena asada), *hummus* (pure de garbanzo y ajonjoli), pan, y demás delicias, pero lo mejor era la deliciosa paprika que tenían. Le dije de broma a Rox, que si la cambiaba por un costal de esa paprika. A ella no le agrado la broma.
 
-##Sábado 17 de Mayo 2014
+## Sábado 17 de Mayo 2014
 
 El clima estaba bastante agradable, y después de tomar el desayuno en el hotel, pasamos a la alberca. Otro gran punto en este hotel por cierto, su desayuno buffet era bueno. La vista a la ciudad desde la alberca justificaba el quedarnos remojando un rato sin ir a pasear. Por supuesto que fuimos a conocer, pero con el sol de Mayo en el casi **Caribe**, era dificil decir no a la alberca. Sumale unas deliciosas cerveza Panama y una botanita que compramos el día anterior en el super. Imposible.
 

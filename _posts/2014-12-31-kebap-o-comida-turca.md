@@ -7,7 +7,7 @@ image: /images/2014/12/IMG_20141220_183732744.jpg
 ---
 La gastronomía turca es basta, no tan compleja como podría imaginar al principio pero muy rica en esencia. El Kebab o kebap, no se como definirlo porque desde el durum (burrito o wrap) al tasti (cazuela de barro) era llamado kebab. 
 
-##Desayuno
+## Desayuno
 En [Turquía](/tag/turquia) tienen una especie de desayuno base, el *chay* (te negro turco) y el **simit** (un pan en forma de dona variado en tamaño). Es lo más barato que puedes comer, no te llenas pero es algo. Ya si te vas a sentar, al dúo le agregan unos jitomates y pepinos crudos, un poco de yogur y miel. Es el siguiente paso en desayunos básicos. 
 
 Aunque hay una variante al simit, que es el **borek**, es una masa húmeda en capas con queso como lasaña, con o sin relleno; este podía ser espinacas, queso o carne molida. Los turcos aman su carne molida a lo que vi. 
@@ -22,7 +22,7 @@ El pastrami, como nota aparte, es un embutido de res comprimida con millones de 
 
 Del café, si encontramos americano bien, era sabroso y con cuerpo. Si era tipo turco, mejor pedía chay. Ya en la entrada de Grecia describía mi odio al café local que te sirven con todos los sedimentos. Imposible. 
 
-##Kebab
+## Kebab
 
 Variedades locas. Comencemos con el **doner durum**, donner es carne de trompo a lo que entendí y durum la tortillota. Es como un shawarma o taco  árabe. No siempre buenos por que te ponen mas verduras que carne. Bueno en general siempre era mínima la carne, y esta por regla era res y pollo, y a veces cordero. Nada de cerdo, esto es comida para musulmanes también. 
 
@@ -38,7 +38,7 @@ Finalmente una mención especial era el trompo vertical, de nombre kokorek, ¿qu
 
 ![Trompo místico](/images/2014/12/IMG_20141220_183732744.jpg)
 
-##Curiosidades
+## Curiosidades
 
 Muchos restaurantes en [Estambul](/tag/estambul) presumían comida clásica de Anatolia, para los despistados Anatolia era la vieja Turquía. Así como decir comida prehispánica en México. Los platillos de especialidad, fuera de los mil kebap, eran carnes varias con salsas más o menos. Rox probó unos envueltos de albóndigas de cordero en berenjena y jitomate, con salsa roja condimentada. Yo opté por el pollo al estilo de Sultán, que era bañado en una salsa cremosa con mucho cúrcuma. No fue ni la mejor ni la peor comida. 
 

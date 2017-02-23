@@ -9,7 +9,7 @@ image: /images/2015/02/IMG_20141005_132720.jpg
 
 He visitado el DF dos veces con una diferencia de 3 años en cada visita. El desarrollo de la ciudad es impresionante. Les puedo decir que podrían pasar más de una semana en el lugar y no se aburrirían, simplemente está lleno de actividades por realizar independientemente de los intereses que tengan. En nuestro caso nos inclinamos un poco a la comida y bebida claro sin dejar del lado la cultura. En este articulo les hablare de los museos y miradores que visitamos en ambos viajes.
 
-##Miradores
+## Miradores
 Independientemente de la ciudad que visite siempre gusta ir a los miradores *nada como apreciar la contaminación desde las alturas*. Uno de los miradores más importantes de DF es **la Torre Latinoamérica** te ofrece una hermosa vista panorámica de la ciudad, el costo según los últimos comentarios que vi en *TripAdvisor* es de $80 pesas más $20 si quieres visitar el museo. La vez que fuimos solo visitamos el mirador y el día estaba un poco nublado pero aún así lo disfrutamos bastante.
 
 ![Vista desde la Torre latinoamericana en la ciudad de México](/images/2015/01/DSC01541-2.JPG)
@@ -19,7 +19,7 @@ En nuestra última visita descubrimos un mirador que aun que no te ofrece una vi
 
 ![Vista desde el café de la gran ciudad en el DF](/images/2015/01/2014-10-06-17-36-03.jpg)
 
-##Museos
+## Museos
 Si viajan al DF en un fin de semana les encantara saber que la mayoría de *los museos tiene entrada libre los días domingo*. Por esta razón en nuestro último viaje decidimos hacer un recorrido maratónico y visitar la mayor cantidad de museos el día domingo, recuerdo que me levante muy temprano con cara de cruda ¡nada como visitar museos para bajarte la cruda!. La idea era caminar hasta que ya no pudiéramos más y aprovechar el dinero ahorrado para hidratarnos con cervezas por la tarde ¡si básicamente ese era el objetivo!. Los museos que hemos visitado en ambos viajes fueron los siguientes:
 
 * El *Palacio de Bellas Artes*. Si vas el domingo  lo único que tienes que pagar es el permiso para *tomar fotografías*. Este recinto representa la máxima expresión de cultura dentro de la ciudad y para comprobarlo basta con apreciar los murales pintados por los muralistas más reconocidos de México entre ellos *Diego Rivera*. La arquitectura del lugar también es impresionante está llena de detalles que lo convierten en un lugar único tanto en su interior como en su exterior. De día vale la pena visitar el interior para a preciar los murales y la arquitectura, si tienen oportunidad les recomiendo que también lo visiten de noche ya que la iluminación les permitiera sacar hermosas fotos, sin duda *¡tienen que visitarlo!.* [Sitio web del Palacio de Bellas Artes](http://www.palacio.bellasartes.gob.mx/)

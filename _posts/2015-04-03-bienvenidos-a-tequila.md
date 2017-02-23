@@ -5,7 +5,7 @@ tags: tequila guadalajara jalisco mexico miniguia guiaciudad latinoamerica
 author: rox
 image: /images/2015/04/2013-11-02-15-15-52.jpg
 ---
-##Vamos a Tequila ¡oh oh oh!
+## Vamos a Tequila ¡oh oh oh!
 
 Cuando Geo y yo amanecemos cansados de tanta fama y tanto exito decidimos escaparnos a un lugar cerca de [Guadalajara](/guadalajara-centro-historico), después nos acordamos que no somos famoso o exitosos pero igual seguimos con ganas de tomar carretera y visitar un lugar para *salir de la rutina*.
 
@@ -25,7 +25,7 @@ Para llegar a Tequila desde Guadalajara tienes tres opciones, bueno en realidad 
 <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d238740.1191472882!2d-103.75170155483214!3d20.778566328869417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0x8428b1faa928f63f%3A0x25dcb2cdab10691a!2sGuadalajara+Cathedral%2C+Zona+Centro%2C+Guadalajara%2C+Jalisco%2C+Mexico!3m2!1d20.677034!2d-103.34698399999999!4m5!1s0x842614da2b81b26f%3A0x38c2cd8e73684f12!2sTequila%2C+Mexico!3m2!1d20.8819452!2d-103.83250009999999!5e0!3m2!1sen!2s!4v1428097241656" class="embed-responsive-item" frameborder="0" style="border:0"></iframe>
 </div>
 
-##Ya llegamos ¿y luego?
+## Ya llegamos ¿y luego?
 Tequila es considerado un *pueblo mágico*. Según la leyenda después de unos cuantos *caballitos de tequila* terminas viendo actividades paranormales y unicornios. Claro que este nombramiento hace que cuando la gente visita Guadalajara quiera conocer este hermoso lugar (mentira es por el tequila). Es un pueblo pequeño pero encantador, entre las actividades que puedes realizar estan dar un tour por alguna tequilera y visitar algunos museos. 
 
 ###Centro histórico

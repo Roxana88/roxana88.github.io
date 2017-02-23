@@ -7,7 +7,7 @@ image: /images/2015/03/2014-05-20-18-00-29.jpg
 ---
 Estaba emocionada por visitar [Colombia](/tag/colombia), es la primera y única playa que hemos visitado en Latinoamerica (fuera de de las mexicanas) y lo que más me agradaba que saldríamos del país y llegariamos a hablar español. Antes de  llegar a Cartagena pasamos algunos días en [Panamá](/diario-de-panama-parte-ii/) donde tomamos un tour al canal y realizamos algunas actividades extremas. *Quitando el peligro de ser devorado por un cocodrilo* ¡de las mejores experiencias que he vivido! El plan era simple pasar unos días en Cartagena para relajarnos. Cuando pienso en la playa me imagino un clima agradable, mariscos y cervezas lager ¡eso es lo que pido! Después recuerdo que el sol me hace daño y termina irritando mi piel ¡el precio de la fama!.
 
-##Nuestra llegada 
+## Nuestra llegada 
 El vuelo fue tranquilo y para pasar migración fue algo lento. Al igual que en la mayoría de las ciudades de México en Cartagena no cuenta con muchas opciones de transporte para salir del aeropuerto, era un hecho tendríamos que tomar un taxi. Habíamos leído en **WikiTravel** que cuando los taxistas ven turistas suelen dar precios elevados pero que es normal y funciona el **regatear en el precio** (pedir un mejor precio). Y así fue de 10 mil se bajaban a 6 mil pesos colombianos. 
 
 *Recuerdo a Geo con su acento sureño diciendo “Eh amigo cuanto eh lo meno.”* Estrategia altamente efectivo. Para nuestra estancia decidimos quedarnos en el hotel **Hampton Inn**, lo que más me gustó fue la alberca, se encuentra en el piso 14 o algo así y la vista que tiene es hermosa. Si le sumas la ubicación y el precio es una excelente opción de hospedaje en Cartagena.
@@ -16,7 +16,7 @@ El vuelo fue tranquilo y para pasar migración fue algo lento. Al igual que en l
 
 ![Nosotros de delfines ¡ajá!](/images/2015/03/2014-05-23-12-14-54-1.jpg)
 
-##Ciudad Amurallada
+## Ciudad Amurallada
 
 Se podria decir que Cartagena está divida en dos secciones, la zona hotelera y la ciudad amurallada o centro histórico. La ciudad amurallada cuenta con grandes y gruesas murallas que la respaldan y en su momento sirvieron para protegerla de los atracos (esos piratas eran unos loquillos). Fue la primera muralla que vi al lado de la playa ¡una vista espectacular! Las calles me recordaron un poco a las calles del estado de [Guanajuato](/tag/guanajuato) en [México](/tag/mexico) pero con playa. 
 

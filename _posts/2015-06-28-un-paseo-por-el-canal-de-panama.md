@@ -9,7 +9,7 @@ Fue en Mayo del [2014](/tag/2014) cuando decidimos que era un buen momento para 
 
 ![La Rana Dorada dándole la bienvenida a Geo](/images/2015/06/2014-05-16-12-09-24.jpg)
 
-##Un paseo por el canal de Panamá
+## Un paseo por el canal de Panamá
 
 Una de las cosas que había visto antes del viaje era dar un paseo por el canal y disfrutar de diversas actividades como un paseo en kayak, visitar las cascadas y conocer a los monos capuchinos en su hábitat. Así fue como terminamos convencidos de tomar el tour de un día con **Jungle Land Panamá**. Realmente me convencieron porque en su sitio parecían buenas personas que disfrutaban de lo que hacían.
 
@@ -19,7 +19,7 @@ Pasaron por nosotros al hotel alrededor de las 8:00 am, aún recuerdo que el dí
 
 ![El canal de Panamá](/images/2015/06/2014-05-18-09-46.jpg)
 
-##Isla de los monos
+## Isla de los monos
 Llevábamos cerca de 15 minutos en el recorrido y la sensación de miedo había desaparecido la lancha se sentía bastante segura y según el guía estábamos cerca de llegar a la **Isla de los Monos**. Cuando escuchaba hablar de la isla de los monos me imaginaba que pararíamos en una isla llena de monos, ya saben monos cocineros, monos vendedores ambulantes, monos, monos por todos lados con miles de oficios.
 
 ![El primer mono del tour que según el guía se llamaba Chuy o algo así](/images/2015/06/2014-05-18-10-05.jpg)
@@ -38,7 +38,7 @@ Continuamos con el tour y era momento de ver a otro mono, **el mono tití** no s
 
 ![Mono tití en el canal de Panamá](/images/2015/06/2014-05-18-11-32.jpg)
 
-##Momento de comer
+## Momento de comer
 El lugar donde comimos era una casa flotante de tres pisos en medio de la nada, según el itinerario comeríamos reposaríamos la comida y continuaremos con actividades como el kayak que sería un recorrido de 30 minutos para llegar a una cascada, un poco de juego en la cascada y de vuelta a Panamá. La comida sería un platillo típico de Panamá esperaba probar algo nuevo ya que lo único panameño que había probado eran los patacones, nos dieron una especie de **tamal**, arroz, ensalada y carne. 
 
 Nos sentamos a comer con una joven pareja de [New York](/tag/new-york). La chica era italo-americana y el chico era de Jamaica, eran amigables así que la plática se dio fácil. 

@@ -9,7 +9,7 @@ Viena es la capital de **Austria** donde solo estuvimos alrededor de 36 horas pe
 
 ![El angel de la verguenza](http://imgur.com/kJtLt2E.jpg)
 
-##Primeras horas en Viena
+## Primeras horas en Viena
 
 Llegamos a Viena por la noche y lo único que alcanzamos a hacer era dar un pequeño recorrido por el centro de la ciudad, como era Enero aún conservaban parte de la *decoración navideña*. El centro de la ciudad, conocido como **Stephansplatz**, estaba adornado con unos enormes candelabros y los aparadores aún conservaban el espíritu navideño.
 
@@ -31,7 +31,7 @@ Era momento de regresar al hotel pero antes necesitábamos bajar nuestros nivele
 
 Así fue como aprovechamos nuestras primeras horas en Viena, el itinerario para el día siguiente ya estaba planeado *conocer el Palacio Schönbrunn de Viena*.
 
-##El Palacio Schönbrunn de Viena
+## El Palacio Schönbrunn de Viena
  
 Recuerdo que desperté y lo primero que hice fue asomarme a la venta, descubrí un paisaje que nunca antes había visto *las calles cubiertas de una gruesa capa de nieve*. Quería salir lo más pronto posible, tendría que intentar todos los *clichés de nieve, ya saben aventar una bola, hacer un angelito y poner cara de loca mientras caminaba por la nieve. Desayunamos en una cadena de panaderías (**Ströck**) que se encontraba en la estación de metro, de los mejores panes que he probado simplemente eran deliciosos y recién horneados.
 

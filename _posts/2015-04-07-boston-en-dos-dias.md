@@ -9,7 +9,7 @@ Inicialmente habíamos planeado una visita de tres días a Boston pero no sabía
 
 Después de recordar y llorar un poco, es momento de continuar con el post. Dos días era poco, pero esperabamos lograr caminar como locos hasta visitar todo lo que teníamos planeado. Claro cuando pienso las cosas siempre suenan bien y viables, *no contaba con el frío infernal al que nos enfrentariamos -13 grados centígrados* ¿que es lo peor que podría pasar? Que me quedara tirada y le gritara a Geo “Salvate tu”. **Challenge accepted**.
 
-##48 horas
+## 48 horas
 Tomamos un vuelo de *Houston a Boston*, llegando a nuestro destino alrededor de las 10:00 am. Si algo me encanta de visitar [Estados Unidos](/tag/estados-unidos) es la infraestructura del transporte público al menos en las ciudades turísticas. Salimos del aeropuerto y tomamos el **Logan Express** que de manera *gratuita te lleva a la estación del metro*. Una vez en la estación del metro, optamos por compra el pase de viajes ilimitados por 24 horas ya que como no teníamos mucho tiempo era necesario movernos en transporte público.
 
 ###Cerveceria Samuel Adams
@@ -43,7 +43,7 @@ Conforme empezaba a oscurecer el frío se hacía cada vez más presente y que de
 
 ![No podía abandonar Boston sin mi foto de Chinatown](/images/2015/04/2015-01-08-12-14-06.jpg)
 
-##Menos de 24 horas
+## Menos de 24 horas
 
 En la historia de Estados Unidos, Boston juega un papel muy importante ya que es donde inició la *guerra de independencia* algo similar al estado de Guanajuato en México. Mucho de los tour que se realizan en el centro de Boston son visitas a estos edificios emblemáticos que jugaron un papel importante en dicha guerra. Teníamos planeado dedicar un día para hacer por nuestra cuenta la **ruta de la libertad** pero ya no teníamos el tiempo que necesitábamos y era momento de hacer una reestructurar del itinerario y la verdad siempre quise conocer la Universidad de Harvard.
 

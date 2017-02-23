@@ -6,7 +6,7 @@ image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-0
 
 Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y comida en lejanos paises.
 
-##Blogs en Español
+## Blogs en Español
 * [Vivir al Máximo](http://viviralmaximo.net/)
 * [Tu historia de Viaje](http://tuhistoriadeviaje.com/)
 * [Dos Mochilas en Ruta](http://dosmochilasenruta.com/)
@@ -15,7 +15,7 @@ Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y c
 
 ![Chelsea Market, Nueva York](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43.jpg)
 
-##Blogs en Ingles
+## Blogs en Ingles
 * [Life Remotely](http://www.liferemotely.com/)
 * [Adventurous Kate](http://www.adventurouskate.com/)
 * [Never Ending Voyage](http://www.neverendingvoyage.com/)

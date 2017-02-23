@@ -15,7 +15,7 @@ Las reglas difieren un poco entre cada paquete, pero son sencillas y todas las c
 
 Una de las ventajas de este tipo de boletos, es que los vuelos pueden cambiar de fecha sin penalización, siempre y cuando el destino sea el mismo. Es por eso que muchos viajeros lo prefieren, porque tienen flexibilidad para moverse sin los altos cargos que normalmente estos vuelos largos conllevan.
 
-##StarAlliance
+## StarAlliance
 
 El servicio de StarAlliance (más información en su [sitio web](https://www.staralliance.com/en/fares/round-the-world-fare)) cuenta con 27 aerolíneas y su esquema esta basado en millas. Las millas van desde 26,000, 29,000, 34,000 y 39,000. Tiene un máximo de 16 vuelos y tienes un mínimo de 3 paradas y máximo de 15 paradas. Una parada se considera un destino donde permanezcas 24 horas o más. Así que por ejemplo si es una conexión, no te cuenta como parada.
 
@@ -25,7 +25,7 @@ Si aumentamos un destino, digamos [Estambul](/tag/estambul) entre Bangkok y [Ams
 
 ![StarAlliance RTW](/images/2015/05/StarAlliance.png)
 
-##OneWorld
+## OneWorld
 
 OneWorld con 18 aerolíneas miembro y otro número de aerolíneas afiliadas cuenta con dos esquemas. El primero **Global Explorer**, esta basado en millas como el de StarAlliance, y el segundo **oneworld Explorer** en continentes. El primero maneja reglas muy similares, así que explicare mejor "oneworld Explorer".
 
@@ -37,7 +37,7 @@ Si a esta ruta, le agregamos Estambul, los segmentos aumentan a 12 pero el preci
 
 ![OneWorld Explorer](/images/2015/05/OneWorld.png)
 
-##SkyTeam 
+## SkyTeam 
 
 Cuenta con un equipo de 20 aerolíneas, incluyendo **AeroMexico**, y ofrece unas reglas similares a los servicios anteriores, pero su [aplicación web](http://roundtheworld.skyteam.com/B2C/6242201573103256149/ConsumerTool/en/Home/MainPage) tiene un poco de "inteligencia" que te ayuda a generar una ruta optima en base a las ciudades que le listes. Usando las mismas ciudades la ruta optima nos genero la misma.
 

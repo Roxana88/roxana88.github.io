@@ -11,7 +11,7 @@ Eran aproximadamente las 6:30 am y los gallos empezaban a cantar "parakalo, para
 
 ![Desayuno del hotel Nefeli](/images/2015/01/2014-12-17-07-25-51-1.jpg)
 
-##Acrópolis.
+## Acrópolis.
 La mayoría de las ruinas las abren a las 8:00 am y las cierran a las 5:00 pm (al menos en invierno) por lo cual es importante levantarse temprano para aprovechar mejor el día. El día estaba nublado con alta probabilidad de lluvia por lo cual decidí cargar con mi sombrilla. Llegamos al [Acrópolis](/acropolis/) y decidimos comprar un *pase global para varias ruinas por 12€ por persona,* por lo regular estos pases representan un ahorro pero en este caso no lo era, al contrario si no ves todas las atracciones regalaste unos cuantos euros. 
 
 Empezamos a caminar y parecía que teníamos el lugar solo para nosotros, la vista era hermosa y el día estaba nublado el cielo se veía obscuro y el fondo de las ruinas y la vista de la ciudad la hacían un marco perfecto para tomar fotos ¡phototime!. De camino a la parte más alta de la **Acrópolis** veras diversas ruinas y cada ruina tiene información acerca de que eran y como lucían. Habíamos olvidado llevar nuestra botella de agua y tenía un poco sed en el lugar había bebederos pero decidí esperar porque tenía miedo de que el agua estuviese helada así que resistí. No tengan desconfianza de usar los bebederos yo suelo tener un estomago demasiado fresa en el aspecto de que muchas cosas me hacen daño pero el agua de los bebederos jamás me a causado malestares. 
@@ -33,7 +33,7 @@ Entre mis cantos y la cara de reflexión de Geo que pensaba *"esta es la vida qu
 
 Salimos de la Ágora y decidimos tomar un café en lo que se pasaba un poco la lluvia. Geo probo un café griego que parecía un espresso espeso pero no sabía tan fuerte, yo para retar a mi destino pedí un capuccino después me acorde que la leche entera no me cae bien pero ya era demasiado tarde. El capuccino estaba en la mesa, nos quedamos un rato y de repente escuche que mi estomago decía ¿me estas retando?  Geo fue todo un caballero y se termino mi capuccino.
 
-##Misión: Puerto
+## Misión: Puerto
 
 Decidimos experimentar en el metro e ir al puerto que es de donde salen los tours a las **Islas Griegas**. Como fuimos en invierno no estaban saliendo los tours pero al menos veríamos el puerto, compramos los boletos y si no mal recuerdo salieron como en 1.30€ por persona y tenia valides de 60 minutos. Llegamos al puerto y nos encontramos con una agradable sorpresa ¡lluvia!. Intentamos caminar un poco y nos dimos cuenta que casi no había turistas en la zona y los precios de las cosas eran muy diferentes. Por ejemplo el freddo estaba en 1.50€ mientras que nosotros lo habíamos comprado el día anterior en 3.30€. 
 

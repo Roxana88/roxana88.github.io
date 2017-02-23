@@ -85,7 +85,7 @@ Yo tenía muchas ganas de ver el harem. Me imaginaba que estaría acondicionado 
 
 ![Rox tamal](/images/2015/01/IMG-20150108-WA0006.jpg)
 
-##El Gran Bazar
+## El Gran Bazar
 
 Lo que me imaginaba del bazar era un lugar lleno de típica y deliciosa comida a buenos precios. En comida incluyo postre y bebidas, otro apartado de artesanías y esas cosas una exhibición con opción barata para comprar (la verdad no traía espacio en la mochila solo me tenia que limitar a comer ¡que sacrificio!). 
 
@@ -97,13 +97,13 @@ Es fácil de llegar solo tienes que seguir las indicaciones que se encuentra en 
 
 ![Foto del Gran Bazar en Estambul](/images/2015/01/IMG-20150108-WA0011.jpg)
 
-##Cisternas
+## Cisternas
 
 Las cisternas las había visto en un programa de **Anthony Bourdain** donde estaba de visita en Estambul y me parecieron hermosas. Un año y medio después Rox haciendo fila para entrar a verlas por 20 liras, un precio un poco elevado ya que las recorres es de 15 minutos máximo. Las cisternas servían para almacenar agua, ese era básicamente su uso, yo la describiría como un pequeño lago subterráneo (porque ahorita ya tienen peces) con muchos pilares y una zona peatonal, la verdad si fue bonito verlas pero son mas atractivas en la tele.
 
 ![Saludandolos desde las cisternas](/images/2015/01/IMG-20150108-WA0005.jpg)
 
-##Tomar té y fumar shisha
+## Tomar té y fumar shisha
 
 Nada cura las enfermedades como alimentarlas de vicios es por eso que decidimos ir a fumar **shisha**. Quizás y me curaba, yo nunca había probado la shisha. De hecho las personas que me conocen saben que no fumo y tenia un poco de miedo que no me gustara igual ya estaba en Estambul hay que intentarlo. 
 

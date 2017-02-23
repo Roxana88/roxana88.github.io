@@ -16,7 +16,7 @@ Una de las preguntas que más suelen hacerme acerca de los viajes es ¿que lugar
 
 El día de ayer mientras caminaba con Geo, rumbo a uno de nuestros bares favoritos cerca de la casa, pensé que sería bueno escribir acerca de mi top five de lugares y que hemos visitado, pensé que sería difícil saber cuáles serían estos lugares pero en menos de cinco minutos ya los tenía en la mente.
 
-##Manhattan
+## Manhattan
 
 [Nueva York](/tag/new-york/) es la ciudad donde según varias peliculas empezara el fin del mundo. La mejor manera de describir mi primera vez en la gran manzana es describiendome a mi misma como un Amish, tal vez algunas vez llegaste a ver los cortos de “Mundo Amish” pues tal cual. 
 
@@ -28,7 +28,7 @@ La verdad es era la primera vez que visitamos [Estados Unidos](/tag/estados-unid
 
 En pocos palabras Manhattan represento mi encuentro con el estilo de vida moderno en una gran ciudad, es algo muy curioso ya que con el tiempo hemos tenido la oportunidad de visitar algunas ciudades importantes en Estados Unidos, como [Los Angeles](/tag/los-angeles/), [Chicago](/tag/chicago/) y [San Francisco](/tag/san-francisco/), y jamás he logrado repetir esa sensación de asombro a esos enormes monstruos que los locales llamaban “rascacielos”.
 
-##Estambul
+## Estambul
 
 Estuvimos alrededor de tres días en [Estambul](/tag/estambul/) y aún puedo recordar claramente la primera vez que escuche los cantos de los musulmanes que se apoderaban de las calles cinco veces al día con el fin de informar a los creyentes que era momento de sus oraciones, cantos que sonaban con mayor fuerza cada vez que te acercabas a una mezquita.
 
@@ -40,7 +40,7 @@ A tal grado que esta ciudad es el segundo lugar en mis ciudades favoritas- Un lu
 
 Creo que el choque cultural sin duda la hizo un lugar especial, si tuviera la oportunidad claro que me gustaría volver a visitarla y esta ciudad me prepara para conocer [Marruecos](/tag/marruecos/) sin duda la mejor opción si estás interesada en conocer un poco más de la cultura musulmana.
 
-##Atenas
+## Atenas
 
 Como les explico que una de mis peliculas favoritas de Disney de todos los tiempos ha sido Hercules. Hubo muchas cosas que hacen que recuerde [Atenas](/tag/atenas/) como uno de mis destinos favoritos, pero el momento que más recuerdo es en un bar, estaba lloviendo y nos encontrábamos un poco empapados por lo que tomamos la decisión de refugiarnos en un bar en el cual estuvimos varias horas hablando de la mitología griega, claro después de ver un par de veces la película ya sabía lo que necesitaba de la mitología Griega y estaba lista para utilizar ese conocimiento con los locales solo tenía que repetir palabras como Zeus, Hades, Monte del Olimpo y *parakalo*.
 
@@ -48,7 +48,7 @@ Como les explico que una de mis peliculas favoritas de Disney de todos los tiemp
 
 Otra de las cosas que me enamoró del lugar es que la gente es demasiado amable con los turistas o tuvimos demasiada suerte, recuerdo haber recibido grappa (licor de uva) en la mayoría de los lugares donde comimos como cortesía acompañado de un “disfruten su estancia”. Si a la amabilidad de la gente le sumamos que la comida griega es una de mis favoritas pero aún me faltaba conocer de sus postres y fue justo en este viaje que me enamore de las baklavas. De Atenas simplemente me encanto todo me gustaría regresar porque como viajamos en Enero nos faltó conocer las islas griegas.
 
-##Brujas
+## Brujas
 
 [Brujas](/tag/brujas/) como su nombre lo indica provienen del latín **Bruj** que significa chocolates y **Jas** que significa cerveza belga, o al menos ese es el significado que yo le di. Mis recuerdos se basan en comer chocolates y bajarlos con una cerveza belga, en este lugar teníamos planeado pasar solo un día pero no sabíamos la sorpresa que el destino nos había deparado, pasariamos dos.
 
@@ -58,7 +58,7 @@ De manera rápida les platico que justo el día que pensábamos salir del lugar 
 
 Nuestra primera reacción ante los hechos fue de enojo pero después nos dimos cuenta que teníamos todo el día simplemente para disfrutarlo. Sin duda fue el día que más disfrutamos por tonto que suene no le habia prestado atención a lo hermoso que era el lugar lleno de canales y sus puentes de piedra. Caminamos por las calles mientras disfrutamos de unos chocolates y por azares del destino llegamos al *Lago del amor* fue justo en ese lugar donde me percate de lo hermoso y místico que era el lugar. Ese día fue uno de mis favoritos porque simplemente existimos acompañados de chocolates y cervezas belgas.
 
-##San Francisco
+## San Francisco
 
 Terminaré el post con [San Francisco](/tag/san-francisco/) y el recorrido que hicimos en un pequeño bote que estaba en las manos de una tripulación que estaba bajo los efectos nocivos del alcohol. Efectos que nosotros difícilmente identificamos porque muy pocas veces los hemos vivido.
 

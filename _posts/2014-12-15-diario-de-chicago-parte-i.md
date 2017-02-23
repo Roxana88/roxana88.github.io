@@ -5,14 +5,14 @@ tags: 2013 estados-unidos chicago america guiaciudad atracciones museos
 author: geo
 image: /images/2014/12/DSC09756.JPG
 ---
-##Jueves 12 de Septiembre 2013
+## Jueves 12 de Septiembre 2013
 Llegamos un poco de noche, en un aeropuerto no tan lleno por lo que pasamos Migración y Aduana rápidamente sin problemas, y nos lanzamos a buscar el Metro, que por fortuna seguía operando. Lo que si es que tuvimos que caminar bastante. El metro paso por un buen de lugares, dado que si estaba un poco lejano, pero estuvo bien. En la parte del Loop, el metro es por arriba, así que desde arriba vimos el hotel a la distancia.
 
 ![Rox debajo del metro](/images/2014/12/2013-09-12-23-12-56.jpg)
 
 Bajando de las escaleras de la estación, me ubique un poco en las calles, para saber a donde caminar, sobre todo dejar la maleta. Y encontramos el hotel a unas cuantas cuadras. **Travelodge Hotel Downtown** no era precisamente lindo, pero por el precio y ubicación, teníamos un ganador. Dejamos lo que teníamos encima de maletas y locura, y yo reclame cerveza. Sabía de un pub cercano, llamado **Miller’s**, así que nos encaminamos sin demora a cenar algo y beber un poco más. Pedí una burger, como que es obligación una burger en las primeras 24 horas de estar en EU.
 
-##Viernes 13 de Septiembre 2013
+## Viernes 13 de Septiembre 2013
 
 ![Geo disfrutando de la vista](/images/2014/12/272.JPG)
 
@@ -54,7 +54,7 @@ En esa ocasión quería seguir bebiendo, pero el restaurante estaba algo lejos a
 
 ![Flights](/images/2014/12/2013-09-13-20-30-50.jpg)
 
-##Sábado 14 de Septiembre 2013
+## Sábado 14 de Septiembre 2013
 
 Visitamos el parque de la bahía para ir al **Shedd Aquarium**, y solo para quemar tiempo pasamos al Museo **The Field**. El recorrido desde el hotel, si fue algo largo dado que el parque en mapa parece corto pero no es así. El área que concentra los parques, museos y el estadio, es realmente increíble la planeación que realizaron. Me encantaría ver algo así por estos rumbos. El primer destino fue el Acuario, con sus múltiples opciones de entretenimiento. Primero paseamos por las galerías viendo locos peces que jamás habíamos visto ni pensado antes. Había de todos lados, tanto locales, como de agua salada o ríos de muchas partes del globo.
 

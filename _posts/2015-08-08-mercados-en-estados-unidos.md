@@ -22,7 +22,7 @@ El único mercado que he visitado en México y brinda una experiencia muy pareci
 
 Les platicare un poco de los mercados americanos que hemos visitado y como fuimos seducidos en cada uno de ellos.
 
-##Chelsea Market NYC
+## Chelsea Market NYC
 
 ![Llegando al Mercado de Chelsea](http://i.imgur.com/z2Sh5Hp.jpg)
 
@@ -40,7 +40,7 @@ Otro de los locales que visitamos fue el **Lobster Place** donde después de hab
 
 Si visitan el barrio de Chelsea tienen que pasar a el mercado, les aseguro que no podrán salir sin probar algo.
 
-##Ferry Building Marketplace SF
+## Ferry Building Marketplace SF
 
 ![Geo listo para el desayuno](http://i.imgur.com/XXnrQz3.jpg)
 
@@ -54,7 +54,7 @@ En las afueras del Marketplace los días jueves y sábados se pone un mercado or
 
 ![Mi cara de felicidad](http://i.imgur.com/VCr3Crz.jpg)
 
-##Grand Central Market LA
+## Grand Central Market LA
 
 ![Grand Central Market](http://i.imgur.com/WReZrjS.jpg)
 

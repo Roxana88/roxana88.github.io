@@ -5,7 +5,7 @@ tags: guanajuato mexico guiaciudad latinoamerica miniguia
 author: rox
 image: /images/2015/03/2012-12-01-14-35-15-2.jpg
 ---
-##Festival del globo
+## Festival del globo
 Que mejor manera de pasar un fin de semana de puente  que visitar el **Festival del Globo en León** esa fue la idea que tuve el mes de Noviembre del año [2013](/tag/2013). ¿Buena o mala idea? Creo que en general buena. Para mi desgracia no fui la unica que penso que ir al festival era una buena idea, suena coqueta la idea de iniciar el día viendo varios globos aerostáticos en el cielo mientras disfrutas de un café y dejas que los minutos pasen disfrutando de la vista ¿a quien no le gustan los globos? 
 
 El festival dura tres días y se realiza cada año, siempre se hace en el puente correspondiente a **la Revolución Mexicana**. La compra de boletos la puedes realizar a través de internet o en algunas tiendas OXXO y tiene un costo de $50 pesos el boleto es válido por un día. Se lleva a cabo en el **Parque Ecológico Metropolitano** en la ciudad de [León](/tag/leon), Guanajuato, [México](/tag/mexico).
@@ -47,7 +47,7 @@ Dirección: Prolongación Calzada de los Héroes No. 908 (esquina Vasco de Quiro
 
 Esas son las sugerencias que puedo darles para que aprovechen sus visita, claro también pueden visitar los centros comerciales. Si les sobra tiempo pueden visitar Guanajuato en donde encontraran más actividades, sin duda la visita puede ser bien aprovechada.
 
-##Guanajuato
+## Guanajuato
 Es una hermoso lugar lleno de callejones distinguido por sus leyendas y lugares emblemáticos como el **Callejon del Beso**.  Es un lugar muy coqueto con sus pequeños callejones lo he visitado un par de veces y siempre es placentera la visita, les hablare un poco de los lugares que pueden visitar.
 
 * *El Teatro Juarez*. Es un emblema del estado, un teatro que cuenta con una hermosa arquitectura que se ubica enfrente del **Jardin de la  Unión** y donde los fines de semana podrás encontrar trobadores y músicos que ofrecen visitas guiadas. Como buen turista tienes que sacarte una foto en este lugar. Dirección: Sopena S/N | Jardin de la Unión,Guanajuato, México.

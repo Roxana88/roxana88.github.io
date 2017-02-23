@@ -5,7 +5,7 @@ tags: 2014 america panama latinoamerica guiaciudad
 author: geo
 image: /images/2015/01/2014-05-18-12-26-10.jpg
 ---
-##Domingo 18 de Mayo 2014
+## Domingo 18 de Mayo 2014
 
 Despertamos temprano a tomar el buen buffet del hotel, seguire diciendo que el **Hotel Manrey** tiene el mejor desayuno buffet que he tenido. Quizás en hoteles de mayor prestigio sea autenticamente un placer, pero no estamos en esas ligas. Listos con nuestras toallas y "zapatos acuaticos". Historia rápida, los del tour nos recomendaron llevar este tipo de calzado, y el día anterior cuando mirabamos plazas buscabamos alguno barato, pero fallamos. Rox uso chanclas y yo tenis, porque pues, siempre tenis.
 
@@ -51,7 +51,7 @@ Era tiempo de volver y todos tomaron sus cosas, menos una pareja que iban a pasa
 
 El resto del día, llegamos al hotel, pasamos a cenar unas crepas o waffles, o ¿ambos?, y luego a dormir. Fue un gran día en América.
 
-##Lunes 19 de Mayo 2014
+## Lunes 19 de Mayo 2014
 
 Recargados y listos, teníamos planeado conocer otras areas de la ciudad. Tomamos nuestro desayuno, y comenzamos a buscar alternativas. Lo primero fue tomar un taxi y decirle que nos llevara lo más lejos que ajustara con 10 dolares. En realidad el destino era la **Calzada de Amador**. Esta calzada conecta la ciudad con cuatro islas. Así que nos adentramos en auto lo más posible. Y comenzamos a caminar de regreso.
 

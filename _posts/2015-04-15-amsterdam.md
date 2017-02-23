@@ -11,7 +11,7 @@ Viajamos a [Europa](/tag/europa/) en Enero del año 2012 con el objetivo de cono
 
 ![Calles de Amsterdam](/images/2015/04/DSC06767.JPG)
 
-##Momento ¡Esto no es Amsterdam!
+## Momento ¡Esto no es Amsterdam!
 Cuando planeas los viajes siempre te gustaría pensar que todos los tiempos son perfectos, que no tendrás tiempos muertos y que no harás escalas ¿acaso no suena bonito?, la realidad es que es difícil lograr una coordinación perfecta y viajes directos *so sad!*.
 
 Para llegar a Amsterdam tomamos un tren nocturno con las siguientes escalas, de [Florencia](/tag/florencia/) viajamos a Milán, de Milán a Suiza y de Suiza a Amsterdam. Aún recuerdo que por no reservar a tiempo no había cupo en *primera clase*, privilegio que teníamos por haber comprado el **Eurorail**. Tuvimos que viajar en segunda clase ¡casi cuento de terror! El camarote era para 6 personas, las micro camas estaban divididas tres de un lado y tres del otro, el espacio entre las camas era casi nulo ¿se imaginan tener que pasar la noche con cuatro desconocidos? Fue un poco difícil. 
@@ -24,7 +24,7 @@ Salimos de la estación del tren y recuerdo que Geo observaba un mapa y decía *
 
 ![Así tenía que lucir Amsterdam](/images/2015/04/DSC06738--1-.JPG)
 
-##Ya en Amsterdam
+## Ya en Amsterdam
 Después de dos horas de reflexión por fin llegamos a la ciudad correcta, gracias al Eurorail no pagamos el tren solo tuvimos que esperar un poco ¡bendito Eurorail me ahorraste mis euros! Corrimos al hotel a dejar las maletas y listo ¡ahora si a conocer la ciudad! Empezamos a caminar con un objetivo llegar a la **zona roja** teníamos un mapa y Geo sabía como usarlo. *Llegamos a un pequeño lugar que estaba lleno de souvenirs y botellas especiales de la cerveza Heineken*, recuerdo que había bastantes cosas curiosas y de las botellas más de una terminaron gustándome aunque no pensaba comprar nada “por ver no se paga” y cuando eres turista quieres ver mucho.
 
 ![Geo trabajando de repartidor de Heineken](/images/2015/04/DSC06681.JPG)
@@ -43,7 +43,7 @@ Los principales negocios que verás en las calles son las tiendas de queso, ya s
 
 En general verás explotado el tema del sexo con infinidad de **sex shops** y mucha referencia a las hierba verde. El hecho de que en esta ciudad sea legal el fumar hierba hace que la mayoría de los turistas y también gran parte de locales aprovechen la visita en este sentido. En cuanto al tema del sexo lo más extravagante que vi que estaban ofreciendo fueron los shows en vivo y claro la famosa **zona roja**. A pesar de todas estas libertades en nuestra corta estancia no tuvimos ningún percance y el ambiente es bastante tranquilo.
 
-##En busca de la zona roja 
+## En busca de la zona roja 
 *Dicen que el que busca encuentra* pero ya había pasado casi todo el día y aún no lográbamos encontrarla, varias veces mientras estábamos en otras atracciones recuerdo a Geo diciendo “creo que esta cerca, ahorita vamos” y antes de lograr la visita terminábamos en otro lado. Ya alrededor de las seis de la tarde llegamos a la conclusión de que no lograríamos encontrarla ¡tal vez no estábamos listos! Recuerdo que de repente el *olor a waffles llamó mi atención*, en un sótano se encontraba una chica haciendo waffles que olían de maravilla así que fuimos a comprar dos “para probarlos” hasta ahorita los más ricos que he probado.
 
 ![Los waffles nos guiaron](/images/2015/04/DSC06776.JPG)

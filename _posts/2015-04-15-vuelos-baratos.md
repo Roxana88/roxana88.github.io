@@ -7,7 +7,7 @@ image: /images/2015/04/10988582504_9eef7bb993.jpg
 ---
 Revisando un poco las palabras claves de como la gente llega a este sitio, me doy cuenta que gran parte buscan "vuelos baratos", tal cual. El segundo conjunto es "DF a Roma". Lo que se me hace bastante curioso que la gente quiera encontrar vuelos en un blog. Por eso el siguiente artículo es para explicar un poco más a fondo como buscar vuelos baratos. 
 
-##Usando la web a tu favor
+## Usando la web a tu favor
 
 Lo más básico es que mantenerte en las famosas **listas de correos** de las aerolíneas y también de los servicios de reservaciones como *Expedia*. En sus correos podrás tener información de descuentos y quizás saldos. En redes sociales funciona igual. El problema con los correos, es que son ofertas en general que bien no te interesa por el destino que quieres o las condiciones de las fechas no ayudan.
 
@@ -21,7 +21,7 @@ En [Google Flights](http://flights.google.com/) puedes guardar muchas búsquedas
 
 ![Gráficas en Google Flights](/images/2015/04/Google.png)
 
-##Comprando con millas
+## Comprando con millas
 
 Los programas de milla es sistema de recompensas, mientras más gastes más millas. Diversos tipos de compras generan bonus y demás combinaciones. Hay mucha gente en Internet que afirman a ver comprado no solo boletos de aviones cruzando el Atlántico sino hasta un RTW (alrededor del mundo por sus siglas en inglés) que es rodear el mundo en un sentido hasta regresar a tu país. 
 
@@ -29,7 +29,7 @@ En lo personal no tengo tarjeta de millas, pero mucha gente que en su trabajo ti
 
 Otro detalle es que tienes que viajar forzosamente con la aerolínea del programa, algunas tienen alianzas como SkyTeam y OneWorld. Pero en algunos trayectos las aerolíneas baratas suelen hacer una diferencia considerable. Por lo mismo muchos recomiendan usar las millas en vuelos largos, porque en los que en cortos y locales puede que no genere buenos resultados. 
 
-##Comprando vuelos de sobrecargos
+## Comprando vuelos de sobrecargos
 
 No es ningún secreto, ni nada por el estilo, el que existen boletos para empleados, digamos Aeroméxico, que estos mismo empleados te venden a un precio reducido. El problema de estos boletos es que tienes que viajar cuando hay espacio en el avión. Tal cual. Cuando te arreglas con el empleado de la aerolínea le das una parte (en efectivo casi siempre) para que te ceda el lugar y después cuando por fin encuentras un vuelo,  pagas el resto directamente a la aerolínea.
 

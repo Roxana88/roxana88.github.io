@@ -9,7 +9,7 @@ image: /images/2015/05/DSC08052.JPG
 
 Además de las obras de [Gaudí](/las-obras-de-gaudi/), de las cuales le hable en mi post anterior, algo que me gustó del lugar fue fue su deliciosa comida, dar un paseo por la bahía y por supuesto su vino.
 
-##Datos curiosos
+## Datos curiosos
 
 Si de comida hablamos aprendí muchas cosas en Barcelona y Madrid que se podrían considerar datos curiosos. Solía pensar que al  visitar estas ciudades me sentiría como en casa ¿que tan diferente puede ser?
 
@@ -36,7 +36,7 @@ Lo que normalmente nos sirven en México como tapas en España se ordenan como m
 
 * **Comer en la barra.** Esto aplica para muchos países en [Europa](/tag/europa/), la mayoría de la gente local acostumbra comer en la barra o bien pedir la comida para llevar. Cuando ves este tipo de comportamiento es probable que pienses *“¿porque la gente no se sienta?”*,  la respuesta es sencilla, los precios son en promedio 1€  más caros por producto si te sientas en una mesa a disfrutar de tus alimentos. 
 
-##Cosas que hacer en Barcelona.
+## Cosas que hacer en Barcelona.
 
 * **Un paseo por el puerto.** La Rambla Marina de Barcelona es encantador,a cuenta con centros comerciales, restaurantes, bares e inclusive un acuario. Nosotros lo visitamos dos veces una noche y una de día.
 

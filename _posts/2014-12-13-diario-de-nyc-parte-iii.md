@@ -5,7 +5,7 @@ tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
 image: /images/2014/12/2012-12-28-12-31-25.jpg
 ---
-##Jueves 27 de Enero 2012
+## Jueves 27 de Enero 2012
 Salimos muy temprano al **Museo de Arte Moderno**, mejor conocido como [MoMA](/moma-museo-de-arte-moderno/), y digo muy temprano, porque al parecer aún no abrían, así que pasamos a un *deli* por la zona a comer un sandwich de huevo, hecho por latinos como de costumbre, bastante malo, pero era lo economico. Buscamos sin fortuna la tienda *Apple* de la Quinta Avenida, al parecer caminamos al lado contrario, pero no importó mucho porque terminamos en el MoMA a buena hora, antes de que comenzaran las cantidad brutales de gente a llegar.
 
 ![Rox en el arte](/images/2014/12/2012-12-27-11-09-51.jpg)
@@ -30,7 +30,7 @@ La noche, como de costumbre, estuvo marcada con la visita casi obligada a un pub
 
 ![Nasha Rasha Comrade](/images/2014/12/2012-12-27-17-55-32.jpg)
 
-##Viernes 28 de Diciembre 2012
+## Viernes 28 de Diciembre 2012
 Rox reclamaba venganza del mercado de **Chelsea**, lease para conocerlo por primera vez, así que con valor escapamos del bullicio de la Séptima Avenida hacia el Market a buscar un desayuno hipster, y lo logramos. Tomamos unos huevos orgánicos en pan artesanal, de no se que, en un bar de leche, así es el lugar se promociona como Milk bar. El café no era malo, y la comida a pesar de estar coquetona, le falta un poquito de sabor, quizás pimienta y ya, que se yo. Enfrente del mercado estaban las oficinas de **Google**, me soñe trabajando ahí y bajando por comida cada día, hermosa fantasía. Ya bien desayunados tomamos el Metro de nuevo para regresar a nuestra senda de aventuras neoyorquinas.
 
 ![Rox en Rockefeller Center, es correcto no patinamos](/images/2014/12/DSC09559.JPG)
@@ -45,7 +45,7 @@ Con algo de tiempo todavía antes de ir a comer, caminamos para conocer la **Gra
 
 ![Grand Central](/images/2014/12/DSC09630.JPG)
 
-##Sábado 29 de Diciembre 2012
+## Sábado 29 de Diciembre 2012
 
 ![Hermoso puente](/images/2014/12/2012-12-29-10-29-13.jpg)
 
@@ -67,7 +67,7 @@ Regresamos a **Times Square** para despedirnos, puesto que al día siguiente ya 
 
 ![Hermosa vista del Empire State Building](/images/2014/12/DSC09722.JPG)
 
-##Domingo 30 de Diciembre 2012
+## Domingo 30 de Diciembre 2012
 Al parecer los domingos en general son tranquilos, salimos del hotel, y había casi nula actividad en las calles, aunque el sábado por la noche era una locura por todos lados, sobre todo en Time Square que era imposible caminar. El regreso si fue bastante tranquilo, tomando el tren a **Newark**, y bebiendo en los aeropuertos un poco de *Samuel Adams*, nunca esta de mas una o dos pintas antes de regresar a casa.
 
 ![Adiós NYC](/images/2014/12/DSC09723.JPG)

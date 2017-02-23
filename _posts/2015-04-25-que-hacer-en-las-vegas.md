@@ -11,7 +11,7 @@ Nosotros dedicamos gastar nuestras horas del día visitando **las Vegas Viejas**
 
 ![Espere y espere y Gordon Ramsay nunca apareció](/images/2015/04/2013-12-28-13-35-54.jpg)
 
-##Las Viejas Vegas
+## Las Viejas Vegas
 Como les comente en mi artículo anterior de [las vegas](/las-vegas/) en **La Strip** se encuentran los casinos nuevos y los grandes centros comerciales que se la viven en competencia para demostrar quien tiene el mejor **show**. También podrás ver a *los artistas y espectáculos del momento,* en pocas palabras la parte bonita y glamorosa. Pero qué pasa si quieres divertirte tal como lo hacen los locales, ¡gracias a Dios existen Las Viejas Vegas!.
 
 ![La Strip Blvd. Las Vegas](/images/2015/04/2013-12-24-19-15-14.jpg)
@@ -24,7 +24,7 @@ Otra plus que tiene es que en la mayoría de los casinos ofrecen un **spin** gra
 
 ![¡Hola estoy en Las Vegas con mi sudadera de Las Vegas! awesome](/images/2015/04/2013-12-26-17-16-56.jpg)
 
-##Centro comerciales y Outlets
+## Centro comerciales y Outlets
 
 Los centro comerciales de las Vegas que se encuentran en **la Strip** no los puedes comparar con los que normalmente visitas, en primera porque la mayoría son temáticos y sus decoraciones con gran imaginación *te transportan a diferentes partes del mundo*. Pero si con eso no es suficiente, cada 30 minutos en ofrecen una clase de *show* que hace divertida la visita. Si quieren saber un poco más de los centros comerciales que visitamos y las temáticas de estos pueden leer mi artículo anterior de [Las Vegas](/las-vegas/).
 
@@ -32,7 +32,7 @@ Los centro comerciales de las Vegas que se encuentran en **la Strip** no los pue
 
 Hablando de las Outles visite **Las Vegas North Premiun Outlets** y si quieres dedicarte a comprar realmente debes estar dispuesto a perder todo el día. En esta outlet encuentras muchas marcas conocidas pero la mecánica de compra es la siguiente, si tienes suerte podrás entrar a la tienda en cuanto llegas, pero si la marca es popular tendrás que hacer fila y permanecer formada hasta que llegue tu turno de entrar. En los locales solo se permite cierto número de personas es por eso que tendrás que esperar. Al menos en esta los precios no son increíbles, *mi consejo si es la primera vez que visitan un lugar no desperdicien su tiempo haciendo filas para comprar ropa y zapatos.*
 
-##American Shooters
+## American Shooters
 
 Una de las cosas que siempre me había llamado la atención era aprender a disparar una arma, solo para gritar **¡Ay Jesús de Veracruz!** mientras disparaba. Ese siempre fue mi sueño. En Las Vegas fue fácil volverlo realidad solo tuve que pagar por la renta del arma y municiones así que decidimos que sería divertido intentarlo. 
 

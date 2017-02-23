@@ -7,7 +7,7 @@ image: /images/2015/04/Pho_in_Ho_Chi_Minh_City_by_joshua.jpg
 ---
 Si pudieras planear tu siguiente viaje, con un presupuesto imaginario no tan ilimitado, ¿a donde irías? Yo tengo en mente algunas ideas, que quisiera hacer realidad en un futuro no tan lejano.
 
-##Sureste de Asia
+## Sureste de Asia
 
 Aunque el objetivo sería visitar Tailandia y Vietnam, el resto de los países vecinos también me llaman la atención. Dentro de las razones obvias, como los paisajes, por lo que quiero ir al Sureste esta la razón todavía más obvia: la comida. Deliciosa comida vietnamita y tailandesa de puestos callejeros como en esas románticas historias de viajeros que veo en televisión.
 
@@ -19,7 +19,7 @@ La mayoría de estos países asiáticos requieren visa para mexicanos, que segú
 
 ![Delicioso Pho WikiCommons](https://upload.wikimedia.org/wikipedia/commons/d/d1/Pho_in_Ho_Chi_Minh_City_by_joshua.jpg)
 
-##Carretera a Sudamérica
+## Carretera a Sudamérica
 
 Si, lo se, no se puede manejar desde [México](/tag/mexico) hasta Sudamérica, pero sería hermoso. Debido a la región de Darién en [Panamá](/tag/panama), es imposible cruzar a [Colombia](/tag/colombia). Necesitas embarcar tu auto en el puerto de Colón de Panamá para llegar a Colombia y seguir la ruta por la mística **Autopista Panamericana**. Eso y si quisiera hacerlo realmente como hombre, conducir desde Canadá.
 
@@ -27,7 +27,7 @@ Si, lo se, no se puede manejar desde [México](/tag/mexico) hasta Sudamérica, p
 
 Sudamérica en general me dan ganas de conocer pues apenas conozco Cartagena, y me gusto. Creo que donde me gustaría pasar más tiempo sería en Chile y Argentina, y llegar hasta Tierra de Fuego. El costo de una aventura así, esta en función de que tan guerrero te sientes. Al parecer entre más tiempo pases acampando es mejor. He leído de mucho norteamericano que lo ha hecho, y parece que no es tan "inseguro", claro que cualquier cosa puede pasar. Para darte una idea, basándote en gente que ya lo hizo, el sitio [Life Remotely](http://www.liferemotely.com/) es un buen comienzo.
 
-##Tren siberiano
+## Tren siberiano
 
 Un tren y mucho vodka. Es lo único que puedo pensar de un viaje en este tren. Para este viaje, no necesitas gran planificación, solo pagar y ya. Hay muchos paquetes en Internet, con o sin vuelo, que a lo que tengo entendido es mejor con el vuelo en Moscu o San Petersburgo porque las autoridades rusas solo permiten entrar mexicanos siempre y cuando vengas en un tour de una agencia registrada y no por tu cuenta. Al menos eso es lo que se cuenta.
 

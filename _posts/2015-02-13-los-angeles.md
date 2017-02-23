@@ -5,7 +5,7 @@ tags: los-angeles 2014 america estados-unidos guiaciudad
 author: geo
 image: /images/2015/02/2014-09-15-11-24-38.jpg
 ---
-##Viernes 12 de Septiembre 2014
+## Viernes 12 de Septiembre 2014
 Una proeza llegar al trabajo de Rox porque comenzo a llover muy fuerte y me empape todo. Tuve que cambiarme de ropa en el trabajo de Rox. Por fin cuando salio tomamos un *Uber*, por primera vez, y nos fuimos directo al aeropuerto. Tomamos una cena malisima de *Johnny Rocket* y esperamos el vuelo de *Volaris* no tardara tanto. 
 
 ![Hola soy una horrible hamburguesa de aeropuerto](/images/2015/02/2014-09-12-20-12-16.jpg)
@@ -14,7 +14,7 @@ Subimos al avión sin más demoras, y aunque tardo un poco en arrancar, no estuv
 
 Debajo del **Stillwell Hotel** hay una especie de bar-cantina, pense en tomar una cerveza antes de dormir. Pero el lugar se veía muy "animado" ya, y preferí mejor dormir.
 
-##Sábado 13 de Septiembre 2014
+## Sábado 13 de Septiembre 2014
 
 Queríamos comenzar bien el sábado, y nos levantamos a buena hora para buscar un buen desayuno. Había leído sobre el **Grand Central Market**, y como nos encantan los mercados era la elección natural ir para alla. El lugar tiene varias opciones, como comida asiatica, latinoamericana y típicos sandwiches y bagels. Nos fuimos por el bagel de huevo de **eggslut**, que aunque no venden café caliente (pecado), es un buen lugar. Había fila cuando llegamos y apenas iban a abrir.
 
@@ -58,7 +58,7 @@ Para este viaje tenía una extensa lista de lugares, tanto restaurantes como bar
 
 ![Sushi Time, sugarfish](/images/2015/02/2014-09-13-20-51-39.jpg)
 
-##Domingo 14 de Septiembre 2014
+## Domingo 14 de Septiembre 2014
 
 El plan para el domingo era visitar las playas de Los Angeles, una rápida consulta en Google y ya estabamos en un camión que tardo como una hora en llegar a **Venice Beach**. Si fue lento y algo aburrido el trayecto, pero cuando por fin vimos el malecón de la playa se nos olvido. Era como exactamente esperaba una playa de california en base a las peliculas. Gente patinando en traje de baño, locales extraños de surf y cosas hippies, en general una buena vibra.
 

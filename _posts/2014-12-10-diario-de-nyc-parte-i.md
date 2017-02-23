@@ -5,7 +5,7 @@ tags: 2012 estados-unidos new-york america guiaciudad atracciones nueva-york
 author: geo
 image: /images/2015/05/DSC08980.JPG
 ---
-##Sabado 22 de Diciembre 2012
+## Sabado 22 de Diciembre 2012
 El vuelo de **United** se realizó en tiempo y forma, divisando en las alturas la gran extensión que representa [Houston](/tag/houston), muchos suburbios y un tanto de concentración de ciudad, me dieron ganas de salir del aeropuerto a visitar la ciudad, pero no contábamos con suficiente tiempo. Bajando del avión pasamos a migración, donde no tuvimos que hacer gran espera ni tuvimos problemas, después a Aduana con la misma facilidad. *Había previsto una o dos horas para esto, pero fueron escasos 20 minutos.* Teníamos una eternidad de cerca de 4 horas para perder en el aeropuerto.
 
 Paseamos viendo las tiendas y locales, y finalmente nos decidimos pasar a comer en un restaurante tipo Sirloin Stockade pero sin buffet, donde comimos un poco de parrillada texana, lease *BBQ Ribs, Brisket, frijoles dulces, puré de papa dulce y el mágico pan de elote* que es estúpidamente dulce. Fue una comida abundante, Rox fue derrotada y no comió todo.
@@ -28,7 +28,7 @@ Como moríamos por conocer, o hacer algo, o simplemente cenar, corrimos de la ha
 
 En cerveza dimos rienda a una Moon Blue, que coquetamente sirven con un triángulo de naranja, esperaba que fuera mejor, pero no es tan buena. La que sí nos encanto fue la buenisima *Samuel Adams Winter Ale*, en general las cervezas de invierno son muy buenas alla. Bebimos unas 2 o 3, y nos retiramos a descansar, porque apenas comenzaba la locura neoyorquina.
 
-##Domingo 23 de Diciembre 2012
+## Domingo 23 de Diciembre 2012
 El día siguiente, un fabuloso domingo, con un clima helado más no nublado, nos despertamos temprano para correr al **Battery Park**, donde tomaríamos el ferry a las islas. Aunque como acababa de pasar el huracán *Sandy*, el acceso a la estatus de la libertad estaba negado. El ferry nos llevaría a pasear sin bajarnos, aún así estaba bien. Bajamos a la calle, y sin desayunar (error), tomamos el metro hacia el sur. El metro es horrible de cierto modo, no es tan limpio como podría estar, comparado por ejemplo con un Viena, este era un baño miado. Aun asi esta muy bien distribuido, y el servicio es muy bueno. El alcance de las líneas es genial, porque cubre virtualmente cualquier rincón, claro hay lugares como **Brooklyn** que no, eso lo descubriría luego.
 
 ![Rox esperando para salir en el bote](/images/2014/12/2012-12-23-09-46-58.jpg)

@@ -7,7 +7,7 @@ image: /images/2015/05/DSC08027.JPG
 ---
 Nos encontrábamos en las últimas semanas de nuestro viaje por [Europa](/tag/europa/) y decidimos terminarlo en [España](/tag/espana) donde visitariamos la ciudades de **Barcelona** y **Madrid**, donde tomaríamos el vuelo de regreso a [México](/tag/mexico/).
 
-##Las obras de Gaudí
+## Las obras de Gaudí
 
 Sin duda una de las cosas que caracteriza a Barcelona son las obras de Gaudí. Esa arquitectura modernista que contiene un toque de fantasía al menos desde mi perspectiva, una arquitectura que no se compara con lo que normalmente se ha visto. Creo que por eso miles de turistas visitan Barcelona para conocer obras como **La Sagrada Familia**. 
 
@@ -25,7 +25,7 @@ Una nota interesante de esta obra es que aún no esta terminada, y los trabajos 
  
 ![Interior de la Sagrada Familia en Barcelona](/images/2015/05/DSC07943.JPG)
 
-##Parque Güell 
+## Parque Güell 
 
 Otra de las grandes obras de Gaudí es este parque, recuerdo que un día mientras veía *The American Next Top Model* la producción del programa y el toque de la arquitectura hicieron una mezcla perfecta. Al entrar te encuentras con esta escalinata que tiene una como iguana que te invita a pasar a los pasillos con columnas y decoraciones en mosaicos que están realmente hermosos.
 
@@ -43,7 +43,7 @@ Al ingresar desde la calle, lo más curioso son los "pabellones" que son como ca
 
 ![Pabellones de Entrada en Parque Güell](/images/2015/05/DSC07970.JPG)
 
-##Casa Milá o La Pedrera de Gaudí
+## Casa Milá o La Pedrera de Gaudí
 Fue una de las últimas obras de este famoso arquitecto, cuando fuimos pensamos que eran departamentos privados sin embargo leyendo un poco más del lugar para completar el artículo me doy cuenta que también funciona como museo y no solo eso, en 1984 la **UNESCO** la nombró patrimonio cultural, esto por su peculiar arquitectura. Si visitan Barcelona es otro de los lugares que no se pueden perder.
 
 ![Fachada de la casa Milán en Barcelona](/images/2015/05/DSC08094.JPG)

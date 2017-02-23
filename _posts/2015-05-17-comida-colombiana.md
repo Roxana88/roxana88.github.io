@@ -7,7 +7,7 @@ image: /images/2015/05/2014-05-20-14-49.jpg
 ---
 En el artículo anterior ya les había platicado un poco de Cartagena, la [ciudad amurallada](/cartagena-ciudad-amurallada/), y nuestra visita a las [islas del Caribe colombiano](/cartagena-las-islas/). Es momento de hablar un poco de los sabores que Colombia. Una de las cosas que más me gusta hacer cuando visito un lugar es probar la comida típica, existen platillos y bebidas que han logrado cautivarme a tal grado que trato de cocinarlas posteriormente en casa.
 
-##Comida
+## Comida
 
 * **Patacones.** Los patacones son rodajas de plátano verde aplastadas y fritas ¡me encantan! Son usados como guarnición de casi todo aunque también los puedes comer solos, simplemente son deliciosos (claro siempre y cuando te guste el plátano). Encontramos una cadena de restaurantes que se llamaba **Patacon con todo**.
 
@@ -28,7 +28,7 @@ En el artículo anterior ya les había platicado un poco de Cartagena, la [ciuda
 ![Arepa de carne](/images/2015/05/2014-05-22-20-16-53.jpg)
 ![Arepa de chorizo](/images/2015/05/2014-05-22-20-16-43.jpg)
 
-##Bebidas 
+## Bebidas 
 
 * **Café.** Sin duda el café es una bebida especial para los colombianos que se puede tomar a cualquier hora del día, si caminas al menos por las calles concurridas encontrarás personas con termos y pequeños vasos. Así que teníamos que probar un buen café colombiano decidimos hacerlo en la **Cafetería Juan Valdez**.
 
@@ -38,7 +38,7 @@ En el artículo anterior ya les había platicado un poco de Cartagena, la [ciuda
 * **Limonada de coco.** Con el calor que hacía se antojaba una bebida refrescante así que decidí probar la *famosa limonada de coco de Cartagena*. Tenía que descubrir el misterio de esta bebida ¿Cuál era su verdadero sabor? ¿limón o coco? Al principio se aprecia claramente el sabor del coco y posteriormente ese toque cítrico. Ahora que si buscas una bebida refrescante con alcohol un *mojito* no se le niega a nadie.
 ![Limonada de coco](/images/2015/05/2014-05-24-19-26-16.jpg)
 
-##Cerveza colombiana
+## Cerveza colombiana
 Siempre con el calor se antoja una cerveza bien fría, viajamos en Colombia en Mayo así que imaginen la temperatura *¡mucho calor!* A parte de que nos gusta eso de probar las cervezas locales, parece que además de tener café bueno también saben cómo hacer cerveza.
 
 * **Club Colombia.** Sabes que estás en Colombia cuando la cerveza que tienen es tus manos se llama Club Colombia,  la  encuentras en casi todos los lugares en tres estilos rubia, roja y oscura.
