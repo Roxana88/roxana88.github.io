@@ -5,10 +5,15 @@ tags: chiangmai tailandia asia 2016
 author: rox
 image: /images/2017/02/IMG_7931.JPG
 ---
+
 Chiang Mai es una ciudad que se encuentra ubicada al norte de [Tailandia](/tag/tailandia) y  la cual se caracteriza por la gran cantidad de templos que se pueden visitar, además si piensas  adentrarte en la cultura tailandesa y visitar lugares que aún no son tan conocidos, como el pequeño pueblo de Pai, llegaste al lugar indicado. En su momento  Chiang Mai fue una ciudad amurallada y de esta muralla aún puedes ver los restos que rodean la zona más céntrica, la mayoría de los templos se encuentran dentro de la muralla.
+
 ![Típico interior de un templo budista](/images/2017/02/IMG_7844.JPG)
+
 Si piensas que después visitar un par de templos esto se tornara aburrido. Estás equivocado. En cada visita si prestas atención en los detalles verás que son únicos. Aunque a su vez comparten algunas características en su arquitectura como la presencia de esculturas Naga que según la cultura local se trata de deidades en forma de serpiente que se encargan de resguardar la entrada a los templos. En este post mencionare los templos que más me gustaron de Chiang Mai.
+
 # Wat Phra That Doi Suthep (วัดพระธาตุดอยสุเทพ)
+
 Es uno de los templos más famosos y tal vez es por su ubicación. Este templo se encuentra en una colina fuera de la muralla en un recorrido no mayor a los 15 minutos pero ¡lleno de divertidas curvas! Hay varias personas que deciden rentar motocicletas para este recorrido de tal manera que puedan realizar las paradas necesarias y apreciar mejor la vista. La opción más fácil es subirte a un jeepney compartido o privado. De camino al templo encontrarás una serie de negocios donde es su mayoría se ofrecen artesanías, ropa y un poco de comida. 
 ![Entrada al templo Phra That Doi Suthep](/images/2017/02/IMG_7886.JPG)
 La entrada del templo cuenta con  unas escaleras adornadas en sus laterales con serpientes **Nagas** donde destacan sus varias cabezas con una decoración elaborada y detalles de  vidrios en varios colores, sin duda es un templo  al que hay que visitar con calma. Antes de entrar al templo será necesario adquirir los boletos y dejar tus zapatos, en la mayoría de los templos en Asia el uso del calzado dentro no está permitido. Una vez dentro del templo existen diversos altares a Buda algunos techados y otros cuantos al aire libre, dentro de alguno de los altares techados podrás apreciar a algunas ilustraciones en las paredes todas referentes a Buda y la oración.
