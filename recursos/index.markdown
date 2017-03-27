@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Recursos"
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-17-33-51-1.jpg
+image: /images/2015/05/2015-01-09-17-33-51-1.jpg
 ---
 Esta es una lista actualizada de recursos en Internet útiles para viajeros.
 
@@ -23,4 +23,4 @@ Esta es una lista actualizada de recursos en Internet útiles para viajeros.
 * [Nuestra selección de blogs](/blogs-de-viajeros/) - Blogs tanto en español como en inglés.
 * [Shuttle](/shuttles/) - Explicación de que es un shuttle y como usarlo.
 
-![Times Square, New York](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-17-33-51.jpg)
+![Times Square, New York](/images/2015/05/2015-01-09-17-33-51.jpg)

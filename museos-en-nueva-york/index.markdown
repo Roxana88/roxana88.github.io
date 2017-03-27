@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Museos en Nueva York"
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-12-34-29.jpg
+image: /images/2015/05/2015-01-09-12-34-29.jpg
 ---
 Si visitas la ciudad de [New York](/tag/new-york) no olvides visitar al menos uno, o dos, de sus increíbles museos. Nosotros te detallamos sobre algunos:
 
@@ -9,7 +9,7 @@ Si visitas la ciudad de [New York](/tag/new-york) no olvides visitar al menos un
 * [Museo Americano de Historia Natural](/museo-americano-de-historia-natural/)
 * [Museo Metropolitano de Arte](/tag/new-york)
 
-![Museo de Arte Moderno, Nueva York](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-12-34-29-1.jpg)
+![Museo de Arte Moderno, Nueva York](/images/2015/05/2015-01-09-12-34-29-1.jpg)
 
 Además que si piensas visitar más de una atracción, comprar el [CityPass](/citypass) de Nueva York puede darte un buen ahorro. Checa también nuestra lista de entradas sobre [Museos](/tag/museos/), donde podrás encontrar detalles importantes cuando visites alguno de los museos que hemos visto.
 

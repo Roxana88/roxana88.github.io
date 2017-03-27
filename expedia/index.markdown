@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Expedia"
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43-1.jpg
+image: /images/2015/05/2015-01-09-15-18-43-1.jpg
 ---
 
 [Expedia](http://expedia.mx) es un servicio de reservación de hoteles y vuelos en línea que normalmente utilizamos. En la mayoría de los casos es bueno, aunque hemos tenido nuestros problemas. Quiero pensar que cualquier servicio puede pasar este tipo de situaciones.

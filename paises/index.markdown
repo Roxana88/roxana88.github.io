@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Navegar por país"
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-16-20-49.jpg
+image: /images/2015/05/2014-12-19-16-20-49.jpg
 ---
 Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes. Esperemos incluir muchos más en un futuro cercano.
 
@@ -46,4 +46,4 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 
 También revisa nuestra [lista por años](/tiempo) o checa nuestro [mapa interactivo](/mapa).
 
-![Rox en Estambul](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2014-12-19-16-20-49-1.jpg)
+![Rox en Estambul](/images/2015/05/2014-12-19-16-20-49-1.jpg)

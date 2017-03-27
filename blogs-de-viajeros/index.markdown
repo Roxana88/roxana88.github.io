@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blogs de viajeros"
-image: https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43-1.jpg
+image: /images/2015/05/2015-01-09-15-18-43-1.jpg
 ---
 
 Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y comida en lejanos paises.
@@ -13,7 +13,7 @@ Breve lista de algunos blogs y sitios interesantes para cuestiones de viajes y c
 * [Bueno, Bonito y Barato](http://buenobonitobarat0.blogspot.com.es)
 * [Jitomate](https://jitomate.wordpress.com/)
 
-![Chelsea Market, Nueva York](https://dl.dropboxusercontent.com/u/1610385/content/images/2015/05/2015-01-09-15-18-43.jpg)
+![Chelsea Market, Nueva York](/images/2015/05/2015-01-09-15-18-43.jpg)
 
 ## Blogs en Ingles
 * [Life Remotely](http://www.liferemotely.com/)
