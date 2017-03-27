@@ -3,7 +3,7 @@ layout: post
 title: "Querétaro"
 tags: queretaro mexico guiaciudad 2017
 author: geo
-image: 
+image: /images/2017/03/IMG_1508.JPG
 ---
 
 Hace unos días Rox y yo aprovechamos el puente para salir de la ciudad. El destino era el estado de Querétaro, que no tenía altas expectativas. Lo que fue bastante bueno porque me gusto mucho la ciudad de Querétaro. Aparte visitamos los dos [Pueblos Mágicos](/mexico-pueblos-magicos/) de la entidad, Tequisquiapan y Bernal y el bonus fue San Miguel de Allende, que no fue la sensación del viaje. Pero ya hablaré de eso en otra ocasión.
