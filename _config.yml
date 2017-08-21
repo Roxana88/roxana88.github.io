@@ -6,7 +6,7 @@ gems:
 paginate: 6
 permalink: /:title/
 
-url: http://www.tamalesconpasaporte.com
+url: https://www.tamalesconpasaporte.com
 
 authors:
   geo:
@@ -26,5 +26,5 @@ social:
   links:
     - https://www.facebook.com/Tamalesconpasaporte
     - https://twitter.com/TCPasaporte
-    - http://instagram.com/tamales_con_pasaporte
+    - https://instagram.com/tamales_con_pasaporte
     - https://www.youtube.com/playlist?list=PLeedmGY8zVnDrluDHR6JG4otmwbThu8QV

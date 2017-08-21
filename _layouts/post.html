@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign author = site.authors[page.author] %}
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<article itemscope itemtype="https://schema.org/BlogPosting">
     <meta itemprop="name" content="{{page.title}}"/>
     <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
         <meta itemprop="name" content="Tamales con Pasaporte">
@@ -32,7 +32,7 @@ layout: default
 
                     <div class="post-meta">
                         Fecha: <span itemprop="datePublished"> {{page.date | date_to_string}}</span>- autor
-                        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
                             <span itemprop="name" class="author-name">{{author.name}}</span>
                         </span>
                     </div>
@@ -58,8 +58,8 @@ layout: default
                                     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
                                 })();
                             </script>
-                            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
                         </div>
                     </div>
                     <div class="row">
