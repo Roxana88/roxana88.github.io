@@ -11,6 +11,8 @@ Sin duda la planeación de viajes es algo que realmente se le da a Geo, es por e
 
 Continando con la búsqueda aparecio el siguiente destino "Lima" ¿pero que hay en Lima? A parte de alpacas ¿quiero ir a Lima? No lo sabía pero la única manera de averiguarlo era comenzar con el itinerario después de todo siempre hay algo que hacer, siempre y cuando no estes en [Tuxtla Gutierrez](/tag/chiapas). 
 
+![Ola k ase](/images/2017/08/ola.jpg)
+
 Después de un par de horas y una busqueda intensiba en Google como "Cosas que hacer en Perú" quedo decidido nuestro siguiente destino. Mis expectativas del viaje  son caminar mucho, probar cerveza local, ver una alpaca y decirle "Ola k ase". Eso y tratar de no comer cuyo. Entre los lugares que vamos a visitar se encuentran los siguientes:
 
 * Puno para visitar el lago Titicaca y tomar un tour para conocer un poco de los grupos indígenas en Perú. Según las fotografías que he visto la vista vale la pena. 
