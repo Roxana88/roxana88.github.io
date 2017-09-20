@@ -31,8 +31,8 @@ function initialize() {
     {'nombre': 'Amsterdam, Holanda', link: '/tag/amsterdam', 'lat': new google.maps.LatLng(52.373563, 4.895524) },
     {'nombre': 'Zurich, Suiza', link: '/tag/zurich', 'lat': new google.maps.LatLng(47.370712, 8.533282) },
     {'nombre': 'Zagora, Marruecos', link: '/tag/zagora', 'lat': new google.maps.LatLng(30.325440, -5.837999) },
-	{'nombre': 'Ciudad de México, México', link: '/tag/ciudad-de-mexico', 'lat': new google.maps.LatLng(19.422771, -99.161798) },
-	{'nombre': 'Puerto Vallarta, México', link: '/tag/pto-vallarta', 'lat': new google.maps.LatLng(20.612202, -105.233692) },
+	  {'nombre': 'Ciudad de México, México', link: '/tag/ciudad-de-mexico', 'lat': new google.maps.LatLng(19.422771, -99.161798) },
+	  {'nombre': 'Puerto Vallarta, México', link: '/tag/pto-vallarta', 'lat': new google.maps.LatLng(20.612202, -105.233692) },
     {'nombre': 'Brujas, Bélgica', link: '/tag/brujas', 'lat': new google.maps.LatLng(51.208323, 3.226608) },
     {'nombre': 'Orlando, EUA', link: '/tag/orlando', 'lat': new google.maps.LatLng(28.537585, -81.392783) },
     {'nombre': 'Paris, Francia', link: '/tag/paris', 'lat': new google.maps.LatLng(48.854849, 2.346545) },
@@ -41,7 +41,7 @@ function initialize() {
     {'nombre': 'Madrid, España', link: '/tag/madrid', 'lat': new google.maps.LatLng(40.411561, -3.705973) },
     {'nombre': 'Carcasona, Francia', link: '/tag/carcasona', 'lat': new google.maps.LatLng(43.208114, 2.362470) },
     {'nombre': 'San Francisco, EUA', link: '/tag/san-francisco', 'lat': new google.maps.LatLng(37.794199, -122.403611) },
-	{'nombre': 'Las Vegas, EUA', link: '/tag/las-vegas', 'lat': new google.maps.LatLng(36.129714, -115.167447) },
+	  {'nombre': 'Las Vegas, EUA', link: '/tag/las-vegas', 'lat': new google.maps.LatLng(36.129714, -115.167447) },
     {'nombre': 'Veracruz, México', link: '/tag/veracruz', 'lat': new google.maps.LatLng(19.197207, -96.132025) },
     {'nombre': 'Washington, EUA', link: '/tag/washington', 'lat': new google.maps.LatLng(38.894806, -77.046152) },
     {'nombre': 'Tequila, México', link: '/tag/tequila', 'lat': new google.maps.LatLng(20.876503, -103.826402) },
@@ -73,11 +73,13 @@ function initialize() {
     {'nombre': 'Singapur', link: '/tag/singapur', 'lat': new google.maps.LatLng(1.280750, 103.851480) },
     {'nombre': 'Varanasi (Benarés), India', link: '/tag/varanasi', 'lat': new google.maps.LatLng(25.312677, 83.013080) },
     {'nombre': 'Delhi, India', link: '/tag/delhi', 'lat': new google.maps.LatLng(28.628814, 77.225778) },
-    {'nombre': 'Querétaro, México', link: '/tag/queretaro', 'lat': new google.maps.LatLng(20.6121334,-100.4452366) }
+    {'nombre': 'Querétaro, México', link: '/tag/queretaro', 'lat': new google.maps.LatLng(20.6121334,-100.4452366) },
+    {'nombre': 'Lima, Perú', link: '/tag/lima', 'lat': new google.maps.LatLng(-12.094991, -77.048257) },
+    {'nombre': 'Cusco, Perú', link: '/tag/cusco', 'lat': new google.maps.LatLng(-13.520680, -71.966401) },
+    {'nombre': 'Puno, Perú', link: '/tag/puno', 'lat': new google.maps.LatLng(-15.837667, -70.018876) }
   ];
   
-  var mapOptions = {    zoom: 2,     center: lats[0].lat  };
-  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+  var map = new google.maps.Map(document.getElementById('map-canvas'), { zoom: 2, center: lats[0].lat  });
 
   $.each(lats, function(i, l) {
     var infowindow = new google.maps.InfoWindow({
@@ -89,6 +91,7 @@ function initialize() {
         map: map,
         title: l.nombre
     });
+    
     google.maps.event.addListener(marker, 'click', function() {
       infowindow.open(map,marker);
     });

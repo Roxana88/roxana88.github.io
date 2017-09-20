@@ -11,6 +11,7 @@ Este es el listado de países, y ciudades, que hemos visitado en nuestro viajes.
 * [Estados Unidos de América](/tag/estados-unidos) - Chicago, New York, Washington DC, Orlando, Miami, Los Angeles, San Francisco, Philadephia, Boston, Las Vegas
 * [México](/tag/mexico) - Guadalajara, Puerto Vallarta, Tequila, Cancún, Veracruz, Ciudad de México, Guanajuato, Creel, Cuernavaca
 * [Panamá](/tag/panama) - Ciudad de Panamá
+* [Perú](/tag/peru) - Lima, Cusco, Machu Picchu, Puno
 
 ## Europa
 
