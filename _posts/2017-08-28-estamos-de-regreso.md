@@ -2,7 +2,7 @@
 layout: post
 title: "Estamos de regreso"
 tags: 2017 planes
-author: geo
+author: rox
 image: /images/2017/08/IMG_0934.jpg
 ---
 Después de más de un año sin salir del país es momento de pensar en el próximo destino y es que esto de los viajes se vuelve adictivo, esa sensación de visitar nuevos lugares, probar sabores diferentes, escucha palabras nuevas o la simple sendacion de sentirte fuera de casa. 
