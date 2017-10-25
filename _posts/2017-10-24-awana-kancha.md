@@ -8,7 +8,7 @@ image: /images/2017/10/IMG_3137.jpg
 
 Como lo he comentado antes, durante y después del viaje a [Perú](/tag/peru) una de mis grandes motivaciones para este viaje era visitar una granja de alpacas y traerme una a la cual llamaría "Chuy". Algunos sueños se hacen realidad y otros no, por lo que solo pude visitar la granja.
 
-![Recepción de Awana Kancha(/images/2017/10/IMG_3174.jpg)
+![Recepción de Awana Kancha](/images/2017/10/IMG_3174.jpg)
 
 Ya estando en [Cusco](/tag/cusco) sabíamos de una granja de  llamada **Awana Kancha** de acceso libre. Se encuentra a mitad del trayecto de Cusco a Pisac. Se puede llegar en tour o tomando un camión colectivo de Cusco a Pisac pidiendo te ahí. Llegar en transporte público no es nada complicado. 
 
