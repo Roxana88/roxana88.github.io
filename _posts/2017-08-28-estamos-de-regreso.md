@@ -20,4 +20,4 @@ Después de un par de horas y una busqueda intensiba en Google como "Cosas que h
 * Visitaremos Aguas Calientes porque no puedes decir que visitaste Perú si no vas a Machu Picchu, y Aguas Calientes es el pueblo que hace posible tu visita a la zona arqueologíaca más famosa de Perú.
 * Por último estaremos un par de dias en la capital peruana, Lima. Que según a lo que hemos leído es grande y con muchas cosas que hacer. A esas alturas del viaje como ya habremos caminado mucho solo nos enfocaremos en comer y beber. 
 
-A grandes rasgos ese es nuestro itinerario para el siguiente viaje, como les comentaba al principio del post siempre hay cosas que hacer. Hace 15 días lo único que ubicaba de Perú era Machu Picchu ahora espero con ansias el viaje ¡Perú pronto nos veremos! 
+A grandes rasgos ese es nuestro itinerario para el siguiente viaje, como les comentaba al principio del post siempre hay cosas que hacer. Hace 15 días lo único que ubicaba de Perú era Machu Picchu ahora espero con ansias el viaje ¡Perú pronto nos veremos!
