@@ -3,7 +3,7 @@ layout: post
 title: "Nevado de Toluca"
 tags: mexico 2017 ciudad-de-mexico df america
 author: rox
-image: /images/2017/12/2017-11-24 14.13.17.jpg
+image: /images/2017/12/cover-nevado-toluca.jpg
 ---
 Tenía vagos recuerdos de mi niñez visitando el Nevado de Toluca. Recuerdos que son tan vagos que empiezo a cuestionarme si realmente son ciertos. En fin así empieza la locura. Lo que sí recuerdo claramente es caminar por las mañana (realmente podría haber sido a cualquier hora del día pero las mañanas suena romántico) y admirar ese volcán cubierto de manera parcial por nieve que conforme los meses se acercaban más a Diciembre mayor era la cantidad de nieve.  En el Estado de México la vista del nevado de Toluca para mi  es lo más navideño que te puedes encontrar.
 En mi última visita a la tierra del chorizo verde, mi hermano nos convenció de visitar el Nevado de Toluca prometiéndome los mejores tacos de longaniza con queso. No solo era la promesa de los mejores tacos de longaniza sino que además tenían queso, lo único que faltaba a esos tacos para ser perfectos era aguacate.  Según mi hermano esos tacos eran tan buenos que cuenta la leyenda que un día que el señor que llamaremos (don tacos) no tenía nada que comer y devastado por el frío clima del Nevado de Toluca sacó su carrito de tacos, tortillas, longaniza, queso y salsas. Así nacieron los famosísimos tacos del Nevado. En la actualidad, gente de toda la república viaja al nevado de Toluca para poder probar esos tacos que sin duda deben estar en tu **bucket list**.
