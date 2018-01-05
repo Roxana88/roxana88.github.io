@@ -5,6 +5,7 @@ tags: peru 2017 america atracciones
 author: rox
 image: /images/2018/01/IMG_3026.jpg
 ---
+
 Si me preguntaran ¿Por qué deberían visitar Perú? Creo que mis respuestas serían varias.  La principal sería la comida en los mercados que cuenta con ese toque casero. Seguida de los paisajes que puedes observar mientras recorres el país los cuales son una manera muy eficiente de distraerte durante el trayecto ¡no necesitas el sistema de entretenimiento! La última pero no menos importante:  su gente. Que es sumamente amable y, a diferencia de otros países que hemos visitado, son especialmente cariñosos con los mexicanos. Antes del viaje solo quería viajar a Perú para conocer la famosa ciudad entre nubes  **Machu Picchu**. Después de la visita agregue otros razones, sin duda estos son motivos suficientes para comprar el boleto de avión y decir  *“Hola Perú” ¿Dónde están las Alpacas?*
 
 Perú es un país conocido por sus diversas actividades que fomentan el ecoturismo siendo una de las favoritas el recorrido por el * Valle Sagrado Inca* ubicado en los andes peruanos el cual está compuesto por un conjunto de ríos y valles. Durante el recorrido por este valle podrás observar diversas ruinas y visitar varios pueblos con nombre difíciles de pronunciar para la mayoría de la gente exceptuando a los que crecimos  en el  Estado de México, entre los pueblos se encuentra Chinchero, Poroy, Cusco,  Pisac, Urubamba, Ollantaytambo y Machu Picchu. 
@@ -57,12 +58,3 @@ Lo que decidimos hacer fue caminar algunos kilómetros a la orilla de las vías de
 
 Al terminar el recorrido llegamos a unas cascadas, lo que más recuerdo de este recorrido son las múltiples veces que me cuestione si llegaría al jardín, era raro cruzar con alguna persona pero cada que lo hacíamos preguntaba ¿falta mucho? A lo que la respuesta era la misma “ya están cerca” entendiendo por cerca un kilómetro.
 Creo que este post es la prueba de que Perú es un país maravilloso que vale la pena visitar, ahora escribiendo el post todos los recuerdo que vienen a mi cabeza son positivos (mentiras el mal de altura no) y se agrega en mi lista de países que volvería a visitar.
-
-
-
-
-
-
-
-
-
