@@ -47,38 +47,7 @@
         </footer>
         <script src="/assets/js/custom.js"></script>
         <script>
-            $(document).ready(function () {
-                $('.post-content img[alt]').each(function () {
-                    $(this).wrap('<a target="_blank" href="' + this.src + '" class="thumbnail"></a>');
-                    $('<p class="text-center">' + this.alt + '</p>').insertAfter(this);
-
-                    var theImage = new Image();
-                    theImage.src = $(this).attr("src");
-                    var original = $(this);
-
-                    $(theImage).load(function () {
-                        if (this.height > this.width) $(original).css("width", "32%");
-                    });
-                });
-
-                if ($('#instafeed').length > 0) {
-                    new Instafeed({
-                        get: 'user',
-                        userId: 1591756528,
-                        limit: parseInt(screen.width / 320) + 1,
-                        accessToken: '1591756528.1677ed0.f87eabac118c43c3b17042ad33f69e3f',
-                        resolution: 'low_resolution'
-                    }).run();
-                }
-            });
-
-            (function () {
-                var css = document.createElement('link');
-                css.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css';
-                css.rel = 'stylesheet';
-                css.type = 'text/css';
-                document.getElementsByTagName('head')[0].appendChild(css);
-            })();
+            $(document).ready(function(){$(".post-content img[alt]").each(function(){$(this).wrap('<a target="_blank" href="'+this.src+'" class="thumbnail"></a>'),$('<p class="text-center">'+this.alt+"</p>").insertAfter(this);var e=new Image;e.src=$(this).attr("src");var t=$(this);$(e).load(function(){this.height>this.width&&$(t).css("width","32%")})}),$("#instafeed").length>0&&new Instafeed({get:"user",userId:1591756528,limit:parseInt(screen.width/320)+1,accessToken:"1591756528.1677ed0.f87eabac118c43c3b17042ad33f69e3f",resolution:"low_resolution"}).run()}),function(){var e=document.createElement("link");e.href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css",e.rel="stylesheet",e.type="text/css",document.getElementsByTagName("head")[0].appendChild(e)}();
 
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
