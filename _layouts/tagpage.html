@@ -48,10 +48,6 @@ layout: default
                                 <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{post.url}}"
                                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="fa fa-twitter tw-tooltip"></i></a>
                             </li>
-                            <li>
-                                <a href="https://plus.google.com/share?url={{ site.url }}{{post.url}}"
-                                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"><i class="fa fa-google-plus gp-tooltip"></i></a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -67,11 +63,9 @@ layout: default
                 <hr class="divider">
 
                 <div style="text-align: center" class="hidden-sm hidden-xs">
-                    <!-- Tamalbox -->
                     <ins class="adsbygoogle" style="display:inline-block;width:290px;height:600px" data-ad-client="ca-pub-7312968410890852" data-ad-slot="1025056821"></ins>
                     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                 </div>
-
                 <hr class="divider" />
                 {% include mailchimp.html %}
                 <a href="{{page.image}}" alt="Tag image">Tag image</a>
