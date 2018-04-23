@@ -11,7 +11,7 @@ No era la primera vez que visitaba Janitzio. Sin embargo los recuerdos que tení
 
 Para quienes no la ubiquen, Janiztio es una de las islas ubicadas en el lago de Pátzcuaro en el estado de Michoacán. 
 
-Iniciamos nuestro camino a la isla desde Morelia  pero antes de llegar a decidimos hacer una parada en Pátzcuaro para desayunar en el mercado. A pesar de haber varios puestos en todos los menús se repetía  una palabra “caldo de cabeza”. No lo había probado pero me deje convencer por su popularidad. Aunque dudaba en pedirlo por su apariencia grasosa al final termine cediendo y sorprendiéndome con su gran sabor, si en [Guadalajara](/tag/guadalalajara) existiera tal cosa creo que lo comería más seguido.
+Iniciamos nuestro camino a la isla desde Morelia  pero antes de llegar a decidimos hacer una parada en Pátzcuaro para desayunar en el mercado. A pesar de haber varios puestos en todos los menús se repetía  una palabra “caldo de cabeza”. No lo había probado pero me deje convencer por su popularidad. Aunque dudaba en pedirlo por su apariencia grasosa al final termine cediendo y sorprendiéndome con su gran sabor, si en [Guadalajara](/tag/guadalajara) existiera tal cosa creo que lo comería más seguido.
 
 ![Caldo de cabeza](/images/2018/04/IMG_3967.jpg)
 
