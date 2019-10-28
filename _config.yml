@@ -6,8 +6,6 @@ gems:
 paginate: 6
 permalink: /:title/
 
-url: https://www.tamalesconpasaporte.com
-
 authors:
   geo:
     name: Geo Perez
